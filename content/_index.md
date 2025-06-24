@@ -1,16 +1,14 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 20:38
-- [社区速递 098 | 一周热评、派友最爱的口碑改编剧、社区文章与新玩意](https://sspai.com/post/100523) / 17:33
-- [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511) / 15:24
-- [AI 工具穷鬼套餐：如何用每月 1 元立省 5000 元 AI 软件订阅费](https://sspai.com/post/100272) / 11:31
-- [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 11:29
-- [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 10:49
-- [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 08:39
-- [派早报：QQ 超级会员话费会员业务终止，联发科发布天玑 8450 芯片等](https://sspai.com/post/100506) / 08:27
-
 **历史记录**
+- [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 06月24日 20:38
+- [社区速递 098 | 一周热评、派友最爱的口碑改编剧、社区文章与新玩意](https://sspai.com/post/100523) / 06月24日 17:33
+- [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511) / 06月24日 15:24
+- [AI 工具穷鬼套餐：如何用每月 1 元立省 5000 元 AI 软件订阅费](https://sspai.com/post/100272) / 06月24日 11:31
+- [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
+- [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
+- [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 06月24日 08:39
+- [派早报：QQ 超级会员话费会员业务终止，联发科发布天玑 8450 芯片等](https://sspai.com/post/100506) / 06月24日 08:27
 - [派评 | 近期值得关注的 App](https://sspai.com/post/100490) / 06月23日 17:53
 - [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
 - [现在是入手拓竹 H2D 的好时候吗？](https://sspai.com/post/100054) / 06月23日 17:06
@@ -27,14 +25,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [GOLF: A Generative AI Framework for Pathogenicity Prediction of Myocilin OLF Variants](https://www.biorxiv.org/content/10.1101/2025.06.17.660210v1?rss=1) / 08:00
-- [Epigenetic genes are differentially methylated in the blood of persons with mild cognitive impairment and Alzheimers disease](https://www.biorxiv.org/content/10.1101/2025.06.18.660344v1?rss=1) / 08:00
-- [Epitope Effect Prevalence in Affinity-based pQTL studies](https://www.biorxiv.org/content/10.1101/2025.06.20.660695v1?rss=1) / 08:00
-- [Whole genome sequence-based characterization of foodborne Staphylococcus aureus isolated from pork in 2018 and 2023.](https://www.biorxiv.org/content/10.1101/2025.06.20.660668v1?rss=1) / 08:00
-- [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 08:00
-
 **历史记录**
+- [Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences](https://www.biorxiv.org/content/10.1101/2025.06.18.660363v1?rss=1) / 06月24日 08:00
+- [GOLF: A Generative AI Framework for Pathogenicity Prediction of Myocilin OLF Variants](https://www.biorxiv.org/content/10.1101/2025.06.17.660210v1?rss=1) / 06月24日 08:00
+- [Epigenetic genes are differentially methylated in the blood of persons with mild cognitive impairment and Alzheimers disease](https://www.biorxiv.org/content/10.1101/2025.06.18.660344v1?rss=1) / 06月24日 08:00
+- [Epitope Effect Prevalence in Affinity-based pQTL studies](https://www.biorxiv.org/content/10.1101/2025.06.20.660695v1?rss=1) / 06月24日 08:00
+- [Whole genome sequence-based characterization of foodborne Staphylococcus aureus isolated from pork in 2018 and 2023.](https://www.biorxiv.org/content/10.1101/2025.06.20.660668v1?rss=1) / 06月24日 08:00
+- [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 06月24日 08:00
 - [MF-ProtDisMap: protein real-valued distance prediction with fusion of sequence and coevolutionary features](https://www.biorxiv.org/content/10.1101/2025.06.17.660102v1?rss=1) / 06月23日 08:00
 - [AdaGenes: A streaming processor for high-throughput annotation and filtering of sequence variant data](https://www.biorxiv.org/content/10.1101/2025.06.17.659929v1?rss=1) / 06月23日 08:00
 - [DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models](https://www.biorxiv.org/content/10.1101/2025.06.17.660107v1?rss=1) / 06月23日 08:00
@@ -49,5 +46,4 @@
 - [Learning Human T Cell Behaviors through Generative AI Embeddings of T Cell Receptors](https://www.biorxiv.org/content/10.1101/2025.06.16.660016v1?rss=1) / 06月22日 08:00
 - [Count your bits: more subtle similarity measures using larger radius count vectors](https://www.biorxiv.org/content/10.1101/2025.06.16.659994v1?rss=1) / 06月22日 08:00
 - [The chromatin remodeler LET-418/Mi-2 regulates the intracellular pathogen response in the C. elegans intestine](https://www.biorxiv.org/content/10.1101/2025.06.17.659900v1?rss=1) / 06月22日 08:00
-- [Context-aware geometric deep learning for RNA sequence design](https://www.biorxiv.org/content/10.1101/2025.06.21.660801v1?rss=1) / 06月21日 08:00
 <!--rss-papers:end-->
