@@ -26,6 +26,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets](https://www.biorxiv.org/content/10.1101/2025.06.18.660497v1?rss=1) / 06月24日 08:00
 - [Biological Reasoning with Reinforcement Learning through Natural Language Enables Generalizable Zero-Shot Cell Type Annotations](https://www.biorxiv.org/content/10.1101/2025.06.17.659642v1?rss=1) / 06月24日 08:00
 - [PanVA: a visual analytics tool for pangenomic variant analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661080v1?rss=1) / 06月24日 08:00
 - [How AlphaFold and related models predict protein-peptide complex structures](https://www.biorxiv.org/content/10.1101/2025.06.18.660495v1?rss=1) / 06月24日 08:00
@@ -37,6 +38,7 @@
 - [Epigenetic genes are differentially methylated in the blood of persons with mild cognitive impairment and Alzheimers disease](https://www.biorxiv.org/content/10.1101/2025.06.18.660344v1?rss=1) / 06月24日 08:00
 - [Epitope Effect Prevalence in Affinity-based pQTL studies](https://www.biorxiv.org/content/10.1101/2025.06.20.660695v1?rss=1) / 06月24日 08:00
 - [Whole genome sequence-based characterization of foodborne Staphylococcus aureus isolated from pork in 2018 and 2023.](https://www.biorxiv.org/content/10.1101/2025.06.20.660668v1?rss=1) / 06月24日 08:00
+- [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 06月24日 08:00
 - [MF-ProtDisMap: protein real-valued distance prediction with fusion of sequence and coevolutionary features](https://www.biorxiv.org/content/10.1101/2025.06.17.660102v1?rss=1) / 06月23日 08:00
 - [AdaGenes: A streaming processor for high-throughput annotation and filtering of sequence variant data](https://www.biorxiv.org/content/10.1101/2025.06.17.659929v1?rss=1) / 06月23日 08:00
 - [DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models](https://www.biorxiv.org/content/10.1101/2025.06.17.660107v1?rss=1) / 06月23日 08:00
@@ -44,6 +46,4 @@
 - [Landscape and mutational dynamics of G-quadruplexes in the complete human genome and in haplotypes of diverse ancestry](https://www.biorxiv.org/content/10.1101/2025.06.17.660256v1?rss=1) / 06月23日 08:00
 - [Epilogos: information-theoretic navigation of multi-tissue functional genomic annotations](https://www.biorxiv.org/content/10.1101/2025.06.18.660301v1?rss=1) / 06月23日 08:00
 - [Med14 phosphorylation shapes genomic response to GLP-1 Agonist](https://www.biorxiv.org/content/10.1101/2025.06.17.660196v1?rss=1) / 06月23日 08:00
-- [Human alveolar macrophage response to Mycobacterium tuberculosis: immune characteristics underlying large inter-individual variability](https://www.nature.com/articles/s42003-025-08337-9) / 06月23日 08:00
-- [Uncovering injury-specific proteomic signatures and neurodegenerative risks in single and repetitive traumatic brain injury](https://www.nature.com/articles/s41392-025-02286-9) / 06月23日 08:00
 <!--rss-papers:end-->
