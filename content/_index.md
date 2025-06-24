@@ -26,6 +26,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Biological Reasoning with Reinforcement Learning through Natural Language Enables Generalizable Zero-Shot Cell Type Annotations](https://www.biorxiv.org/content/10.1101/2025.06.17.659642v1?rss=1) / 06月24日 08:00
 - [PanVA: a visual analytics tool for pangenomic variant analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661080v1?rss=1) / 06月24日 08:00
 - [How AlphaFold and related models predict protein-peptide complex structures](https://www.biorxiv.org/content/10.1101/2025.06.18.660495v1?rss=1) / 06月24日 08:00
 - [Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences](https://www.biorxiv.org/content/10.1101/2025.06.18.660363v1?rss=1) / 06月24日 08:00
@@ -45,5 +46,4 @@
 - [Med14 phosphorylation shapes genomic response to GLP-1 Agonist](https://www.biorxiv.org/content/10.1101/2025.06.17.660196v1?rss=1) / 06月23日 08:00
 - [Human alveolar macrophage response to Mycobacterium tuberculosis: immune characteristics underlying large inter-individual variability](https://www.nature.com/articles/s42003-025-08337-9) / 06月23日 08:00
 - [Uncovering injury-specific proteomic signatures and neurodegenerative risks in single and repetitive traumatic brain injury](https://www.nature.com/articles/s41392-025-02286-9) / 06月23日 08:00
-- [JASMINE: A powerful representation learning method for enhanced analysis of incomplete multi-omics data](https://www.biorxiv.org/content/10.1101/2025.06.16.659949v1?rss=1) / 06月22日 08:00
 <!--rss-papers:end-->
