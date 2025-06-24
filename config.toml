@@ -1,4 +1,4 @@
-baseurl = "https://jiaoyuan.org/track/"
+baseurl = "https://jiaoyuan.org/feeds/"
 title = "Sync with Time's Pulse"
 languageCode = "en-us"
 theme = ["cloud"]

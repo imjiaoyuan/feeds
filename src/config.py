@@ -47,7 +47,10 @@ RSS_FEEDS = {
         "https://www.wordpace.com/feed/",
         "https://www.gaojinan.com/feed",
         "https://tw93.fun/feed.xml",
-        "https://anotherdayu.com/feed/"
+        "https://anotherdayu.com/feed/",
+        "https://www.supertechfans.com/cn/index.xml",
+        "https://feeds.appinn.com/appinns/",
+        "https://sspai.com/feed"
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
