@@ -56,3 +56,5 @@ RSS_FEEDS = {
         "https://www.nature.com/subjects/bioinformatics.rss"
     ]
 }
+
+MAX_ARTICLES = 20
