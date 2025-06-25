@@ -27,6 +27,10 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Spatial multi-omics of nuclear architecture with two-layer seqFISH+](https://www.nature.com/articles/s41576-025-00868-5) / 08:00
+- [Fine-mapping genomic loci refines bipolar disorder risk genes](https://www.nature.com/articles/s41593-025-01998-z) / 08:00
+
 **历史记录**
 - [AlphaFold 3-enabled in silico exploration of PGAM1 interactions in cancer](https://www.biorxiv.org/content/10.1101/2025.06.23.661104v1?rss=1) / 06月24日 08:00
 - [Corelative light and electron microscopy (CLEM) image registration by blood vessel axes alignment](https://www.biorxiv.org/content/10.1101/2025.06.23.661033v1?rss=1) / 06月24日 08:00
@@ -46,6 +50,4 @@
 - [MetaGLIMPSE: Meta Imputation of Low Coverage Sequencing Data for Modern and Ancient Genomes](https://www.biorxiv.org/content/10.1101/2025.06.24.660721v1?rss=1) / 06月24日 08:00
 - [Giant viruses specific to deep oceans show persistent presence and activity](https://www.biorxiv.org/content/10.1101/2025.06.21.660676v1?rss=1) / 06月24日 08:00
 - [Sedimentary ancient DNA metagenomic analysis provides new insights into farming in central Norway from the Bronze Age to late Medieval period](https://www.biorxiv.org/content/10.1101/2025.06.19.660509v1?rss=1) / 06月24日 08:00
-- [Adaptative and ancient co-evolution of integrons with Xanthomonas genomes](https://www.biorxiv.org/content/10.1101/2025.06.18.660453v1?rss=1) / 06月24日 08:00
-- [Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma.](https://www.biorxiv.org/content/10.1101/2025.06.18.660457v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
