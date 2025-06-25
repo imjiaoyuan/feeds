@@ -26,6 +26,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Novel algal modular LOV domain proteins expand opto-biotechnological avenues for controlling of eukaryotic riboswitching, translational and proteolytic processes.](https://www.biorxiv.org/content/10.1101/2025.06.20.660589v1?rss=1) / 06月25日 08:00
 - [A pre-menopausal single-cell atlas for ovarian drug discovery](https://www.biorxiv.org/content/10.1101/2025.06.20.660779v1?rss=1) / 06月25日 08:00
 - [The AlphaFold Database Ages](https://www.biorxiv.org/content/10.1101/2025.06.22.660930v1?rss=1) / 06月25日 08:00
 - [MUDflow: Combining Neural Networks, UMAP and DBM Clustering to Identify Cell Populations Accurately, Quickly and Easily in Mass and Fluorescence Cytometry](https://www.biorxiv.org/content/10.1101/2025.06.19.660626v1?rss=1) / 06月25日 08:00
@@ -45,5 +46,4 @@
 - [Corelative light and electron microscopy (CLEM) image registration by blood vessel axes alignment](https://www.biorxiv.org/content/10.1101/2025.06.23.661033v1?rss=1) / 06月24日 08:00
 - [Euktect: Enhanced Eukaryotic Sequence Detection and Classification in Metagenomes via the DNA Language Model](https://www.biorxiv.org/content/10.1101/2025.06.19.660294v1?rss=1) / 06月24日 08:00
 - [WHOOPER Web application for Hands-On identification of proteins co-Occurrence among Phyla, focused on user ERgonomics](https://www.biorxiv.org/content/10.1101/2025.06.19.660341v1?rss=1) / 06月24日 08:00
-- [Identifying Key Hub Genes that Attribute Varying Host Responses: A Longitudinal RNA-seq Analysis of SARS-CoV-2 Delta and Omicron Infections.](https://www.biorxiv.org/content/10.1101/2025.06.23.654375v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
