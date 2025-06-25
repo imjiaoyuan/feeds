@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 11:05
 - [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 07:45
 - [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542) / 07:40
 
@@ -22,12 +23,12 @@
 - [2025 06 23 HackerNews](https://supertechfans.com/cn/post/2025-06-23-HackerNews/) / 06月23日 08:24
 - [保持 KDE 使用 X11 Session 登录](https://manateelazycat.github.io/2025/06/23/kde-keep-x11-login/) / 06月23日 00:00
 - [广告拦截工具 AdGuard 家庭版买断版特价 38 折｜又来了](https://www.appinn.com/stacksocial-adguard/) / 06月22日 16:12
-- [谷歌已开始测试在 Android 上安装 Chrome 扩展程序，但用起来一言难尽](https://www.appinn.com/google-testing-chrome-extensions-android/) / 06月22日 15:26
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Improving the Scalability of Bayesian Phylodynamic Inference through Efficient MCMC Proposals](https://www.biorxiv.org/content/10.1101/2025.06.18.660471v1?rss=1) / 06月24日 08:00
 - [Biologically Informative NA Deconvolution (BIND) excavates hidden features of the proteome from missing values in large-scale datasets](https://www.biorxiv.org/content/10.1101/2025.06.19.660508v1?rss=1) / 06月24日 08:00
 - [Genome-wide rules of transcription factor cooperativity revealed through in silico binding site ablation](https://www.biorxiv.org/content/10.1101/2025.06.19.660093v1?rss=1) / 06月24日 08:00
 - [Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets](https://www.biorxiv.org/content/10.1101/2025.06.18.660497v1?rss=1) / 06月24日 08:00
@@ -47,5 +48,4 @@
 - [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 06月24日 08:00
 - [MF-ProtDisMap: protein real-valued distance prediction with fusion of sequence and coevolutionary features](https://www.biorxiv.org/content/10.1101/2025.06.17.660102v1?rss=1) / 06月23日 08:00
 - [AdaGenes: A streaming processor for high-throughput annotation and filtering of sequence variant data](https://www.biorxiv.org/content/10.1101/2025.06.17.659929v1?rss=1) / 06月23日 08:00
-- [DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models](https://www.biorxiv.org/content/10.1101/2025.06.17.660107v1?rss=1) / 06月23日 08:00
 <!--rss-papers:end-->
