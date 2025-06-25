@@ -28,7 +28,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [MUDflow: Combining Neural Networks, UMAP and DBM Clustering to Identify Cell Populations Accurately, Quickly and Easily in Mass and Fluorescence Cytometry](https://www.biorxiv.org/content/10.1101/2025.06.19.660626v1?rss=1) / 08:00
+- [Scalable data harmonization for single-cell image-based profiling with CytoTable](https://www.biorxiv.org/content/10.1101/2025.06.19.660613v1?rss=1) / 08:00
+- [A k-mer-based estimator of the substitution rate between repetitive sequences](https://www.biorxiv.org/content/10.1101/2025.06.19.660607v1?rss=1) / 08:00
+- [EVODEX: A Mechanistic Framework for Extracting, Structuring, and Predicting Enzymatic Reactivity](https://www.biorxiv.org/content/10.1101/2025.06.19.660615v1?rss=1) / 08:00
+- [Enhancing RNA 3D Folding Prediction via Transformer and Equivariant Architectures under Resource Constraints](https://www.biorxiv.org/content/10.1101/2025.06.19.660625v1?rss=1) / 08:00
 - [Explainable machine learning models for glioma subtype classification and survival prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661085v1?rss=1) / 08:00
+- [InDels in an intronic region of gene Ccsmd04 coding for dormancy/auxin-associated protein controls sterility mosaic disease resistance in pigeonpea](https://www.biorxiv.org/content/10.1101/2025.06.19.660552v1?rss=1) / 08:00
 - [Chromosome-level genome assembly of the spider mite Tetranychus cinnabarinus](https://www.biorxiv.org/content/10.1101/2025.06.24.661196v1?rss=1) / 08:00
 - [Spatial multi-omics of nuclear architecture with two-layer seqFISH+](https://www.nature.com/articles/s41576-025-00868-5) / 08:00
 - [Fine-mapping genomic loci refines bipolar disorder risk genes](https://www.nature.com/articles/s41593-025-01998-z) / 08:00
@@ -44,10 +50,4 @@
 - [Biologically Informative NA Deconvolution (BIND) excavates hidden features of the proteome from missing values in large-scale datasets](https://www.biorxiv.org/content/10.1101/2025.06.19.660508v1?rss=1) / 06月24日 08:00
 - [Genome-wide rules of transcription factor cooperativity revealed through in silico binding site ablation](https://www.biorxiv.org/content/10.1101/2025.06.19.660093v1?rss=1) / 06月24日 08:00
 - [Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets](https://www.biorxiv.org/content/10.1101/2025.06.18.660497v1?rss=1) / 06月24日 08:00
-- [Biological Reasoning with Reinforcement Learning through Natural Language Enables Generalizable Zero-Shot Cell Type Annotations](https://www.biorxiv.org/content/10.1101/2025.06.17.659642v1?rss=1) / 06月24日 08:00
-- [PanVA: a visual analytics tool for pangenomic variant analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661080v1?rss=1) / 06月24日 08:00
-- [How AlphaFold and related models predict protein-peptide complex structures](https://www.biorxiv.org/content/10.1101/2025.06.18.660495v1?rss=1) / 06月24日 08:00
-- [Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences](https://www.biorxiv.org/content/10.1101/2025.06.18.660363v1?rss=1) / 06月24日 08:00
-- [GOLF: A Generative AI Framework for Pathogenicity Prediction of Myocilin OLF Variants](https://www.biorxiv.org/content/10.1101/2025.06.17.660210v1?rss=1) / 06月24日 08:00
-- [MetaGLIMPSE: Meta Imputation of Low Coverage Sequencing Data for Modern and Ancient Genomes](https://www.biorxiv.org/content/10.1101/2025.06.24.660721v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
