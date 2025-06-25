@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 11:30
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 11:05
 - [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 07:45
 - [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542) / 07:40
@@ -22,12 +23,13 @@
 - [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
 - [2025 06 23 HackerNews](https://supertechfans.com/cn/post/2025-06-23-HackerNews/) / 06月23日 08:24
 - [保持 KDE 使用 X11 Session 登录](https://manateelazycat.github.io/2025/06/23/kde-keep-x11-login/) / 06月23日 00:00
-- [广告拦截工具 AdGuard 家庭版买断版特价 38 折｜又来了](https://www.appinn.com/stacksocial-adguard/) / 06月22日 16:12
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Identifying Key Hub Genes that Attribute Varying Host Responses: A Longitudinal RNA-seq Analysis of SARS-CoV-2 Delta and Omicron Infections.](https://www.biorxiv.org/content/10.1101/2025.06.23.654375v1?rss=1) / 06月24日 08:00
+- [Host microRNA Target Prediction in SARS-CoV-2 and Hepatitis E Virus Genomes: Insights from RNAhybrid Analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661149v1?rss=1) / 06月24日 08:00
 - [Improving the Scalability of Bayesian Phylodynamic Inference through Efficient MCMC Proposals](https://www.biorxiv.org/content/10.1101/2025.06.18.660471v1?rss=1) / 06月24日 08:00
 - [Biologically Informative NA Deconvolution (BIND) excavates hidden features of the proteome from missing values in large-scale datasets](https://www.biorxiv.org/content/10.1101/2025.06.19.660508v1?rss=1) / 06月24日 08:00
 - [Genome-wide rules of transcription factor cooperativity revealed through in silico binding site ablation](https://www.biorxiv.org/content/10.1101/2025.06.19.660093v1?rss=1) / 06月24日 08:00
@@ -46,6 +48,4 @@
 - [Epitope Effect Prevalence in Affinity-based pQTL studies](https://www.biorxiv.org/content/10.1101/2025.06.20.660695v1?rss=1) / 06月24日 08:00
 - [Whole genome sequence-based characterization of foodborne Staphylococcus aureus isolated from pork in 2018 and 2023.](https://www.biorxiv.org/content/10.1101/2025.06.20.660668v1?rss=1) / 06月24日 08:00
 - [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 06月24日 08:00
-- [MF-ProtDisMap: protein real-valued distance prediction with fusion of sequence and coevolutionary features](https://www.biorxiv.org/content/10.1101/2025.06.17.660102v1?rss=1) / 06月23日 08:00
-- [AdaGenes: A streaming processor for high-throughput annotation and filtering of sequence variant data](https://www.biorxiv.org/content/10.1101/2025.06.17.659929v1?rss=1) / 06月23日 08:00
 <!--rss-papers:end-->
