@@ -1,6 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 19:18
+- [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 17:24
 - [柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南](https://sspai.com/post/99296) / 15:00
 - [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 12:18
 - [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 11:30
@@ -21,13 +23,13 @@
 - [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
 - [现在是入手拓竹 H2D 的好时候吗？](https://sspai.com/post/100054) / 06月23日 17:06
 - [时隔 14 个月，Listen1 竟然更新了！](https://www.appinn.com/listen1/) / 06月23日 16:03
-- [SteamOS 可以安装在其他掌机上了，但我建议还是先等等](https://sspai.com/post/99991) / 06月23日 11:36
-- [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Explainable machine learning models for glioma subtype classification and survival prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661085v1?rss=1) / 08:00
+- [Chromosome-level genome assembly of the spider mite Tetranychus cinnabarinus](https://www.biorxiv.org/content/10.1101/2025.06.24.661196v1?rss=1) / 08:00
 - [Spatial multi-omics of nuclear architecture with two-layer seqFISH+](https://www.nature.com/articles/s41576-025-00868-5) / 08:00
 - [Fine-mapping genomic loci refines bipolar disorder risk genes](https://www.nature.com/articles/s41593-025-01998-z) / 08:00
 
@@ -48,6 +50,4 @@
 - [Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences](https://www.biorxiv.org/content/10.1101/2025.06.18.660363v1?rss=1) / 06月24日 08:00
 - [GOLF: A Generative AI Framework for Pathogenicity Prediction of Myocilin OLF Variants](https://www.biorxiv.org/content/10.1101/2025.06.17.660210v1?rss=1) / 06月24日 08:00
 - [MetaGLIMPSE: Meta Imputation of Low Coverage Sequencing Data for Modern and Ancient Genomes](https://www.biorxiv.org/content/10.1101/2025.06.24.660721v1?rss=1) / 06月24日 08:00
-- [Giant viruses specific to deep oceans show persistent presence and activity](https://www.biorxiv.org/content/10.1101/2025.06.21.660676v1?rss=1) / 06月24日 08:00
-- [Sedimentary ancient DNA metagenomic analysis provides new insights into farming in central Norway from the Bronze Age to late Medieval period](https://www.biorxiv.org/content/10.1101/2025.06.19.660509v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
