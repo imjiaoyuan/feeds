@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 12:18
 - [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 11:30
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 11:05
 - [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 07:45
@@ -22,12 +23,15 @@
 - [SteamOS 可以安装在其他掌机上了，但我建议还是先等等](https://sspai.com/post/99991) / 06月23日 11:36
 - [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
 - [2025 06 23 HackerNews](https://supertechfans.com/cn/post/2025-06-23-HackerNews/) / 06月23日 08:24
-- [保持 KDE 使用 X11 Session 登录](https://manateelazycat.github.io/2025/06/23/kde-keep-x11-login/) / 06月23日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [AlphaFold 3-enabled in silico exploration of PGAM1 interactions in cancer](https://www.biorxiv.org/content/10.1101/2025.06.23.661104v1?rss=1) / 06月24日 08:00
+- [Corelative light and electron microscopy (CLEM) image registration by blood vessel axes alignment](https://www.biorxiv.org/content/10.1101/2025.06.23.661033v1?rss=1) / 06月24日 08:00
+- [Euktect: Enhanced Eukaryotic Sequence Detection and Classification in Metagenomes via the DNA Language Model](https://www.biorxiv.org/content/10.1101/2025.06.19.660294v1?rss=1) / 06月24日 08:00
+- [WHOOPER Web application for Hands-On identification of proteins co-Occurrence among Phyla, focused on user ERgonomics](https://www.biorxiv.org/content/10.1101/2025.06.19.660341v1?rss=1) / 06月24日 08:00
 - [Identifying Key Hub Genes that Attribute Varying Host Responses: A Longitudinal RNA-seq Analysis of SARS-CoV-2 Delta and Omicron Infections.](https://www.biorxiv.org/content/10.1101/2025.06.23.654375v1?rss=1) / 06月24日 08:00
 - [Host microRNA Target Prediction in SARS-CoV-2 and Hepatitis E Virus Genomes: Insights from RNAhybrid Analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661149v1?rss=1) / 06月24日 08:00
 - [Improving the Scalability of Bayesian Phylodynamic Inference through Efficient MCMC Proposals](https://www.biorxiv.org/content/10.1101/2025.06.18.660471v1?rss=1) / 06月24日 08:00
@@ -39,13 +43,9 @@
 - [How AlphaFold and related models predict protein-peptide complex structures](https://www.biorxiv.org/content/10.1101/2025.06.18.660495v1?rss=1) / 06月24日 08:00
 - [Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences](https://www.biorxiv.org/content/10.1101/2025.06.18.660363v1?rss=1) / 06月24日 08:00
 - [GOLF: A Generative AI Framework for Pathogenicity Prediction of Myocilin OLF Variants](https://www.biorxiv.org/content/10.1101/2025.06.17.660210v1?rss=1) / 06月24日 08:00
+- [Giant viruses specific to deep oceans show persistent presence and activity](https://www.biorxiv.org/content/10.1101/2025.06.21.660676v1?rss=1) / 06月24日 08:00
+- [Sedimentary ancient DNA metagenomic analysis provides new insights into farming in central Norway from the Bronze Age to late Medieval period](https://www.biorxiv.org/content/10.1101/2025.06.19.660509v1?rss=1) / 06月24日 08:00
 - [Adaptative and ancient co-evolution of integrons with Xanthomonas genomes](https://www.biorxiv.org/content/10.1101/2025.06.18.660453v1?rss=1) / 06月24日 08:00
 - [Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma.](https://www.biorxiv.org/content/10.1101/2025.06.18.660457v1?rss=1) / 06月24日 08:00
 - [Genomic and phenotypic insights into the expanding phylogenetic landscape of the Cryptococcus genus](https://www.biorxiv.org/content/10.1101/2025.06.18.660340v1?rss=1) / 06月24日 08:00
-- [Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma](https://www.biorxiv.org/content/10.1101/2025.06.18.660431v1?rss=1) / 06月24日 08:00
-- [Whole genome assembly and annotation of the Bumblebee Wax Moth, Aphomia sociella](https://www.biorxiv.org/content/10.1101/2025.06.18.660359v1?rss=1) / 06月24日 08:00
-- [Epigenetic genes are differentially methylated in the blood of persons with mild cognitive impairment and Alzheimers disease](https://www.biorxiv.org/content/10.1101/2025.06.18.660344v1?rss=1) / 06月24日 08:00
-- [Epitope Effect Prevalence in Affinity-based pQTL studies](https://www.biorxiv.org/content/10.1101/2025.06.20.660695v1?rss=1) / 06月24日 08:00
-- [Whole genome sequence-based characterization of foodborne Staphylococcus aureus isolated from pork in 2018 and 2023.](https://www.biorxiv.org/content/10.1101/2025.06.20.660668v1?rss=1) / 06月24日 08:00
-- [Sleep prevents brain phosphoproteome disruption to safeguard survival](https://www.nature.com/articles/s41421-025-00809-w) / 06月24日 08:00
 <!--rss-papers:end-->
