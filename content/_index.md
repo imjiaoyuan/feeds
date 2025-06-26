@@ -11,6 +11,7 @@
 - [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 06月25日 12:18
 - [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 06月25日 11:30
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
+- [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
 - [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 06月25日 07:45
 - [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542) / 06月25日 07:40
 - [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 06月24日 20:38
@@ -22,7 +23,6 @@
 - [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 06月24日 08:39
 - [派评 | 近期值得关注的 App](https://sspai.com/post/100490) / 06月23日 17:53
 - [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
-- [现在是入手拓竹 H2D 的好时候吗？](https://sspai.com/post/100054) / 06月23日 17:06
 <!--rss-blogs:end-->
 ---
 # Research Papers
