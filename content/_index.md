@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 17:35
 - [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 17:24
 - [漂亮得粗枝大叶：moto razr 60 Ultra 一月主力体验](https://sspai.com/post/100507) / 15:02
 - [2025-06-25](http://bamboobone9.com/posts/thoughts/2025-06-25/) / 14:18
@@ -21,7 +22,6 @@
 - [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 06月24日 20:38
 - [社区速递 098 | 一周热评、派友最爱的口碑改编剧、社区文章与新玩意](https://sspai.com/post/100523) / 06月24日 17:33
 - [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511) / 06月24日 15:24
-- [AI 工具穷鬼套餐：如何用每月 1 元立省 5000 元 AI 软件订阅费](https://sspai.com/post/100272) / 06月24日 11:31
 - [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
 <!--rss-blogs:end-->
 ---
