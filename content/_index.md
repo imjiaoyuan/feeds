@@ -1,5 +1,9 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [2025 06 26 HackerNews](https://supertechfans.com/cn/post/2025-06-26-HackerNews/) / 08:25
+- [派早报：vivo 召开新品发布会、全键盘手机 Unihertz Titan 2 开启众筹等](https://sspai.com/post/100588) / 08:17
+
 **历史记录**
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
 - [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
@@ -16,16 +20,15 @@
 - [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
 - [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
 - [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 06月24日 08:39
-- [派早报：QQ 超级会员话费会员业务终止，联发科发布天玑 8450 芯片等](https://sspai.com/post/100506) / 06月24日 08:27
 - [派评 | 近期值得关注的 App](https://sspai.com/post/100490) / 06月23日 17:53
 - [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
 - [现在是入手拓竹 H2D 的好时候吗？](https://sspai.com/post/100054) / 06月23日 17:06
-- [时隔 14 个月，Listen1 竟然更新了！](https://www.appinn.com/listen1/) / 06月23日 16:03
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Facilitating Analysis and Dissemination of Proteomics data through Metadata Integration in MaxQuant](https://www.biorxiv.org/content/10.1101/2025.06.20.660677v1?rss=1) / 06月25日 08:00
 - [SpliceImpactR maps alternative RNA processing events driving protein functional diversity](https://www.biorxiv.org/content/10.1101/2025.06.20.660706v1?rss=1) / 06月25日 08:00
 - [Novel algal modular LOV domain proteins expand opto-biotechnological avenues for controlling of eukaryotic riboswitching, translational and proteolytic processes.](https://www.biorxiv.org/content/10.1101/2025.06.20.660589v1?rss=1) / 06月25日 08:00
 - [A pre-menopausal single-cell atlas for ovarian drug discovery](https://www.biorxiv.org/content/10.1101/2025.06.20.660779v1?rss=1) / 06月25日 08:00
@@ -45,5 +48,4 @@
 - [Fine-mapping genomic loci refines bipolar disorder risk genes](https://www.nature.com/articles/s41593-025-01998-z) / 06月25日 08:00
 - [AlphaFold 3-enabled in silico exploration of PGAM1 interactions in cancer](https://www.biorxiv.org/content/10.1101/2025.06.23.661104v1?rss=1) / 06月24日 08:00
 - [Corelative light and electron microscopy (CLEM) image registration by blood vessel axes alignment](https://www.biorxiv.org/content/10.1101/2025.06.23.661033v1?rss=1) / 06月24日 08:00
-- [Euktect: Enhanced Eukaryotic Sequence Detection and Classification in Metagenomes via the DNA Language Model](https://www.biorxiv.org/content/10.1101/2025.06.19.660294v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
