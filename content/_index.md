@@ -41,11 +41,11 @@
 - [EVODEX: A Mechanistic Framework for Extracting, Structuring, and Predicting Enzymatic Reactivity](https://www.biorxiv.org/content/10.1101/2025.06.19.660615v1?rss=1) / 06月25日 08:00
 - [Enhancing RNA 3D Folding Prediction via Transformer and Equivariant Architectures under Resource Constraints](https://www.biorxiv.org/content/10.1101/2025.06.19.660625v1?rss=1) / 06月25日 08:00
 - [Explainable machine learning models for glioma subtype classification and survival prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661085v1?rss=1) / 06月25日 08:00
+- [Nanopore duplex sequencing reveals patterns of asymmetric states of 5hmC and 5mC in the medaka brain genome](https://www.biorxiv.org/content/10.1101/2025.06.24.661039v1?rss=1) / 06月25日 08:00
 - [16S-23S-5S rRNA Database: a comprehensive integrated database of archaeal and bacterial rRNA sequences, alignments, intragenomic heterogeneity, and secondary structures](https://www.biorxiv.org/content/10.1101/2025.06.23.661116v1?rss=1) / 06月25日 08:00
 - [NucleoBench: A Large-Scale Benchmark of Neural Nucleic Acid DesignAlgorithms](https://www.biorxiv.org/content/10.1101/2025.06.20.660785v1?rss=1) / 06月25日 08:00
 - [Mapping Fusarium Wilt and Sterility Mosaic Disease Resistance-Associated Genomic Regions and Haplotype Variants in Pigeonpea](https://www.biorxiv.org/content/10.1101/2025.06.19.660531v1?rss=1) / 06月25日 08:00
 - [Genomic analysis reveals the interplay between ABA-GA in determining dormancy duration in groundnut](https://www.biorxiv.org/content/10.1101/2025.06.20.660118v1?rss=1) / 06月25日 08:00
 - [R-loops shape chromatin architecture to promote balanced lineage allocation during differentiation](https://www.biorxiv.org/content/10.1101/2025.06.23.661125v1?rss=1) / 06月25日 08:00
 - [Allostery is a widespread cause of loss-of-function variant pathogenicity](https://www.biorxiv.org/content/10.1101/2025.06.20.660737v1?rss=1) / 06月25日 08:00
-- [Hicberg: Reconstruction of contact signals from repeated elements](https://www.biorxiv.org/content/10.1101/2025.06.20.660295v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
