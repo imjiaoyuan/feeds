@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 17:24
 - [漂亮得粗枝大叶：moto razr 60 Ultra 一月主力体验](https://sspai.com/post/100507) / 15:02
 - [2025-06-25](http://bamboobone9.com/posts/thoughts/2025-06-25/) / 14:18
 - [NAS 知识「干中学」：600 元「手搓」网络附加存储](https://sspai.com/post/98141) / 11:26
@@ -22,11 +23,13 @@
 - [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511) / 06月24日 15:24
 - [AI 工具穷鬼套餐：如何用每月 1 元立省 5000 元 AI 软件订阅费](https://sspai.com/post/100272) / 06月24日 11:31
 - [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
-- [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [GW: ultra-fast chromosome-scale visualization of genomics data](https://www.nature.com/articles/s41592-025-02749-5) / 08:00
+
 **历史记录**
 - [Predictive Analysis of Methylation Patterns in Oral Squamous Cell Carcinoma (OSCC) Using Machine Learning](https://www.biorxiv.org/content/10.1101/2025.06.19.660641v1?rss=1) / 06月25日 08:00
 - [CagY sequence and structural motifs are associated with ancestry and 1 disease in world-wide Helicobacter pylori strains](https://www.biorxiv.org/content/10.1101/2025.06.20.660796v1?rss=1) / 06月25日 08:00
@@ -47,5 +50,4 @@
 - [NucleoBench: A Large-Scale Benchmark of Neural Nucleic Acid DesignAlgorithms](https://www.biorxiv.org/content/10.1101/2025.06.20.660785v1?rss=1) / 06月25日 08:00
 - [Mapping Fusarium Wilt and Sterility Mosaic Disease Resistance-Associated Genomic Regions and Haplotype Variants in Pigeonpea](https://www.biorxiv.org/content/10.1101/2025.06.19.660531v1?rss=1) / 06月25日 08:00
 - [Genomic analysis reveals the interplay between ABA-GA in determining dormancy duration in groundnut](https://www.biorxiv.org/content/10.1101/2025.06.20.660118v1?rss=1) / 06月25日 08:00
-- [R-loops shape chromatin architecture to promote balanced lineage allocation during differentiation](https://www.biorxiv.org/content/10.1101/2025.06.23.661125v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
