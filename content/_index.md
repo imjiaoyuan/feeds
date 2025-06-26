@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [NAS 知识「干中学」：600 元「手搓」网络附加存储](https://sspai.com/post/98141) / 11:26
 - [2025 06 26 HackerNews](https://supertechfans.com/cn/post/2025-06-26-HackerNews/) / 08:25
 - [派早报：vivo 召开新品发布会、全键盘手机 Unihertz Titan 2 开启众筹等](https://sspai.com/post/100588) / 08:17
 
@@ -22,12 +23,13 @@
 - [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
 - [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 06月24日 08:39
 - [派评 | 近期值得关注的 App](https://sspai.com/post/100490) / 06月23日 17:53
-- [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Predictive Analysis of Methylation Patterns in Oral Squamous Cell Carcinoma (OSCC) Using Machine Learning](https://www.biorxiv.org/content/10.1101/2025.06.19.660641v1?rss=1) / 06月25日 08:00
+- [CagY sequence and structural motifs are associated with ancestry and 1 disease in world-wide Helicobacter pylori strains](https://www.biorxiv.org/content/10.1101/2025.06.20.660796v1?rss=1) / 06月25日 08:00
 - [Facilitating Analysis and Dissemination of Proteomics data through Metadata Integration in MaxQuant](https://www.biorxiv.org/content/10.1101/2025.06.20.660677v1?rss=1) / 06月25日 08:00
 - [SpliceImpactR maps alternative RNA processing events driving protein functional diversity](https://www.biorxiv.org/content/10.1101/2025.06.20.660706v1?rss=1) / 06月25日 08:00
 - [Novel algal modular LOV domain proteins expand opto-biotechnological avenues for controlling of eukaryotic riboswitching, translational and proteolytic processes.](https://www.biorxiv.org/content/10.1101/2025.06.20.660589v1?rss=1) / 06月25日 08:00
@@ -39,13 +41,11 @@
 - [EVODEX: A Mechanistic Framework for Extracting, Structuring, and Predicting Enzymatic Reactivity](https://www.biorxiv.org/content/10.1101/2025.06.19.660615v1?rss=1) / 06月25日 08:00
 - [Enhancing RNA 3D Folding Prediction via Transformer and Equivariant Architectures under Resource Constraints](https://www.biorxiv.org/content/10.1101/2025.06.19.660625v1?rss=1) / 06月25日 08:00
 - [Explainable machine learning models for glioma subtype classification and survival prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661085v1?rss=1) / 06月25日 08:00
+- [16S-23S-5S rRNA Database: a comprehensive integrated database of archaeal and bacterial rRNA sequences, alignments, intragenomic heterogeneity, and secondary structures](https://www.biorxiv.org/content/10.1101/2025.06.23.661116v1?rss=1) / 06月25日 08:00
+- [NucleoBench: A Large-Scale Benchmark of Neural Nucleic Acid DesignAlgorithms](https://www.biorxiv.org/content/10.1101/2025.06.20.660785v1?rss=1) / 06月25日 08:00
+- [Mapping Fusarium Wilt and Sterility Mosaic Disease Resistance-Associated Genomic Regions and Haplotype Variants in Pigeonpea](https://www.biorxiv.org/content/10.1101/2025.06.19.660531v1?rss=1) / 06月25日 08:00
+- [Genomic analysis reveals the interplay between ABA-GA in determining dormancy duration in groundnut](https://www.biorxiv.org/content/10.1101/2025.06.20.660118v1?rss=1) / 06月25日 08:00
+- [R-loops shape chromatin architecture to promote balanced lineage allocation during differentiation](https://www.biorxiv.org/content/10.1101/2025.06.23.661125v1?rss=1) / 06月25日 08:00
 - [Allostery is a widespread cause of loss-of-function variant pathogenicity](https://www.biorxiv.org/content/10.1101/2025.06.20.660737v1?rss=1) / 06月25日 08:00
 - [Hicberg: Reconstruction of contact signals from repeated elements](https://www.biorxiv.org/content/10.1101/2025.06.20.660295v1?rss=1) / 06月25日 08:00
-- [InDels in an intronic region of gene Ccsmd04 coding for dormancy/auxin-associated protein controls sterility mosaic disease resistance in pigeonpea](https://www.biorxiv.org/content/10.1101/2025.06.19.660552v1?rss=1) / 06月25日 08:00
-- [Chromosome-level genome assembly of the spider mite Tetranychus cinnabarinus](https://www.biorxiv.org/content/10.1101/2025.06.24.661196v1?rss=1) / 06月25日 08:00
-- [Spatial multi-omics of nuclear architecture with two-layer seqFISH+](https://www.nature.com/articles/s41576-025-00868-5) / 06月25日 08:00
-- [DeepMind’s new AlphaGenome AI tackles the ‘dark matter’ in our DNA](https://www.nature.com/articles/d41586-025-01998-w) / 06月25日 08:00
-- [Fine-mapping genomic loci refines bipolar disorder risk genes](https://www.nature.com/articles/s41593-025-01998-z) / 06月25日 08:00
-- [AlphaFold 3-enabled in silico exploration of PGAM1 interactions in cancer](https://www.biorxiv.org/content/10.1101/2025.06.23.661104v1?rss=1) / 06月24日 08:00
-- [Corelative light and electron microscopy (CLEM) image registration by blood vessel axes alignment](https://www.biorxiv.org/content/10.1101/2025.06.23.661033v1?rss=1) / 06月24日 08:00
 <!--rss-papers:end-->
