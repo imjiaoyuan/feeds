@@ -1,6 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [走样的信访制度](https://xingbianren.cn/post/307.html) / 10:35
+- [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 10:00
 - [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 08:54
 - [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 08:43
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 08:13
@@ -14,15 +16,13 @@
 - [NAS 知识「干中学」：600 元「手搓」网络附加存储](https://sspai.com/post/98141) / 06月26日 11:26
 - [2025 06 26 HackerNews](https://supertechfans.com/cn/post/2025-06-26-HackerNews/) / 06月26日 08:25
 - [派早报：vivo 召开新品发布会、全键盘手机 Unihertz Titan 2 开启众筹等](https://sspai.com/post/100588) / 06月26日 08:17
+- [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
 - [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
 - [柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南](https://sspai.com/post/99296) / 06月25日 15:00
 - [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 06月25日 12:18
 - [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 06月25日 11:30
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
-- [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
-- [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 06月25日 07:45
-- [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542) / 06月25日 07:40
 <!--rss-blogs:end-->
 ---
 # Research Papers
