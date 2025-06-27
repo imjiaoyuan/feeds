@@ -1,31 +1,39 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **历史记录**
+- [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 06月27日 17:40
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
 - [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 06月27日 15:22
+- [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 06月27日 15:00
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
+- [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 06月27日 10:00
 - [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 06月27日 08:54
+- [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 06月27日 08:43
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
+- [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 06月26日 17:35
 - [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
+- [漂亮得粗枝大叶：moto razr 60 Ultra 一月主力体验](https://sspai.com/post/100507) / 06月26日 15:02
 - [2025-06-25](http://bamboobone9.com/posts/thoughts/2025-06-25/) / 06月26日 14:18
+- [NAS 知识「干中学」：600 元「手搓」网络附加存储](https://sspai.com/post/98141) / 06月26日 11:26
 - [2025 06 26 HackerNews](https://supertechfans.com/cn/post/2025-06-26-HackerNews/) / 06月26日 08:25
+- [派早报：vivo 召开新品发布会、全键盘手机 Unihertz Titan 2 开启众筹等](https://sspai.com/post/100588) / 06月26日 08:17
 - [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
-- [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 06月25日 12:18
-- [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
-- [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
-- [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 06月25日 07:45
-- [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 06月24日 20:38
-- [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
-- [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
-- [2025 06 24 HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) / 06月24日 08:39
-- [【限时免费】价值 89.9 美元的 DVD 转 MP4 神器＋AI 影片图片强化工具限时送](https://www.appinn.com/winx-dvd-ripper-platinum-and-winxvideo-ai/) / 06月23日 17:27
+- [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
+- [Comparative performance of reference-based metagenomic tools to identify species-level taxa among families of bacteria: benchmarking Mycobacteriaceae and Neisseriaceae](https://www.biorxiv.org/content/10.1101/2025.06.23.661092v1?rss=1) / 06月27日 08:00
+- [Polymorphisms, Solvent Accessibility, and Evolutionary Conservation of Influenza A Virus PB1 Protein](https://www.biorxiv.org/content/10.1101/2025.06.23.661066v1?rss=1) / 06月27日 08:00
+- [Tests for segregation distortion in higher ploidy F1 populations](https://www.biorxiv.org/content/10.1101/2025.06.23.661114v1?rss=1) / 06月27日 08:00
+- [Tracking biological hallucinations in single-cell perturbation predictions using scArchon, a comprehensive benchmarking platform](https://www.biorxiv.org/content/10.1101/2025.06.23.661046v1?rss=1) / 06月27日 08:00
+- [Beyond Visual Inspection: Principled Benchmarking of Single-Cell Trajectory Representations with scTRAM](https://www.biorxiv.org/content/10.1101/2025.06.23.661141v1?rss=1) / 06月27日 08:00
+- [De Novo Structure-Based Design of TEM-171 β-Lactamase Protein Inhibitors Using Integrated Deep Learning and Multi-Scale Simulations to Combat Bacterial Resistance](https://www.biorxiv.org/content/10.1101/2025.06.23.661177v1?rss=1) / 06月27日 08:00
+- [Benchmarking microRNA Target Prediction Algorithms Using Single-Cell Co-Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661076v1?rss=1) / 06月27日 08:00
 - [Accurate highly variable gene selection using RECODE in scRNA-seq data analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661026v1?rss=1) / 06月27日 08:00
 - [MDSvis, a Shiny application for interactive visualisation of Multi Dimensional Scaling projections](https://www.biorxiv.org/content/10.1101/2025.06.23.660991v1?rss=1) / 06月27日 08:00
 - [Software for semi-automatic analysis of microscopic images of adhesion structures and protein colocalization in cells](https://www.biorxiv.org/content/10.1101/2025.06.23.661040v1?rss=1) / 06月27日 08:00
@@ -38,12 +46,4 @@
 - [PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment](https://www.biorxiv.org/content/10.1101/2025.06.22.660968v1?rss=1) / 06月27日 08:00
 - [Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations](https://www.biorxiv.org/content/10.1101/2025.06.22.660936v1?rss=1) / 06月27日 08:00
 - [Red-wine gene networks associated with exceptional longevity in humans](https://www.biorxiv.org/content/10.1101/2025.06.21.660865v1?rss=1) / 06月27日 08:00
-- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 06月27日 08:00
-- [Multipotent lineage potential in B cell acute lymphoblastic leukemia is associated with distinct cellular origins and clinical features](https://www.nature.com/articles/s43018-025-00987-2) / 06月27日 08:00
-- [Bioinformatic Mining of Novel Lipopeptides Enabled by Daptomycin Cs Domain and Structural Modeling](https://www.biorxiv.org/content/10.1101/2025.06.21.660876v1?rss=1) / 06月26日 08:00
-- [L1 GABAergic neurones in the frontal cortex and L6 glutamatergic neurones in the prefrontal cortex use RHO GTPase to differentiate between unconsciousness states](https://www.biorxiv.org/content/10.1101/2025.06.21.660840v1?rss=1) / 06月26日 08:00
-- [Identifying Optimal Machine Learning Approaches for Microbiome-Metabolomics Integration with Stable Feature Selection](https://www.biorxiv.org/content/10.1101/2025.06.21.660858v1?rss=1) / 06月26日 08:00
-- [CATHe2: Enhanced CATH Superfamily Detection Using ProstT5 and Structural Alphabets](https://www.biorxiv.org/content/10.1101/2025.06.22.660903v1?rss=1) / 06月26日 08:00
-- [Dissecting Tissue Architecture and Function through Mapping of Cellular Communication Networks](https://www.biorxiv.org/content/10.1101/2025.06.21.660290v1?rss=1) / 06月26日 08:00
-- [Identification of senescence-related hub genes and potential therapeutic agents for chronic heart failure](https://www.biorxiv.org/content/10.1101/2025.06.21.660877v1?rss=1) / 06月26日 08:00
 <!--rss-papers:end-->
