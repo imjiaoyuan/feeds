@@ -1,6 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 15:22
+- [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 15:00
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 10:35
 - [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 10:00
 - [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 08:54
@@ -21,8 +23,6 @@
 - [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
 - [柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南](https://sspai.com/post/99296) / 06月25日 15:00
 - [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 06月25日 12:18
-- [四十年前的 Magic Keyboard，今天还能用来写稿吗？](https://sspai.com/post/100237) / 06月25日 11:30
-- [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
