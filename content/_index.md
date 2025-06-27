@@ -32,6 +32,11 @@
 - [Multipotent lineage potential in B cell acute lymphoblastic leukemia is associated with distinct cellular origins and clinical features](https://www.nature.com/articles/s43018-025-00987-2) / 08:00
 
 **历史记录**
+- [Dissecting Tissue Architecture and Function through Mapping of Cellular Communication Networks](https://www.biorxiv.org/content/10.1101/2025.06.21.660290v1?rss=1) / 06月26日 08:00
+- [Identification of senescence-related hub genes and potential therapeutic agents for chronic heart failure](https://www.biorxiv.org/content/10.1101/2025.06.21.660877v1?rss=1) / 06月26日 08:00
+- [Computational Modeling and Visualization of Ischemic Effects on an Advanced Purkinje Network](https://www.biorxiv.org/content/10.1101/2025.06.21.660878v1?rss=1) / 06月26日 08:00
+- [AstraROLE & AstraSUIT: Multi-Task Annotation Models for Functional Profiling of Proteins](https://www.biorxiv.org/content/10.1101/2025.06.21.660734v1?rss=1) / 06月26日 08:00
+- [Protein Language Model Based Structure-guided Antibody Screening for Disordered Protein Targets](https://www.biorxiv.org/content/10.1101/2025.06.21.660895v1?rss=1) / 06月26日 08:00
 - [MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing](https://www.biorxiv.org/content/10.1101/2025.06.20.660691v1?rss=1) / 06月26日 08:00
 - [ContrastQA: A Label-guided Graph Contrastive Learning-based approach for protein complex structure quality assessment](https://www.biorxiv.org/content/10.1101/2025.06.20.660832v1?rss=1) / 06月26日 08:00
 - [MITScan: Score-Based Genome-Wide Association Analysis of the Microbiome and Host Transcriptome](https://www.biorxiv.org/content/10.1101/2025.06.24.661342v1?rss=1) / 06月26日 08:00
@@ -45,9 +50,4 @@
 - [Predictive Analysis of Methylation Patterns in Oral Squamous Cell Carcinoma (OSCC) Using Machine Learning](https://www.biorxiv.org/content/10.1101/2025.06.19.660641v1?rss=1) / 06月25日 08:00
 - [CagY sequence and structural motifs are associated with ancestry and 1 disease in world-wide Helicobacter pylori strains](https://www.biorxiv.org/content/10.1101/2025.06.20.660796v1?rss=1) / 06月25日 08:00
 - [Facilitating Analysis and Dissemination of Proteomics data through Metadata Integration in MaxQuant](https://www.biorxiv.org/content/10.1101/2025.06.20.660677v1?rss=1) / 06月25日 08:00
-- [SpliceImpactR maps alternative RNA processing events driving protein functional diversity](https://www.biorxiv.org/content/10.1101/2025.06.20.660706v1?rss=1) / 06月25日 08:00
-- [Novel algal modular LOV domain proteins expand opto-biotechnological avenues for controlling of eukaryotic riboswitching, translational and proteolytic processes.](https://www.biorxiv.org/content/10.1101/2025.06.20.660589v1?rss=1) / 06月25日 08:00
-- [A pre-menopausal single-cell atlas for ovarian drug discovery](https://www.biorxiv.org/content/10.1101/2025.06.20.660779v1?rss=1) / 06月25日 08:00
-- [The AlphaFold Database Ages](https://www.biorxiv.org/content/10.1101/2025.06.22.660930v1?rss=1) / 06月25日 08:00
-- [MUDflow: Combining Neural Networks, UMAP and DBM Clustering to Identify Cell Populations Accurately, Quickly and Easily in Mass and Fluorescence Cytometry](https://www.biorxiv.org/content/10.1101/2025.06.19.660626v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
