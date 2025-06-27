@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 17:40
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 16:33
 - [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 15:22
 - [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 15:00
@@ -22,7 +23,6 @@
 - [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
 - [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
-- [柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南](https://sspai.com/post/99296) / 06月25日 15:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
