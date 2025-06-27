@@ -1,18 +1,16 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 17:40
-- [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 16:33
-- [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 15:22
-- [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 15:00
-- [走样的信访制度](https://xingbianren.cn/post/307.html) / 10:35
-- [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 10:00
-- [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 08:54
-- [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 08:43
-- [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 08:13
-- [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 07:56
-
 **历史记录**
+- [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 06月27日 17:40
+- [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
+- [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 06月27日 15:22
+- [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 06月27日 15:00
+- [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
+- [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 06月27日 10:00
+- [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 06月27日 08:54
+- [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 06月27日 08:43
+- [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
+- [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
 - [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 06月26日 17:35
 - [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
 - [漂亮得粗枝大叶：moto razr 60 Ultra 一月主力体验](https://sspai.com/post/100507) / 06月26日 15:02
@@ -27,27 +25,25 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 08:00
-- [Multipotent lineage potential in B cell acute lymphoblastic leukemia is associated with distinct cellular origins and clinical features](https://www.nature.com/articles/s43018-025-00987-2) / 08:00
-
 **历史记录**
+- [GhostBuster: A Deep-Learning-based, Literature-Unbiased Gene Prioritization Tool for Gene Annotation Prediction](https://www.biorxiv.org/content/10.1101/2025.06.22.660948v1?rss=1) / 06月27日 08:00
+- [AllerStack: Predicting Allergenic Proteins with a Stacked Ensemble Approach](https://www.biorxiv.org/content/10.1101/2025.06.22.660976v1?rss=1) / 06月27日 08:00
+- [Using Artificial Intelligence to Assess Cross-Species Transmission Potential of Influenza A Virus](https://www.biorxiv.org/content/10.1101/2025.06.17.660059v1?rss=1) / 06月27日 08:00
+- [Proteomizer: Leveraging the Transcriptome-Proteome Mismatch to Infer Novel Gene Regulatory Relations](https://www.biorxiv.org/content/10.1101/2025.06.22.660946v1?rss=1) / 06月27日 08:00
+- [RC-GNN: A predictive model of enzyme-reaction pairs](https://www.biorxiv.org/content/10.1101/2025.06.22.660952v1?rss=1) / 06月27日 08:00
+- [GlyContact reveals structure-function relationships in glycans](https://www.biorxiv.org/content/10.1101/2025.06.22.660912v1?rss=1) / 06月27日 08:00
+- [PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment](https://www.biorxiv.org/content/10.1101/2025.06.22.660968v1?rss=1) / 06月27日 08:00
+- [Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations](https://www.biorxiv.org/content/10.1101/2025.06.22.660936v1?rss=1) / 06月27日 08:00
+- [Red-wine gene networks associated with exceptional longevity in humans](https://www.biorxiv.org/content/10.1101/2025.06.21.660865v1?rss=1) / 06月27日 08:00
+- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 06月27日 08:00
+- [Multipotent lineage potential in B cell acute lymphoblastic leukemia is associated with distinct cellular origins and clinical features](https://www.nature.com/articles/s43018-025-00987-2) / 06月27日 08:00
+- [Bioinformatic Mining of Novel Lipopeptides Enabled by Daptomycin Cs Domain and Structural Modeling](https://www.biorxiv.org/content/10.1101/2025.06.21.660876v1?rss=1) / 06月26日 08:00
+- [L1 GABAergic neurones in the frontal cortex and L6 glutamatergic neurones in the prefrontal cortex use RHO GTPase to differentiate between unconsciousness states](https://www.biorxiv.org/content/10.1101/2025.06.21.660840v1?rss=1) / 06月26日 08:00
+- [Identifying Optimal Machine Learning Approaches for Microbiome-Metabolomics Integration with Stable Feature Selection](https://www.biorxiv.org/content/10.1101/2025.06.21.660858v1?rss=1) / 06月26日 08:00
+- [CATHe2: Enhanced CATH Superfamily Detection Using ProstT5 and Structural Alphabets](https://www.biorxiv.org/content/10.1101/2025.06.22.660903v1?rss=1) / 06月26日 08:00
 - [Dissecting Tissue Architecture and Function through Mapping of Cellular Communication Networks](https://www.biorxiv.org/content/10.1101/2025.06.21.660290v1?rss=1) / 06月26日 08:00
 - [Identification of senescence-related hub genes and potential therapeutic agents for chronic heart failure](https://www.biorxiv.org/content/10.1101/2025.06.21.660877v1?rss=1) / 06月26日 08:00
 - [Computational Modeling and Visualization of Ischemic Effects on an Advanced Purkinje Network](https://www.biorxiv.org/content/10.1101/2025.06.21.660878v1?rss=1) / 06月26日 08:00
 - [AstraROLE & AstraSUIT: Multi-Task Annotation Models for Functional Profiling of Proteins](https://www.biorxiv.org/content/10.1101/2025.06.21.660734v1?rss=1) / 06月26日 08:00
 - [Protein Language Model Based Structure-guided Antibody Screening for Disordered Protein Targets](https://www.biorxiv.org/content/10.1101/2025.06.21.660895v1?rss=1) / 06月26日 08:00
-- [MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing](https://www.biorxiv.org/content/10.1101/2025.06.20.660691v1?rss=1) / 06月26日 08:00
-- [ContrastQA: A Label-guided Graph Contrastive Learning-based approach for protein complex structure quality assessment](https://www.biorxiv.org/content/10.1101/2025.06.20.660832v1?rss=1) / 06月26日 08:00
-- [MITScan: Score-Based Genome-Wide Association Analysis of the Microbiome and Host Transcriptome](https://www.biorxiv.org/content/10.1101/2025.06.24.661342v1?rss=1) / 06月26日 08:00
-- [miRNA/mRNA analysis of increased TGF-β pathways drive epithelial-mesenchymal transition and regulatory T cell differentiation](https://www.biorxiv.org/content/10.1101/2025.06.23.661210v1?rss=1) / 06月26日 08:00
-- [Haplotype-aware long-read error correction](https://www.biorxiv.org/content/10.1101/2025.06.23.661108v1?rss=1) / 06月26日 08:00
-- [Expanding the utility of transcriptome analysis for mutation detection in high-risk childhood precision oncology](https://www.biorxiv.org/content/10.1101/2025.06.25.661445v1?rss=1) / 06月26日 08:00
-- [Comprehensive Survey of Gut Microbiome Associations with Health Conditions in the Human Phenotype Project](https://www.biorxiv.org/content/10.1101/2025.06.26.661672v1?rss=1) / 06月26日 08:00
-- [Mapping and reprogramming microenvironment-induced cell states in human disease using generative AI](https://www.biorxiv.org/content/10.1101/2025.06.24.661094v1?rss=1) / 06月26日 08:00
-- [The reference-free pangenome of Arabidopsis thaliana](https://www.biorxiv.org/content/10.1101/2025.06.25.661508v1?rss=1) / 06月26日 08:00
-- [GW: ultra-fast chromosome-scale visualization of genomics data](https://www.nature.com/articles/s41592-025-02749-5) / 06月26日 08:00
-- [Predictive Analysis of Methylation Patterns in Oral Squamous Cell Carcinoma (OSCC) Using Machine Learning](https://www.biorxiv.org/content/10.1101/2025.06.19.660641v1?rss=1) / 06月25日 08:00
-- [CagY sequence and structural motifs are associated with ancestry and 1 disease in world-wide Helicobacter pylori strains](https://www.biorxiv.org/content/10.1101/2025.06.20.660796v1?rss=1) / 06月25日 08:00
-- [Facilitating Analysis and Dissemination of Proteomics data through Metadata Integration in MaxQuant](https://www.biorxiv.org/content/10.1101/2025.06.20.660677v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
