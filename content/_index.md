@@ -26,6 +26,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Accurate highly variable gene selection using RECODE in scRNA-seq data analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661026v1?rss=1) / 06月27日 08:00
+- [MDSvis, a Shiny application for interactive visualisation of Multi Dimensional Scaling projections](https://www.biorxiv.org/content/10.1101/2025.06.23.660991v1?rss=1) / 06月27日 08:00
+- [Software for semi-automatic analysis of microscopic images of adhesion structures and protein colocalization in cells](https://www.biorxiv.org/content/10.1101/2025.06.23.661040v1?rss=1) / 06月27日 08:00
 - [GhostBuster: A Deep-Learning-based, Literature-Unbiased Gene Prioritization Tool for Gene Annotation Prediction](https://www.biorxiv.org/content/10.1101/2025.06.22.660948v1?rss=1) / 06月27日 08:00
 - [AllerStack: Predicting Allergenic Proteins with a Stacked Ensemble Approach](https://www.biorxiv.org/content/10.1101/2025.06.22.660976v1?rss=1) / 06月27日 08:00
 - [Using Artificial Intelligence to Assess Cross-Species Transmission Potential of Influenza A Virus](https://www.biorxiv.org/content/10.1101/2025.06.17.660059v1?rss=1) / 06月27日 08:00
@@ -43,7 +46,4 @@
 - [CATHe2: Enhanced CATH Superfamily Detection Using ProstT5 and Structural Alphabets](https://www.biorxiv.org/content/10.1101/2025.06.22.660903v1?rss=1) / 06月26日 08:00
 - [Dissecting Tissue Architecture and Function through Mapping of Cellular Communication Networks](https://www.biorxiv.org/content/10.1101/2025.06.21.660290v1?rss=1) / 06月26日 08:00
 - [Identification of senescence-related hub genes and potential therapeutic agents for chronic heart failure](https://www.biorxiv.org/content/10.1101/2025.06.21.660877v1?rss=1) / 06月26日 08:00
-- [Computational Modeling and Visualization of Ischemic Effects on an Advanced Purkinje Network](https://www.biorxiv.org/content/10.1101/2025.06.21.660878v1?rss=1) / 06月26日 08:00
-- [AstraROLE & AstraSUIT: Multi-Task Annotation Models for Functional Profiling of Proteins](https://www.biorxiv.org/content/10.1101/2025.06.21.660734v1?rss=1) / 06月26日 08:00
-- [Protein Language Model Based Structure-guided Antibody Screening for Disordered Protein Targets](https://www.biorxiv.org/content/10.1101/2025.06.21.660895v1?rss=1) / 06月26日 08:00
 <!--rss-papers:end-->
