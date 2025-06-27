@@ -28,6 +28,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing](https://www.biorxiv.org/content/10.1101/2025.06.20.660691v1?rss=1) / 06月26日 08:00
+- [ContrastQA: A Label-guided Graph Contrastive Learning-based approach for protein complex structure quality assessment](https://www.biorxiv.org/content/10.1101/2025.06.20.660832v1?rss=1) / 06月26日 08:00
 - [MITScan: Score-Based Genome-Wide Association Analysis of the Microbiome and Host Transcriptome](https://www.biorxiv.org/content/10.1101/2025.06.24.661342v1?rss=1) / 06月26日 08:00
 - [miRNA/mRNA analysis of increased TGF-β pathways drive epithelial-mesenchymal transition and regulatory T cell differentiation](https://www.biorxiv.org/content/10.1101/2025.06.23.661210v1?rss=1) / 06月26日 08:00
 - [Haplotype-aware long-read error correction](https://www.biorxiv.org/content/10.1101/2025.06.23.661108v1?rss=1) / 06月26日 08:00
@@ -46,6 +48,4 @@
 - [MUDflow: Combining Neural Networks, UMAP and DBM Clustering to Identify Cell Populations Accurately, Quickly and Easily in Mass and Fluorescence Cytometry](https://www.biorxiv.org/content/10.1101/2025.06.19.660626v1?rss=1) / 06月25日 08:00
 - [Scalable data harmonization for single-cell image-based profiling with CytoTable](https://www.biorxiv.org/content/10.1101/2025.06.19.660613v1?rss=1) / 06月25日 08:00
 - [A k-mer-based estimator of the substitution rate between repetitive sequences](https://www.biorxiv.org/content/10.1101/2025.06.19.660607v1?rss=1) / 06月25日 08:00
-- [EVODEX: A Mechanistic Framework for Extracting, Structuring, and Predicting Enzymatic Reactivity](https://www.biorxiv.org/content/10.1101/2025.06.19.660615v1?rss=1) / 06月25日 08:00
-- [Enhancing RNA 3D Folding Prediction via Transformer and Equivariant Architectures under Resource Constraints](https://www.biorxiv.org/content/10.1101/2025.06.19.660625v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
