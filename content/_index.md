@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 16:33
 - [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 15:22
 - [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 15:00
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 10:35
@@ -22,11 +23,14 @@
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
 - [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
 - [柯南剧场版上映之际，用 Markdown 制作一份赛博巡礼指南](https://sspai.com/post/99296) / 06月25日 15:00
-- [微软大反转！Windows 10 免费安全更新再送一年](https://www.appinn.com/microsoft-windows10-free-esu-2026/) / 06月25日 12:18
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 08:00
+- [Multipotent lineage potential in B cell acute lymphoblastic leukemia is associated with distinct cellular origins and clinical features](https://www.nature.com/articles/s43018-025-00987-2) / 08:00
+
 **历史记录**
 - [MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing](https://www.biorxiv.org/content/10.1101/2025.06.20.660691v1?rss=1) / 06月26日 08:00
 - [ContrastQA: A Label-guided Graph Contrastive Learning-based approach for protein complex structure quality assessment](https://www.biorxiv.org/content/10.1101/2025.06.20.660832v1?rss=1) / 06月26日 08:00
@@ -46,6 +50,4 @@
 - [A pre-menopausal single-cell atlas for ovarian drug discovery](https://www.biorxiv.org/content/10.1101/2025.06.20.660779v1?rss=1) / 06月25日 08:00
 - [The AlphaFold Database Ages](https://www.biorxiv.org/content/10.1101/2025.06.22.660930v1?rss=1) / 06月25日 08:00
 - [MUDflow: Combining Neural Networks, UMAP and DBM Clustering to Identify Cell Populations Accurately, Quickly and Easily in Mass and Fluorescence Cytometry](https://www.biorxiv.org/content/10.1101/2025.06.19.660626v1?rss=1) / 06月25日 08:00
-- [Scalable data harmonization for single-cell image-based profiling with CytoTable](https://www.biorxiv.org/content/10.1101/2025.06.19.660613v1?rss=1) / 06月25日 08:00
-- [A k-mer-based estimator of the substitution rate between repetitive sequences](https://www.biorxiv.org/content/10.1101/2025.06.19.660607v1?rss=1) / 06月25日 08:00
 <!--rss-papers:end-->
