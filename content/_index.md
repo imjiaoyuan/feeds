@@ -1,5 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 08:54
+- [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 08:43
+- [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 08:13
+- [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 07:56
+
 **历史记录**
 - [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 06月26日 17:35
 - [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
@@ -17,10 +23,6 @@
 - [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
 - [2025 06 25 HackerNews](https://supertechfans.com/cn/post/2025-06-25-HackerNews/) / 06月25日 07:45
 - [派早报：Meta Quest 3S Xbox Edition 发布等](https://sspai.com/post/100542) / 06月25日 07:40
-- [macOS Tahoe 兼容性检测：这次又要“卡”掉多少老设备？](https://www.appinn.com/macos-tahoe-compatibility/) / 06月24日 20:38
-- [社区速递 098 | 一周热评、派友最爱的口碑改编剧、社区文章与新玩意](https://sspai.com/post/100523) / 06月24日 17:33
-- [小岛秀夫的故事继续：《死亡搁浅 2：冥滩》初见感受](https://sspai.com/post/100511) / 06月24日 15:24
-- [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
 <!--rss-blogs:end-->
 ---
 # Research Papers
