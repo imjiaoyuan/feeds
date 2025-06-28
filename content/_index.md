@@ -1,36 +1,52 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 16:37
-- [更舒适的电气化露营，我都带了些什么？](https://sspai.com/post/100330) / 15:20
-- [2025 06 28 HackerNews](https://supertechfans.com/cn/post/2025-06-28-HackerNews/) / 09:11
-- [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 00:00
-- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 00:00
-- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 00:00
-- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 00:00
-- [怎么给自己的人生加燃料，去成为期待的自己](https://manateelazycat.github.io/2025/06/28/stuck-somewhere/) / 00:00
-- [为什么不用 Wayland?](https://manateelazycat.github.io/2025/06/28/why-not-use-wayland/) / 00:00
-
 **历史记录**
-- [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 06月27日 17:40
+- [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 06月28日 16:37
+- [微软推出Windows 11 25H2首个测试版 带来1Password等密码管理器的高级集成](https://www.landiannews.com/archives/109579.html) / 06月28日 10:13
+- [微软确认Windows 11 25H2版将在晚些时候推出 通过eKB启用包完成更新](https://www.landiannews.com/archives/109578.html) / 06月28日 09:57
+- [如是我闻](http://m.wufazhuce.com/article/6843) / 06月28日 06:25
+- [VOL.4648](http://m.wufazhuce.com/one/4799) / 06月28日 06:25
+- [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
+- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
+- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
+- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
+- [怎么给自己的人生加燃料，去成为期待的自己](https://manateelazycat.github.io/2025/06/28/stuck-somewhere/) / 06月28日 00:00
+- [为什么不用 Wayland?](https://manateelazycat.github.io/2025/06/28/why-not-use-wayland/) / 06月28日 00:00
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
+- [网友称相机电池没有3C标志被告知无法登机 事后发现是安检员理解问题](https://www.landiannews.com/archives/109577.html) / 06月27日 15:43
+- [Windows 10/11安全启动证书即将到期 若不更新系统将无法正常启动](https://www.landiannews.com/archives/109576.html) / 06月27日 15:28
 - [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 06月27日 15:22
-- [播客改变了我们，我们好像也改变了播客](https://sspai.com/post/100610) / 06月27日 15:00
+- [在被欧盟罚款5亿欧元后苹果修改开发者政策 不限外部购买但费率更加复杂](https://www.landiannews.com/archives/109575.html) / 06月27日 12:09
+- [安装VMware软件更新和补丁都是违反合同行为 博通对部分客户发出审计通知](https://www.landiannews.com/archives/109574.html) / 06月27日 11:08
+- [微软发布媒体创建工具新版本 可以创建包含Windows 11 6月更新的最新安装镜像](https://www.landiannews.com/archives/109573.html) / 06月27日 10:51
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
-- [一场针对都市病的夏日救援：几素JisuLife ×少数派 独立乐队专辑众筹计划](https://sspai.com/post/100493) / 06月27日 10:00
-- [2025 06 27 HackerNews](https://supertechfans.com/cn/post/2025-06-27-HackerNews/) / 06月27日 08:54
-- [派早报：小米发布多款新品、Google 推出 Gemini CLI 等](https://sspai.com/post/100629) / 06月27日 08:43
+- [微软改进Win11死机界面从蓝色换成黑色 同时加快信息收集仅需2秒即可完成重启](https://www.landiannews.com/archives/109553.html) / 06月27日 10:33
+- [微软澄清并确认无论PC是否满足Win11硬件要求均可获得Win10 ESU扩展安全更新](https://www.landiannews.com/archives/109552.html) / 06月27日 10:17
+- [微软将安全软件从Windows NT内核移出 避免再出现全球级的蓝屏死机事件](https://www.landiannews.com/archives/109551.html) / 06月27日 10:03
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
-- [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 06月26日 17:35
+- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4397) / 06月27日 06:25
+- [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
+- [[图文教程] 部分玩家使用模拟器恢复白嫖的1年Perplexity Pro订阅 方法如下](https://www.landiannews.com/archives/109550.html) / 06月26日 16:40
+- [如何轻松搞定内网穿透和公网访问：P2P打洞直连和异地组网是个好办法](https://www.landiannews.com/archives/109534.html) / 06月26日 14:50
+- [喜报！Let’s Encrypt即将开测纯IP地址数字证书 无需域名但有效期仅6天](https://www.landiannews.com/archives/109549.html) / 06月26日 14:24
+- [2025-06-25](http://bamboobone9.com/posts/thoughts/2025-06-25/) / 06月26日 14:18
+- [网传部分机场开始严查充电宝3C认证标志 部分2024年及之前的充电宝可能无法登机](https://www.landiannews.com/archives/109548.html) / 06月26日 13:48
+- [22年后PNG图像终于发布第三版规范 带来APNG动态图/HDR/Exif元数据支持](https://www.landiannews.com/archives/109547.html) / 06月26日 13:27
+- [剪映国际版CapCut就使用条款争议发布回应：模板和分享等功能需要授权](https://www.landiannews.com/archives/109546.html) / 06月26日 12:03
+- [美国房产抵押贷款公司房利美和房地美计划允许将比特币等作为抵押资产](https://www.landiannews.com/archives/109545.html) / 06月26日 11:44
+- [谷歌推出命令行人工智能开发工具Gemini CLI 提供非常高的配额几乎免费使用](https://www.landiannews.com/archives/109544.html) / 06月26日 11:31
+- [年仅25岁的英国黑客IntelBroker被逮捕 竟然使用实名账号出售加密货币赃款](https://www.landiannews.com/archives/109538.html) / 06月26日 11:06
+- [腾讯云云原生开发产品CODING系列产品下线 停止新注册并在2028年9月停服](https://www.landiannews.com/archives/109537.html) / 06月26日 10:32
+- [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
+- [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
+- [Good Enough Practices for Reproducible Computing](https://divingintogeneticsandgenomics.com/talk/2025-moderna-reproducible/) / 06月25日 19:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Long-read transcriptome assembly reveals vast isoform diversity in the placenta associated with metabolic and endocrine function](https://www.biorxiv.org/content/10.1101/2025.06.26.661362v1?rss=1) / 08:00
-
 **历史记录**
+- [Long-read transcriptome assembly reveals vast isoform diversity in the placenta associated with metabolic and endocrine function](https://www.biorxiv.org/content/10.1101/2025.06.26.661362v1?rss=1) / 06月28日 08:00
 - [Interpreting Attention Mechanisms in Genomic Transformer Models: A Framework for Biological Insights](https://www.biorxiv.org/content/10.1101/2025.06.26.661544v1?rss=1) / 06月27日 08:00
 - [STRESS: Spatial Transcriptome Resolution Enhancing Method based on the State Space Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661624v1?rss=1) / 06月27日 08:00
 - [Protein Dynamics at Different Timescales Unlock Access to Hidden Post-Translational Modification Sites](https://www.biorxiv.org/content/10.1101/2025.06.25.661537v1?rss=1) / 06月27日 08:00
@@ -50,4 +66,24 @@
 - [SHADE: A Multilevel Bayesian Approach to Modeling Directional Spatial Associations in Tissues](https://www.biorxiv.org/content/10.1101/2025.06.24.661393v1?rss=1) / 06月27日 08:00
 - [codonGPT: Reinforcement learning on a generative language model optimizes RNA sequences under biological constraints](https://www.biorxiv.org/content/10.1101/2025.06.25.661500v1?rss=1) / 06月27日 08:00
 - [TX2P: A Proteogenomic Tool for Comprehensive Transcript Analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661260v1?rss=1) / 06月27日 08:00
+- [Quantifying distribution shifts in single-cell data with scXMatch](https://www.biorxiv.org/content/10.1101/2025.06.25.661473v1?rss=1) / 06月27日 08:00
+- [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661237v1?rss=1) / 06月27日 08:00
+- [Cleanifier: A fast and lightweight k-mer based tool to remove contamination in microbial sequence data](https://www.biorxiv.org/content/10.1101/2025.06.24.661305v1?rss=1) / 06月27日 08:00
+- [A Clarifying Perspective on Bacterial Pseudo-Receiver Domains](https://www.biorxiv.org/content/10.1101/2025.06.23.661182v1?rss=1) / 06月27日 08:00
+- [Integrated analysis of crosslink-ligation data for the detection of RNA 2D/3D structures and interactions in vivo.](https://www.biorxiv.org/content/10.1101/2025.06.24.661343v1?rss=1) / 06月27日 08:00
+- [Optimization of denoising and filtering parameters of DADA2 for QIIME2 amplicon metagenomics data analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661437v1?rss=1) / 06月27日 08:00
+- [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
+- [Comparative performance of reference-based metagenomic tools to identify species-level taxa among families of bacteria: benchmarking Mycobacteriaceae and Neisseriaceae](https://www.biorxiv.org/content/10.1101/2025.06.23.661092v1?rss=1) / 06月27日 08:00
+- [Polymorphisms, Solvent Accessibility, and Evolutionary Conservation of Influenza A Virus PB1 Protein](https://www.biorxiv.org/content/10.1101/2025.06.23.661066v1?rss=1) / 06月27日 08:00
+- [Tests for segregation distortion in higher ploidy F1 populations](https://www.biorxiv.org/content/10.1101/2025.06.23.661114v1?rss=1) / 06月27日 08:00
+- [Tracking biological hallucinations in single-cell perturbation predictions using scArchon, a comprehensive benchmarking platform](https://www.biorxiv.org/content/10.1101/2025.06.23.661046v1?rss=1) / 06月27日 08:00
+- [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
+- [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
+- [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
+- [Methylation dynamics in the decades preceding acute myeloid leukaemia](https://www.biorxiv.org/content/10.1101/2025.06.26.661643v1?rss=1) / 06月27日 08:00
+- [Hybrid short- and long-read assembly of an experimentally evolved Sodalis glossinidius strain SgGmmC1*](https://www.biorxiv.org/content/10.1101/2025.06.26.659281v1?rss=1) / 06月27日 08:00
+- [A Benchmark of Modern Statistical Phasing Methods](https://www.biorxiv.org/content/10.1101/2025.06.24.660794v1?rss=1) / 06月27日 08:00
+- [Beyond benchmarking: an expert-guided consensus approach to spatially aware clustering](https://www.biorxiv.org/content/10.1101/2025.06.23.660861v1?rss=1) / 06月27日 08:00
+- [Red-wine gene networks associated with exceptional longevity in humans](https://www.biorxiv.org/content/10.1101/2025.06.21.660865v1?rss=1) / 06月27日 08:00
+- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 06月27日 08:00
 <!--rss-papers:end-->
