@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [2025 06 28 HackerNews](https://supertechfans.com/cn/post/2025-06-28-HackerNews/) / 09:11
+
 **历史记录**
 - [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/100642) / 06月27日 17:40
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
@@ -20,30 +23,29 @@
 - [派早报：vivo 召开新品发布会、全键盘手机 Unihertz Titan 2 开启众筹等](https://sspai.com/post/100588) / 06月26日 08:17
 - [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
-- [微软的游戏帝国，从一群爱摸鱼的程序员开始](https://sspai.com/post/86319) / 06月25日 17:24
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Accelerating Virtual Directed Evolution of Proteins via Reinforcement Learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661516v1?rss=1) / 06月27日 08:00
+- [PHbinder and PSGM: A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification](https://www.biorxiv.org/content/10.1101/2025.06.25.661428v1?rss=1) / 06月27日 08:00
+- [AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1?rss=1) / 06月27日 08:00
+- [BioImageSuiteLite: An Interactive Open-Source Platform for Automated Detection and Analysis of Transient Events in Time-Lapse Microscopy](https://www.biorxiv.org/content/10.1101/2025.06.24.661279v1?rss=1) / 06月27日 08:00
+- [A DNA Sequence Imaging Approach to Predict Splice Sites Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.06.24.661415v1?rss=1) / 06月27日 08:00
+- [MultiAlloDriver: a multi-model method to predict and identify cancer driver mutations](https://www.biorxiv.org/content/10.1101/2025.06.25.661496v1?rss=1) / 06月27日 08:00
+- [Accurate variant effect estimation in FACS-based deep mutational scanning data with Lilace](https://www.biorxiv.org/content/10.1101/2025.06.24.661380v1?rss=1) / 06月27日 08:00
+- [Better data for better predictions: data curation improves deep learning for sgRNA/Cas9 prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661356v1?rss=1) / 06月27日 08:00
+- [SHADE: A Multilevel Bayesian Approach to Modeling Directional Spatial Associations in Tissues](https://www.biorxiv.org/content/10.1101/2025.06.24.661393v1?rss=1) / 06月27日 08:00
+- [codonGPT: Reinforcement learning on a generative language model optimizes RNA sequences under biological constraints](https://www.biorxiv.org/content/10.1101/2025.06.25.661500v1?rss=1) / 06月27日 08:00
+- [TX2P: A Proteogenomic Tool for Comprehensive Transcript Analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661260v1?rss=1) / 06月27日 08:00
+- [Quantifying distribution shifts in single-cell data with scXMatch](https://www.biorxiv.org/content/10.1101/2025.06.25.661473v1?rss=1) / 06月27日 08:00
+- [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661237v1?rss=1) / 06月27日 08:00
+- [Cleanifier: A fast and lightweight k-mer based tool to remove contamination in microbial sequence data](https://www.biorxiv.org/content/10.1101/2025.06.24.661305v1?rss=1) / 06月27日 08:00
+- [A Clarifying Perspective on Bacterial Pseudo-Receiver Domains](https://www.biorxiv.org/content/10.1101/2025.06.23.661182v1?rss=1) / 06月27日 08:00
+- [Integrated analysis of crosslink-ligation data for the detection of RNA 2D/3D structures and interactions in vivo.](https://www.biorxiv.org/content/10.1101/2025.06.24.661343v1?rss=1) / 06月27日 08:00
+- [Optimization of denoising and filtering parameters of DADA2 for QIIME2 amplicon metagenomics data analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661437v1?rss=1) / 06月27日 08:00
 - [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
 - [Comparative performance of reference-based metagenomic tools to identify species-level taxa among families of bacteria: benchmarking Mycobacteriaceae and Neisseriaceae](https://www.biorxiv.org/content/10.1101/2025.06.23.661092v1?rss=1) / 06月27日 08:00
 - [Polymorphisms, Solvent Accessibility, and Evolutionary Conservation of Influenza A Virus PB1 Protein](https://www.biorxiv.org/content/10.1101/2025.06.23.661066v1?rss=1) / 06月27日 08:00
-- [Tests for segregation distortion in higher ploidy F1 populations](https://www.biorxiv.org/content/10.1101/2025.06.23.661114v1?rss=1) / 06月27日 08:00
-- [Tracking biological hallucinations in single-cell perturbation predictions using scArchon, a comprehensive benchmarking platform](https://www.biorxiv.org/content/10.1101/2025.06.23.661046v1?rss=1) / 06月27日 08:00
-- [Beyond Visual Inspection: Principled Benchmarking of Single-Cell Trajectory Representations with scTRAM](https://www.biorxiv.org/content/10.1101/2025.06.23.661141v1?rss=1) / 06月27日 08:00
-- [De Novo Structure-Based Design of TEM-171 β-Lactamase Protein Inhibitors Using Integrated Deep Learning and Multi-Scale Simulations to Combat Bacterial Resistance](https://www.biorxiv.org/content/10.1101/2025.06.23.661177v1?rss=1) / 06月27日 08:00
-- [Benchmarking microRNA Target Prediction Algorithms Using Single-Cell Co-Sequencing Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661076v1?rss=1) / 06月27日 08:00
-- [Accurate highly variable gene selection using RECODE in scRNA-seq data analysis](https://www.biorxiv.org/content/10.1101/2025.06.23.661026v1?rss=1) / 06月27日 08:00
-- [MDSvis, a Shiny application for interactive visualisation of Multi Dimensional Scaling projections](https://www.biorxiv.org/content/10.1101/2025.06.23.660991v1?rss=1) / 06月27日 08:00
-- [Software for semi-automatic analysis of microscopic images of adhesion structures and protein colocalization in cells](https://www.biorxiv.org/content/10.1101/2025.06.23.661040v1?rss=1) / 06月27日 08:00
-- [GhostBuster: A Deep-Learning-based, Literature-Unbiased Gene Prioritization Tool for Gene Annotation Prediction](https://www.biorxiv.org/content/10.1101/2025.06.22.660948v1?rss=1) / 06月27日 08:00
-- [AllerStack: Predicting Allergenic Proteins with a Stacked Ensemble Approach](https://www.biorxiv.org/content/10.1101/2025.06.22.660976v1?rss=1) / 06月27日 08:00
-- [Using Artificial Intelligence to Assess Cross-Species Transmission Potential of Influenza A Virus](https://www.biorxiv.org/content/10.1101/2025.06.17.660059v1?rss=1) / 06月27日 08:00
-- [Proteomizer: Leveraging the Transcriptome-Proteome Mismatch to Infer Novel Gene Regulatory Relations](https://www.biorxiv.org/content/10.1101/2025.06.22.660946v1?rss=1) / 06月27日 08:00
-- [RC-GNN: A predictive model of enzyme-reaction pairs](https://www.biorxiv.org/content/10.1101/2025.06.22.660952v1?rss=1) / 06月27日 08:00
-- [GlyContact reveals structure-function relationships in glycans](https://www.biorxiv.org/content/10.1101/2025.06.22.660912v1?rss=1) / 06月27日 08:00
-- [PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment](https://www.biorxiv.org/content/10.1101/2025.06.22.660968v1?rss=1) / 06月27日 08:00
-- [Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations](https://www.biorxiv.org/content/10.1101/2025.06.22.660936v1?rss=1) / 06月27日 08:00
-- [Red-wine gene networks associated with exceptional longevity in humans](https://www.biorxiv.org/content/10.1101/2025.06.21.660865v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
