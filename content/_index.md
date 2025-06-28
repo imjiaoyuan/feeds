@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 16:37
 - [更舒适的电气化露营，我都带了些什么？](https://sspai.com/post/100330) / 15:20
 - [2025 06 28 HackerNews](https://supertechfans.com/cn/post/2025-06-28-HackerNews/) / 09:11
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 00:00
@@ -22,7 +23,6 @@
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
 - [新玩意 213｜少数派的编辑们最近买了啥？](https://sspai.com/post/100607) / 06月26日 17:35
-- [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
 <!--rss-blogs:end-->
 ---
 # Research Papers
