@@ -28,6 +28,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [STRESS: Spatial Transcriptome Resolution Enhancing Method based on the State Space Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661624v1?rss=1) / 06月27日 08:00
+- [Protein Dynamics at Different Timescales Unlock Access to Hidden Post-Translational Modification Sites](https://www.biorxiv.org/content/10.1101/2025.06.25.661537v1?rss=1) / 06月27日 08:00
+- [Multi-omics guided pathway and network analysis of clinical metabolomics and proteomics data](https://www.biorxiv.org/content/10.1101/2025.06.26.661095v1?rss=1) / 06月27日 08:00
+- [A Task-Specific Transfer Learning Approach to Enhancing Small Molecule Retention Time Prediction with Limited Data](https://www.biorxiv.org/content/10.1101/2025.06.26.661631v1?rss=1) / 06月27日 08:00
 - [Advancing in silico drug design with Bayesian refinement of AlphaFold models](https://www.biorxiv.org/content/10.1101/2025.06.25.661454v1?rss=1) / 06月27日 08:00
 - [Detecting and Quantifying Networks of Biological Kinship via Exponential Family Random Graph Models](https://www.biorxiv.org/content/10.1101/2025.06.25.661441v1?rss=1) / 06月27日 08:00
 - [EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust Analysis of Total RNA Sequencing from Extracellular Vesicles](https://www.biorxiv.org/content/10.1101/2025.06.24.660984v1?rss=1) / 06月27日 08:00
@@ -44,8 +48,4 @@
 - [TX2P: A Proteogenomic Tool for Comprehensive Transcript Analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661260v1?rss=1) / 06月27日 08:00
 - [Quantifying distribution shifts in single-cell data with scXMatch](https://www.biorxiv.org/content/10.1101/2025.06.25.661473v1?rss=1) / 06月27日 08:00
 - [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661237v1?rss=1) / 06月27日 08:00
-- [Cleanifier: A fast and lightweight k-mer based tool to remove contamination in microbial sequence data](https://www.biorxiv.org/content/10.1101/2025.06.24.661305v1?rss=1) / 06月27日 08:00
-- [A Clarifying Perspective on Bacterial Pseudo-Receiver Domains](https://www.biorxiv.org/content/10.1101/2025.06.23.661182v1?rss=1) / 06月27日 08:00
-- [Integrated analysis of crosslink-ligation data for the detection of RNA 2D/3D structures and interactions in vivo.](https://www.biorxiv.org/content/10.1101/2025.06.24.661343v1?rss=1) / 06月27日 08:00
-- [Optimization of denoising and filtering parameters of DADA2 for QIIME2 amplicon metagenomics data analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661437v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
