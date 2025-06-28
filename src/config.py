@@ -8,10 +8,8 @@ RSS_FEEDS = {
         "https://polebug.github.io/atom.xml",
         "https://imzm.im/feed/",
         "https://hellogithub.com/rss",
-        "https://immmmm.com/feed",
         "https://www.longluo.me/atom.xml",
         "https://owlswims.com/feed/",
-        "https://song.al/feed.xml",
         "https://1q43.blog/feed/",
         "https://ameow.xyz/feed.xml",
         "https://justgoidea.com/rss.xml",
@@ -40,7 +38,6 @@ RSS_FEEDS = {
         "https://xlog.dreamo.ink/feed",
         "https://hutusi.com/feed.xml",
         "https://thirdshire.com/index.xml",
-        "https://www.owenyoung.com/atom.xml",
         "https://xingbianren.cn/feed.php",
         "https://www.darknavy.org/zh/index.xml",
         "https://bamboobone9.com/index.xml",
@@ -48,9 +45,10 @@ RSS_FEEDS = {
         "https://www.gaojinan.com/feed",
         "https://tw93.fun/feed.xml",
         "https://anotherdayu.com/feed/",
-        "https://www.supertechfans.com/cn/index.xml",
         "https://feeds.appinn.com/appinns/",
-        "https://sspai.com/feed"
+        "https://www.landiannews.com/feed",
+        "https://feedx.net/rss/one.xml"
+
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
@@ -60,4 +58,4 @@ RSS_FEEDS = {
     ]
 }
 
-MAX_ARTICLES = 20
+MAX_ARTICLES = 40
