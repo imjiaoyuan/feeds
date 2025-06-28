@@ -28,6 +28,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Advancing in silico drug design with Bayesian refinement of AlphaFold models](https://www.biorxiv.org/content/10.1101/2025.06.25.661454v1?rss=1) / 06月27日 08:00
 - [Detecting and Quantifying Networks of Biological Kinship via Exponential Family Random Graph Models](https://www.biorxiv.org/content/10.1101/2025.06.25.661441v1?rss=1) / 06月27日 08:00
 - [EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust Analysis of Total RNA Sequencing from Extracellular Vesicles](https://www.biorxiv.org/content/10.1101/2025.06.24.660984v1?rss=1) / 06月27日 08:00
 - [Accelerating Virtual Directed Evolution of Proteins via Reinforcement Learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661516v1?rss=1) / 06月27日 08:00
@@ -47,5 +48,4 @@
 - [A Clarifying Perspective on Bacterial Pseudo-Receiver Domains](https://www.biorxiv.org/content/10.1101/2025.06.23.661182v1?rss=1) / 06月27日 08:00
 - [Integrated analysis of crosslink-ligation data for the detection of RNA 2D/3D structures and interactions in vivo.](https://www.biorxiv.org/content/10.1101/2025.06.24.661343v1?rss=1) / 06月27日 08:00
 - [Optimization of denoising and filtering parameters of DADA2 for QIIME2 amplicon metagenomics data analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661437v1?rss=1) / 06月27日 08:00
-- [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
