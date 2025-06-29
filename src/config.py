@@ -9,9 +9,7 @@ RSS_FEEDS = {
         "https://imzm.im/feed/",
         "https://hellogithub.com/rss",
         "https://www.longluo.me/atom.xml",
-        "https://owlswims.com/feed/",
         "https://1q43.blog/feed/",
-        "https://ameow.xyz/feed.xml",
         "https://justgoidea.com/rss.xml",
         "https://yukieyun.net/index.xml",
         "https://www.pseudoyu.com/feed.xml",
@@ -40,13 +38,10 @@ RSS_FEEDS = {
         "https://thirdshire.com/index.xml",
         "https://xingbianren.cn/feed.php",
         "https://www.darknavy.org/zh/index.xml",
-        "https://bamboobone9.com/index.xml",
         "https://www.wordpace.com/feed/",
         "https://www.gaojinan.com/feed",
         "https://tw93.fun/feed.xml",
         "https://anotherdayu.com/feed/",
-        "https://feeds.appinn.com/appinns/",
-        "https://www.landiannews.com/feed",
         "https://feedx.net/rss/one.xml"
 
     ],
