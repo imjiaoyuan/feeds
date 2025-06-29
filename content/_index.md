@@ -1,18 +1,18 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [如何面对假热情的人？](http://m.wufazhuce.com/question/4398) / 06:25
+- [喜悦](http://m.wufazhuce.com/article/6847) / 06:25
+- [VOL.4650](http://m.wufazhuce.com/one/4797) / 06:25
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 00:00
 
 **历史记录**
 - [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
 - [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 06月29日 18:35
-- [VOL.4649](http://m.wufazhuce.com/one/4818) / 06月29日 06:25
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
-- [如是我闻](http://m.wufazhuce.com/article/6843) / 06月28日 06:25
-- [VOL.4648](http://m.wufazhuce.com/one/4799) / 06月28日 06:25
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 - [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
