@@ -48,6 +48,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Alignment-free Bacterial Taxonomy Classification with Genomic Language Models](https://www.biorxiv.org/content/10.1101/2025.06.27.662019v1?rss=1) / 06月28日 08:00
+- [Unsupervised Multi-scale Segmentation of Cellular Cryo-electron Tomograms with Stable Diffusion Foundation Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661425v1?rss=1) / 06月28日 08:00
+- [Unveiling the genetic basis of the low pH response in the acidophilic yeast Maudiozyma bulderi as a potential host for biorefinery](https://www.biorxiv.org/content/10.1101/2025.06.27.661920v1?rss=1) / 06月28日 08:00
+- [Asian pika populations track local glaciation events through the Pleistocene](https://www.biorxiv.org/content/10.1101/2025.06.25.661461v1?rss=1) / 06月28日 08:00
 - [Long-read transcriptome assembly reveals vast isoform diversity in the placenta associated with metabolic and endocrine function](https://www.biorxiv.org/content/10.1101/2025.06.26.661362v1?rss=1) / 06月28日 08:00
 - [Interpreting Attention Mechanisms in Genomic Transformer Models: A Framework for Biological Insights](https://www.biorxiv.org/content/10.1101/2025.06.26.661544v1?rss=1) / 06月27日 08:00
 - [STRESS: Spatial Transcriptome Resolution Enhancing Method based on the State Space Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661624v1?rss=1) / 06月27日 08:00
@@ -77,8 +81,6 @@
 - [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
 - [Comparative performance of reference-based metagenomic tools to identify species-level taxa among families of bacteria: benchmarking Mycobacteriaceae and Neisseriaceae](https://www.biorxiv.org/content/10.1101/2025.06.23.661092v1?rss=1) / 06月27日 08:00
 - [Polymorphisms, Solvent Accessibility, and Evolutionary Conservation of Influenza A Virus PB1 Protein](https://www.biorxiv.org/content/10.1101/2025.06.23.661066v1?rss=1) / 06月27日 08:00
-- [Tests for segregation distortion in higher ploidy F1 populations](https://www.biorxiv.org/content/10.1101/2025.06.23.661114v1?rss=1) / 06月27日 08:00
-- [Tracking biological hallucinations in single-cell perturbation predictions using scArchon, a comprehensive benchmarking platform](https://www.biorxiv.org/content/10.1101/2025.06.23.661046v1?rss=1) / 06月27日 08:00
 - [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
 - [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
@@ -86,6 +88,4 @@
 - [Hybrid short- and long-read assembly of an experimentally evolved Sodalis glossinidius strain SgGmmC1*](https://www.biorxiv.org/content/10.1101/2025.06.26.659281v1?rss=1) / 06月27日 08:00
 - [A Benchmark of Modern Statistical Phasing Methods](https://www.biorxiv.org/content/10.1101/2025.06.24.660794v1?rss=1) / 06月27日 08:00
 - [Beyond benchmarking: an expert-guided consensus approach to spatially aware clustering](https://www.biorxiv.org/content/10.1101/2025.06.23.660861v1?rss=1) / 06月27日 08:00
-- [Red-wine gene networks associated with exceptional longevity in humans](https://www.biorxiv.org/content/10.1101/2025.06.21.660865v1?rss=1) / 06月27日 08:00
-- [Charting human hematopoiesis to understand B cell leukemia](https://www.nature.com/articles/s43018-025-00980-9) / 06月27日 08:00
 <!--rss-papers:end-->
