@@ -2,6 +2,9 @@
 <!--rss-blogs:start-->
 **今日更新**
 - [VOL.4649](http://m.wufazhuce.com/one/4818) / 06:25
+- [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 00:00
+- [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 00:00
+- [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 00:00
 
 **历史记录**
 - [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 06月28日 16:37
@@ -40,9 +43,6 @@
 - [谷歌推出命令行人工智能开发工具Gemini CLI 提供非常高的配额几乎免费使用](https://www.landiannews.com/archives/109544.html) / 06月26日 11:31
 - [年仅25岁的英国黑客IntelBroker被逮捕 竟然使用实名账号出售加密货币赃款](https://www.landiannews.com/archives/109538.html) / 06月26日 11:06
 - [腾讯云云原生开发产品CODING系列产品下线 停止新注册并在2028年9月停服](https://www.landiannews.com/archives/109537.html) / 06月26日 10:32
-- [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
-- [Gemini CLI 上线不到 1 小时就删除？谷歌发布了什么？](https://www.appinn.com/gemini-cli-google-published-then-deleted/) / 06月25日 19:18
-- [Good Enough Practices for Reproducible Computing](https://divingintogeneticsandgenomics.com/talk/2025-moderna-reproducible/) / 06月25日 19:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
