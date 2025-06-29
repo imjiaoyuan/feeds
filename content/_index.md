@@ -1,18 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
-- [2025-06-28](http://bamboobone9.com/posts/thoughts/2025-06-28/) / 14:10
-- [VOL.4649](http://m.wufazhuce.com/one/4818) / 06:25
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 00:00
 
 **历史记录**
-- [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 06月28日 16:37
-- [微软推出Windows 11 25H2首个测试版 带来1Password等密码管理器的高级集成](https://www.landiannews.com/archives/109579.html) / 06月28日 10:13
-- [微软确认Windows 11 25H2版将在晚些时候推出 通过eKB启用包完成更新](https://www.landiannews.com/archives/109578.html) / 06月28日 09:57
-- [如是我闻](http://m.wufazhuce.com/article/6843) / 06月28日 06:25
-- [VOL.4648](http://m.wufazhuce.com/one/4799) / 06月28日 06:25
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 - [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
@@ -20,29 +13,36 @@
 - [怎么给自己的人生加燃料，去成为期待的自己](https://manateelazycat.github.io/2025/06/28/stuck-somewhere/) / 06月28日 00:00
 - [为什么不用 Wayland?](https://manateelazycat.github.io/2025/06/28/why-not-use-wayland/) / 06月28日 00:00
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
-- [网友称相机电池没有3C标志被告知无法登机 事后发现是安检员理解问题](https://www.landiannews.com/archives/109577.html) / 06月27日 15:43
-- [Windows 10/11安全启动证书即将到期 若不更新系统将无法正常启动](https://www.landiannews.com/archives/109576.html) / 06月27日 15:28
-- [高一学生用 VB6 开发U盘自动弹窗工具，极致简洁实用](https://www.appinn.com/usb-popup-tool/) / 06月27日 15:22
-- [在被欧盟罚款5亿欧元后苹果修改开发者政策 不限外部购买但费率更加复杂](https://www.landiannews.com/archives/109575.html) / 06月27日 12:09
-- [安装VMware软件更新和补丁都是违反合同行为 博通对部分客户发出审计通知](https://www.landiannews.com/archives/109574.html) / 06月27日 11:08
-- [微软发布媒体创建工具新版本 可以创建包含Windows 11 6月更新的最新安装镜像](https://www.landiannews.com/archives/109573.html) / 06月27日 10:51
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
-- [微软改进Win11死机界面从蓝色换成黑色 同时加快信息收集仅需2秒即可完成重启](https://www.landiannews.com/archives/109553.html) / 06月27日 10:33
-- [微软澄清并确认无论PC是否满足Win11硬件要求均可获得Win10 ESU扩展安全更新](https://www.landiannews.com/archives/109552.html) / 06月27日 10:17
-- [微软将安全软件从Windows NT内核移出 避免再出现全球级的蓝屏死机事件](https://www.landiannews.com/archives/109551.html) / 06月27日 10:03
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
-- [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
-- [[图文教程] 部分玩家使用模拟器恢复白嫖的1年Perplexity Pro订阅 方法如下](https://www.landiannews.com/archives/109550.html) / 06月26日 16:40
-- [如何轻松搞定内网穿透和公网访问：P2P打洞直连和异地组网是个好办法](https://www.landiannews.com/archives/109534.html) / 06月26日 14:50
-- [喜报！Let’s Encrypt即将开测纯IP地址数字证书 无需域名但有效期仅6天](https://www.landiannews.com/archives/109549.html) / 06月26日 14:24
-- [2025-06-25](http://bamboobone9.com/posts/thoughts/2025-06-25/) / 06月26日 14:18
-- [网传部分机场开始严查充电宝3C认证标志 部分2024年及之前的充电宝可能无法登机](https://www.landiannews.com/archives/109548.html) / 06月26日 13:48
-- [22年后PNG图像终于发布第三版规范 带来APNG动态图/HDR/Exif元数据支持](https://www.landiannews.com/archives/109547.html) / 06月26日 13:27
-- [剪映国际版CapCut就使用条款争议发布回应：模板和分享等功能需要授权](https://www.landiannews.com/archives/109546.html) / 06月26日 12:03
-- [美国房产抵押贷款公司房利美和房地美计划允许将比特币等作为抵押资产](https://www.landiannews.com/archives/109545.html) / 06月26日 11:44
-- [谷歌推出命令行人工智能开发工具Gemini CLI 提供非常高的配额几乎免费使用](https://www.landiannews.com/archives/109544.html) / 06月26日 11:31
-- [年仅25岁的英国黑客IntelBroker被逮捕 竟然使用实名账号出售加密货币赃款](https://www.landiannews.com/archives/109538.html) / 06月26日 11:06
+- [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
+- [Good Enough Practices for Reproducible Computing](https://divingintogeneticsandgenomics.com/talk/2025-moderna-reproducible/) / 06月25日 19:00
+- [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
+- [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
+- [Bioinformatics upskilling workshop](https://divingintogeneticsandgenomics.com/talk/2025-fog-bioinfo/) / 06月24日 22:00
+- [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
+- [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
+- [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
+- [保持 KDE 使用 X11 Session 登录](https://manateelazycat.github.io/2025/06/23/kde-keep-x11-login/) / 06月23日 00:00
+- [卖国贼 琦善（下）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-xia-493008a6) / 06月22日 09:20
+- [周报 - 新的认知与流转](https://polebug.github.io/2025/06/21/plog_1/) / 06月21日 21:51
+- [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
+- [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
+- [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
+- [或许这样挺好](https://innei.in/notes/194) / 06月18日 00:33
+- [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
+- [育儿的一些日常](https://blog.codingnow.com/2025/06/kids.html) / 06月15日 18:52
+- [KubeCon China 2025 见闻](https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed) / 06月15日 17:43
+- [Next.js + Vite，这是什么新的操作？](https://innei.in/posts/Z-Turn/nextjs%2Bvite-hack-combined) / 06月14日 23:16
+- [万元户](https://yufree.cn/cn/2025/06/14/wanyuanhu/) / 06月14日 08:00
+- [怀念那些年的博客交换网络，所以我做了一个新的](https://1q43.blog/post/11361/) / 06月13日 12:53
+- [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) / 06月13日 07:35
+- [为琢磨如何脱罪，他绞尽脑汁](https://xingbianren.cn/post/306.html) / 06月11日 10:59
+- [篝火](https://anotherdayu.com/2025/7051/) / 06月11日 02:56
+- [与系统共舞](https://imzm.im/thinking-in-systems/) / 06月09日 17:36
+- [电梯的交互和调度](https://blog.codingnow.com/2025/06/elevator.html) / 06月09日 14:02
+- [芒种 | 2025 年 5 月小结](https://thirdshire.com/may-recap-2025/) / 06月09日 08:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
