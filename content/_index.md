@@ -1,6 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 18:35
+- [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 18:35
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 00:00
@@ -41,8 +43,6 @@
 - [为琢磨如何脱罪，他绞尽脑汁](https://xingbianren.cn/post/306.html) / 06月11日 10:59
 - [篝火](https://anotherdayu.com/2025/7051/) / 06月11日 02:56
 - [与系统共舞](https://imzm.im/thinking-in-systems/) / 06月09日 17:36
-- [电梯的交互和调度](https://blog.codingnow.com/2025/06/elevator.html) / 06月09日 14:02
-- [芒种 | 2025 年 5 月小结](https://thirdshire.com/may-recap-2025/) / 06月09日 08:45
 <!--rss-blogs:end-->
 ---
 # Research Papers
