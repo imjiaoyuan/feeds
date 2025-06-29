@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [VOL.4649](http://m.wufazhuce.com/one/4818) / 06:25
+
 **历史记录**
 - [GeoPort – 开源 iPhone 位置模拟器，支持 iOS 17、iOS 18[Windows/macOS/Linux]](https://www.appinn.com/geoport/) / 06月28日 16:37
 - [微软推出Windows 11 25H2首个测试版 带来1Password等密码管理器的高级集成](https://www.landiannews.com/archives/109579.html) / 06月28日 10:13
@@ -25,7 +28,6 @@
 - [微软将安全软件从Windows NT内核移出 避免再出现全球级的蓝屏死机事件](https://www.landiannews.com/archives/109551.html) / 06月27日 10:03
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4397) / 06月27日 06:25
 - [Audio Switcher – 用快捷键切换音箱和耳机，11 年历史，支持 Windows 7～11](https://www.appinn.com/audio-switcher/) / 06月26日 17:24
 - [[图文教程] 部分玩家使用模拟器恢复白嫖的1年Perplexity Pro订阅 方法如下](https://www.landiannews.com/archives/109550.html) / 06月26日 16:40
 - [如何轻松搞定内网穿透和公网访问：P2P打洞直连和异地组网是个好办法](https://www.landiannews.com/archives/109534.html) / 06月26日 14:50
