@@ -1,13 +1,14 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
-- [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 18:35
-- [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 18:35
-- [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 00:00
-- [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 00:00
-- [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 00:00
+- [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 00:00
 
 **历史记录**
+- [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
+- [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 06月29日 18:35
+- [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
+- [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
+- [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
@@ -42,7 +43,6 @@
 - [怀念那些年的博客交换网络，所以我做了一个新的](https://1q43.blog/post/11361/) / 06月13日 12:53
 - [科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html) / 06月13日 07:35
 - [为琢磨如何脱罪，他绞尽脑汁](https://xingbianren.cn/post/306.html) / 06月11日 10:59
-- [篝火](https://anotherdayu.com/2025/7051/) / 06月11日 02:56
 <!--rss-blogs:end-->
 ---
 # Research Papers
