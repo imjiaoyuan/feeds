@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [2025-06-28](http://bamboobone9.com/posts/thoughts/2025-06-28/) / 14:10
 - [VOL.4649](http://m.wufazhuce.com/one/4818) / 06:25
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 00:00
@@ -42,14 +43,20 @@
 - [美国房产抵押贷款公司房利美和房地美计划允许将比特币等作为抵押资产](https://www.landiannews.com/archives/109545.html) / 06月26日 11:44
 - [谷歌推出命令行人工智能开发工具Gemini CLI 提供非常高的配额几乎免费使用](https://www.landiannews.com/archives/109544.html) / 06月26日 11:31
 - [年仅25岁的英国黑客IntelBroker被逮捕 竟然使用实名账号出售加密货币赃款](https://www.landiannews.com/archives/109538.html) / 06月26日 11:06
-- [腾讯云云原生开发产品CODING系列产品下线 停止新注册并在2028年9月停服](https://www.landiannews.com/archives/109537.html) / 06月26日 10:32
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1?rss=1) / 06月28日 08:00
+- [Multimodal Benchmarking of Foundation Model Representations for Cellular Perturbation Response Prediction](https://www.biorxiv.org/content/10.1101/2025.06.26.661186v1?rss=1) / 06月28日 08:00
+- [Molecular dynamics reveals a novel Regulatory Ca+2-Binding Site in the Mitochondrial Calcium Uniporter](https://www.biorxiv.org/content/10.1101/2025.06.25.661581v1?rss=1) / 06月28日 08:00
+- [PatternExtract: A facile, scalable pipeline for point pattern generation from spatial imaging data](https://www.biorxiv.org/content/10.1101/2025.06.25.661424v1?rss=1) / 06月28日 08:00
+- [EC-Bench: A Benchmark for Enzyme Commission NumberPrediction](https://www.biorxiv.org/content/10.1101/2025.06.25.661207v1?rss=1) / 06月28日 08:00
+- [Navigating the Lipid Universe with LipidLibrarian: A Cross-Linked Database for Lipidomics Data Integration](https://www.biorxiv.org/content/10.1101/2025.06.26.661298v1?rss=1) / 06月28日 08:00
 - [Alignment-free Bacterial Taxonomy Classification with Genomic Language Models](https://www.biorxiv.org/content/10.1101/2025.06.27.662019v1?rss=1) / 06月28日 08:00
 - [Unsupervised Multi-scale Segmentation of Cellular Cryo-electron Tomograms with Stable Diffusion Foundation Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661425v1?rss=1) / 06月28日 08:00
+- [Mammal placental phenotypes are predictable from microRNA repertoires.](https://www.biorxiv.org/content/10.1101/2025.06.27.660101v1?rss=1) / 06月28日 08:00
 - [Unveiling the genetic basis of the low pH response in the acidophilic yeast Maudiozyma bulderi as a potential host for biorefinery](https://www.biorxiv.org/content/10.1101/2025.06.27.661920v1?rss=1) / 06月28日 08:00
 - [Asian pika populations track local glaciation events through the Pleistocene](https://www.biorxiv.org/content/10.1101/2025.06.25.661461v1?rss=1) / 06月28日 08:00
 - [Long-read transcriptome assembly reveals vast isoform diversity in the placenta associated with metabolic and endocrine function](https://www.biorxiv.org/content/10.1101/2025.06.26.661362v1?rss=1) / 06月28日 08:00
@@ -75,17 +82,10 @@
 - [Quantifying distribution shifts in single-cell data with scXMatch](https://www.biorxiv.org/content/10.1101/2025.06.25.661473v1?rss=1) / 06月27日 08:00
 - [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661237v1?rss=1) / 06月27日 08:00
 - [Cleanifier: A fast and lightweight k-mer based tool to remove contamination in microbial sequence data](https://www.biorxiv.org/content/10.1101/2025.06.24.661305v1?rss=1) / 06月27日 08:00
-- [A Clarifying Perspective on Bacterial Pseudo-Receiver Domains](https://www.biorxiv.org/content/10.1101/2025.06.23.661182v1?rss=1) / 06月27日 08:00
-- [Integrated analysis of crosslink-ligation data for the detection of RNA 2D/3D structures and interactions in vivo.](https://www.biorxiv.org/content/10.1101/2025.06.24.661343v1?rss=1) / 06月27日 08:00
-- [Optimization of denoising and filtering parameters of DADA2 for QIIME2 amplicon metagenomics data analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661437v1?rss=1) / 06月27日 08:00
-- [scHDeepInsight: A Hierarchical Deep Learning Framework for Precise Immune Cell Annotation in Single-Cell RNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.06.23.661045v1?rss=1) / 06月27日 08:00
-- [Comparative performance of reference-based metagenomic tools to identify species-level taxa among families of bacteria: benchmarking Mycobacteriaceae and Neisseriaceae](https://www.biorxiv.org/content/10.1101/2025.06.23.661092v1?rss=1) / 06月27日 08:00
-- [Polymorphisms, Solvent Accessibility, and Evolutionary Conservation of Influenza A Virus PB1 Protein](https://www.biorxiv.org/content/10.1101/2025.06.23.661066v1?rss=1) / 06月27日 08:00
 - [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
 - [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
 - [Methylation dynamics in the decades preceding acute myeloid leukaemia](https://www.biorxiv.org/content/10.1101/2025.06.26.661643v1?rss=1) / 06月27日 08:00
 - [Hybrid short- and long-read assembly of an experimentally evolved Sodalis glossinidius strain SgGmmC1*](https://www.biorxiv.org/content/10.1101/2025.06.26.659281v1?rss=1) / 06月27日 08:00
 - [A Benchmark of Modern Statistical Phasing Methods](https://www.biorxiv.org/content/10.1101/2025.06.24.660794v1?rss=1) / 06月27日 08:00
-- [Beyond benchmarking: an expert-guided consensus approach to spatially aware clustering](https://www.biorxiv.org/content/10.1101/2025.06.23.660861v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
