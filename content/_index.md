@@ -53,6 +53,7 @@
 - [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
 - [OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut](https://www.biorxiv.org/content/10.1101/2025.06.28.662088v1?rss=1) / 06月29日 08:00
 - [Design and Optimization of Multifunctional Peptide Candidates for Cosmeceutical Applications: Combining Anti-Inflammatory and Collagen-Boosting Properties](https://www.biorxiv.org/content/10.1101/2025.06.26.661667v1?rss=1) / 06月29日 08:00
+- [The human transcription factor occupancy landscape viewed using high-resolution in situ base-conversion strand-specific single-molecule chromatin accessibility mapping](https://www.biorxiv.org/content/10.1101/2025.06.27.662080v1?rss=1) / 06月29日 08:00
 - [Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1?rss=1) / 06月28日 08:00
 - [Multimodal Benchmarking of Foundation Model Representations for Cellular Perturbation Response Prediction](https://www.biorxiv.org/content/10.1101/2025.06.26.661186v1?rss=1) / 06月28日 08:00
 - [Molecular dynamics reveals a novel Regulatory Ca+2-Binding Site in the Mitochondrial Calcium Uniporter](https://www.biorxiv.org/content/10.1101/2025.06.25.661581v1?rss=1) / 06月28日 08:00
@@ -87,5 +88,4 @@
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
 - [Methylation dynamics in the decades preceding acute myeloid leukaemia](https://www.biorxiv.org/content/10.1101/2025.06.26.661643v1?rss=1) / 06月27日 08:00
 - [Hybrid short- and long-read assembly of an experimentally evolved Sodalis glossinidius strain SgGmmC1*](https://www.biorxiv.org/content/10.1101/2025.06.26.659281v1?rss=1) / 06月27日 08:00
-- [A Benchmark of Modern Statistical Phasing Methods](https://www.biorxiv.org/content/10.1101/2025.06.24.660794v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
