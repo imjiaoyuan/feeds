@@ -48,6 +48,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [MetaNet: a scalable and integrated tool for reproducible omics network analysis](https://www.biorxiv.org/content/10.1101/2025.06.26.661636v1?rss=1) / 06月29日 08:00
+- [Haplomatic: A Deep-Learning Tool for Adaptively Scaling Resolution in Genetic Mapping Studies](https://www.biorxiv.org/content/10.1101/2025.06.25.661582v1?rss=1) / 06月29日 08:00
 - [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
 - [OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut](https://www.biorxiv.org/content/10.1101/2025.06.28.662088v1?rss=1) / 06月29日 08:00
 - [Design and Optimization of Multifunctional Peptide Candidates for Cosmeceutical Applications: Combining Anti-Inflammatory and Collagen-Boosting Properties](https://www.biorxiv.org/content/10.1101/2025.06.26.661667v1?rss=1) / 06月29日 08:00
@@ -80,8 +82,6 @@
 - [Accurate variant effect estimation in FACS-based deep mutational scanning data with Lilace](https://www.biorxiv.org/content/10.1101/2025.06.24.661380v1?rss=1) / 06月27日 08:00
 - [Better data for better predictions: data curation improves deep learning for sgRNA/Cas9 prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661356v1?rss=1) / 06月27日 08:00
 - [SHADE: A Multilevel Bayesian Approach to Modeling Directional Spatial Associations in Tissues](https://www.biorxiv.org/content/10.1101/2025.06.24.661393v1?rss=1) / 06月27日 08:00
-- [codonGPT: Reinforcement learning on a generative language model optimizes RNA sequences under biological constraints](https://www.biorxiv.org/content/10.1101/2025.06.25.661500v1?rss=1) / 06月27日 08:00
-- [TX2P: A Proteogenomic Tool for Comprehensive Transcript Analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661260v1?rss=1) / 06月27日 08:00
 - [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
 - [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
