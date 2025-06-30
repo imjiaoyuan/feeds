@@ -47,6 +47,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 08:00
+
 **历史记录**
 - [MetaNet: a scalable and integrated tool for reproducible omics network analysis](https://www.biorxiv.org/content/10.1101/2025.06.26.661636v1?rss=1) / 06月29日 08:00
 - [Haplomatic: A Deep-Learning Tool for Adaptively Scaling Resolution in Genetic Mapping Studies](https://www.biorxiv.org/content/10.1101/2025.06.25.661582v1?rss=1) / 06月29日 08:00
@@ -87,5 +90,4 @@
 - [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
 - [Methylation dynamics in the decades preceding acute myeloid leukaemia](https://www.biorxiv.org/content/10.1101/2025.06.26.661643v1?rss=1) / 06月27日 08:00
-- [Hybrid short- and long-read assembly of an experimentally evolved Sodalis glossinidius strain SgGmmC1*](https://www.biorxiv.org/content/10.1101/2025.06.26.659281v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
