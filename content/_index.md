@@ -48,6 +48,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
+- [OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut](https://www.biorxiv.org/content/10.1101/2025.06.28.662088v1?rss=1) / 06月29日 08:00
+- [Design and Optimization of Multifunctional Peptide Candidates for Cosmeceutical Applications: Combining Anti-Inflammatory and Collagen-Boosting Properties](https://www.biorxiv.org/content/10.1101/2025.06.26.661667v1?rss=1) / 06月29日 08:00
 - [Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1?rss=1) / 06月28日 08:00
 - [Multimodal Benchmarking of Foundation Model Representations for Cellular Perturbation Response Prediction](https://www.biorxiv.org/content/10.1101/2025.06.26.661186v1?rss=1) / 06月28日 08:00
 - [Molecular dynamics reveals a novel Regulatory Ca+2-Binding Site in the Mitochondrial Calcium Uniporter](https://www.biorxiv.org/content/10.1101/2025.06.25.661581v1?rss=1) / 06月28日 08:00
@@ -79,9 +82,6 @@
 - [SHADE: A Multilevel Bayesian Approach to Modeling Directional Spatial Associations in Tissues](https://www.biorxiv.org/content/10.1101/2025.06.24.661393v1?rss=1) / 06月27日 08:00
 - [codonGPT: Reinforcement learning on a generative language model optimizes RNA sequences under biological constraints](https://www.biorxiv.org/content/10.1101/2025.06.25.661500v1?rss=1) / 06月27日 08:00
 - [TX2P: A Proteogenomic Tool for Comprehensive Transcript Analysis](https://www.biorxiv.org/content/10.1101/2025.06.24.661260v1?rss=1) / 06月27日 08:00
-- [Quantifying distribution shifts in single-cell data with scXMatch](https://www.biorxiv.org/content/10.1101/2025.06.25.661473v1?rss=1) / 06月27日 08:00
-- [Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661237v1?rss=1) / 06月27日 08:00
-- [Cleanifier: A fast and lightweight k-mer based tool to remove contamination in microbial sequence data](https://www.biorxiv.org/content/10.1101/2025.06.24.661305v1?rss=1) / 06月27日 08:00
 - [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
 - [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
 - [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
