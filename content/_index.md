@@ -1,10 +1,12 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 06:25
+- [人海](http://m.wufazhuce.com/article/6846) / 06:25
+- [VOL.4651](http://m.wufazhuce.com/one/4802) / 06:25
+
 **历史记录**
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
-- [如何面对假热情的人？](http://m.wufazhuce.com/question/4398) / 06月30日 06:25
-- [喜悦](http://m.wufazhuce.com/article/6847) / 06月30日 06:25
-- [VOL.4650](http://m.wufazhuce.com/one/4797) / 06月30日 06:25
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
 - [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 06月29日 18:35
