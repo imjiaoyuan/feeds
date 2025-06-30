@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **历史记录**
+- [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [如何面对假热情的人？](http://m.wufazhuce.com/question/4398) / 06月30日 06:25
 - [喜悦](http://m.wufazhuce.com/article/6847) / 06月30日 06:25
 - [VOL.4650](http://m.wufazhuce.com/one/4797) / 06月30日 06:25
@@ -40,7 +41,6 @@
 - [育儿的一些日常](https://blog.codingnow.com/2025/06/kids.html) / 06月15日 18:52
 - [KubeCon China 2025 见闻](https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed) / 06月15日 17:43
 - [Next.js + Vite，这是什么新的操作？](https://innei.in/posts/Z-Turn/nextjs%2Bvite-hack-combined) / 06月14日 23:16
-- [万元户](https://yufree.cn/cn/2025/06/14/wanyuanhu/) / 06月14日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
