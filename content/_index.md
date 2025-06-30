@@ -48,8 +48,10 @@
 **历史记录**
 - [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
 - [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
+- [Simultaneous epigenomic profiling and regulatory activity measurement using e2MPRA](https://www.biorxiv.org/content/10.1101/2025.06.26.661849v1?rss=1) / 06月30日 08:00
 - [Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1?rss=1) / 06月30日 08:00
 - [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
+- [Deciphering how dog roses with an odd chromosome copy number sexually reproduce](https://www.nature.com/articles/d41586-025-02048-1) / 06月30日 08:00
 - [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
 - [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 06月30日 08:00
 - [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 06月30日 08:00
@@ -84,6 +86,4 @@
 - [AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1?rss=1) / 06月27日 08:00
 - [BioImageSuiteLite: An Interactive Open-Source Platform for Automated Detection and Analysis of Transient Events in Time-Lapse Microscopy](https://www.biorxiv.org/content/10.1101/2025.06.24.661279v1?rss=1) / 06月27日 08:00
 - [A DNA Sequence Imaging Approach to Predict Splice Sites Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.06.24.661415v1?rss=1) / 06月27日 08:00
-- [MultiAlloDriver: a multi-model method to predict and identify cancer driver mutations](https://www.biorxiv.org/content/10.1101/2025.06.25.661496v1?rss=1) / 06月27日 08:00
-- [Accurate variant effect estimation in FACS-based deep mutational scanning data with Lilace](https://www.biorxiv.org/content/10.1101/2025.06.24.661380v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
