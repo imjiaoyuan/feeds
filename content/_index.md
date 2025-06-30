@@ -48,6 +48,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 08:00
+- [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 08:00
+- [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 08:00
 - [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 08:00
 
 **历史记录**
@@ -87,7 +90,4 @@
 - [Better data for better predictions: data curation improves deep learning for sgRNA/Cas9 prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661356v1?rss=1) / 06月27日 08:00
 - [SHADE: A Multilevel Bayesian Approach to Modeling Directional Spatial Associations in Tissues](https://www.biorxiv.org/content/10.1101/2025.06.24.661393v1?rss=1) / 06月27日 08:00
 - [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
-- [Chromosome-scale genome assembly for Yellow Wood sorrel, Oxalis stricta](https://www.biorxiv.org/content/10.1101/2025.06.26.661616v1?rss=1) / 06月27日 08:00
-- [On the use of generative models for evolutionary inference of malaria vectors from genomic data](https://www.biorxiv.org/content/10.1101/2025.06.26.661760v1?rss=1) / 06月27日 08:00
-- [Methylation dynamics in the decades preceding acute myeloid leukaemia](https://www.biorxiv.org/content/10.1101/2025.06.26.661643v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
