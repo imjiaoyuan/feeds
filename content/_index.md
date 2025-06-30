@@ -46,7 +46,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
 - [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
+- [Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1?rss=1) / 06月30日 08:00
 - [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
 - [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
 - [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 06月30日 08:00
@@ -84,6 +86,4 @@
 - [A DNA Sequence Imaging Approach to Predict Splice Sites Using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.06.24.661415v1?rss=1) / 06月27日 08:00
 - [MultiAlloDriver: a multi-model method to predict and identify cancer driver mutations](https://www.biorxiv.org/content/10.1101/2025.06.25.661496v1?rss=1) / 06月27日 08:00
 - [Accurate variant effect estimation in FACS-based deep mutational scanning data with Lilace](https://www.biorxiv.org/content/10.1101/2025.06.24.661380v1?rss=1) / 06月27日 08:00
-- [Better data for better predictions: data curation improves deep learning for sgRNA/Cas9 prediction](https://www.biorxiv.org/content/10.1101/2025.06.24.661356v1?rss=1) / 06月27日 08:00
-- [Hybrid-metagenomics reveal off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria.](https://www.biorxiv.org/content/10.1101/2025.06.27.660518v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
