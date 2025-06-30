@@ -1,12 +1,10 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [如何面对假热情的人？](http://m.wufazhuce.com/question/4398) / 06:25
-- [喜悦](http://m.wufazhuce.com/article/6847) / 06:25
-- [VOL.4650](http://m.wufazhuce.com/one/4797) / 06:25
-- [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 00:00
-
 **历史记录**
+- [如何面对假热情的人？](http://m.wufazhuce.com/question/4398) / 06月30日 06:25
+- [喜悦](http://m.wufazhuce.com/article/6847) / 06月30日 06:25
+- [VOL.4650](http://m.wufazhuce.com/one/4797) / 06月30日 06:25
+- [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
 - [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 06月29日 18:35
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
@@ -47,14 +45,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 08:00
-- [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 08:00
-- [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 08:00
-- [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 08:00
-- [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 08:00
-
 **历史记录**
+- [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
+- [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
+- [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
+- [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 06月30日 08:00
+- [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 06月30日 08:00
 - [MetaNet: a scalable and integrated tool for reproducible omics network analysis](https://www.biorxiv.org/content/10.1101/2025.06.26.661636v1?rss=1) / 06月29日 08:00
 - [Haplomatic: A Deep-Learning Tool for Adaptively Scaling Resolution in Genetic Mapping Studies](https://www.biorxiv.org/content/10.1101/2025.06.25.661582v1?rss=1) / 06月29日 08:00
 - [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
