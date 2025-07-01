@@ -52,6 +52,7 @@
 - [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 07月01日 08:00
 - [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 07月01日 08:00
 - [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 07月01日 08:00
+- [Rice QTL hotspots related with seed grain size, shape, weight, and color based on genome wide association study and linkage mapping](https://www.nature.com/articles/s41598-025-05814-3) / 07月01日 08:00
 - [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
 - [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 07月01日 08:00
 - [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 07月01日 08:00
@@ -68,13 +69,9 @@
 - [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 07月01日 08:00
 - [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
+- [Evolutionary conservation of the grape sex-determining region in angiosperms and emergence of dioecy in Vitaceae](https://www.nature.com/articles/s41467-025-61387-9) / 07月01日 08:00
+- [Accounting for population structure and data quality in demographic inference with linkage disequilibrium methods](https://www.nature.com/articles/s41467-025-61378-w) / 07月01日 08:00
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
-- [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
-- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
-- [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
-- [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
-- [A genetic algorithm-based ensemble model for efficiently identifying interleukin 6 inducing peptides](https://www.nature.com/articles/s41598-025-05491-2) / 07月01日 08:00
-- [Single-cell transcriptomics analysis reveals a disrupted NK-T cell interaction network in liver metastatic cancer](https://www.nature.com/articles/s41598-025-06241-0) / 07月01日 08:00
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
 - [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
 - [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
@@ -86,4 +83,7 @@
 - [Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1?rss=1) / 06月30日 08:00
 - [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
 - [Deciphering how dog roses with an odd chromosome copy number sexually reproduce](https://www.nature.com/articles/d41586-025-02048-1) / 06月30日 08:00
+- [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
+- [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 06月30日 08:00
+- [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 06月30日 08:00
 <!--rss-papers:end-->
