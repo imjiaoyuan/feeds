@@ -55,6 +55,7 @@
 - [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
 - [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 07月01日 08:00
 - [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 07月01日 08:00
+- [Independent evolution of betulin biosynthesis in Inonotus obliquus](https://www.nature.com/articles/s41598-025-05414-1) / 07月01日 08:00
 - [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 07月01日 08:00
 - [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
 - [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
@@ -85,5 +86,4 @@
 - [Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1?rss=1) / 06月30日 08:00
 - [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
 - [Deciphering how dog roses with an odd chromosome copy number sexually reproduce](https://www.nature.com/articles/d41586-025-02048-1) / 06月30日 08:00
-- [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
 <!--rss-papers:end-->
