@@ -48,6 +48,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
+- [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
 - [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
 - [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
 - [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
@@ -86,6 +88,4 @@
 - [Advancing in silico drug design with Bayesian refinement of AlphaFold models](https://www.biorxiv.org/content/10.1101/2025.06.25.661454v1?rss=1) / 06月27日 08:00
 - [Detecting and Quantifying Networks of Biological Kinship via Exponential Family Random Graph Models](https://www.biorxiv.org/content/10.1101/2025.06.25.661441v1?rss=1) / 06月27日 08:00
 - [EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust Analysis of Total RNA Sequencing from Extracellular Vesicles](https://www.biorxiv.org/content/10.1101/2025.06.24.660984v1?rss=1) / 06月27日 08:00
-- [Accelerating Virtual Directed Evolution of Proteins via Reinforcement Learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661516v1?rss=1) / 06月27日 08:00
-- [PHbinder and PSGM: A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification](https://www.biorxiv.org/content/10.1101/2025.06.25.661428v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
