@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 08:00
 - [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 06:25
 - [人海](http://m.wufazhuce.com/article/6846) / 06:25
 - [VOL.4651](http://m.wufazhuce.com/one/4802) / 06:25
@@ -42,7 +43,6 @@
 - [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
 - [育儿的一些日常](https://blog.codingnow.com/2025/06/kids.html) / 06月15日 18:52
 - [KubeCon China 2025 见闻](https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed) / 06月15日 17:43
-- [Next.js + Vite，这是什么新的操作？](https://innei.in/posts/Z-Turn/nextjs%2Bvite-hack-combined) / 06月14日 23:16
 <!--rss-blogs:end-->
 ---
 # Research Papers
