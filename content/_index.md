@@ -1,11 +1,13 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 06:25
+- [葬风](http://m.wufazhuce.com/article/6848) / 06:25
+- [VOL.4652](http://m.wufazhuce.com/one/4801) / 06:25
+
 **历史记录**
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
-- [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 07月01日 06:25
-- [人海](http://m.wufazhuce.com/article/6846) / 07月01日 06:25
-- [VOL.4651](http://m.wufazhuce.com/one/4802) / 07月01日 06:25
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
@@ -59,6 +61,7 @@
 - [Independent evolution of betulin biosynthesis in Inonotus obliquus](https://www.nature.com/articles/s41598-025-05414-1) / 07月01日 08:00
 - [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 07月01日 08:00
 - [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
+- [Variable selection strategies for genomic prediction of growth and carcass related traits in experimental Nellore cattle herds under different selection criteria](https://www.nature.com/articles/s41598-025-06949-z) / 07月01日 08:00
 - [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
 - [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 07月01日 08:00
 - [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 07月01日 08:00
@@ -74,6 +77,8 @@
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
 - [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
 - [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
+- [Engineering M13 bacteriophage to display HER2 mimotopes on pVIII for vaccine development](https://www.nature.com/articles/s41598-025-08032-z) / 07月01日 08:00
+- [Single-cell RNA sequencing reveals the potential role of Postn(+) fibroblasts in promoting the progression of myocardial fibrosis after myocardial infarction](https://www.nature.com/articles/s41598-025-04990-6) / 07月01日 08:00
 - [BSCL2 and CDK5 are two genes associated with circadian rhythm disturbance in Parkinson’s disease](https://www.nature.com/articles/s41598-025-05580-2) / 07月01日 08:00
 - [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
 - [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
@@ -83,7 +88,4 @@
 - [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
 - [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
 - [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
-- [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
-- [Increased rate of de novo single nucleotide mutation in house mice born through assisted reproduction](https://www.biorxiv.org/content/10.1101/2025.06.27.662069v1?rss=1) / 06月30日 08:00
-- [Super-silencers are crucial for development and carcinogenesis in B cells.](https://www.biorxiv.org/content/10.1101/2025.06.27.662063v1?rss=1) / 06月30日 08:00
 <!--rss-papers:end-->
