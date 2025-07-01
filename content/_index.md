@@ -74,6 +74,7 @@
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
 - [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
 - [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
+- [BSCL2 and CDK5 are two genes associated with circadian rhythm disturbance in Parkinson’s disease](https://www.nature.com/articles/s41598-025-05580-2) / 07月01日 08:00
 - [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
 - [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
 - [A genetic algorithm-based ensemble model for efficiently identifying interleukin 6 inducing peptides](https://www.nature.com/articles/s41598-025-05491-2) / 07月01日 08:00
@@ -85,5 +86,4 @@
 - [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
 - [Increased rate of de novo single nucleotide mutation in house mice born through assisted reproduction](https://www.biorxiv.org/content/10.1101/2025.06.27.662069v1?rss=1) / 06月30日 08:00
 - [Super-silencers are crucial for development and carcinogenesis in B cells.](https://www.biorxiv.org/content/10.1101/2025.06.27.662063v1?rss=1) / 06月30日 08:00
-- [Simultaneous epigenomic profiling and regulatory activity measurement using e2MPRA](https://www.biorxiv.org/content/10.1101/2025.06.26.661849v1?rss=1) / 06月30日 08:00
 <!--rss-papers:end-->
