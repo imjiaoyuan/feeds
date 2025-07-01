@@ -1,10 +1,12 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 08:00
 - [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 06:25
 - [人海](http://m.wufazhuce.com/article/6846) / 06:25
 - [VOL.4651](http://m.wufazhuce.com/one/4802) / 06:25
+- [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 00:00
 
 **历史记录**
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
@@ -33,7 +35,6 @@
 - [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
 - [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
 - [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
-- [保持 KDE 使用 X11 Session 登录](https://manateelazycat.github.io/2025/06/23/kde-keep-x11-login/) / 06月23日 00:00
 - [卖国贼 琦善（下）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-xia-493008a6) / 06月22日 09:20
 - [周记 ＃1 - 新的认知与流转](https://polebug.github.io/2025/06/21/plog_1/) / 06月21日 21:51
 - [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
@@ -42,16 +43,23 @@
 - [或许这样挺好](https://innei.in/notes/194) / 06月18日 00:33
 - [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
 - [育儿的一些日常](https://blog.codingnow.com/2025/06/kids.html) / 06月15日 18:52
-- [KubeCon China 2025 见闻](https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed) / 06月15日 17:43
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 08:00
+- [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 08:00
+- [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 08:00
+- [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 08:00
+- [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 08:00
 - [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 08:00
 - [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 08:00
+- [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 08:00
 - [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 08:00
+- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 08:00
+- [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 08:00
 
 **历史记录**
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
@@ -82,12 +90,4 @@
 - [Navigating the Lipid Universe with LipidLibrarian: A Cross-Linked Database for Lipidomics Data Integration](https://www.biorxiv.org/content/10.1101/2025.06.26.661298v1?rss=1) / 06月28日 08:00
 - [Alignment-free Bacterial Taxonomy Classification with Genomic Language Models](https://www.biorxiv.org/content/10.1101/2025.06.27.662019v1?rss=1) / 06月28日 08:00
 - [Unsupervised Multi-scale Segmentation of Cellular Cryo-electron Tomograms with Stable Diffusion Foundation Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661425v1?rss=1) / 06月28日 08:00
-- [Mammal placental phenotypes are predictable from microRNA repertoires.](https://www.biorxiv.org/content/10.1101/2025.06.27.660101v1?rss=1) / 06月28日 08:00
-- [Unveiling the genetic basis of the low pH response in the acidophilic yeast Maudiozyma bulderi as a potential host for biorefinery](https://www.biorxiv.org/content/10.1101/2025.06.27.661920v1?rss=1) / 06月28日 08:00
-- [Asian pika populations track local glaciation events through the Pleistocene](https://www.biorxiv.org/content/10.1101/2025.06.25.661461v1?rss=1) / 06月28日 08:00
-- [Long-read transcriptome assembly reveals vast isoform diversity in the placenta associated with metabolic and endocrine function](https://www.biorxiv.org/content/10.1101/2025.06.26.661362v1?rss=1) / 06月28日 08:00
-- [Interpreting Attention Mechanisms in Genomic Transformer Models: A Framework for Biological Insights](https://www.biorxiv.org/content/10.1101/2025.06.26.661544v1?rss=1) / 06月27日 08:00
-- [STRESS: Spatial Transcriptome Resolution Enhancing Method based on the State Space Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661624v1?rss=1) / 06月27日 08:00
-- [Protein Dynamics at Different Timescales Unlock Access to Hidden Post-Translational Modification Sites](https://www.biorxiv.org/content/10.1101/2025.06.25.661537v1?rss=1) / 06月27日 08:00
-- [Multi-omics guided pathway and network analysis of clinical metabolomics and proteomics data](https://www.biorxiv.org/content/10.1101/2025.06.26.661095v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
