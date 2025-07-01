@@ -68,6 +68,12 @@
 - [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
+- [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
+- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
+- [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
+- [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
+- [A genetic algorithm-based ensemble model for efficiently identifying interleukin 6 inducing peptides](https://www.nature.com/articles/s41598-025-05491-2) / 07月01日 08:00
+- [Single-cell transcriptomics analysis reveals a disrupted NK-T cell interaction network in liver metastatic cancer](https://www.nature.com/articles/s41598-025-06241-0) / 07月01日 08:00
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
 - [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
 - [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
@@ -80,10 +86,4 @@
 - [’We couldn’t live without it’: the UCSC Genome Browser turns 25](https://www.nature.com/articles/d41586-025-02034-7) / 06月30日 08:00
 - [Deciphering how dog roses with an odd chromosome copy number sexually reproduce](https://www.nature.com/articles/d41586-025-02048-1) / 06月30日 08:00
 - [A genomic perspective on fungal diversity and evolution](https://www.nature.com/articles/s41579-025-01195-6) / 06月30日 08:00
-- [Phylogenetics and molecular evolution to understand and curb the HIV pandemic](https://www.nature.com/articles/s41579-025-01202-w) / 06月30日 08:00
-- [Tumor aneuploidy as a prognostic and predictive biomarker in immune checkpoint blockade](https://www.nature.com/articles/s41588-025-02226-x) / 06月30日 08:00
-- [MetaNet: a scalable and integrated tool for reproducible omics network analysis](https://www.biorxiv.org/content/10.1101/2025.06.26.661636v1?rss=1) / 06月29日 08:00
-- [Haplomatic: A Deep-Learning Tool for Adaptively Scaling Resolution in Genetic Mapping Studies](https://www.biorxiv.org/content/10.1101/2025.06.25.661582v1?rss=1) / 06月29日 08:00
-- [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
-- [OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut](https://www.biorxiv.org/content/10.1101/2025.06.28.662088v1?rss=1) / 06月29日 08:00
 <!--rss-papers:end-->
