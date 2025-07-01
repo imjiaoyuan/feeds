@@ -47,6 +47,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 08:00
+- [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 08:00
+- [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 08:00
+- [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 08:00
+
 **历史记录**
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
 - [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
@@ -84,8 +90,4 @@
 - [STRESS: Spatial Transcriptome Resolution Enhancing Method based on the State Space Model](https://www.biorxiv.org/content/10.1101/2025.06.25.661624v1?rss=1) / 06月27日 08:00
 - [Protein Dynamics at Different Timescales Unlock Access to Hidden Post-Translational Modification Sites](https://www.biorxiv.org/content/10.1101/2025.06.25.661537v1?rss=1) / 06月27日 08:00
 - [Multi-omics guided pathway and network analysis of clinical metabolomics and proteomics data](https://www.biorxiv.org/content/10.1101/2025.06.26.661095v1?rss=1) / 06月27日 08:00
-- [A Task-Specific Transfer Learning Approach to Enhancing Small Molecule Retention Time Prediction with Limited Data](https://www.biorxiv.org/content/10.1101/2025.06.26.661631v1?rss=1) / 06月27日 08:00
-- [Advancing in silico drug design with Bayesian refinement of AlphaFold models](https://www.biorxiv.org/content/10.1101/2025.06.25.661454v1?rss=1) / 06月27日 08:00
-- [Detecting and Quantifying Networks of Biological Kinship via Exponential Family Random Graph Models](https://www.biorxiv.org/content/10.1101/2025.06.25.661441v1?rss=1) / 06月27日 08:00
-- [EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust Analysis of Total RNA Sequencing from Extracellular Vesicles](https://www.biorxiv.org/content/10.1101/2025.06.24.660984v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
