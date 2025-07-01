@@ -49,25 +49,27 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 08:00
+- [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 08:00
 - [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 08:00
 - [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 08:00
 - [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 08:00
+- [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 08:00
 - [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 08:00
 - [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 08:00
+- [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 08:00
 - [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 08:00
 - [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 08:00
 - [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 08:00
 - [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 08:00
 - [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 08:00
 - [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 08:00
+- [Small non-coding RNAs have predicted roles in reproductive biology and transposable element regulation in the parasitic worm Strongyloides venezuelensis](https://www.nature.com/articles/s41598-025-01968-2) / 08:00
 - [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 08:00
 - [Benchmarking metabolic RNA labeling techniques for high-throughput single-cell RNA sequencing](https://www.nature.com/articles/s41467-025-61375-z) / 08:00
 - [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 08:00
 - [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 08:00
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 08:00
-- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 08:00
-- [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 08:00
 
 **历史记录**
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
@@ -88,6 +90,4 @@
 - [Haplomatic: A Deep-Learning Tool for Adaptively Scaling Resolution in Genetic Mapping Studies](https://www.biorxiv.org/content/10.1101/2025.06.25.661582v1?rss=1) / 06月29日 08:00
 - [DiPPER2 - a user-friendly pipeline for picking and evaluating taxon-specific PCR primers](https://www.biorxiv.org/content/10.1101/2025.06.26.661695v1?rss=1) / 06月29日 08:00
 - [OocystMeter, a machine-learning algorithm to count and measure Plasmodium oocysts, reveals clustering patterns in the Anopheles midgut](https://www.biorxiv.org/content/10.1101/2025.06.28.662088v1?rss=1) / 06月29日 08:00
-- [Design and Optimization of Multifunctional Peptide Candidates for Cosmeceutical Applications: Combining Anti-Inflammatory and Collagen-Boosting Properties](https://www.biorxiv.org/content/10.1101/2025.06.26.661667v1?rss=1) / 06月29日 08:00
-- [The human transcription factor occupancy landscape viewed using high-resolution in situ base-conversion strand-specific single-molecule chromatin accessibility mapping](https://www.biorxiv.org/content/10.1101/2025.06.27.662080v1?rss=1) / 06月29日 08:00
 <!--rss-papers:end-->
