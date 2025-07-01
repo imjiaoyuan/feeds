@@ -48,8 +48,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
 - [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
 - [Genomic Touchstone: Benchmarking Genomic Language Models in the Context of the Central Dogma](https://www.biorxiv.org/content/10.1101/2025.06.25.661622v1?rss=1) / 06月30日 08:00
+- [Increased rate of de novo single nucleotide mutation in house mice born through assisted reproduction](https://www.biorxiv.org/content/10.1101/2025.06.27.662069v1?rss=1) / 06月30日 08:00
 - [Super-silencers are crucial for development and carcinogenesis in B cells.](https://www.biorxiv.org/content/10.1101/2025.06.27.662063v1?rss=1) / 06月30日 08:00
 - [Simultaneous epigenomic profiling and regulatory activity measurement using e2MPRA](https://www.biorxiv.org/content/10.1101/2025.06.26.661849v1?rss=1) / 06月30日 08:00
 - [Comparative regulomics provides novel insight into the evolution of wood formation across dicot and conifer trees](https://www.biorxiv.org/content/10.1101/2025.06.28.661522v1?rss=1) / 06月30日 08:00
@@ -86,6 +88,4 @@
 - [EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust Analysis of Total RNA Sequencing from Extracellular Vesicles](https://www.biorxiv.org/content/10.1101/2025.06.24.660984v1?rss=1) / 06月27日 08:00
 - [Accelerating Virtual Directed Evolution of Proteins via Reinforcement Learning](https://www.biorxiv.org/content/10.1101/2025.06.25.661516v1?rss=1) / 06月27日 08:00
 - [PHbinder and PSGM: A Cascaded Framework for Epitope Prediction and HLA-I Allele Identification](https://www.biorxiv.org/content/10.1101/2025.06.25.661428v1?rss=1) / 06月27日 08:00
-- [AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1?rss=1) / 06月27日 08:00
-- [BioImageSuiteLite: An Interactive Open-Source Platform for Automated Detection and Analysis of Transient Events in Time-Lapse Microscopy](https://www.biorxiv.org/content/10.1101/2025.06.24.661279v1?rss=1) / 06月27日 08:00
 <!--rss-papers:end-->
