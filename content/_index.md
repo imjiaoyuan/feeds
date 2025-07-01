@@ -1,14 +1,12 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 20:59
-- [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 08:00
-- [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 06:25
-- [人海](http://m.wufazhuce.com/article/6846) / 06:25
-- [VOL.4651](http://m.wufazhuce.com/one/4802) / 06:25
-- [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 00:00
-
 **历史记录**
+- [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
+- [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
+- [工作中，你遇见的最大的困难是什么？](http://m.wufazhuce.com/question/4399) / 07月01日 06:25
+- [人海](http://m.wufazhuce.com/article/6846) / 07月01日 06:25
+- [VOL.4651](http://m.wufazhuce.com/one/4802) / 07月01日 06:25
+- [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
@@ -47,31 +45,29 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 08:00
-- [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 08:00
-- [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 08:00
-- [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 08:00
-- [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 08:00
-- [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 08:00
-- [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 08:00
-- [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 08:00
-- [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 08:00
-- [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 08:00
-- [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 08:00
-- [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 08:00
-- [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 08:00
-- [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 08:00
-- [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 08:00
-- [Small non-coding RNAs have predicted roles in reproductive biology and transposable element regulation in the parasitic worm Strongyloides venezuelensis](https://www.nature.com/articles/s41598-025-01968-2) / 08:00
-- [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 08:00
-- [Benchmarking metabolic RNA labeling techniques for high-throughput single-cell RNA sequencing](https://www.nature.com/articles/s41467-025-61375-z) / 08:00
-- [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 08:00
-- [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 08:00
-- [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 08:00
-- [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 08:00
-
 **历史记录**
+- [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 07月01日 08:00
+- [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 07月01日 08:00
+- [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 07月01日 08:00
+- [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 07月01日 08:00
+- [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 07月01日 08:00
+- [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 07月01日 08:00
+- [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
+- [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 07月01日 08:00
+- [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 07月01日 08:00
+- [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 07月01日 08:00
+- [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
+- [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
+- [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 07月01日 08:00
+- [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 07月01日 08:00
+- [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 07月01日 08:00
+- [Small non-coding RNAs have predicted roles in reproductive biology and transposable element regulation in the parasitic worm Strongyloides venezuelensis](https://www.nature.com/articles/s41598-025-01968-2) / 07月01日 08:00
+- [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 07月01日 08:00
+- [Benchmarking metabolic RNA labeling techniques for high-throughput single-cell RNA sequencing](https://www.nature.com/articles/s41467-025-61375-z) / 07月01日 08:00
+- [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 07月01日 08:00
+- [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
+- [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
+- [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
 - [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
 - [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
