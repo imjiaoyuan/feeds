@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 10:55
 - [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 06:25
 - [葬风](http://m.wufazhuce.com/article/6848) / 06:25
 - [VOL.4652](http://m.wufazhuce.com/one/4801) / 06:25
@@ -42,12 +43,13 @@
 - [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
 - [或许这样挺好](https://innei.in/notes/194) / 06月18日 00:33
 - [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
-- [育儿的一些日常](https://blog.codingnow.com/2025/06/kids.html) / 06月15日 18:52
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
+- [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
 
 **历史记录**
@@ -88,6 +90,4 @@
 - [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
 - [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
 - [A genetic algorithm-based ensemble model for efficiently identifying interleukin 6 inducing peptides](https://www.nature.com/articles/s41598-025-05491-2) / 07月01日 08:00
-- [Single-cell transcriptomics analysis reveals a disrupted NK-T cell interaction network in liver metastatic cancer](https://www.nature.com/articles/s41598-025-06241-0) / 07月01日 08:00
-- [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
 <!--rss-papers:end-->
