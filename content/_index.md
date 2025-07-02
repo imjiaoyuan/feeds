@@ -2,6 +2,7 @@
 <!--rss-blogs:start-->
 **今日更新**
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 10:55
+- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 10:50
 - [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 06:25
 - [葬风](http://m.wufazhuce.com/article/6848) / 06:25
 - [VOL.4652](http://m.wufazhuce.com/one/4801) / 06:25
@@ -42,7 +43,6 @@
 - [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
 - [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
 - [或许这样挺好](https://innei.in/notes/194) / 06月18日 00:33
-- [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
