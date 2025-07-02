@@ -1,13 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 10:55
-- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 10:50
-- [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 06:25
-- [葬风](http://m.wufazhuce.com/article/6848) / 06:25
-- [VOL.4652](http://m.wufazhuce.com/one/4801) / 06:25
-
 **历史记录**
+- [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
+- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
+- [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 07月02日 06:25
+- [葬风](http://m.wufazhuce.com/article/6848) / 07月02日 06:25
+- [VOL.4652](http://m.wufazhuce.com/one/4801) / 07月02日 06:25
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
@@ -47,26 +45,27 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 08:00
-- [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 08:00
-- [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 08:00
-- [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 08:00
-- [Universal rules govern plasmid copy number](https://www.nature.com/articles/s41467-025-61202-5) / 08:00
-- [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
-- [Scaling laws of bacterial and archaeal plasmids](https://www.nature.com/articles/s41467-025-61205-2) / 08:00
-- [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 08:00
-- [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
-- [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 08:00
-- [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 08:00
-- [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
-- [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 08:00
-- [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 08:00
-- [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 08:00
-- [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 08:00
-- [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 08:00
-
 **历史记录**
+- [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 07月02日 08:00
+- [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 07月02日 08:00
+- [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 07月02日 08:00
+- [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 07月02日 08:00
+- [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) / 07月02日 08:00
+- [A genome from ancient Egypt](https://www.nature.com/articles/d41586-025-02036-5) / 07月02日 08:00
+- [The Somatic Mosaicism across Human Tissues Network](https://www.nature.com/articles/s41586-025-09096-7) / 07月02日 08:00
+- [Universal rules govern plasmid copy number](https://www.nature.com/articles/s41467-025-61202-5) / 07月02日 08:00
+- [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 07月02日 08:00
+- [Scaling laws of bacterial and archaeal plasmids](https://www.nature.com/articles/s41467-025-61205-2) / 07月02日 08:00
+- [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 07月02日 08:00
+- [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 07月02日 08:00
+- [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 07月02日 08:00
+- [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 07月02日 08:00
+- [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 07月02日 08:00
+- [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 07月02日 08:00
+- [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 07月02日 08:00
+- [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 07月02日 08:00
+- [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 07月02日 08:00
+- [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 07月02日 08:00
 - [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
 - [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
 - [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
@@ -87,7 +86,4 @@
 - [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
 - [Variable selection strategies for genomic prediction of growth and carcass related traits in experimental Nellore cattle herds under different selection criteria](https://www.nature.com/articles/s41598-025-06949-z) / 07月01日 08:00
 - [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
-- [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 07月01日 08:00
-- [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 07月01日 08:00
-- [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 07月01日 08:00
 <!--rss-papers:end-->
