@@ -49,10 +49,15 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
+- [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 08:00
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
+- [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 08:00
+- [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 08:00
+- [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 08:00
 
 **历史记录**
+- [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
 - [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
 - [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
 - [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 07月01日 08:00
@@ -85,9 +90,4 @@
 - [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
 - [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
 - [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
-- [Engineering M13 bacteriophage to display HER2 mimotopes on pVIII for vaccine development](https://www.nature.com/articles/s41598-025-08032-z) / 07月01日 08:00
-- [Single-cell RNA sequencing reveals the potential role of Postn(+) fibroblasts in promoting the progression of myocardial fibrosis after myocardial infarction](https://www.nature.com/articles/s41598-025-04990-6) / 07月01日 08:00
-- [BSCL2 and CDK5 are two genes associated with circadian rhythm disturbance in Parkinson’s disease](https://www.nature.com/articles/s41598-025-05580-2) / 07月01日 08:00
-- [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
-- [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
 <!--rss-papers:end-->
