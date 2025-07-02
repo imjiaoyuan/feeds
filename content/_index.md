@@ -47,9 +47,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
+
 **历史记录**
 - [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 07月01日 08:00
 - [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 07月01日 08:00
+- [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
 - [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 07月01日 08:00
 - [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 07月01日 08:00
 - [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 07月01日 08:00
@@ -81,11 +85,9 @@
 - [Single-cell RNA sequencing reveals the potential role of Postn(+) fibroblasts in promoting the progression of myocardial fibrosis after myocardial infarction](https://www.nature.com/articles/s41598-025-04990-6) / 07月01日 08:00
 - [BSCL2 and CDK5 are two genes associated with circadian rhythm disturbance in Parkinson’s disease](https://www.nature.com/articles/s41598-025-05580-2) / 07月01日 08:00
 - [Identifying diagnostic biomarkers for glaucoma based on transcriptome combined with Mendelian randomization](https://www.nature.com/articles/s41598-025-03781-3) / 07月01日 08:00
+- [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
 - [Machine learning-assisted decoding of temporal transcriptional dynamics via fluorescent timer](https://www.nature.com/articles/s41467-025-61279-y) / 07月01日 08:00
 - [A genetic algorithm-based ensemble model for efficiently identifying interleukin 6 inducing peptides](https://www.nature.com/articles/s41598-025-05491-2) / 07月01日 08:00
 - [Single-cell transcriptomics analysis reveals a disrupted NK-T cell interaction network in liver metastatic cancer](https://www.nature.com/articles/s41598-025-06241-0) / 07月01日 08:00
 - [CpGeneAge: multi-omics aging clocks associated with Nf-κB signaling pathway in aging](https://www.biorxiv.org/content/10.1101/2025.06.26.661785v1?rss=1) / 06月30日 08:00
-- [Quantitative analysis of genetic interactions in human cells from genome-wide CRISPR-Cas9 screens](https://www.biorxiv.org/content/10.1101/2025.06.30.662330v1?rss=1) / 06月30日 08:00
-- [Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells](https://www.biorxiv.org/content/10.1101/2025.06.26.661577v1?rss=1) / 06月30日 08:00
-- [Molecular characterization of unique multi-domain harbouring fungal rhodopsin for establishing their novel opto-synthetic biological usages](https://www.biorxiv.org/content/10.1101/2025.06.26.661701v1?rss=1) / 06月30日 08:00
 <!--rss-papers:end-->
