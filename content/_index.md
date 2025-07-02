@@ -1,11 +1,13 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [逃避的时候，你会感到愧疚吗？](http://m.wufazhuce.com/question/4401) / 06:25
+- [夏日去信](http://m.wufazhuce.com/article/6849) / 06:25
+- [VOL.4653](http://m.wufazhuce.com/one/4803) / 06:25
+
 **历史记录**
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
 - [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
-- [为什么人很难走出自己的舒适区？](http://m.wufazhuce.com/question/4400) / 07月02日 06:25
-- [葬风](http://m.wufazhuce.com/article/6848) / 07月02日 06:25
-- [VOL.4652](http://m.wufazhuce.com/one/4801) / 07月02日 06:25
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
