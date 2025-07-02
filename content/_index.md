@@ -49,6 +49,7 @@
 - [Title: KymoTip: High-throughput Characterization of Tip-growth Dynamics in Plant Cells](https://www.biorxiv.org/content/10.1101/2025.06.27.661917v1?rss=1) / 07月02日 08:00
 - [DESpace2: detection of differential spatial patterns in spatial omics data](https://www.biorxiv.org/content/10.1101/2025.06.30.662268v1?rss=1) / 07月02日 08:00
 - [Machine learning-based structural classification of lytic polysaccharide monooxygenases](https://www.biorxiv.org/content/10.1101/2025.07.02.662747v1?rss=1) / 07月02日 08:00
+- [Multi-season analysis reveals hundreds of drought-responsive genes in sorghum](https://www.biorxiv.org/content/10.1101/2025.06.27.662006v1?rss=1) / 07月02日 08:00
 - [Perplexity as a Metric for Isoform Diversity in the Human Transcriptome](https://www.biorxiv.org/content/10.1101/2025.07.02.662769v1?rss=1) / 07月02日 08:00
 - [microRNA-206 is a reproducibly sensitive and specific plasma biomarker of amyotrophic lateral sclerosis](https://www.biorxiv.org/content/10.1101/2025.06.27.662023v1?rss=1) / 07月02日 08:00
 - [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 07月02日 08:00
@@ -85,5 +86,4 @@
 - [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 07月01日 08:00
 - [Rice QTL hotspots related with seed grain size, shape, weight, and color based on genome wide association study and linkage mapping](https://www.nature.com/articles/s41598-025-05814-3) / 07月01日 08:00
 - [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
-- [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 07月01日 08:00
 <!--rss-papers:end-->
