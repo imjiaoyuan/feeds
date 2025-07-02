@@ -55,6 +55,7 @@
 - [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
 - [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 08:00
+- [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 08:00
 - [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 08:00
 - [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 08:00
 - [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 08:00
@@ -89,5 +90,4 @@
 - [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 07月01日 08:00
 - [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
-- [Evolutionary conservation of the grape sex-determining region in angiosperms and emergence of dioecy in Vitaceae](https://www.nature.com/articles/s41467-025-61387-9) / 07月01日 08:00
 <!--rss-papers:end-->
