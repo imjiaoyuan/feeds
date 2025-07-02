@@ -46,6 +46,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Machine learning-based structural classification of lytic polysaccharide monooxygenases](https://www.biorxiv.org/content/10.1101/2025.07.02.662747v1?rss=1) / 07月02日 08:00
+- [microRNA-206 is a reproducibly sensitive and specific plasma biomarker of amyotrophic lateral sclerosis](https://www.biorxiv.org/content/10.1101/2025.06.27.662023v1?rss=1) / 07月02日 08:00
 - [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 07月02日 08:00
 - [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 07月02日 08:00
 - [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 07月02日 08:00
@@ -84,6 +86,4 @@
 - [Independent evolution of betulin biosynthesis in Inonotus obliquus](https://www.nature.com/articles/s41598-025-05414-1) / 07月01日 08:00
 - [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 07月01日 08:00
 - [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
-- [Variable selection strategies for genomic prediction of growth and carcass related traits in experimental Nellore cattle herds under different selection criteria](https://www.nature.com/articles/s41598-025-06949-z) / 07月01日 08:00
-- [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
 <!--rss-papers:end-->
