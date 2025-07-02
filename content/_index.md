@@ -51,12 +51,15 @@
 - [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
 - [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 08:00
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
+- [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
+- [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 08:00
 - [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 08:00
 - [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 08:00
 - [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 08:00
 
 **历史记录**
+- [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
 - [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
 - [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
 - [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
@@ -87,7 +90,4 @@
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
 - [Evolutionary conservation of the grape sex-determining region in angiosperms and emergence of dioecy in Vitaceae](https://www.nature.com/articles/s41467-025-61387-9) / 07月01日 08:00
 - [Accounting for population structure and data quality in demographic inference with linkage disequilibrium methods](https://www.nature.com/articles/s41467-025-61378-w) / 07月01日 08:00
-- [De novo Genome Assembly and Annotation of 12 Fungi Associated with Fruit Tree Decline Syndrome in ON, Canada](https://www.nature.com/articles/s41597-025-05192-5) / 07月01日 08:00
-- [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
-- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
 <!--rss-papers:end-->
