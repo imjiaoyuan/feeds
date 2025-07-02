@@ -48,6 +48,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 08:00
 - [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
 - [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 08:00
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
@@ -89,5 +90,4 @@
 - [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
 - [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
 - [Evolutionary conservation of the grape sex-determining region in angiosperms and emergence of dioecy in Vitaceae](https://www.nature.com/articles/s41467-025-61387-9) / 07月01日 08:00
-- [Accounting for population structure and data quality in demographic inference with linkage disequilibrium methods](https://www.nature.com/articles/s41467-025-61378-w) / 07月01日 08:00
 <!--rss-papers:end-->
