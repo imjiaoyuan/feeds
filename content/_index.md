@@ -48,12 +48,23 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 08:00
+- [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 08:00
+- [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 08:00
 - [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 08:00
+- [Universal rules govern plasmid copy number](https://www.nature.com/articles/s41467-025-61202-5) / 08:00
 - [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 08:00
+- [Scaling laws of bacterial and archaeal plasmids](https://www.nature.com/articles/s41467-025-61205-2) / 08:00
 - [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 08:00
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 08:00
+- [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 08:00
 - [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 08:00
+- [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 08:00
+- [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 08:00
+- [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 08:00
+- [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 08:00
+- [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 08:00
 
 **历史记录**
 - [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
@@ -79,15 +90,4 @@
 - [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 07月01日 08:00
 - [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 07月01日 08:00
 - [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 07月01日 08:00
-- [Small non-coding RNAs have predicted roles in reproductive biology and transposable element regulation in the parasitic worm Strongyloides venezuelensis](https://www.nature.com/articles/s41598-025-01968-2) / 07月01日 08:00
-- [Cell type and cell signalling innovations underlying mammalian pregnancy](https://www.nature.com/articles/s41559-025-02748-x) / 07月01日 08:00
-- [Benchmarking metabolic RNA labeling techniques for high-throughput single-cell RNA sequencing](https://www.nature.com/articles/s41467-025-61375-z) / 07月01日 08:00
-- [Spatial profiling of chromatin accessibility in formalin-fixed paraffin-embedded tissues](https://www.nature.com/articles/s41467-025-60882-3) / 07月01日 08:00
-- [Bridging cell morphological behaviors and molecular dynamics in multi-modal spatial omics with MorphLink](https://www.nature.com/articles/s41467-025-61142-0) / 07月01日 08:00
-- [Selfish mutations promote age-associated erosion of mtDNA integrity in mammals](https://www.nature.com/articles/s41467-025-60477-y) / 07月01日 08:00
-- [Evolutionary conservation of the grape sex-determining region in angiosperms and emergence of dioecy in Vitaceae](https://www.nature.com/articles/s41467-025-61387-9) / 07月01日 08:00
-- [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
-- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
-- [Engineering M13 bacteriophage to display HER2 mimotopes on pVIII for vaccine development](https://www.nature.com/articles/s41598-025-08032-z) / 07月01日 08:00
-- [Single-cell RNA sequencing reveals the potential role of Postn(+) fibroblasts in promoting the progression of myocardial fibrosis after myocardial infarction](https://www.nature.com/articles/s41598-025-04990-6) / 07月01日 08:00
 <!--rss-papers:end-->
