@@ -1,13 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [逃避的时候，你会感到愧疚吗？](http://m.wufazhuce.com/question/4401) / 06:25
-- [夏日去信](http://m.wufazhuce.com/article/6849) / 06:25
-- [VOL.4653](http://m.wufazhuce.com/one/4803) / 06:25
-- [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 00:00
-- [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 00:00
-
 **历史记录**
+- [逃避的时候，你会感到愧疚吗？](http://m.wufazhuce.com/question/4401) / 07月03日 06:25
+- [夏日去信](http://m.wufazhuce.com/article/6849) / 07月03日 06:25
+- [VOL.4653](http://m.wufazhuce.com/one/4803) / 07月03日 06:25
+- [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
+- [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
 - [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
@@ -47,13 +45,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 08:00
-- [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 08:00
-- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 08:00
-- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 08:00
-
 **历史记录**
+- [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 07月03日 08:00
+- [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 07月03日 08:00
+- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 07月03日 08:00
+- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 07月03日 08:00
 - [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
 - [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
 - [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
