@@ -47,6 +47,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 08:00
+
 **历史记录**
 - [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
 - [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
@@ -87,5 +90,4 @@
 - [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
 - [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
 - [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
-- [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 07月01日 08:00
 <!--rss-papers:end-->
