@@ -48,6 +48,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
 - [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
 - [nf-core/viralmetagenome: A Novel Pipeline for Untargeted Viral Genome Reconstruction](https://www.biorxiv.org/content/10.1101/2025.06.27.661954v1?rss=1) / 07月02日 08:00
 - [Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings](https://www.biorxiv.org/content/10.1101/2025.06.27.661958v1?rss=1) / 07月02日 08:00
@@ -87,5 +88,4 @@
 - [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
 - [Whole-genome sequencing in Galicia reveals male-biased pre-Islamic North African ancestry, subtle population structure, and micro-geographic patterns of disease risk](https://www.biorxiv.org/content/10.1101/2025.06.27.662083v1?rss=1) / 07月01日 08:00
 - [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 07月01日 08:00
-- [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
 <!--rss-papers:end-->
