@@ -48,6 +48,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 08:00
 - [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 08:00
 
 **历史记录**
@@ -89,5 +90,4 @@
 - [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
 - [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
 - [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
-- [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
 <!--rss-papers:end-->
