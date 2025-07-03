@@ -1,9 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4402) / 06:25
+- [遁兽于野](http://m.wufazhuce.com/article/6850) / 06:25
+- [VOL.4654](http://m.wufazhuce.com/one/4804) / 06:25
+
 **历史记录**
-- [逃避的时候，你会感到愧疚吗？](http://m.wufazhuce.com/question/4401) / 07月03日 06:25
-- [夏日去信](http://m.wufazhuce.com/article/6849) / 07月03日 06:25
-- [VOL.4653](http://m.wufazhuce.com/one/4803) / 07月03日 06:25
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
@@ -46,6 +48,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [In Silico Investigation Reveals a Potential Functional Role for Human Microbiome in Chronic Obstructive Pulmonary Disease](https://www.biorxiv.org/content/10.1101/2025.06.29.660899v1?rss=1) / 07月03日 08:00
 - [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 07月03日 08:00
 - [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 07月03日 08:00
 - [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 07月03日 08:00
@@ -85,5 +88,4 @@
 - [A graphic and command line protocol for quick and accurate comparisons of protein and nucleic acid structures with US-align](https://www.nature.com/articles/s41596-025-01189-x) / 07月02日 08:00
 - [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 07月02日 08:00
 - [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 07月02日 08:00
-- [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
 <!--rss-papers:end-->
