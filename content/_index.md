@@ -4,6 +4,7 @@
 - [逃避的时候，你会感到愧疚吗？](http://m.wufazhuce.com/question/4401) / 06:25
 - [夏日去信](http://m.wufazhuce.com/article/6849) / 06:25
 - [VOL.4653](http://m.wufazhuce.com/one/4803) / 06:25
+- [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 00:00
 
 **历史记录**
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
@@ -24,7 +25,6 @@
 - [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
 - [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
 - [怎么给自己的人生加燃料，去成为期待的自己](https://manateelazycat.github.io/2025/06/28/stuck-somewhere/) / 06月28日 00:00
-- [为什么不用 Wayland?](https://manateelazycat.github.io/2025/06/28/why-not-use-wayland/) / 06月28日 00:00
 - [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
