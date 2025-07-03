@@ -42,7 +42,7 @@
 - [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
 - [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
 - [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
-- [或许这样挺好](https://innei.in/notes/194) / 06月18日 00:33
+- [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -51,6 +51,22 @@
 - [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 08:00
 
 **历史记录**
+- [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
+- [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
+- [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
+- [nf-core/viralmetagenome: A Novel Pipeline for Untargeted Viral Genome Reconstruction](https://www.biorxiv.org/content/10.1101/2025.06.27.661954v1?rss=1) / 07月02日 08:00
+- [Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings](https://www.biorxiv.org/content/10.1101/2025.06.27.661958v1?rss=1) / 07月02日 08:00
+- [Confidence: A Web App for Cross-Platform Differential Gene Expression Analysis, Gene Scoring, and Enrichment Analysis](https://www.biorxiv.org/content/10.1101/2025.06.27.661997v1?rss=1) / 07月02日 08:00
+- [Title: KymoTip: High-throughput Characterization of Tip-growth Dynamics in Plant Cells](https://www.biorxiv.org/content/10.1101/2025.06.27.661917v1?rss=1) / 07月02日 08:00
+- [DESpace2: detection of differential spatial patterns in spatial omics data](https://www.biorxiv.org/content/10.1101/2025.06.30.662268v1?rss=1) / 07月02日 08:00
+- [Machine learning-based structural classification of lytic polysaccharide monooxygenases](https://www.biorxiv.org/content/10.1101/2025.07.02.662747v1?rss=1) / 07月02日 08:00
+- [Persistent Activation of Endothelial Cells is Linked to Thrombosis and Inflammation in Cerebral Cavernous Malformation Disease](https://www.biorxiv.org/content/10.1101/2025.06.29.662238v1?rss=1) / 07月02日 08:00
+- [Multi-season analysis reveals hundreds of drought-responsive genes in sorghum](https://www.biorxiv.org/content/10.1101/2025.06.27.662006v1?rss=1) / 07月02日 08:00
+- [Perplexity as a Metric for Isoform Diversity in the Human Transcriptome](https://www.biorxiv.org/content/10.1101/2025.07.02.662769v1?rss=1) / 07月02日 08:00
+- [microRNA-206 is a reproducibly sensitive and specific plasma biomarker of amyotrophic lateral sclerosis](https://www.biorxiv.org/content/10.1101/2025.06.27.662023v1?rss=1) / 07月02日 08:00
+- [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 07月02日 08:00
+- [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 07月02日 08:00
+- [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 07月02日 08:00
 - [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 07月02日 08:00
 - [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) / 07月02日 08:00
 - [A genome from ancient Egypt](https://www.nature.com/articles/d41586-025-02036-5) / 07月02日 08:00
@@ -70,24 +86,8 @@
 - [A graphic and command line protocol for quick and accurate comparisons of protein and nucleic acid structures with US-align](https://www.nature.com/articles/s41596-025-01189-x) / 07月02日 08:00
 - [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 07月02日 08:00
 - [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 07月02日 08:00
-- [Analysis of the Rehmannia chingii geneome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis](https://www.nature.com/articles/s41467-025-60909-9) / 07月01日 08:00
-- [Jurkat T-cell lines exhibit marked genomic instability affecting karyotype, mutational profile, gene expression, immunophenotype and function](https://www.nature.com/articles/s41598-025-95903-0) / 07月01日 08:00
-- [Harnessing lateral gene transfer and endosymbiosis for adaptation](https://www.nature.com/articles/s41576-025-00872-9) / 07月01日 08:00
-- [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 07月01日 08:00
-- [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 07月01日 08:00
-- [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 07月01日 08:00
-- [Rice QTL hotspots related with seed grain size, shape, weight, and color based on genome wide association study and linkage mapping](https://www.nature.com/articles/s41598-025-05814-3) / 07月01日 08:00
-- [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
-- [Genomic and epigenomic insight into giga-chromosome architecture and adaptive evolution of royal lily (Lilium regale)](https://www.nature.com/articles/s41467-025-61289-w) / 07月01日 08:00
-- [Appraisal of multiple polygenic risk scores to estimate the risk of myocardial infarction and coronary artery lesions](https://www.nature.com/articles/s43856-025-00981-w) / 07月01日 08:00
-- [Independent evolution of betulin biosynthesis in Inonotus obliquus](https://www.nature.com/articles/s41598-025-05414-1) / 07月01日 08:00
-- [The long-term effects of chemotherapy on normal blood cells](https://www.nature.com/articles/s41588-025-02234-x) / 07月01日 08:00
-- [Variants of β-lactamase-encoding genes are disseminated by multiple genetically distinct lineages of bloodstream Escherichia coli](https://www.nature.com/articles/s43856-025-00972-x) / 07月01日 08:00
-- [Variable selection strategies for genomic prediction of growth and carcass related traits in experimental Nellore cattle herds under different selection criteria](https://www.nature.com/articles/s41598-025-06949-z) / 07月01日 08:00
-- [Genome assembly and annotation of the parasitoid jewel wasp Nasonia oneida](https://www.nature.com/articles/s41597-025-05375-0) / 07月01日 08:00
-- [Machine learning reveals genes impacting oxidative stress resistance across yeasts](https://www.nature.com/articles/s41467-025-60189-3) / 07月01日 08:00
-- [Meta-analysis of urinary metabolite GWAS studies identifies novel genome-wide significant loci](https://www.nature.com/articles/s41598-025-07518-0) / 07月01日 08:00
-- [DrFARM: identification of pleiotropic genetic variants in genome-wide association studies](https://www.nature.com/articles/s41467-025-60439-4) / 07月01日 08:00
-- [Predict the degree of secondary structures of the encoding sequences in DNA storage by deep learning model](https://www.nature.com/articles/s41598-025-05717-3) / 07月01日 08:00
-- [Site- and cell-type-specific miRNA and mRNA genes and networks across the cortex, striatum, and hypothalamus](https://www.nature.com/articles/s42003-025-08371-7) / 07月01日 08:00
+- [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
+- [AdSI-MIMO: Adaptive stain imputation with multi-input and multi-output learning for multiplex immunofluorescence imaging](https://www.biorxiv.org/content/10.1101/2025.06.27.661891v1?rss=1) / 07月01日 08:00
+- [Novel binning-based methods for model fitting and data splitting improved machine learning imbalanced data](https://www.biorxiv.org/content/10.1101/2025.06.26.661884v1?rss=1) / 07月01日 08:00
+- [Machine learning differentiates between bulk and pseudo-bulk RNA-seq datasets](https://www.biorxiv.org/content/10.1101/2025.06.27.661895v1?rss=1) / 07月01日 08:00
 <!--rss-papers:end-->
