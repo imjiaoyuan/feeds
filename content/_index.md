@@ -69,10 +69,12 @@
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 07月02日 08:00
 - [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 07月02日 08:00
 - [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 07月02日 08:00
+- [Signs of AI-generated text found in 14% of biomedical abstracts last year](https://www.nature.com/articles/d41586-025-02097-6) / 07月02日 08:00
 - [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 07月02日 08:00
 - [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 07月02日 08:00
 - [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 07月02日 08:00
 - [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 07月02日 08:00
+- [A graphic and command line protocol for quick and accurate comparisons of protein and nucleic acid structures with US-align](https://www.nature.com/articles/s41596-025-01189-x) / 07月02日 08:00
 - [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 07月02日 08:00
 - [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 07月02日 08:00
 - [StruCloze: A Unified Framework for Backmapping and Inpainting of Biomolecules](https://www.biorxiv.org/content/10.1101/2025.06.26.661889v1?rss=1) / 07月01日 08:00
@@ -86,6 +88,4 @@
 - [Chromosome-level genome assembly of Triplophysa scleroptera](https://www.nature.com/articles/s41597-025-05122-5) / 07月01日 08:00
 - [Chromosome-level genome assembly and annotation of Pterygoplichthys pardalis](https://www.nature.com/articles/s41597-025-05273-5) / 07月01日 08:00
 - [Chromosome-level genome assembly and annotation of the pygmy grasshopper Gibbotettix parvipulvillus](https://www.nature.com/articles/s41597-025-05474-y) / 07月01日 08:00
-- [Rice QTL hotspots related with seed grain size, shape, weight, and color based on genome wide association study and linkage mapping](https://www.nature.com/articles/s41598-025-05814-3) / 07月01日 08:00
-- [New molecular components of high and low affinity iron import systems in Drosophila](https://www.nature.com/articles/s41467-025-60758-6) / 07月01日 08:00
 <!--rss-papers:end-->
