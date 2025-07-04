@@ -7,6 +7,7 @@
 - [VOL.4654](http://m.wufazhuce.com/one/4804) / 06:25
 
 **历史记录**
+- [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
@@ -42,7 +43,6 @@
 - [周记 ＃1 - 新的认知与流转](https://polebug.github.io/2025/06/21/plog_1/) / 06月21日 21:51
 - [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
 - [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
-- [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
