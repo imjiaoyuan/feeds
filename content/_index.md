@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 08:02
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4402) / 06:25
 - [遁兽于野](http://m.wufazhuce.com/article/6850) / 06:25
 - [VOL.4654](http://m.wufazhuce.com/one/4804) / 06:25
@@ -42,7 +43,6 @@
 - [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
 - [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
 - [How Cancer Drugs Really Work](https://divingintogeneticsandgenomics.com/post/cancer-drug/) / 06月20日 08:00
-- [Labubu 哪有泡沫？](https://1q43.blog/post/11388/) / 06月17日 16:09
 <!--rss-blogs:end-->
 ---
 # Research Papers
