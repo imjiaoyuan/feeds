@@ -42,8 +42,6 @@ RSS_FEEDS = {
         "https://www.gaojinan.com/feed",
         "https://tw93.fun/feed.xml",
         "https://anotherdayu.com/feed/",
-        "https://feedx.net/rss/one.xml"
-
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
@@ -53,4 +51,4 @@ RSS_FEEDS = {
     ]
 }
 
-MAX_ARTICLES = 40
+MAX_ARTICLES = 25
