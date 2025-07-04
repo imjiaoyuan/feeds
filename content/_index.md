@@ -48,11 +48,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Allosteric Site Prediction Using Protein Language Models and Orthosteric Conditioning](https://www.biorxiv.org/content/10.1101/2025.06.27.662060v1?rss=1) / 07月03日 08:00
+- [tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1?rss=1) / 07月03日 08:00
+- [Human protein interactome structure prediction at scale with Boltz-2](https://www.biorxiv.org/content/10.1101/2025.07.03.663068v1?rss=1) / 07月03日 08:00
 - [In Silico Investigation Reveals a Potential Functional Role for Human Microbiome in Chronic Obstructive Pulmonary Disease](https://www.biorxiv.org/content/10.1101/2025.06.29.660899v1?rss=1) / 07月03日 08:00
+- [An Enhancement of Extrachromosomal Circular DNA Enrichment and Amplification to Address the Extreme Low Overlap Between Replicates](https://www.biorxiv.org/content/10.1101/2025.06.28.662146v1?rss=1) / 07月03日 08:00
 - [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 07月03日 08:00
 - [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 07月03日 08:00
-- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 07月03日 08:00
-- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 07月03日 08:00
 - [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
 - [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
 - [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
@@ -86,6 +88,4 @@
 - [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 07月02日 08:00
 - [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 07月02日 08:00
 - [A graphic and command line protocol for quick and accurate comparisons of protein and nucleic acid structures with US-align](https://www.nature.com/articles/s41596-025-01189-x) / 07月02日 08:00
-- [Screening and evaluation of specific blood MiRNAs as potential biomarkers in diagnostics of gastric Cancer](https://www.nature.com/articles/s41598-025-06773-5) / 07月02日 08:00
-- [GENOMICON-Seq enables realistic simulation of amplicon and exome sequencing for low-frequency mutation detection](https://www.nature.com/articles/s41598-025-05267-8) / 07月02日 08:00
 <!--rss-papers:end-->
