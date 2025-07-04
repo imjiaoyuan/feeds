@@ -2,6 +2,7 @@
 <!--rss-blogs:start-->
 **今日更新**
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 08:02
+- [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 08:00
 - [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4402) / 06:25
 - [遁兽于野](http://m.wufazhuce.com/article/6850) / 06:25
 - [VOL.4654](http://m.wufazhuce.com/one/4804) / 06:25
@@ -42,12 +43,15 @@
 - [卖国贼 琦善（下）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-xia-493008a6) / 06月22日 09:20
 - [周记 ＃1 - 新的认知与流转](https://polebug.github.io/2025/06/21/plog_1/) / 06月21日 21:51
 - [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
-- [科技爱好者周刊（第 353 期）：苹果的"液态玻璃"是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html) / 06月20日 08:08
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [From Orphan Genes to Cryptogenic Gene Candidates: Reassessing Uniqueness](https://www.biorxiv.org/content/10.1101/2025.06.28.662130v1?rss=1) / 07月03日 08:00
+- [Spliformer-v2 predicts multi-tissue RNA splicing and reveals functional genomic links with neurodegenerative diseases](https://www.biorxiv.org/content/10.1101/2025.06.28.662167v1?rss=1) / 07月03日 08:00
+- [Multimodal deep learning integration of cryo-EM and AlphaFold3 for high-accuracy protein structure determination](https://www.biorxiv.org/content/10.1101/2025.07.03.663071v1?rss=1) / 07月03日 08:00
+- [PROFET Predicts Continuous Gene Expression Dynamics from scRNA-seq Data to Elucidate Heterogeneity of Cancer Treatment Responses](https://www.biorxiv.org/content/10.1101/2025.06.27.662030v1?rss=1) / 07月03日 08:00
 - [Allosteric Site Prediction Using Protein Language Models and Orthosteric Conditioning](https://www.biorxiv.org/content/10.1101/2025.06.27.662060v1?rss=1) / 07月03日 08:00
 - [tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1?rss=1) / 07月03日 08:00
 - [Human protein interactome structure prediction at scale with Boltz-2](https://www.biorxiv.org/content/10.1101/2025.07.03.663068v1?rss=1) / 07月03日 08:00
@@ -55,6 +59,8 @@
 - [An Enhancement of Extrachromosomal Circular DNA Enrichment and Amplification to Address the Extreme Low Overlap Between Replicates](https://www.biorxiv.org/content/10.1101/2025.06.28.662146v1?rss=1) / 07月03日 08:00
 - [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 07月03日 08:00
 - [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 07月03日 08:00
+- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 07月03日 08:00
+- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 07月03日 08:00
 - [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
 - [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
 - [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
@@ -82,10 +88,4 @@
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 07月02日 08:00
 - [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 07月02日 08:00
 - [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 07月02日 08:00
-- [Signs of AI-generated text found in 14% of biomedical abstracts last year](https://www.nature.com/articles/d41586-025-02097-6) / 07月02日 08:00
-- [A single-cell atlas of the murine limb skeleton integrating the developmental and adult stages](https://www.nature.com/articles/s41598-025-05277-6) / 07月02日 08:00
-- [Human lncRNAs NEAT1 and MALAT1 regulate the tumor microenvironment in lung cancer PDX models in athymic nude mice](https://www.nature.com/articles/s41598-025-05157-z) / 07月02日 08:00
-- [Integrating bioinformatics and machine learning to investigate the mechanisms by which three major respiratory infectious diseases exacerbate heart failure](https://www.nature.com/articles/s41598-025-07090-7) / 07月02日 08:00
-- [Deep learning deciphers the related role of master regulators and G-quadruplexes in tissue specification](https://www.nature.com/articles/s41598-025-07579-1) / 07月02日 08:00
-- [A graphic and command line protocol for quick and accurate comparisons of protein and nucleic acid structures with US-align](https://www.nature.com/articles/s41596-025-01189-x) / 07月02日 08:00
 <!--rss-papers:end-->
