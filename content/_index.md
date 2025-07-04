@@ -47,6 +47,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Know your RNA-Seq data in depth: a case study using data from early life stress in mouse](https://www.biorxiv.org/content/10.1101/2025.06.30.654452v1?rss=1) / 08:00
+
 **历史记录**
 - [From Orphan Genes to Cryptogenic Gene Candidates: Reassessing Uniqueness](https://www.biorxiv.org/content/10.1101/2025.06.28.662130v1?rss=1) / 07月03日 08:00
 - [Spliformer-v2 predicts multi-tissue RNA splicing and reveals functional genomic links with neurodegenerative diseases](https://www.biorxiv.org/content/10.1101/2025.06.28.662167v1?rss=1) / 07月03日 08:00
@@ -87,5 +90,4 @@
 - [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 07月02日 08:00
 - [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 07月02日 08:00
 - [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 07月02日 08:00
-- [Genetic diversity and structure of red handed howler monkeys assessed by mitochondrial and genotyping by sequencing analyses](https://www.nature.com/articles/s41598-025-06399-7) / 07月02日 08:00
 <!--rss-papers:end-->
