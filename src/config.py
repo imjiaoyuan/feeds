@@ -42,13 +42,19 @@ RSS_FEEDS = {
         "https://www.gaojinan.com/feed",
         "https://tw93.fun/feed.xml",
         "https://anotherdayu.com/feed/",
+        "https://hualet.org/index.xml",
+        "https://www.microsoft.com/en-us/research/feed/",
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
         "https://www.nature.com/subjects/genomics.rss",
-        "https://www.nature.com/subjects/bioinformatics.rss"
+        "https://www.nature.com/subjects/bioinformatics.rss",
+        "https://www.nature.com/subjects/computational-biology-and-bioinformatics.rss",
+        "https://www.nature.com/subjects/evolution.atom",
+        "https://www.nature.com/subjects/molecular-biology.rss",
+        "https://onlinelibrary.wiley.com/feed/2770596x/most-recent"
     ]
 }
 
-MAX_ARTICLES = 25
+MAX_ARTICLES = 35

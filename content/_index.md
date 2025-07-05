@@ -1,13 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
-- [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 08:02
-- [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 08:00
-- [一周的心情｜本周小记精选](http://m.wufazhuce.com/question/4402) / 06:25
-- [遁兽于野](http://m.wufazhuce.com/article/6850) / 06:25
-- [VOL.4654](http://m.wufazhuce.com/one/4804) / 06:25
+- [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/) / 21:29
 
 **历史记录**
+- [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
+- [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
@@ -40,54 +38,46 @@
 - [深柜者：无法接受失控，所以谎话连篇](https://www.ntiy.com/2296.html) / 06月24日 11:29
 - [国产 AI 网页开发工具：豆包 AI 编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) / 06月24日 10:49
 - [上海的垃圾分类，真的失败了吗？](https://1q43.blog/post/11434/) / 06月23日 11:22
-- [卖国贼 琦善（下）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-xia-493008a6) / 06月22日 09:20
-- [周记 ＃1 - 新的认知与流转](https://polebug.github.io/2025/06/21/plog_1/) / 06月21日 21:51
-- [卖国贼 琦善（上）](https://wangyurui.com/posts/mai-guo-zei-qi-shan-176f93fb) / 06月21日 17:39
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Know your RNA-Seq data in depth: a case study using data from early life stress in mouse](https://www.biorxiv.org/content/10.1101/2025.06.30.654452v1?rss=1) / 08:00
+- [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 08:00
+- [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 08:00
+- [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 08:00
+- [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 08:00
+- [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 08:00
+- [Corneal safety assessment of germicidal far UV-C radiation](https://www.nature.com/articles/s41598-025-09241-2) / 08:00
+- [Continuous in situ synthesis of a complete set of tRNAs sustains steady-state translation in a recombinant cell-free system](https://www.nature.com/articles/s41467-025-61671-8) / 08:00
+- [DSS1 is required for proper Integrator–PP2A function](https://www.nature.com/articles/s41467-025-61257-4) / 08:00
+- [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 08:00
+- [Ursodeoxycholic acid alleviates aortic aneurysm and dissection through the intestinal farnesoid X receptor/ceramide synthase 2 axis](https://www.nature.com/articles/s42003-025-08403-2) / 08:00
+- [Nedd4-2 ablation in kidney improves glycaemic control in diabetic mice](https://www.nature.com/articles/s41419-025-07826-3) / 08:00
 
 **历史记录**
-- [From Orphan Genes to Cryptogenic Gene Candidates: Reassessing Uniqueness](https://www.biorxiv.org/content/10.1101/2025.06.28.662130v1?rss=1) / 07月03日 08:00
-- [Spliformer-v2 predicts multi-tissue RNA splicing and reveals functional genomic links with neurodegenerative diseases](https://www.biorxiv.org/content/10.1101/2025.06.28.662167v1?rss=1) / 07月03日 08:00
-- [Multimodal deep learning integration of cryo-EM and AlphaFold3 for high-accuracy protein structure determination](https://www.biorxiv.org/content/10.1101/2025.07.03.663071v1?rss=1) / 07月03日 08:00
-- [PROFET Predicts Continuous Gene Expression Dynamics from scRNA-seq Data to Elucidate Heterogeneity of Cancer Treatment Responses](https://www.biorxiv.org/content/10.1101/2025.06.27.662030v1?rss=1) / 07月03日 08:00
-- [Allosteric Site Prediction Using Protein Language Models and Orthosteric Conditioning](https://www.biorxiv.org/content/10.1101/2025.06.27.662060v1?rss=1) / 07月03日 08:00
-- [tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1?rss=1) / 07月03日 08:00
-- [Human protein interactome structure prediction at scale with Boltz-2](https://www.biorxiv.org/content/10.1101/2025.07.03.663068v1?rss=1) / 07月03日 08:00
-- [In Silico Investigation Reveals a Potential Functional Role for Human Microbiome in Chronic Obstructive Pulmonary Disease](https://www.biorxiv.org/content/10.1101/2025.06.29.660899v1?rss=1) / 07月03日 08:00
-- [An Enhancement of Extrachromosomal Circular DNA Enrichment and Amplification to Address the Extreme Low Overlap Between Replicates](https://www.biorxiv.org/content/10.1101/2025.06.28.662146v1?rss=1) / 07月03日 08:00
-- [Divergence between transcriptomes and chromatin accessibility during differentiation from a bipotential progenitor cell population to erythroblasts and megakaryocytes](https://www.biorxiv.org/content/10.1101/2025.06.30.662383v1?rss=1) / 07月03日 08:00
-- [Decoding cnidarian cell type gene regulation](https://www.biorxiv.org/content/10.1101/2025.07.01.662323v1?rss=1) / 07月03日 08:00
-- [Chromosome-level genome assembly and annotation of Spinibarbus caldwelli](https://www.nature.com/articles/s41597-025-05469-9) / 07月03日 08:00
-- [Insights into ancestral diversity in Parkinson’s disease risk: a comparative assessment of polygenic risk scores](https://www.nature.com/articles/s41531-025-00967-4) / 07月03日 08:00
-- [Benchmarking Large Language Models for Pathogen-Disease Classification in Post-Acute Infection Syndromes](https://www.biorxiv.org/content/10.1101/2025.06.30.662395v1?rss=1) / 07月02日 08:00
-- [XtractPAV: An Automated Pipeline for Identifying Presence-Absence Variations Across Multiple Genomes](https://www.biorxiv.org/content/10.1101/2025.06.27.661953v1?rss=1) / 07月02日 08:00
-- [MORPH Predicts the Single-Cell Outcome of Genetic Perturbations Across Conditions and Data Modalities](https://www.biorxiv.org/content/10.1101/2025.06.27.661992v1?rss=1) / 07月02日 08:00
-- [nf-core/viralmetagenome: A Novel Pipeline for Untargeted Viral Genome Reconstruction](https://www.biorxiv.org/content/10.1101/2025.06.27.661954v1?rss=1) / 07月02日 08:00
-- [Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings](https://www.biorxiv.org/content/10.1101/2025.06.27.661958v1?rss=1) / 07月02日 08:00
-- [Confidence: A Web App for Cross-Platform Differential Gene Expression Analysis, Gene Scoring, and Enrichment Analysis](https://www.biorxiv.org/content/10.1101/2025.06.27.661997v1?rss=1) / 07月02日 08:00
-- [Title: KymoTip: High-throughput Characterization of Tip-growth Dynamics in Plant Cells](https://www.biorxiv.org/content/10.1101/2025.06.27.661917v1?rss=1) / 07月02日 08:00
-- [DESpace2: detection of differential spatial patterns in spatial omics data](https://www.biorxiv.org/content/10.1101/2025.06.30.662268v1?rss=1) / 07月02日 08:00
-- [Machine learning-based structural classification of lytic polysaccharide monooxygenases](https://www.biorxiv.org/content/10.1101/2025.07.02.662747v1?rss=1) / 07月02日 08:00
-- [Persistent Activation of Endothelial Cells is Linked to Thrombosis and Inflammation in Cerebral Cavernous Malformation Disease](https://www.biorxiv.org/content/10.1101/2025.06.29.662238v1?rss=1) / 07月02日 08:00
-- [Multi-season analysis reveals hundreds of drought-responsive genes in sorghum](https://www.biorxiv.org/content/10.1101/2025.06.27.662006v1?rss=1) / 07月02日 08:00
-- [Perplexity as a Metric for Isoform Diversity in the Human Transcriptome](https://www.biorxiv.org/content/10.1101/2025.07.02.662769v1?rss=1) / 07月02日 08:00
-- [microRNA-206 is a reproducibly sensitive and specific plasma biomarker of amyotrophic lateral sclerosis](https://www.biorxiv.org/content/10.1101/2025.06.27.662023v1?rss=1) / 07月02日 08:00
-- [An optimised computational approach for the identification of somatic structural variants in cancer](https://www.biorxiv.org/content/10.1101/2025.07.01.662575v1?rss=1) / 07月02日 08:00
-- [Integrative Transcriptomic and Machine Learning Approaches to decipher Mitochondrial Gene Regulation in severe Plasmodium vivax Malaria](https://www.biorxiv.org/content/10.1101/2025.07.01.662590v1?rss=1) / 07月02日 08:00
-- [Haplotype-Resolved DNA Methylation at the APOE Locus identifies Allele-Specific Epigenetic Signatures Relevant to Alzheimer's Disease Risk](https://www.biorxiv.org/content/10.1101/2025.07.01.662592v1?rss=1) / 07月02日 08:00
-- [Donor and recipient genetic variants in drug metabolizing enzymes and transporters affect early tacrolimus pharmacokinetics after liver transplantation](https://www.nature.com/articles/s41598-025-09296-1) / 07月02日 08:00
-- [First human genome from ancient Egypt sequenced from 4,800-year-old teeth](https://www.nature.com/articles/d41586-025-02102-y) / 07月02日 08:00
-- [A genome from ancient Egypt](https://www.nature.com/articles/d41586-025-02036-5) / 07月02日 08:00
-- [The Somatic Mosaicism across Human Tissues Network](https://www.nature.com/articles/s41586-025-09096-7) / 07月02日 08:00
-- [Universal rules govern plasmid copy number](https://www.nature.com/articles/s41467-025-61202-5) / 07月02日 08:00
-- [Rare genetic variants and severe COVID-19 in previously healthy admixed Latin American adults](https://www.nature.com/articles/s41598-025-08416-1) / 07月02日 08:00
-- [Scaling laws of bacterial and archaeal plasmids](https://www.nature.com/articles/s41467-025-61205-2) / 07月02日 08:00
-- [Clinical relevance of the somatic mutational landscaping in predicting outcome of bladder cancer patients](https://www.nature.com/articles/s41598-025-04363-z) / 07月02日 08:00
-- [Genomic analysis of Inonotus hispidus provides insights into its medicinal properties and evolutionary dynamics](https://www.nature.com/articles/s41598-025-05528-6) / 07月02日 08:00
-- [Single-cell Micro-C profiles 3D genome structures at high resolution and characterizes multi-enhancer hubs](https://www.nature.com/articles/s41588-025-02247-6) / 07月02日 08:00
+- [SynCom‐mediated herbicide degradation activates microbial carbon metabolism in soils](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70058?af=R) / 07月04日 09:14
+- [Sequence Analysis of P4-ATPases Reveals the Structural Determinants for the Stable Monomeric P4B-ATPase Phospholipid Transporters.](https://www.biorxiv.org/content/10.1101/2025.07.01.662597v1?rss=1) / 07月04日 08:00
+- [An Intrinsic-hoc Framework for Heterogeneous Cellular Senescence Elucidation Using Deep Graph Representation Learning and Experimental Validation](https://www.biorxiv.org/content/10.1101/2025.07.01.662364v1?rss=1) / 07月04日 08:00
+- [OmniCorr: An R-package for visualizing putative host-microbiota interactions using multi-omics data](https://www.biorxiv.org/content/10.1101/2025.07.01.662509v1?rss=1) / 07月04日 08:00
+- [Combining AI structure prediction and integrative modelling for nanobody-antigen complexes](https://www.biorxiv.org/content/10.1101/2025.07.01.662355v1?rss=1) / 07月04日 08:00
+- [NANOME: A Nextflow pipeline for haplotype-aware allele-specific consensus DNA methylation detection by nanopore long-read sequencing](https://www.biorxiv.org/content/10.1101/2025.06.29.662079v1?rss=1) / 07月04日 08:00
+- [Uncertainty-Aware Discrete Diffusion Improves Protein Design](https://www.biorxiv.org/content/10.1101/2025.06.30.662407v1?rss=1) / 07月04日 08:00
+- [Rapid and Reproducible Multimodal Biological Foundation Model Development with AIDO.ModelGenerator](https://www.biorxiv.org/content/10.1101/2025.06.30.662437v1?rss=1) / 07月04日 08:00
+- [STRAND: Structure Refinement of RNA-Protein Complexes via Diffusion](https://www.biorxiv.org/content/10.1101/2025.06.30.662415v1?rss=1) / 07月04日 08:00
+- [MarkerMatch: A Proximity-Based Probe-Matching Algorithm for Joint Analysis of Copy-Number Variants from Different Genotyping Arrays](https://www.biorxiv.org/content/10.1101/2025.06.30.662249v1?rss=1) / 07月04日 08:00
+- [CENTRA: Knowledge-Based Gene Contexuality Graphs Reveal Functional Master Regulators by Centrality and Fractality](https://www.biorxiv.org/content/10.1101/2025.06.30.662180v1?rss=1) / 07月04日 08:00
+- [Models and Algorithms for Equilibrium Analysis of Mixed-Material Nucleic Acid Systems](https://www.biorxiv.org/content/10.1101/2025.06.30.662484v1?rss=1) / 07月04日 08:00
+- [RNAtive to recognize native-like structure in a set of RNA 3D models](https://www.biorxiv.org/content/10.1101/2025.07.01.662508v1?rss=1) / 07月04日 08:00
+- [Unbiased whole genome comparison of Pan paniscus (bonobo) and Homo sapiens (human) through a novel sequence match-based approach](https://www.biorxiv.org/content/10.1101/2025.06.30.659717v1?rss=1) / 07月04日 08:00
+- [Human gut flagellome profiling using FlaPro reveals TLR5-related phenotype-specific alterations in IBD](https://www.biorxiv.org/content/10.1101/2025.06.30.660334v1?rss=1) / 07月04日 08:00
+- [Telomeric Repeat-Containing lncRNA TERRA Targets Non-Telomeric DNA in Trans via R-Loops](https://www.biorxiv.org/content/10.1101/2025.06.29.662205v1?rss=1) / 07月04日 08:00
+- [The enduring advantages of the SLOW5 file format for raw nanopore sequencing data](https://www.biorxiv.org/content/10.1101/2025.06.30.662478v1?rss=1) / 07月04日 08:00
+- [Accurate Protein-Protein Interactions Modeling through Physics-informed Geometric Invariant Learning](https://www.biorxiv.org/content/10.1101/2025.07.01.662544v1?rss=1) / 07月04日 08:00
+- [PathCLAST: Pathway-Augmented Contrastive Learning with Attention for Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.06.30.662247v1?rss=1) / 07月04日 08:00
+- [Structural and dynamic study of fungal cell wall degrading fungal chitinase and its interaction with chitooligosaccharide](https://www.biorxiv.org/content/10.1101/2025.06.29.662179v1?rss=1) / 07月04日 08:00
+- [Know your RNA-Seq data in depth: a case study using data from early life stress in mouse](https://www.biorxiv.org/content/10.1101/2025.06.30.654452v1?rss=1) / 07月04日 08:00
+- [The effect of environmental enrichment on immune cell DNA methylation profiles depends on the parity of sows.](https://www.biorxiv.org/content/10.1101/2025.07.01.662510v1?rss=1) / 07月04日 08:00
+- [Unsupervised Variant Clustering Identifies Genetic Subtypes of Disease](https://www.biorxiv.org/content/10.1101/2025.07.01.662666v1?rss=1) / 07月04日 08:00
+- [Spatial joint profiling of DNA methylome and transcriptome in mammalian tissues](https://www.biorxiv.org/content/10.1101/2025.07.01.662607v1?rss=1) / 07月04日 08:00
 <!--rss-papers:end-->
