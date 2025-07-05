@@ -42,7 +42,6 @@
 <!--rss-papers:start-->
 **历史记录**
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
-- [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
 - [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
 - [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 - [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
@@ -76,4 +75,5 @@
 - [Recombinase Polymerase Amplification of Forensic Short Tandem Repeat Loci](https://www.biorxiv.org/content/10.1101/2025.07.01.662531v1?rss=1) / 07月04日 08:00
 - [Mitochondrial Genome-Based Phylogeny of Turbellarians and Evidence for Accelerated Mitochondrial Evolution in Symbiotic Species](https://www.biorxiv.org/content/10.1101/2025.07.01.662465v1?rss=1) / 07月04日 08:00
 - [Optimizing genomic sampling for demographic and epidemiological inference with Markov decision processes](https://www.biorxiv.org/content/10.1101/2025.06.30.662264v1?rss=1) / 07月04日 08:00
+- [Single-cell RNA sequencing in Hirschsprungs disease tissues reveals lack of neuronal differentiation in the aganglionic colon segment](https://www.biorxiv.org/content/10.1101/2025.07.01.662516v1?rss=1) / 07月04日 08:00
 <!--rss-papers:end-->
