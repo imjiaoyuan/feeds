@@ -46,13 +46,6 @@
 - [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
 - [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 - [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
-- [Impact of cryopreservation on DNA damage in Acer platanoides L. seeds evaluated by the comet assay](https://www.nature.com/articles/s41598-025-08476-3) / 07月05日 08:00
-- [Corneal safety assessment of germicidal far UV-C radiation](https://www.nature.com/articles/s41598-025-09241-2) / 07月05日 08:00
-- [Continuous in situ synthesis of a complete set of tRNAs sustains steady-state translation in a recombinant cell-free system](https://www.nature.com/articles/s41467-025-61671-8) / 07月05日 08:00
-- [DSS1 is required for proper Integrator–PP2A function](https://www.nature.com/articles/s41467-025-61257-4) / 07月05日 08:00
-- [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
-- [Ursodeoxycholic acid alleviates aortic aneurysm and dissection through the intestinal farnesoid X receptor/ceramide synthase 2 axis](https://www.nature.com/articles/s42003-025-08403-2) / 07月05日 08:00
-- [Nedd4-2 ablation in kidney improves glycaemic control in diabetic mice](https://www.nature.com/articles/s41419-025-07826-3) / 07月05日 08:00
 - [SynCom‐mediated herbicide degradation activates microbial carbon metabolism in soils](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70058?af=R) / 07月04日 09:14
 - [Sequence Analysis of P4-ATPases Reveals the Structural Determinants for the Stable Monomeric P4B-ATPase Phospholipid Transporters.](https://www.biorxiv.org/content/10.1101/2025.07.01.662597v1?rss=1) / 07月04日 08:00
 - [An Intrinsic-hoc Framework for Heterogeneous Cellular Senescence Elucidation Using Deep Graph Representation Learning and Experimental Validation](https://www.biorxiv.org/content/10.1101/2025.07.01.662364v1?rss=1) / 07月04日 08:00
@@ -76,4 +69,11 @@
 - [Know your RNA-Seq data in depth: a case study using data from early life stress in mouse](https://www.biorxiv.org/content/10.1101/2025.06.30.654452v1?rss=1) / 07月04日 08:00
 - [The effect of environmental enrichment on immune cell DNA methylation profiles depends on the parity of sows.](https://www.biorxiv.org/content/10.1101/2025.07.01.662510v1?rss=1) / 07月04日 08:00
 - [Unsupervised Variant Clustering Identifies Genetic Subtypes of Disease](https://www.biorxiv.org/content/10.1101/2025.07.01.662666v1?rss=1) / 07月04日 08:00
+- [Spatial joint profiling of DNA methylome and transcriptome in mammalian tissues](https://www.biorxiv.org/content/10.1101/2025.07.01.662607v1?rss=1) / 07月04日 08:00
+- [Histone H3 lysine methyltransferase activities control compartmentalization of human centromeres.](https://www.biorxiv.org/content/10.1101/2025.07.01.662447v1?rss=1) / 07月04日 08:00
+- [Transcriptomic entropy reveals tissue-specific patterns in aging and predicts cancer progression](https://www.biorxiv.org/content/10.1101/2025.06.29.662218v1?rss=1) / 07月04日 08:00
+- [GLM-Prior: a nucleotide transformer model reveals prior knowledge as the driver of GRN inference performance](https://www.biorxiv.org/content/10.1101/2025.06.29.662198v1?rss=1) / 07月04日 08:00
+- [Recombinase Polymerase Amplification of Forensic Short Tandem Repeat Loci](https://www.biorxiv.org/content/10.1101/2025.07.01.662531v1?rss=1) / 07月04日 08:00
+- [Mitochondrial Genome-Based Phylogeny of Turbellarians and Evidence for Accelerated Mitochondrial Evolution in Symbiotic Species](https://www.biorxiv.org/content/10.1101/2025.07.01.662465v1?rss=1) / 07月04日 08:00
+- [Optimizing genomic sampling for demographic and epidemiological inference with Markov decision processes](https://www.biorxiv.org/content/10.1101/2025.06.30.662264v1?rss=1) / 07月04日 08:00
 <!--rss-papers:end-->
