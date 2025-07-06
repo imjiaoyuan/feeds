@@ -5,6 +5,7 @@
 - [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 12:02
 - [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 11:56
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 09:22
+- [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 09:11
 
 **历史记录**
 - [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/) / 07月05日 21:29
@@ -26,7 +27,7 @@
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
-- [2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
+- [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 - [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
@@ -37,7 +38,6 @@
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
 - [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Good Enough Practices for Reproducible Computing](https://divingintogeneticsandgenomics.com/talk/2025-moderna-reproducible/) / 06月25日 19:00
-- [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -77,7 +77,7 @@
 - [Gene gain and loss drive the diversification of gig immune genes in teleosts: structural and regulatory insights from Atlantic salmon](https://www.biorxiv.org/content/10.1101/2025.07.01.662619v1?rss=1) / 07月05日 08:00
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
 - [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
-- [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
 - [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
 - [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
+- [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
 <!--rss-papers:end-->
