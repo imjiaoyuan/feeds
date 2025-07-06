@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 20:41
 - [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 12:02
 - [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 11:56
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 09:22
@@ -37,7 +38,6 @@
 - [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 - [Good Enough Practices for Reproducible Computing](https://divingintogeneticsandgenomics.com/talk/2025-moderna-reproducible/) / 06月25日 19:00
 - [周报 #97 - 日本旅行小记](https://www.pseudoyu.com/posts/weekly_review_97) / 06月25日 11:05
-- [消失的Y](https://yufree.cn/cn/2025/06/25/y/) / 06月25日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
