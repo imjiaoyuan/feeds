@@ -41,6 +41,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 07月06日 08:00
+- [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
+- [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 07月06日 08:00
 - [SpatialMap: A Scalable Deep Learning Method for Cell Typing in Subcellular Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.662904v1?rss=1) / 07月05日 08:00
 - [Gain of Function p53 mutant R273H confers distinct methylation profiles and consequent partial or full EMT states to colon tumour](https://www.biorxiv.org/content/10.1101/2025.07.03.662954v1?rss=1) / 07月05日 08:00
 - [A Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates](https://www.biorxiv.org/content/10.1101/2025.07.04.663216v1?rss=1) / 07月05日 08:00
@@ -73,7 +76,4 @@
 - [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
 - [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
 - [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
-- [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
-- [Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways](https://www.nature.com/articles/s41698-025-01029-x) / 07月05日 08:00
-- [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 <!--rss-papers:end-->
