@@ -43,6 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [SSAlign: Ultrafast and Sensitive Protein Structure Search at Scale](https://www.biorxiv.org/content/10.1101/2025.07.03.662911v1?rss=1) / 07月05日 08:00
 - [Transformer-based Deep Learning for Glycan Structure Inference from Tandem Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.07.02.662857v1?rss=1) / 07月05日 08:00
 - [In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662761v1?rss=1) / 07月05日 08:00
 - [OMIDIENT: Multiomics Integration for Cancer by Dirichlet Auto-Encoder Networks](https://www.biorxiv.org/content/10.1101/2025.07.02.662608v1?rss=1) / 07月05日 08:00
@@ -66,8 +67,6 @@
 - [Gene gain and loss drive the diversification of gig immune genes in teleosts: structural and regulatory insights from Atlantic salmon](https://www.biorxiv.org/content/10.1101/2025.07.01.662619v1?rss=1) / 07月05日 08:00
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
 - [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
-- [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
-- [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
 - [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
 - [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 - [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
@@ -78,4 +77,5 @@
 - [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
 - [H2S-mediated protein S-sulfhydration modulates infectivity and autophagy in the rice blast fungus](https://www.nature.com/articles/s41467-025-61582-8) / 07月05日 08:00
 - [Ursodeoxycholic acid alleviates aortic aneurysm and dissection through the intestinal farnesoid X receptor/ceramide synthase 2 axis](https://www.nature.com/articles/s42003-025-08403-2) / 07月05日 08:00
+- [Nedd4-2 ablation in kidney improves glycaemic control in diabetic mice](https://www.nature.com/articles/s41419-025-07826-3) / 07月05日 08:00
 <!--rss-papers:end-->
