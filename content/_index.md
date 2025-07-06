@@ -43,6 +43,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [SpatialMap: A Scalable Deep Learning Method for Cell Typing in Subcellular Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.662904v1?rss=1) / 07月05日 08:00
+- [Gain of Function p53 mutant R273H confers distinct methylation profiles and consequent partial or full EMT states to colon tumour](https://www.biorxiv.org/content/10.1101/2025.07.03.662954v1?rss=1) / 07月05日 08:00
+- [A Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates](https://www.biorxiv.org/content/10.1101/2025.07.04.663216v1?rss=1) / 07月05日 08:00
 - [SSAlign: Ultrafast and Sensitive Protein Structure Search at Scale](https://www.biorxiv.org/content/10.1101/2025.07.03.662911v1?rss=1) / 07月05日 08:00
 - [Transformer-based Deep Learning for Glycan Structure Inference from Tandem Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.07.02.662857v1?rss=1) / 07月05日 08:00
 - [In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662761v1?rss=1) / 07月05日 08:00
@@ -67,15 +70,12 @@
 - [Gene gain and loss drive the diversification of gig immune genes in teleosts: structural and regulatory insights from Atlantic salmon](https://www.biorxiv.org/content/10.1101/2025.07.01.662619v1?rss=1) / 07月05日 08:00
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
 - [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
+- [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
+- [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
+- [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
 - [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
+- [Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways](https://www.nature.com/articles/s41698-025-01029-x) / 07月05日 08:00
 - [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 - [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
 - [Impact of cryopreservation on DNA damage in Acer platanoides L. seeds evaluated by the comet assay](https://www.nature.com/articles/s41598-025-08476-3) / 07月05日 08:00
-- [Corneal safety assessment of germicidal far UV-C radiation](https://www.nature.com/articles/s41598-025-09241-2) / 07月05日 08:00
-- [Continuous in situ synthesis of a complete set of tRNAs sustains steady-state translation in a recombinant cell-free system](https://www.nature.com/articles/s41467-025-61671-8) / 07月05日 08:00
-- [DSS1 is required for proper Integrator–PP2A function](https://www.nature.com/articles/s41467-025-61257-4) / 07月05日 08:00
-- [Comparative genome analyses reveal insights into the marine adaptation of a novel bacterium Pontimicrobium maritimus sp. nov., isolated from seawater](https://www.nature.com/articles/s41598-025-07372-0) / 07月05日 08:00
-- [H2S-mediated protein S-sulfhydration modulates infectivity and autophagy in the rice blast fungus](https://www.nature.com/articles/s41467-025-61582-8) / 07月05日 08:00
-- [Ursodeoxycholic acid alleviates aortic aneurysm and dissection through the intestinal farnesoid X receptor/ceramide synthase 2 axis](https://www.nature.com/articles/s42003-025-08403-2) / 07月05日 08:00
-- [Nedd4-2 ablation in kidney improves glycaemic control in diabetic mice](https://www.nature.com/articles/s41419-025-07826-3) / 07月05日 08:00
 <!--rss-papers:end-->
