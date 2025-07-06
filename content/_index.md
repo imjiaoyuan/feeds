@@ -1,13 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 20:41
-- [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 12:02
-- [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 11:56
-- [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 09:22
-- [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 09:11
-
 **历史记录**
+- [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 07月06日 20:41
+- [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 07月06日 12:02
+- [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 07月06日 11:56
+- [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 07月06日 09:22
+- [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 07月06日 09:11
 - [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/) / 07月05日 21:29
 - [分享 web3 入门计划｜2025 版](https://polebug.github.io/2025/07/05/web3_2025/) / 07月05日 20:51
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
@@ -42,11 +40,6 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 08:00
-- [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 08:00
-- [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 08:00
-
 **历史记录**
 - [SpatialMap: A Scalable Deep Learning Method for Cell Typing in Subcellular Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.662904v1?rss=1) / 07月05日 08:00
 - [Gain of Function p53 mutant R273H confers distinct methylation profiles and consequent partial or full EMT states to colon tumour](https://www.biorxiv.org/content/10.1101/2025.07.03.662954v1?rss=1) / 07月05日 08:00
@@ -77,7 +70,10 @@
 - [Gene gain and loss drive the diversification of gig immune genes in teleosts: structural and regulatory insights from Atlantic salmon](https://www.biorxiv.org/content/10.1101/2025.07.01.662619v1?rss=1) / 07月05日 08:00
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
 - [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
+- [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
 - [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
 - [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
 - [TLR2 and TLR4 bridge physiological and pathological inflammation in the reproductive system](https://www.nature.com/articles/s42003-025-08424-x) / 07月05日 08:00
+- [Pan-cancer, multi-omic correlates of survival transcending tumor lineage across 11,019 patients reveal targets and pathways](https://www.nature.com/articles/s41698-025-01029-x) / 07月05日 08:00
+- [The first chromosome-level genome of the lappet moth Trabala vishnou (Lepidoptera: Lasiocampidae)](https://www.nature.com/articles/s41597-025-05456-0) / 07月05日 08:00
 <!--rss-papers:end-->
