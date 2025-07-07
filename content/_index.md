@@ -44,13 +44,22 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 08:00
+- [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
+- [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 08:00
+- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
+- [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 08:00
+- [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
+- [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 08:00
 - [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 08:00
 - [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 08:00
 - [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
 - [Neurogenomic and behavioral principles shape freezing dynamics and synergistic performance in Drosophila melanogaster](https://www.nature.com/articles/s41467-025-61313-z) / 08:00
+- [Reply to: “Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors”](https://www.nature.com/articles/s41467-025-60860-9) / 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 08:00
 
@@ -71,13 +80,4 @@
 - [SSAlign: Ultrafast and Sensitive Protein Structure Search at Scale](https://www.biorxiv.org/content/10.1101/2025.07.03.662911v1?rss=1) / 07月05日 08:00
 - [Transformer-based Deep Learning for Glycan Structure Inference from Tandem Mass Spectrometry](https://www.biorxiv.org/content/10.1101/2025.07.02.662857v1?rss=1) / 07月05日 08:00
 - [In Situ Inference of Copy Number Variations in Image-Based Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662761v1?rss=1) / 07月05日 08:00
-- [OMIDIENT: Multiomics Integration for Cancer by Dirichlet Auto-Encoder Networks](https://www.biorxiv.org/content/10.1101/2025.07.02.662608v1?rss=1) / 07月05日 08:00
-- [OmniPert: A Deep Learning Foundation Model for Predicting Responses to Genetic and Chemical Perturbations in Single Cancer Cells](https://www.biorxiv.org/content/10.1101/2025.07.02.662744v1?rss=1) / 07月05日 08:00
-- [Mechanistic modeling and machine learning identifies optimum radiotherapy schedules to prevent treatment-induced metastasis](https://www.biorxiv.org/content/10.1101/2025.07.02.662373v1?rss=1) / 07月05日 08:00
-- [STELLA: Self-Evolving LLM Agent for Biomedical Research](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v1?rss=1) / 07月05日 08:00
-- [Characterization of selective pressures acting on protein sites with Deep Learning](https://www.biorxiv.org/content/10.1101/2025.07.01.662578v1?rss=1) / 07月05日 08:00
-- [Visual-like Template Diffusion: Boosting Single-Sequence Protein Structure Prediction by Adapting Image Diffusion Models](https://www.biorxiv.org/content/10.1101/2025.07.03.662909v1?rss=1) / 07月05日 08:00
-- [GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis](https://www.biorxiv.org/content/10.1101/2025.07.01.662625v1?rss=1) / 07月05日 08:00
-- [Modelling punctuated similarity](https://www.biorxiv.org/content/10.1101/2025.07.01.661927v1?rss=1) / 07月05日 08:00
-- [PULPO: Pipeline of understanding large-scale patterns of oncogenomic signatures](https://www.biorxiv.org/content/10.1101/2025.07.02.661487v1?rss=1) / 07月05日 08:00
 <!--rss-papers:end-->
