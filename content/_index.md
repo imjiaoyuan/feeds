@@ -43,6 +43,13 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [PIMENTO: A PrIMEr infereNce TOolkit to facilitate large-scale calling of amplicon sequence variants](https://www.biorxiv.org/content/10.1101/2025.07.04.663168v1?rss=1) / 07月06日 08:00
+- [Multi-omics time-series analysis in microbiome research: a systematic review](https://www.biorxiv.org/content/10.1101/2025.07.03.659054v1?rss=1) / 07月06日 08:00
+- [Structural motif search across the protein-universe with Folddisco](https://www.biorxiv.org/content/10.1101/2025.07.06.663357v1?rss=1) / 07月06日 08:00
+- [Why do some predicted protein structures fold poorly? Benchmarking AlphaFold, ESMFold, and Boltz in maize](https://www.biorxiv.org/content/10.1101/2025.07.05.663230v1?rss=1) / 07月06日 08:00
+- [Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity](https://www.biorxiv.org/content/10.1101/2025.07.04.663231v1?rss=1) / 07月06日 08:00
+- [Identification and validation of endoplasmic reticulum autophagy-related potential biomarkers in periodontitis](https://www.nature.com/articles/s41598-025-08180-2) / 07月06日 08:00
+- [Interpretable machine learning models for survival prediction in prostate cancer bone metastases](https://www.nature.com/articles/s41598-025-09691-8) / 07月06日 08:00
 - [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 07月06日 08:00
 - [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
 - [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 07月06日 08:00
@@ -71,11 +78,4 @@
 - [Epigenetic adaptation of beta cells across lifespan and disease: age-related demethylation is advanced in type 2 diabetes](https://www.biorxiv.org/content/10.1101/2025.07.02.662814v1?rss=1) / 07月05日 08:00
 - [Breaking the cold chain: solutions for room temperature preservation of mosquitoes leading to high quality reference genomes](https://www.biorxiv.org/content/10.1101/2025.07.03.662936v1?rss=1) / 07月05日 08:00
 - [Can music modulate gene expression involved in traumatic brain injury? An integrative transcriptomic and epigenomic proof of concept](https://www.biorxiv.org/content/10.1101/2025.07.02.662815v1?rss=1) / 07月05日 08:00
-- [A transcriptomic approach to understand genetic networks of regeneration, cell plasticity, and longevity of the Immortal Jellyfish Turritopsis dohrnii (Cnidaria, Hydrozoa)](https://www.biorxiv.org/content/10.1101/2025.07.02.660568v1?rss=1) / 07月05日 08:00
-- [Gene gain and loss drive the diversification of gig immune genes in teleosts: structural and regulatory insights from Atlantic salmon](https://www.biorxiv.org/content/10.1101/2025.07.01.662619v1?rss=1) / 07月05日 08:00
-- [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
-- [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
-- [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
-- [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
-- [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
 <!--rss-papers:end-->
