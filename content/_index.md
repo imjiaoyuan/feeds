@@ -1,9 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [财务记录之最近的一些操作思路](https://blog.pursuitus.com/financial-records.html) / 09:46
-
 **历史记录**
+- [财务记录之最近的一些操作思路](https://blog.pursuitus.com/financial-records.html) / 07月07日 09:46
 - [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 07月06日 20:41
 - [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 07月06日 12:02
 - [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 07月06日 11:56
@@ -42,31 +40,29 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 08:00
-- [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 08:00
-- [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
-- [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 08:00
-- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
-- [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
-- [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 08:00
-- [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 08:00
-- [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
-- [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
-- [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 08:00
-- [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 08:00
-- [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 08:00
-- [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
-- [A novel method based on improved SFLA for IP information extraction from TEM signals](https://www.nature.com/articles/s41598-025-05376-4) / 08:00
-- [Neurogenomic and behavioral principles shape freezing dynamics and synergistic performance in Drosophila melanogaster](https://www.nature.com/articles/s41467-025-61313-z) / 08:00
-- [Reply to: “Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors”](https://www.nature.com/articles/s41467-025-60860-9) / 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
-- [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 08:00
-- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 08:00
-
 **历史记录**
+- [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 07月07日 08:00
+- [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 07月07日 08:00
+- [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 07月07日 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
+- [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
+- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
+- [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 07月07日 08:00
+- [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 07月07日 08:00
+- [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 07月07日 08:00
+- [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 07月07日 08:00
+- [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 07月07日 08:00
+- [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 07月07日 08:00
+- [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 07月07日 08:00
+- [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 07月07日 08:00
+- [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 07月07日 08:00
+- [A novel method based on improved SFLA for IP information extraction from TEM signals](https://www.nature.com/articles/s41598-025-05376-4) / 07月07日 08:00
+- [Neurogenomic and behavioral principles shape freezing dynamics and synergistic performance in Drosophila melanogaster](https://www.nature.com/articles/s41467-025-61313-z) / 07月07日 08:00
+- [Reply to: “Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors”](https://www.nature.com/articles/s41467-025-60860-9) / 07月07日 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
+- [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 07月07日 08:00
+- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 07月07日 08:00
 - [PIMENTO: A PrIMEr infereNce TOolkit to facilitate large-scale calling of amplicon sequence variants](https://www.biorxiv.org/content/10.1101/2025.07.04.663168v1?rss=1) / 07月06日 08:00
 - [Multi-omics time-series analysis in microbiome research: a systematic review](https://www.biorxiv.org/content/10.1101/2025.07.03.659054v1?rss=1) / 07月06日 08:00
 - [Structural motif search across the protein-universe with Folddisco](https://www.biorxiv.org/content/10.1101/2025.07.06.663357v1?rss=1) / 07月06日 08:00
