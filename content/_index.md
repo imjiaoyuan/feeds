@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Identification and validation of endoplasmic reticulum autophagy-related potential biomarkers in periodontitis](https://www.nature.com/articles/s41598-025-08180-2) / 07月06日 08:00
+- [Interpretable machine learning models for survival prediction in prostate cancer bone metastases](https://www.nature.com/articles/s41598-025-09691-8) / 07月06日 08:00
 - [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 07月06日 08:00
 - [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
 - [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 07月06日 08:00
@@ -74,6 +76,4 @@
 - [Testing the limits of short-reads metagenomic classifications programs in wastewater treating microbial communities](https://www.nature.com/articles/s41598-025-07734-8) / 07月05日 08:00
 - [Harnessing protein language model for structure-based discovery of highly efficient and robust PET hydrolases](https://www.nature.com/articles/s41467-025-61599-z) / 07月05日 08:00
 - [Phenotypic, transcriptomic and metabolomic changes in Klebsiella pneumoniae after long term exposure to simulated microgravity](https://www.nature.com/articles/s41526-025-00489-6) / 07月05日 08:00
-- [Gut microbiota profiles of peninsular Malaysian populations are associated with urbanization and lifestyle](https://www.nature.com/articles/s41598-025-07117-z) / 07月05日 08:00
-- [Design of a novel multiepitope vaccine against glioblastoma by in silico approaches](https://www.nature.com/articles/s41598-025-03672-7) / 07月05日 08:00
 <!--rss-papers:end-->
