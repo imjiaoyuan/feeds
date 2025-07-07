@@ -43,6 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
 - [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
@@ -79,5 +80,4 @@
 - [DiffMethylTools: a toolbox of the detection, annotation and visualization of differential DNA methylation](https://www.biorxiv.org/content/10.1101/2025.07.01.662655v1?rss=1) / 07月05日 08:00
 - [Population differences of chromosome 22q11.2 duplication structure predisposes differentially to microdeletion and inversion.](https://www.biorxiv.org/content/10.1101/2025.07.04.662981v1?rss=1) / 07月05日 08:00
 - [Image-based, pooled phenotyping reveals multidimensional, disease-specific variant effects](https://www.biorxiv.org/content/10.1101/2025.07.03.663081v1?rss=1) / 07月05日 08:00
-- [RNA liquid biopsy via nanopore sequencing for novel biomarker discovery and cancer early detection](https://www.biorxiv.org/content/10.1101/2025.07.02.662774v1?rss=1) / 07月05日 08:00
 <!--rss-papers:end-->
