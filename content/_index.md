@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [DrugDomain2.0: comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank](https://www.biorxiv.org/content/10.1101/2025.07.03.663025v1?rss=1) / 07月07日 08:00
+- [Exploring GNRA tetraloop-like motifs in nucleic acid 3D structures](https://www.biorxiv.org/content/10.1101/2025.07.03.663028v1?rss=1) / 07月07日 08:00
 - [From sequence to signature: Uncovering multiscale AMR features across bacterial pathogens with supervised machine learning](https://www.biorxiv.org/content/10.1101/2025.07.03.663053v1?rss=1) / 07月07日 08:00
 - [PlantVarFilter: A Comprehensive Pipeline for Variant Filtering and Genome-Wide Association Analysis in Plant Genomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662805v1?rss=1) / 07月07日 08:00
 - [A large-scale comparative metagenomic analysis of short-read sequencing platforms indicates high taxonomic concordance and functional analysis challenges](https://www.biorxiv.org/content/10.1101/2025.07.06.662369v1?rss=1) / 07月07日 08:00
@@ -48,22 +50,14 @@
 - [Telomere-to-telomere reference genome of the common five-lined skink, Plestiodon fasciatus (Squamata: Scincidae)](https://www.biorxiv.org/content/10.1101/2025.07.03.663019v1?rss=1) / 07月07日 08:00
 - [Chromosomal rearrangements and segmental deletions drive gene loss in squamates](https://www.biorxiv.org/content/10.1101/2025.07.03.663111v1?rss=1) / 07月07日 08:00
 - [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 07月07日 08:00
-- [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 07月07日 08:00
-- [Genetic liability to major psychiatric disorders contributes to multi-faceted quality of life outcomes in children and adults](https://www.nature.com/articles/s41398-025-03443-y) / 07月07日 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
-- [TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x) / 07月07日 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
 - [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 07月07日 08:00
 - [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
-- [AI driven automation for enhancing sustainability efforts in CDP report analysis](https://www.nature.com/articles/s41598-025-07584-4) / 07月07日 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
 - [Integrated bioinformatics analysis identifies CHAD association with osteoporosis and in vitro chondrogenic effects of Wogonin](https://www.nature.com/articles/s41598-025-05861-w) / 07月07日 08:00
-- [Framework for bias evaluation in large language models in healthcare settings](https://www.nature.com/articles/s41746-025-01786-w) / 07月07日 08:00
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 07月07日 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 07月07日 08:00
-- [Targeting dysregulated molecular pathways in cancer cell lines using small molecule inhibitors as a promising therapeutic strategy](https://www.nature.com/articles/s41598-025-06892-z) / 07月07日 08:00
 - [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 07月07日 08:00
-- [Automated cell annotation and classification on histopathology for spatial biomarker discovery](https://www.nature.com/articles/s41467-025-61349-1) / 07月07日 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 07月07日 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 07月07日 08:00
 - [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 07月07日 08:00
@@ -76,4 +70,10 @@
 - [The haplotype-resolved telomere-to-telomere genome and OMICS analyses reveal genetic responses to tapping in rubber tree](https://www.nature.com/articles/s41467-025-61527-1) / 07月07日 08:00
 - [High-precision cytosine base editors by evolving nucleic-acid-recognition hotspots in deaminase](https://www.nature.com/articles/s41587-025-02678-w) / 07月07日 08:00
 - [Neurogenomic and behavioral principles shape freezing dynamics and synergistic performance in Drosophila melanogaster](https://www.nature.com/articles/s41467-025-61313-z) / 07月07日 08:00
+- [Reply to: “Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors”](https://www.nature.com/articles/s41467-025-60860-9) / 07月07日 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
+- [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 07月07日 08:00
+- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 07月07日 08:00
+- [Publisher Correction: ATM and IRAK1 orchestrate two distinct mechanisms of NF-κB activation in response to DNA damage](https://www.nature.com/articles/s41594-025-01638-x) / 07月07日 08:00
+- [Author Correction: Spatial transcriptomics reveals regionally altered gene expression that drives retinal degeneration](https://www.nature.com/articles/s42003-025-08451-8) / 07月07日 08:00
 <!--rss-papers:end-->
