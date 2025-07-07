@@ -45,19 +45,17 @@
 **今日更新**
 - [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 08:00
 - [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 08:00
+- [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 08:00
-- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 08:00
 - [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
-- [Integrated bioinformatics analysis identifies CHAD association with osteoporosis and in vitro chondrogenic effects of Wogonin](https://www.nature.com/articles/s41598-025-05861-w) / 08:00
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 08:00
 - [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
 - [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 08:00
-- [Risk assessment and perspectives of local transmission of chikungunya and dengue in Italy, a European forerunner](https://www.nature.com/articles/s41467-025-61109-1) / 08:00
-- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 08:00
 - [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 08:00
 - [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 08:00
 - [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
@@ -80,4 +78,6 @@
 - [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
 - [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 07月06日 08:00
 - [SpatialMap: A Scalable Deep Learning Method for Cell Typing in Subcellular Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.662904v1?rss=1) / 07月05日 08:00
+- [Gain of Function p53 mutant R273H confers distinct methylation profiles and consequent partial or full EMT states to colon tumour](https://www.biorxiv.org/content/10.1101/2025.07.03.662954v1?rss=1) / 07月05日 08:00
+- [A Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates](https://www.biorxiv.org/content/10.1101/2025.07.04.663216v1?rss=1) / 07月05日 08:00
 <!--rss-papers:end-->
