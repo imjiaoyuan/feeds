@@ -43,8 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
-- [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
+- [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
 
 **历史记录**
 - [PIMENTO: A PrIMEr infereNce TOolkit to facilitate large-scale calling of amplicon sequence variants](https://www.biorxiv.org/content/10.1101/2025.07.04.663168v1?rss=1) / 07月06日 08:00
@@ -52,8 +51,6 @@
 - [Structural motif search across the protein-universe with Folddisco](https://www.biorxiv.org/content/10.1101/2025.07.06.663357v1?rss=1) / 07月06日 08:00
 - [Why do some predicted protein structures fold poorly? Benchmarking AlphaFold, ESMFold, and Boltz in maize](https://www.biorxiv.org/content/10.1101/2025.07.05.663230v1?rss=1) / 07月06日 08:00
 - [Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity](https://www.biorxiv.org/content/10.1101/2025.07.04.663231v1?rss=1) / 07月06日 08:00
-- [Identification and validation of endoplasmic reticulum autophagy-related potential biomarkers in periodontitis](https://www.nature.com/articles/s41598-025-08180-2) / 07月06日 08:00
-- [Interpretable machine learning models for survival prediction in prostate cancer bone metastases](https://www.nature.com/articles/s41598-025-09691-8) / 07月06日 08:00
 - [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 07月06日 08:00
 - [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
 - [Pro-inflammatory effects of endogenous and recombinant MDA-7/IL-24 with RGD peptide on human hepatic stellate cells](https://www.nature.com/articles/s41598-025-06850-9) / 07月06日 08:00
@@ -80,4 +77,7 @@
 - [RNA liquid biopsy via nanopore sequencing for novel biomarker discovery and cancer early detection](https://www.biorxiv.org/content/10.1101/2025.07.02.662774v1?rss=1) / 07月05日 08:00
 - [Evidence supporting the first secondary chromosome in actinobacteria as a hallmark of the Embleya genus](https://www.biorxiv.org/content/10.1101/2025.07.03.662523v1?rss=1) / 07月05日 08:00
 - [Epigenetic adaptation of beta cells across lifespan and disease: age-related demethylation is advanced in type 2 diabetes](https://www.biorxiv.org/content/10.1101/2025.07.02.662814v1?rss=1) / 07月05日 08:00
+- [Breaking the cold chain: solutions for room temperature preservation of mosquitoes leading to high quality reference genomes](https://www.biorxiv.org/content/10.1101/2025.07.03.662936v1?rss=1) / 07月05日 08:00
+- [Can music modulate gene expression involved in traumatic brain injury? An integrative transcriptomic and epigenomic proof of concept](https://www.biorxiv.org/content/10.1101/2025.07.02.662815v1?rss=1) / 07月05日 08:00
+- [A transcriptomic approach to understand genetic networks of regeneration, cell plasticity, and longevity of the Immortal Jellyfish Turritopsis dohrnii (Cnidaria, Hydrozoa)](https://www.biorxiv.org/content/10.1101/2025.07.02.660568v1?rss=1) / 07月05日 08:00
 <!--rss-papers:end-->
