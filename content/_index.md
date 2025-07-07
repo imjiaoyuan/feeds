@@ -48,14 +48,18 @@
 - [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 08:00
+- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 08:00
 - [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
+- [Integrated bioinformatics analysis identifies CHAD association with osteoporosis and in vitro chondrogenic effects of Wogonin](https://www.nature.com/articles/s41598-025-05861-w) / 08:00
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 08:00
 - [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
 - [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 08:00
+- [Risk assessment and perspectives of local transmission of chikungunya and dengue in Italy, a European forerunner](https://www.nature.com/articles/s41467-025-61109-1) / 08:00
+- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 08:00
 - [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 08:00
 - [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 08:00
 - [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
@@ -64,20 +68,16 @@
 - [Reply to: “Model mimicry limits conclusions about neural tuning and can mistakenly imply unlikely priors”](https://www.nature.com/articles/s41467-025-60860-9) / 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 08:00
+- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 08:00
 - [Publisher Correction: ATM and IRAK1 orchestrate two distinct mechanisms of NF-κB activation in response to DNA damage](https://www.nature.com/articles/s41594-025-01638-x) / 08:00
 - [Author Correction: Spatial transcriptomics reveals regionally altered gene expression that drives retinal degeneration](https://www.nature.com/articles/s42003-025-08451-8) / 08:00
 - [Structural insights into transcriptional regulation by the helicase RECQL5](https://www.nature.com/articles/s41594-025-01611-8) / 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 08:00
 - [Structural basis of RECQL5-induced RNA polymerase II transcription braking and subsequent reactivation](https://www.nature.com/articles/s41594-025-01586-6) / 08:00
+- [Comprehensive genome-wide characterization of NAC transcription factors in Barley influence insights into stress tolerance and evolutionary dynamics](https://www.nature.com/articles/s41598-025-89045-6) / 08:00
 
 **历史记录**
 - [PIMENTO: A PrIMEr infereNce TOolkit to facilitate large-scale calling of amplicon sequence variants](https://www.biorxiv.org/content/10.1101/2025.07.04.663168v1?rss=1) / 07月06日 08:00
 - [Multi-omics time-series analysis in microbiome research: a systematic review](https://www.biorxiv.org/content/10.1101/2025.07.03.659054v1?rss=1) / 07月06日 08:00
 - [Structural motif search across the protein-universe with Folddisco](https://www.biorxiv.org/content/10.1101/2025.07.06.663357v1?rss=1) / 07月06日 08:00
-- [Why do some predicted protein structures fold poorly? Benchmarking AlphaFold, ESMFold, and Boltz in maize](https://www.biorxiv.org/content/10.1101/2025.07.05.663230v1?rss=1) / 07月06日 08:00
-- [Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity](https://www.biorxiv.org/content/10.1101/2025.07.04.663231v1?rss=1) / 07月06日 08:00
-- [Identification and validation of endoplasmic reticulum autophagy-related potential biomarkers in periodontitis](https://www.nature.com/articles/s41598-025-08180-2) / 07月06日 08:00
-- [Interpretable machine learning models for survival prediction in prostate cancer bone metastases](https://www.nature.com/articles/s41598-025-09691-8) / 07月06日 08:00
-- [Unravelling the impact of linear energy transfer on micronuclei induction from proton and photon irradiation](https://www.nature.com/articles/s41598-025-09763-9) / 07月06日 08:00
-- [Annexin-A1 deficiency uncovers female-specific pathways in blood pressure control and cardiovascular remodeling in mice](https://www.nature.com/articles/s42003-025-08291-6) / 07月06日 08:00
 <!--rss-papers:end-->
