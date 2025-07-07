@@ -47,11 +47,12 @@
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 08:00
 - [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 08:00
 - [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 08:00
+- [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 08:00
+- [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 08:00
 - [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 08:00
+- [Neurogenomic and behavioral principles shape freezing dynamics and synergistic performance in Drosophila melanogaster](https://www.nature.com/articles/s41467-025-61313-z) / 08:00
+- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 08:00
 - [Genomic analysis of Plasmodium vivax field isolates circulating in sub-Saharan Africa](https://www.nature.com/articles/s42003-025-08276-5) / 08:00
-- [Publisher Correction: ATM and IRAK1 orchestrate two distinct mechanisms of NF-κB activation in response to DNA damage](https://www.nature.com/articles/s41594-025-01638-x) / 08:00
-- [Structural insights into transcriptional regulation by the helicase RECQL5](https://www.nature.com/articles/s41594-025-01611-8) / 08:00
-- [Structural basis of RECQL5-induced RNA polymerase II transcription braking and subsequent reactivation](https://www.nature.com/articles/s41594-025-01586-6) / 08:00
 
 **历史记录**
 - [PIMENTO: A PrIMEr infereNce TOolkit to facilitate large-scale calling of amplicon sequence variants](https://www.biorxiv.org/content/10.1101/2025.07.04.663168v1?rss=1) / 07月06日 08:00
@@ -79,5 +80,4 @@
 - [GatorST: A Versatile Contrastive Meta-Learning Framework for Spatial Transcriptomic Data Analysis](https://www.biorxiv.org/content/10.1101/2025.07.01.662625v1?rss=1) / 07月05日 08:00
 - [Modelling punctuated similarity](https://www.biorxiv.org/content/10.1101/2025.07.01.661927v1?rss=1) / 07月05日 08:00
 - [PULPO: Pipeline of understanding large-scale patterns of oncogenomic signatures](https://www.biorxiv.org/content/10.1101/2025.07.02.661487v1?rss=1) / 07月05日 08:00
-- [A moderated statistical test for detecting shifts in homeolog expression ratios in allopolyploids](https://www.biorxiv.org/content/10.1101/2025.07.01.660977v1?rss=1) / 07月05日 08:00
 <!--rss-papers:end-->
