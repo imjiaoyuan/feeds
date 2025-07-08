@@ -43,6 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Mechanism-Aware Protein-Protein Interaction Prediction via Contact-Guided Dual Attention on Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.07.04.663157v1?rss=1) / 07月07日 08:00
 - [AIDO.Tissue: Spatial Cell-Guided Pretraining for Scalable Spatial Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.04.663102v1?rss=1) / 07月07日 08:00
 - [Statistical knockoffs improve biomarker discovery fromtranscriptomic data](https://www.biorxiv.org/content/10.1101/2025.07.04.663147v1?rss=1) / 07月07日 08:00
 - [The evolution of function in the DNA binding domain of the CRP/FNR family](https://www.biorxiv.org/content/10.1101/2025.07.04.663149v1?rss=1) / 07月07日 08:00
@@ -65,17 +66,16 @@
 - [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 07月07日 08:00
 - [Genetic liability to major psychiatric disorders contributes to multi-faceted quality of life outcomes in children and adults](https://www.nature.com/articles/s41398-025-03443-y) / 07月07日 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
-- [TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x) / 07月07日 08:00
-- [MU-Diff: a mutual learning diffusion model for synthetic MRI with Application for brain lesions](https://www.nature.com/articles/s44387-025-00016-8) / 07月07日 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
-- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 07月07日 08:00
 - [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
-- [AI driven automation for enhancing sustainability efforts in CDP report analysis](https://www.nature.com/articles/s41598-025-07584-4) / 07月07日 08:00
 - [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
-- [Integrated bioinformatics analysis identifies CHAD association with osteoporosis and in vitro chondrogenic effects of Wogonin](https://www.nature.com/articles/s41598-025-05861-w) / 07月07日 08:00
-- [Framework for bias evaluation in large language models in healthcare settings](https://www.nature.com/articles/s41746-025-01786-w) / 07月07日 08:00
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 07月07日 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 07月07日 08:00
-- [Targeting dysregulated molecular pathways in cancer cell lines using small molecule inhibitors as a promising therapeutic strategy](https://www.nature.com/articles/s41598-025-06892-z) / 07月07日 08:00
 - [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 07月07日 08:00
+- [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 07月07日 08:00
+- [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 07月07日 08:00
+- [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 07月07日 08:00
+- [Gut microbiota–mediated lipid accumulation as a driver of evolutionary adaptation to blue light toxicity in Drosophila](https://www.nature.com/articles/s42003-025-08348-6) / 07月07日 08:00
+- [Conserved wing shape variation across biological scales unveils dialectical relationships between micro- and macroevolution](https://www.nature.com/articles/s42003-025-08376-2) / 07月07日 08:00
+- [Neandertal predation agenda reveals seasonal strategies during MIS 5–4 transition in Axlor, northatlantic Iberia](https://www.nature.com/articles/s41598-025-08314-6) / 07月07日 08:00
 <!--rss-papers:end-->
