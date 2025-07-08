@@ -44,12 +44,9 @@
 <!--rss-papers:start-->
 **今日更新**
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
-- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
-- [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 08:00
-- [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 08:00
-- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
-- [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
+- [Nano3P-seq: charting the coding and noncoding transcriptome at single-molecule resolution](https://www.nature.com/articles/s41596-025-01205-0) / 08:00
+- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
 - [Decoding and reprogramming of the biosynthetic networks of mushroom-derived bioactive type II ganoderic acids in yeast](https://www.nature.com/articles/s41421-025-00812-1) / 08:00
 
 **历史记录**
@@ -80,4 +77,7 @@
 - [TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x) / 07月07日 08:00
 - [MU-Diff: a mutual learning diffusion model for synthetic MRI with Application for brain lesions](https://www.nature.com/articles/s44387-025-00016-8) / 07月07日 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
+- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 07月07日 08:00
+- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
+- [AI driven automation for enhancing sustainability efforts in CDP report analysis](https://www.nature.com/articles/s41598-025-07584-4) / 07月07日 08:00
 <!--rss-papers:end-->
