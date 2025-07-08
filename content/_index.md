@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 08:30
+
 **历史记录**
 - [财务记录之最近的一些操作思路](https://blog.pursuitus.com/financial-records.html) / 07月07日 09:46
 - [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 07月06日 20:41
@@ -35,12 +38,14 @@
 - [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
 - [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 - [HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111) / 06月27日 07:56
-- [南极谋杀案 （十六）- 随机唐提](https://yufree.cn/cn/2025/06/26/anterictic-murder/) / 06月26日 08:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [AIDO.Tissue: Spatial Cell-Guided Pretraining for Scalable Spatial Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.04.663102v1?rss=1) / 07月07日 08:00
+- [Statistical knockoffs improve biomarker discovery fromtranscriptomic data](https://www.biorxiv.org/content/10.1101/2025.07.04.663147v1?rss=1) / 07月07日 08:00
+- [The evolution of function in the DNA binding domain of the CRP/FNR family](https://www.biorxiv.org/content/10.1101/2025.07.04.663149v1?rss=1) / 07月07日 08:00
 - [Undersampling techniques for non-linear chemical space visualization](https://www.biorxiv.org/content/10.1101/2025.07.03.663077v1?rss=1) / 07月07日 08:00
 - [ANABAG: Annotated Antibody Antigen dataset with unique features for Antibody Engineering Applications](https://www.biorxiv.org/content/10.1101/2025.07.03.663065v1?rss=1) / 07月07日 08:00
 - [Validation of Morphology-Guided Computational Enhancement for Single-Cell Resolution Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.663047v1?rss=1) / 07月07日 08:00
@@ -51,6 +56,9 @@
 - [PlantVarFilter: A Comprehensive Pipeline for Variant Filtering and Genome-Wide Association Analysis in Plant Genomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662805v1?rss=1) / 07月07日 08:00
 - [A large-scale comparative metagenomic analysis of short-read sequencing platforms indicates high taxonomic concordance and functional analysis challenges](https://www.biorxiv.org/content/10.1101/2025.07.06.662369v1?rss=1) / 07月07日 08:00
 - [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 07月07日 08:00
+- [Genetic basis of traits and local adaptation in UK silver birch](https://www.biorxiv.org/content/10.1101/2025.07.04.662749v1?rss=1) / 07月07日 08:00
+- [A framework for integrating genomic profiles into captive breeding and reinforcement programmes: A case study on captive saker falcons](https://www.biorxiv.org/content/10.1101/2025.07.04.663124v1?rss=1) / 07月07日 08:00
+- [Rapid Identification of Metal Resistance Genes Using an Enhanced ResNet Deep Learning Model Trained on a largely Expanded BacMet-Based Database](https://www.biorxiv.org/content/10.1101/2025.07.04.663169v1?rss=1) / 07月07日 08:00
 - [Telomere-to-telomere reference genome of the common five-lined skink, Plestiodon fasciatus (Squamata: Scincidae)](https://www.biorxiv.org/content/10.1101/2025.07.03.663019v1?rss=1) / 07月07日 08:00
 - [Chromosomal rearrangements and segmental deletions drive gene loss in squamates](https://www.biorxiv.org/content/10.1101/2025.07.03.663111v1?rss=1) / 07月07日 08:00
 - [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 07月07日 08:00
@@ -69,11 +77,5 @@
 - [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 07月07日 08:00
 - [Nuclear morphometrics coupled with machine learning identifies dynamic states of senescence across age](https://www.nature.com/articles/s41467-025-60975-z) / 07月07日 08:00
 - [Targeting dysregulated molecular pathways in cancer cell lines using small molecule inhibitors as a promising therapeutic strategy](https://www.nature.com/articles/s41598-025-06892-z) / 07月07日 08:00
-- [Mechanism of Brucea javanica against multiple myeloma via TNF-NF-κB signaling](https://www.nature.com/articles/s41598-025-10271-z) / 07月07日 08:00
 - [A recurrent multimodal sparse transformer framework for gastrointestinal disease classification](https://www.nature.com/articles/s41598-025-08897-0) / 07月07日 08:00
-- [Automated cell annotation and classification on histopathology for spatial biomarker discovery](https://www.nature.com/articles/s41467-025-61349-1) / 07月07日 08:00
-- [Machine learning identifies KRT8 dysregulation and endothelial remodeling in Moyamoya disease](https://www.nature.com/articles/s41598-025-10003-3) / 07月07日 08:00
-- [PodGPT: an audio-augmented large language model for research and education](https://www.nature.com/articles/s44385-025-00022-0) / 07月07日 08:00
-- [Identification and validation of glucocorticoid receptor and programmed cell death-related genes in spinal cord injury using machine learning](https://www.nature.com/articles/s41598-025-08060-9) / 07月07日 08:00
-- [Risk assessment and perspectives of local transmission of chikungunya and dengue in Italy, a European forerunner](https://www.nature.com/articles/s41467-025-61109-1) / 07月07日 08:00
 <!--rss-papers:end-->
