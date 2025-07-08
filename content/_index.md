@@ -1,48 +1,54 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [失业率](https://onojyun.com/2025/07/08/%e5%a4%b1%e4%b8%9a%e7%8e%87/) / 11:00
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 08:30
 
 **历史记录**
-- [财务记录之最近的一些操作思路](https://blog.pursuitus.com/financial-records.html) / 07月07日 09:46
+- [Packet is the Linux App You Didn’t Know You Needed for Fast Android File Transfers](https://itsfoss.com/linux-android-file-transfer/) / 07月07日 21:13
+- [老天爷点到为止](https://onojyun.com/2025/07/07/%e8%80%81%e5%a4%a9%e7%88%b7%e7%82%b9%e5%88%b0%e4%b8%ba%e6%ad%a2/) / 07月07日 11:00
 - [芝加哥](https://yufree.cn/cn/2025/07/07/chicago/) / 07月07日 08:00
-- [那些年我干过的工种](https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html) / 07月06日 20:41
-- [隐说 NO.9  反思与过度反思](https://wangyurui.com/posts/yin-shuo-664344e7) / 07月06日 12:02
-- [不硬刚的破局艺术](https://wangyurui.com/posts/shi-jing-shen-xiao-wang-liao-ma-7940d39d) / 07月06日 11:56
+- [Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux](https://itsfoss.com/failed-to-synchronize-all-databases/) / 07月06日 12:43
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 07月06日 09:22
 - [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 07月06日 09:11
 - [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/) / 07月05日 21:29
 - [分享 web3 入门计划｜2025 版](https://polebug.github.io/2025/07/05/web3_2025/) / 07月05日 20:51
+- [写在世界末日之前](https://onojyun.com/2025/07/04/%e5%86%99%e5%9c%a8%e4%b8%96%e7%95%8c%e6%9c%ab%e6%97%a5%e4%b9%8b%e5%89%8d/) / 07月04日 11:03
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
 - [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
+- [车祸 IV](https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/) / 07月03日 22:26
+- [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) / 07月03日 13:13
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
+- [活人感](https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/) / 07月02日 11:03
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
 - [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
+- [Relive the Golden Era: 5 Tools to Get Retro Feel on Linux](https://itsfoss.com/linux-retro-tools/) / 06月30日 15:16
+- [笨与蠢](https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/) / 06月30日 11:02
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
-- [隐说 No.8 真正的危险在于仍用过去的逻辑做事](https://wangyurui.com/posts/yin-shuo-no-8-zhen-zheng-de-wei-xian-zai-yu-reng-aafff1e0) / 06月29日 18:35
-- [“熟人社会”与县域经济](https://wangyurui.com/posts/shou-ren-she-hui-yu-xian-yu-jing-ji-45b6f567) / 06月29日 18:35
+- [未完不待续的故事](https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/) / 06月29日 22:54
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
-- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
-- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
-- [关于陈丹案不具备复庭条件，不同意复庭的辩护意见书](https://xingbianren.cn/post/308.html) / 06月27日 16:33
-- [走样的信访制度](https://xingbianren.cn/post/307.html) / 06月27日 10:35
-- [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
+- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
+- [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 08:00
+- [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 08:00
+- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
+- [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
 - [Decoding and reprogramming of the biosynthetic networks of mushroom-derived bioactive type II ganoderic acids in yeast](https://www.nature.com/articles/s41421-025-00812-1) / 08:00
 
@@ -61,6 +67,7 @@
 - [PlantVarFilter: A Comprehensive Pipeline for Variant Filtering and Genome-Wide Association Analysis in Plant Genomics](https://www.biorxiv.org/content/10.1101/2025.07.02.662805v1?rss=1) / 07月07日 08:00
 - [A large-scale comparative metagenomic analysis of short-read sequencing platforms indicates high taxonomic concordance and functional analysis challenges](https://www.biorxiv.org/content/10.1101/2025.07.06.662369v1?rss=1) / 07月07日 08:00
 - [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 07月07日 08:00
+- [A genome-wide approach uncovers the suite of genes important for swarming motility in the biocontrol bacteria Pseudomonas protegens Pf-5](https://www.biorxiv.org/content/10.1101/2025.07.07.663420v1?rss=1) / 07月07日 08:00
 - [Genetic basis of traits and local adaptation in UK silver birch](https://www.biorxiv.org/content/10.1101/2025.07.04.662749v1?rss=1) / 07月07日 08:00
 - [A framework for integrating genomic profiles into captive breeding and reinforcement programmes: A case study on captive saker falcons](https://www.biorxiv.org/content/10.1101/2025.07.04.663124v1?rss=1) / 07月07日 08:00
 - [Rapid Identification of Metal Resistance Genes Using an Enhanced ResNet Deep Learning Model Trained on a largely Expanded BacMet-Based Database](https://www.biorxiv.org/content/10.1101/2025.07.04.663169v1?rss=1) / 07月07日 08:00
@@ -73,11 +80,4 @@
 - [TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x) / 07月07日 08:00
 - [MU-Diff: a mutual learning diffusion model for synthetic MRI with Application for brain lesions](https://www.nature.com/articles/s44387-025-00016-8) / 07月07日 08:00
 - [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
-- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 07月07日 08:00
-- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
-- [AI driven automation for enhancing sustainability efforts in CDP report analysis](https://www.nature.com/articles/s41598-025-07584-4) / 07月07日 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
-- [Integrated bioinformatics analysis identifies CHAD association with osteoporosis and in vitro chondrogenic effects of Wogonin](https://www.nature.com/articles/s41598-025-05861-w) / 07月07日 08:00
-- [Framework for bias evaluation in large language models in healthcare settings](https://www.nature.com/articles/s41746-025-01786-w) / 07月07日 08:00
-- [Motion blur aware multiscale adaptive cascade framework for ear tag dropout detection in reserve breeding pigs](https://www.nature.com/articles/s41598-025-09679-4) / 07月07日 08:00
 <!--rss-papers:end-->

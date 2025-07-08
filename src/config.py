@@ -4,7 +4,6 @@ RSS_FEEDS = {
         "https://blog.ursb.me/feed.xml",
         "https://innei.in/feed",
         "https://thiscute.world/index.xml",
-        "https://wangyurui.com/feed.xml",
         "https://polebug.github.io/atom.xml",
         "https://imzm.im/feed/",
         "https://hellogithub.com/rss",
@@ -16,7 +15,6 @@ RSS_FEEDS = {
         "https://blog.drpika.com/atom.xml",
         "https://yufree.cn/cn/index.xml",
         "https://ada3104.pages.dev/index.xml",
-        "https://blog.pursuitus.com/feed",
         "https://blog.codingnow.com/atom.xml",
         "https://manateelazycat.github.io/feed.xml",
         "https://www.ntiy.com/feed",
@@ -44,6 +42,10 @@ RSS_FEEDS = {
         "https://anotherdayu.com/feed/",
         "https://hualet.org/index.xml",
         "https://www.microsoft.com/en-us/research/feed/",
+        "https://blog.ferstar.org/atom.xml",
+        "https://www.archlinuxcn.org/feed/",
+        "https://itsfoss.com/rss/",
+        "https://onojyun.com/feed/"
     ],
     'papers': [
         "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics",
