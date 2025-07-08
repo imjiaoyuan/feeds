@@ -74,6 +74,6 @@
 - [Chromosome-level genome assembly of Nothapodytes nimmoniana](https://www.nature.com/articles/s41597-025-05484-w) / 07月08日 08:00
 - [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 07月08日 08:00
 - [Evolutionary adaptations of cyanobacterial polyhydroxybutyrate (PHB) biosynthesis and metabolic pathways in Spirulina, Arthrospira, and Limnospira spp](https://www.nature.com/articles/s41598-025-04501-7) / 07月08日 08:00
+- [New insights into the first cervical vertebrae of Otavipithecus and Nacholapithecus](https://www.nature.com/articles/s41598-025-09006-x) / 07月08日 08:00
 - [Selenium protected NMRI mice against methotrexate induced testicular injury](https://www.nature.com/articles/s41598-025-09728-y) / 07月08日 08:00
-- [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 07月08日 08:00
 <!--rss-papers:end-->
