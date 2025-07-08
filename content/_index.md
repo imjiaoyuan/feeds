@@ -43,7 +43,14 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
+- [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 08:00
+- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
+- [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 08:00
+- [The role of gene duplication and paralog specialisation in the evolution of the mammalian PRPS complex](https://www.nature.com/articles/s41467-025-61216-z) / 08:00
+- [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 08:00
+- [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
 - [Nano3P-seq: charting the coding and noncoding transcriptome at single-molecule resolution](https://www.nature.com/articles/s41596-025-01205-0) / 08:00
 - [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
@@ -73,11 +80,4 @@
 - [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 07月07日 08:00
 - [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 07月07日 08:00
 - [Genetic liability to major psychiatric disorders contributes to multi-faceted quality of life outcomes in children and adults](https://www.nature.com/articles/s41398-025-03443-y) / 07月07日 08:00
-- [BEAST X for Bayesian phylogenetic, phylogeographic and phylodynamic inference](https://www.nature.com/articles/s41592-025-02751-x) / 07月07日 08:00
-- [TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x) / 07月07日 08:00
-- [MU-Diff: a mutual learning diffusion model for synthetic MRI with Application for brain lesions](https://www.nature.com/articles/s44387-025-00016-8) / 07月07日 08:00
-- [Cell Marker Accordion: interpretable single-cell and spatial omics annotation in health and disease](https://www.nature.com/articles/s41467-025-60900-4) / 07月07日 08:00
-- [Hybrid DWT NLM method with NOA optimization for ECG signal denoising](https://www.nature.com/articles/s41598-025-09663-y) / 07月07日 08:00
-- [Dynamicasome—a molecular dynamics-guided and AI-driven pathogenicity prediction catalogue for all genetic mutations](https://www.nature.com/articles/s42003-025-08334-y) / 07月07日 08:00
-- [AI driven automation for enhancing sustainability efforts in CDP report analysis](https://www.nature.com/articles/s41598-025-07584-4) / 07月07日 08:00
 <!--rss-papers:end-->
