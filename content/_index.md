@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [迎风而立](https://www.wordpace.com/standing-tall-against-the-wind/) / 21:53
 - [失业率](https://onojyun.com/2025/07/08/%e5%a4%b1%e4%b8%9a%e7%8e%87/) / 11:00
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 08:30
 
@@ -37,7 +38,6 @@
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
-- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -55,11 +55,9 @@
 - [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 08:00
 - [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 08:00
 - [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 08:00
-- [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
 - [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 08:00
 - [VarMeter: a prediction method for the impact of glycogene variants](https://www.nature.com/articles/s10038-025-01364-8) / 08:00
-- [High-resolution fecal pharmacokinetic modeling in mice with orally administered antibiotics](https://www.nature.com/articles/s41598-025-10293-7) / 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 08:00
 - [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
 - [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 08:00
@@ -68,16 +66,18 @@
 - [A chromosome-level genome assembly and annotation of Cercis chuniana (Fabaceae)](https://www.nature.com/articles/s41597-025-05501-y) / 08:00
 - [Chromosome-level genome assembly of Nothapodytes nimmoniana](https://www.nature.com/articles/s41597-025-05484-w) / 08:00
 - [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 08:00
+- [Selenium protected NMRI mice against methotrexate induced testicular injury](https://www.nature.com/articles/s41598-025-09728-y) / 08:00
+- [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 08:00
+- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 08:00
+- [Pex3 promotes formation of peroxisome-peroxisome and peroxisome-lipid droplet contact sites](https://www.nature.com/articles/s41598-025-07934-2) / 08:00
+- [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
+- [Dishevelled-1 regulates global transcriptomic changes and associates with ETS1 transcription factor](https://www.nature.com/articles/s41467-025-61551-1) / 08:00
+- [Nano3P-seq: charting the coding and noncoding transcriptome at single-molecule resolution](https://www.nature.com/articles/s41596-025-01205-0) / 08:00
+- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
+- [Decoding and reprogramming of the biosynthetic networks of mushroom-derived bioactive type II ganoderic acids in yeast](https://www.nature.com/articles/s41421-025-00812-1) / 08:00
+- [KIN17 modulates the WNT/β-catenin pathway and epithelial mesenchymal transition in non-small cell lung cancer](https://www.nature.com/articles/s41598-025-08723-7) / 08:00
+- [Selection of stable reference genes for accurate reverse-transcription quantitative PCR in cotton-herbivore studies using virus-induced gene silencing](https://www.nature.com/articles/s41598-025-08940-0) / 08:00
 
 **历史记录**
 - [Mechanism-Aware Protein-Protein Interaction Prediction via Contact-Guided Dual Attention on Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.07.04.663157v1?rss=1) / 07月07日 08:00
-- [AIDO.Tissue: Spatial Cell-Guided Pretraining for Scalable Spatial Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.04.663102v1?rss=1) / 07月07日 08:00
-- [Statistical knockoffs improve biomarker discovery fromtranscriptomic data](https://www.biorxiv.org/content/10.1101/2025.07.04.663147v1?rss=1) / 07月07日 08:00
-- [The evolution of function in the DNA binding domain of the CRP/FNR family](https://www.biorxiv.org/content/10.1101/2025.07.04.663149v1?rss=1) / 07月07日 08:00
-- [Undersampling techniques for non-linear chemical space visualization](https://www.biorxiv.org/content/10.1101/2025.07.03.663077v1?rss=1) / 07月07日 08:00
-- [ANABAG: Annotated Antibody Antigen dataset with unique features for Antibody Engineering Applications](https://www.biorxiv.org/content/10.1101/2025.07.03.663065v1?rss=1) / 07月07日 08:00
-- [Validation of Morphology-Guided Computational Enhancement for Single-Cell Resolution Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.03.663047v1?rss=1) / 07月07日 08:00
-- [Evaluating Molecular Docking Programs for RNA-Targeted Ligand Screening: Influence of Binding Modes and Ligand Types](https://www.biorxiv.org/content/10.1101/2025.07.03.661502v1?rss=1) / 07月07日 08:00
-- [DrugDomain2.0: comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank](https://www.biorxiv.org/content/10.1101/2025.07.03.663025v1?rss=1) / 07月07日 08:00
-- [Exploring GNRA tetraloop-like motifs in nucleic acid 3D structures](https://www.biorxiv.org/content/10.1101/2025.07.03.663028v1?rss=1) / 07月07日 08:00
 <!--rss-papers:end-->
