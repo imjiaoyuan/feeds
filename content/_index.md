@@ -53,6 +53,21 @@
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 07月08日 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 07月08日 08:00
+- [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 07月08日 08:00
+- [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 07月08日 08:00
+- [Lossy DICOM conversion may affect AI performance](https://www.nature.com/articles/s41598-025-02851-w) / 07月08日 08:00
+- [Data-driven nutritional assessment of urban food landscapes: insights from Boston, London, and Dubai](https://www.nature.com/articles/s41598-025-08098-9) / 07月08日 08:00
+- [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 07月08日 08:00
+- [FeatureForest: the power of foundation models, the usability of random forests](https://www.nature.com/articles/s44303-025-00089-9) / 07月08日 08:00
+- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
+- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 07月08日 08:00
+- [VarMeter: a prediction method for the impact of glycogene variants](https://www.nature.com/articles/s10038-025-01364-8) / 07月08日 08:00
+- [High-resolution fecal pharmacokinetic modeling in mice with orally administered antibiotics](https://www.nature.com/articles/s41598-025-10293-7) / 07月08日 08:00
+- [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
+- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 07月08日 08:00
+- [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 07月08日 08:00
+- [KIN17 modulates the WNT/β-catenin pathway and epithelial mesenchymal transition in non-small cell lung cancer](https://www.nature.com/articles/s41598-025-08723-7) / 07月08日 08:00
 - [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 07月08日 08:00
 - [The role of gene duplication and paralog specialisation in the evolution of the mammalian PRPS complex](https://www.nature.com/articles/s41467-025-61216-z) / 07月08日 08:00
 - [A chromosome-level genome assembly and annotation of Cercis chuniana (Fabaceae)](https://www.nature.com/articles/s41597-025-05501-y) / 07月08日 08:00
@@ -61,19 +76,4 @@
 - [Evolutionary adaptations of cyanobacterial polyhydroxybutyrate (PHB) biosynthesis and metabolic pathways in Spirulina, Arthrospira, and Limnospira spp](https://www.nature.com/articles/s41598-025-04501-7) / 07月08日 08:00
 - [Selenium protected NMRI mice against methotrexate induced testicular injury](https://www.nature.com/articles/s41598-025-09728-y) / 07月08日 08:00
 - [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 07月08日 08:00
-- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 07月08日 08:00
-- [Chronic cerebral hypoperfusion induces venous dysfunction via EPAS1 regulation in mice](https://www.nature.com/articles/s41467-025-61614-3) / 07月08日 08:00
-- [Pex3 promotes formation of peroxisome-peroxisome and peroxisome-lipid droplet contact sites](https://www.nature.com/articles/s41598-025-07934-2) / 07月08日 08:00
-- [DNA profile database of Koompassia malaccensis in Malaysia and its application in forensic investigation](https://www.nature.com/articles/s41598-025-09566-y) / 07月08日 08:00
-- [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 07月08日 08:00
-- [Dishevelled-1 regulates global transcriptomic changes and associates with ETS1 transcription factor](https://www.nature.com/articles/s41467-025-61551-1) / 07月08日 08:00
-- [Nano3P-seq: charting the coding and noncoding transcriptome at single-molecule resolution](https://www.nature.com/articles/s41596-025-01205-0) / 07月08日 08:00
-- [Role of non-coding RNA-regulated ferroptosis in colorectal cancer](https://www.nature.com/articles/s41420-025-02606-6) / 07月08日 08:00
-- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 07月08日 08:00
-- [Decoding and reprogramming of the biosynthetic networks of mushroom-derived bioactive type II ganoderic acids in yeast](https://www.nature.com/articles/s41421-025-00812-1) / 07月08日 08:00
-- [KIN17 modulates the WNT/β-catenin pathway and epithelial mesenchymal transition in non-small cell lung cancer](https://www.nature.com/articles/s41598-025-08723-7) / 07月08日 08:00
-- [Selection of stable reference genes for accurate reverse-transcription quantitative PCR in cotton-herbivore studies using virus-induced gene silencing](https://www.nature.com/articles/s41598-025-08940-0) / 07月08日 08:00
-- [Mechanism-Aware Protein-Protein Interaction Prediction via Contact-Guided Dual Attention on Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.07.04.663157v1?rss=1) / 07月07日 08:00
-- [AIDO.Tissue: Spatial Cell-Guided Pretraining for Scalable Spatial Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.04.663102v1?rss=1) / 07月07日 08:00
-- [Statistical knockoffs improve biomarker discovery fromtranscriptomic data](https://www.biorxiv.org/content/10.1101/2025.07.04.663147v1?rss=1) / 07月07日 08:00
 <!--rss-papers:end-->
