@@ -43,18 +43,26 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [GAME: Genomic API for Model Evaluation](https://www.biorxiv.org/content/10.1101/2025.07.04.663250v1?rss=1) / 08:00
+- [Brain-epigenome wide association study (BEWAS) on the effects of two emerging psychedelics: ketamine & MDMA](https://www.biorxiv.org/content/10.1101/2025.07.03.663007v1?rss=1) / 08:00
+- [A chromosome-level reference genome assembly of the Small snakehead (Channa asiatica)](https://www.nature.com/articles/s41597-025-05479-7) / 08:00
 - [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 08:00
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 08:00
+- [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 08:00
+- [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 08:00
+- [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 08:00
+- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 08:00
+- [VarMeter: a prediction method for the impact of glycogene variants](https://www.nature.com/articles/s10038-025-01364-8) / 08:00
+- [High-resolution fecal pharmacokinetic modeling in mice with orally administered antibiotics](https://www.nature.com/articles/s41598-025-10293-7) / 08:00
+- [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 08:00
+- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
+- [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 08:00
 - [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 08:00
 - [The role of gene duplication and paralog specialisation in the evolution of the mammalian PRPS complex](https://www.nature.com/articles/s41467-025-61216-z) / 08:00
 - [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 08:00
-- [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 08:00
-- [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 08:00
-- [Nano3P-seq: charting the coding and noncoding transcriptome at single-molecule resolution](https://www.nature.com/articles/s41596-025-01205-0) / 08:00
-- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 08:00
-- [Decoding and reprogramming of the biosynthetic networks of mushroom-derived bioactive type II ganoderic acids in yeast](https://www.nature.com/articles/s41421-025-00812-1) / 08:00
 
 **历史记录**
 - [Mechanism-Aware Protein-Protein Interaction Prediction via Contact-Guided Dual Attention on Protein Language Models](https://www.biorxiv.org/content/10.1101/2025.07.04.663157v1?rss=1) / 07月07日 08:00
@@ -72,12 +80,4 @@
 - [A large-scale comparative metagenomic analysis of short-read sequencing platforms indicates high taxonomic concordance and functional analysis challenges](https://www.biorxiv.org/content/10.1101/2025.07.06.662369v1?rss=1) / 07月07日 08:00
 - [Revisiting the Fungal ITS2 Sequencing Data from the Human Microbiome Project](https://www.biorxiv.org/content/10.1101/2025.07.01.662555v1?rss=1) / 07月07日 08:00
 - [A genome-wide approach uncovers the suite of genes important for swarming motility in the biocontrol bacteria Pseudomonas protegens Pf-5](https://www.biorxiv.org/content/10.1101/2025.07.07.663420v1?rss=1) / 07月07日 08:00
-- [Genetic basis of traits and local adaptation in UK silver birch](https://www.biorxiv.org/content/10.1101/2025.07.04.662749v1?rss=1) / 07月07日 08:00
-- [A framework for integrating genomic profiles into captive breeding and reinforcement programmes: A case study on captive saker falcons](https://www.biorxiv.org/content/10.1101/2025.07.04.663124v1?rss=1) / 07月07日 08:00
-- [Rapid Identification of Metal Resistance Genes Using an Enhanced ResNet Deep Learning Model Trained on a largely Expanded BacMet-Based Database](https://www.biorxiv.org/content/10.1101/2025.07.04.663169v1?rss=1) / 07月07日 08:00
-- [Telomere-to-telomere reference genome of the common five-lined skink, Plestiodon fasciatus (Squamata: Scincidae)](https://www.biorxiv.org/content/10.1101/2025.07.03.663019v1?rss=1) / 07月07日 08:00
-- [Chromosomal rearrangements and segmental deletions drive gene loss in squamates](https://www.biorxiv.org/content/10.1101/2025.07.03.663111v1?rss=1) / 07月07日 08:00
-- [An expanded reference catalog of translated open reading frames for biomedical research](https://www.biorxiv.org/content/10.1101/2025.07.03.662928v1?rss=1) / 07月07日 08:00
-- [Turbocharged ‘killer’ cells show promise for autoimmune disease](https://www.nature.com/articles/d41586-025-02096-7) / 07月07日 08:00
-- [Genetic liability to major psychiatric disorders contributes to multi-faceted quality of life outcomes in children and adults](https://www.nature.com/articles/s41398-025-03443-y) / 07月07日 08:00
 <!--rss-papers:end-->
