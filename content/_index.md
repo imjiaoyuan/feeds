@@ -53,27 +53,27 @@
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 07月08日 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
-- [A transformer-based architecture for collaborative filtering modeling in personalized recommender systems](https://www.nature.com/articles/s41598-025-08931-1) / 07月08日 08:00
 - [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 07月08日 08:00
-- [Enhancing stroke risk prediction through class balancing and data augmentation with CBDA-ResNet50](https://www.nature.com/articles/s41598-025-07350-6) / 07月08日 08:00
 - [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 07月08日 08:00
 - [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 07月08日 08:00
-- [Interpretability-guided RNA N6-methyladenosine modification site prediction with invertible neural networks](https://www.nature.com/articles/s42003-025-08265-8) / 07月08日 08:00
-- [Lossy DICOM conversion may affect AI performance](https://www.nature.com/articles/s41598-025-02851-w) / 07月08日 08:00
-- [Data-driven nutritional assessment of urban food landscapes: insights from Boston, London, and Dubai](https://www.nature.com/articles/s41598-025-08098-9) / 07月08日 08:00
 - [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 07月08日 08:00
-- [FeatureForest: the power of foundation models, the usability of random forests](https://www.nature.com/articles/s44303-025-00089-9) / 07月08日 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
-- [Evaluating Mandarin tone pronunciation accuracy for second language learners using a ResNet-based Siamese network](https://www.nature.com/articles/s41598-025-08544-8) / 07月08日 08:00
-- [SFMANet: A Spatial-Frequency multi-scale attention network for stroke lesion segmentation](https://www.nature.com/articles/s41598-025-10506-z) / 07月08日 08:00
-- [Highly efficient enzymes designed from scratch](https://www.nature.com/articles/d41586-025-02054-3) / 07月08日 08:00
 - [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 07月08日 08:00
-- [Explainable deep learning approaches for high precision early melanoma detection using dermoscopic images](https://www.nature.com/articles/s41598-025-09938-4) / 07月08日 08:00
 - [VarMeter: a prediction method for the impact of glycogene variants](https://www.nature.com/articles/s10038-025-01364-8) / 07月08日 08:00
-- [In silico investigation of ketamine and methylphenidate drug-drug conjugate for MDD and ADHD treatment using MD simulations and MMGBSA](https://www.nature.com/articles/s41598-024-82302-0) / 07月08日 08:00
-- [A novel vascular stent and insert concept to improve hemodynamics and support vascular health](https://www.nature.com/articles/s41598-025-09613-8) / 07月08日 08:00
 - [High-resolution fecal pharmacokinetic modeling in mice with orally administered antibiotics](https://www.nature.com/articles/s41598-025-10293-7) / 07月08日 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
 - [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 07月08日 08:00
 - [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 07月08日 08:00
+- [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 07月08日 08:00
+- [The role of gene duplication and paralog specialisation in the evolution of the mammalian PRPS complex](https://www.nature.com/articles/s41467-025-61216-z) / 07月08日 08:00
+- [A chromosome-level genome assembly and annotation of Cercis chuniana (Fabaceae)](https://www.nature.com/articles/s41597-025-05501-y) / 07月08日 08:00
+- [Chromosome-level genome assembly of Nothapodytes nimmoniana](https://www.nature.com/articles/s41597-025-05484-w) / 07月08日 08:00
+- [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 07月08日 08:00
+- [Evolutionary adaptations of cyanobacterial polyhydroxybutyrate (PHB) biosynthesis and metabolic pathways in Spirulina, Arthrospira, and Limnospira spp](https://www.nature.com/articles/s41598-025-04501-7) / 07月08日 08:00
+- [New insights into the first cervical vertebrae of Otavipithecus and Nacholapithecus](https://www.nature.com/articles/s41598-025-09006-x) / 07月08日 08:00
+- [Selenium protected NMRI mice against methotrexate induced testicular injury](https://www.nature.com/articles/s41598-025-09728-y) / 07月08日 08:00
+- [Global pneumococcal sequence cluster lineage for invasive pneumococcal isolates in Denmark from summer 2019 to 2023](https://www.nature.com/articles/s41598-025-10149-0) / 07月08日 08:00
+- [Psilocybin treatment extends cellular lifespan and improves survival of aged mice](https://www.nature.com/articles/s41514-025-00244-x) / 07月08日 08:00
+- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 07月08日 08:00
+- [Chronic cerebral hypoperfusion induces venous dysfunction via EPAS1 regulation in mice](https://www.nature.com/articles/s41467-025-61614-3) / 07月08日 08:00
 <!--rss-papers:end-->
