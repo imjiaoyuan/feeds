@@ -44,15 +44,18 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 08:00
-- [Integrated bioinformatics and experimental analysis of mitochondrial-associated membrane function and mechanism in acute respiratory distress syndrome​​](https://www.nature.com/articles/s41598-025-10405-3) / 08:00
-- [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 08:00
-- [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 08:00
-- [Inferring chromosome segregation error stage and crossover in trisomic disorders with application to Down syndrome](https://www.nature.com/articles/s41467-025-61413-w) / 08:00
+- [Molecular evolution and reassortment dynamics of Orthohantavirus hantanense revealed through longitudinal genomic surveillance in the Republic of Korea](https://www.nature.com/articles/s41598-025-11003-z) / 08:00
 - [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 08:00
+- [PPE50 variants as novel phylogeographic signatures of host-pathogen co-evolution in tuberculosis](https://www.nature.com/articles/s42003-025-08383-3) / 08:00
+- [Cross-kingdom comparative genomics reveal the metabolic potential of fungi for lignin turnover in deadwood](https://www.nature.com/articles/s41559-025-02785-6) / 08:00
+- [The evolutionary foundations of transcriptional regulation in animals](https://www.nature.com/articles/s41576-025-00864-9) / 08:00
+- [Proteomic analysis reveals dynamic expression related to malondialdehyde in cassava in response to cassava bacterial blight](https://www.nature.com/articles/s41598-025-10051-9) / 08:00
 - [Enhancer adoption by an LTR retrotransposon generates viral-like particles, causing developmental limb phenotypes](https://www.nature.com/articles/s41588-025-02248-5) / 08:00
 - [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 08:00
 - [A novel peptide 66CTG stabilizes Myc proto-oncogene protein to promote triple-negative breast cancer growth](https://www.nature.com/articles/s41392-025-02298-5) / 08:00
 - [Plasma proteomics links brain and immune system aging with healthspan and longevity](https://www.nature.com/articles/s41591-025-03798-1) / 08:00
+- [Plasma extracellular vesicle-associated miR-512-3p modulates angiogenesis in pediatric Moyamoya disease by targeting ARHGEF3.](https://www.nature.com/articles/s41598-025-08796-4) / 08:00
+- [The evolutionary foundations of transcriptional regulation in animals](https://www.nature.com/articles/s41576-025-00864-9) / 08:00
 
 **历史记录**
 - [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
@@ -77,7 +80,4 @@
 - [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 07月08日 08:00
 - [Enhancing stroke risk prediction through class balancing and data augmentation with CBDA-ResNet50](https://www.nature.com/articles/s41598-025-07350-6) / 07月08日 08:00
 - [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 07月08日 08:00
-- [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 07月08日 08:00
-- [Interpretability-guided RNA N6-methyladenosine modification site prediction with invertible neural networks](https://www.nature.com/articles/s42003-025-08265-8) / 07月08日 08:00
-- [Lossy DICOM conversion may affect AI performance](https://www.nature.com/articles/s41598-025-02851-w) / 07月08日 08:00
 <!--rss-papers:end-->
