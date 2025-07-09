@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 17:09
 - [与其检讨自己，不如责备他人](https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/) / 11:00
 
@@ -37,22 +38,18 @@
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [未完不待续的故事](https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/) / 06月29日 22:54
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
-- [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
 - [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 08:00
-- [Integrated bioinformatics and experimental analysis of mitochondrial-associated membrane function and mechanism in acute respiratory distress syndrome​​](https://www.nature.com/articles/s41598-025-10405-3) / 08:00
-- [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 08:00
-- [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 08:00
-- [Inferring chromosome segregation error stage and crossover in trisomic disorders with application to Down syndrome](https://www.nature.com/articles/s41467-025-61413-w) / 08:00
 - [Molecular evolution and reassortment dynamics of Orthohantavirus hantanense revealed through longitudinal genomic surveillance in the Republic of Korea](https://www.nature.com/articles/s41598-025-11003-z) / 08:00
 - [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 08:00
 - [PPE50 variants as novel phylogeographic signatures of host-pathogen co-evolution in tuberculosis](https://www.nature.com/articles/s42003-025-08383-3) / 08:00
 - [Cross-kingdom comparative genomics reveal the metabolic potential of fungi for lignin turnover in deadwood](https://www.nature.com/articles/s41559-025-02785-6) / 08:00
 - [The evolutionary foundations of transcriptional regulation in animals](https://www.nature.com/articles/s41576-025-00864-9) / 08:00
+- [Efficient secretion of a plastic degrading enzyme from the green algae Chlamydomonas reinhardtii](https://www.nature.com/articles/s41598-025-09100-0) / 08:00
 - [Proteomic analysis reveals dynamic expression related to malondialdehyde in cassava in response to cassava bacterial blight](https://www.nature.com/articles/s41598-025-10051-9) / 08:00
 - [Enhancer adoption by an LTR retrotransposon generates viral-like particles, causing developmental limb phenotypes](https://www.nature.com/articles/s41588-025-02248-5) / 08:00
 - [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 08:00
@@ -61,6 +58,7 @@
 - [Plasma proteomics links brain and immune system aging with healthspan and longevity](https://www.nature.com/articles/s41591-025-03798-1) / 08:00
 - [Plasma extracellular vesicle-associated miR-512-3p modulates angiogenesis in pediatric Moyamoya disease by targeting ARHGEF3.](https://www.nature.com/articles/s41598-025-08796-4) / 08:00
 - [The evolutionary foundations of transcriptional regulation in animals](https://www.nature.com/articles/s41576-025-00864-9) / 08:00
+- [Circular RNA profiling identifies circ_0001522, circ_0001278, and circ_0001801 as predictors of unfavorable prognosis and drivers of triple-negative breast cancer hallmarks](https://www.nature.com/articles/s41420-025-02576-9) / 08:00
 
 **历史记录**
 - [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
@@ -80,4 +78,6 @@
 - [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 07月08日 08:00
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 07月08日 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
+- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 07月08日 08:00
 <!--rss-papers:end-->
