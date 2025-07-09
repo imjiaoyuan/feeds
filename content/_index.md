@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 17:09
 - [与其检讨自己，不如责备他人](https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/) / 11:00
 
 **历史记录**
@@ -37,13 +38,19 @@
 - [未完不待续的故事](https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/) / 06月29日 22:54
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
-- [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 08:00
+- [Integrated bioinformatics and experimental analysis of mitochondrial-associated membrane function and mechanism in acute respiratory distress syndrome​​](https://www.nature.com/articles/s41598-025-10405-3) / 08:00
+- [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 08:00
+- [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 08:00
+- [Inferring chromosome segregation error stage and crossover in trisomic disorders with application to Down syndrome](https://www.nature.com/articles/s41467-025-61413-w) / 08:00
 - [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 08:00
+- [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 08:00
+- [A novel peptide 66CTG stabilizes Myc proto-oncogene protein to promote triple-negative breast cancer growth](https://www.nature.com/articles/s41392-025-02298-5) / 08:00
 
 **历史记录**
 - [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
@@ -64,20 +71,13 @@
 - [High-coverage allele-resolved single-cell DNA methylation profiling reveals cell lineage, X-inactivation state, and replication dynamics](https://www.nature.com/articles/s41467-025-61589-1) / 07月08日 08:00
 - [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
 - [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
+- [A transformer-based architecture for collaborative filtering modeling in personalized recommender systems](https://www.nature.com/articles/s41598-025-08931-1) / 07月08日 08:00
 - [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](https://www.nature.com/articles/s43588-025-00823-8) / 07月08日 08:00
+- [Enhancing stroke risk prediction through class balancing and data augmentation with CBDA-ResNet50](https://www.nature.com/articles/s41598-025-07350-6) / 07月08日 08:00
 - [Deep learning-based allergic rhinitis diagnosis using nasal endoscopy images](https://www.nature.com/articles/s41598-025-10087-x) / 07月08日 08:00
 - [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 07月08日 08:00
+- [Interpretability-guided RNA N6-methyladenosine modification site prediction with invertible neural networks](https://www.nature.com/articles/s42003-025-08265-8) / 07月08日 08:00
+- [Lossy DICOM conversion may affect AI performance](https://www.nature.com/articles/s41598-025-02851-w) / 07月08日 08:00
+- [Data-driven nutritional assessment of urban food landscapes: insights from Boston, London, and Dubai](https://www.nature.com/articles/s41598-025-08098-9) / 07月08日 08:00
 - [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 07月08日 08:00
-- [Integrating radiomic texture analysis and deep learning for automated myocardial infarction detection in cine-MRI](https://www.nature.com/articles/s41598-025-08127-7) / 07月08日 08:00
-- [A branching bivariate weibull distribution model for evaluating exosomes in androgen-deprived agency in the presence of prostate cancer](https://www.nature.com/articles/s41598-025-07434-3) / 07月08日 08:00
-- [VarMeter: a prediction method for the impact of glycogene variants](https://www.nature.com/articles/s10038-025-01364-8) / 07月08日 08:00
-- [High-resolution fecal pharmacokinetic modeling in mice with orally administered antibiotics](https://www.nature.com/articles/s41598-025-10293-7) / 07月08日 08:00
-- [Citywide metagenomic surveillance of food centres reveals local microbial signatures and antibiotic resistance gene enrichment](https://www.nature.com/articles/s44259-025-00132-0) / 07月08日 08:00
-- [ADME analysis, metabolic prediction, and molecular docking of lipoic acid with SARS-CoV-2 Omicron spike protein](https://www.nature.com/articles/s41598-025-93121-2) / 07月08日 08:00
-- [Inhibitory mechanisms of amentoflavone on amyloid-β peptide aggregation revealed by replica exchange molecular dynamics](https://www.nature.com/articles/s41598-025-10623-9) / 07月08日 08:00
-- [Genomic architecture of rapid adaptation illustrated by biological invasions](https://www.nature.com/articles/s41559-025-02774-9) / 07月08日 08:00
-- [The role of gene duplication and paralog specialisation in the evolution of the mammalian PRPS complex](https://www.nature.com/articles/s41467-025-61216-z) / 07月08日 08:00
-- [A chromosome-level genome assembly and annotation of Cercis chuniana (Fabaceae)](https://www.nature.com/articles/s41597-025-05501-y) / 07月08日 08:00
-- [Chromosome-level genome assembly of Nothapodytes nimmoniana](https://www.nature.com/articles/s41597-025-05484-w) / 07月08日 08:00
-- [Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant](https://www.nature.com/articles/s41559-025-02751-2) / 07月08日 08:00
 <!--rss-papers:end-->
