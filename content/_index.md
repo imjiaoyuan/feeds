@@ -41,33 +41,21 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [GREmLN: A Cellular Regulatory Network-Aware Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1?rss=1) / 07月09日 08:00
 - [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 07月09日 08:00
 - [The subordinate role of pseudogenization to recombinative deletion following polyploidization in angiosperms](https://www.nature.com/articles/s41467-025-61676-3) / 07月09日 08:00
 - [Weight loss alters adipose tissue beyond just reducing fat](https://www.nature.com/articles/d41586-025-02056-1) / 07月09日 08:00
 - [A haplotype-resolved pangenome of the barley wild relative Hordeum bulbosum](https://www.nature.com/articles/s41586-025-09270-x) / 07月09日 08:00
 - [Two-way transcriptome approach for the identification of common gene targets across four insect orders and its validation in Oxycarenus laetus](https://www.nature.com/articles/s41598-025-08880-9) / 07月09日 08:00
-- [Lack of evidence for the transitional cerebellar progenitor](https://www.nature.com/articles/s41586-025-09247-w) / 07月09日 08:00
-- [Selective remodelling of the adipose niche in obesity and weight loss](https://www.nature.com/articles/s41586-025-09233-2) / 07月09日 08:00
-- [Dual-level graph contrastive collaborative filtering](https://www.nature.com/articles/s41598-025-10621-x) / 07月09日 08:00
-- [Lack of evidence for the transitional cerebellar progenitor](https://www.nature.com/articles/s41586-025-09247-w) / 07月09日 08:00
 - [Will algorithms choose your next lab colleague?](https://www.nature.com/articles/d41586-025-02071-2) / 07月09日 08:00
-- [A single-cell multi-omics atlas of rice](https://www.nature.com/articles/s41586-025-09251-0) / 07月09日 08:00
-- [Metagenomic analysis uncovers novel hepadnaviruses and nackednaviruses](https://www.nature.com/articles/s41598-025-05993-z) / 07月09日 08:00
 - [Integrated bioinformatics and experimental analysis of mitochondrial-associated membrane function and mechanism in acute respiratory distress syndrome​​](https://www.nature.com/articles/s41598-025-10405-3) / 07月09日 08:00
 - [Comparative analysis of Microsoft Kinect Azure and manual measurement methods in the sit and reach test among elite female weightlifters](https://www.nature.com/articles/s41598-025-09754-w) / 07月09日 08:00
 - [Real-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detection](https://www.nature.com/articles/s41591-025-03780-x) / 07月09日 08:00
-- [Unveiling the anticancer potential of Curcuma amada rhizome extract against prostate cancer through computational and experimental approaches](https://www.nature.com/articles/s41598-025-10761-0) / 07月09日 08:00
 - [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 07月09日 08:00
-- [ABCE1 facilitates tumour progression via aerobic glycolysis and inhibits cell death in human colorectal cancer cells through the p53 signalling pathway](https://www.nature.com/articles/s41598-025-92436-4) / 07月09日 08:00
-- [MMDental - A multimodal dataset of tooth CBCT images with expert medical records](https://www.nature.com/articles/s41597-025-05398-7) / 07月09日 08:00
 - [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 07月09日 08:00
-- [Associative conditioning in gene regulatory network models increases integrative causal emergence](https://www.nature.com/articles/s42003-025-08411-2) / 07月09日 08:00
 - [Global identification and characterization of soybean TPR genes with expression analysis under photoperiod variations](https://www.nature.com/articles/s41598-025-10368-5) / 07月09日 08:00
 - [Inhibiting heme piracy by pathogenic Escherichia coli using de novo-designed proteins](https://www.nature.com/articles/s41467-025-60612-9) / 07月09日 08:00
 - [Plasma proteomics links brain and immune system aging with healthspan and longevity](https://www.nature.com/articles/s41591-025-03798-1) / 07月09日 08:00
-- [Dynamic of a pest management system with hibernation of pests and impulsive nonlinear release of natural enemies](https://www.nature.com/articles/s41598-025-07871-0) / 07月09日 08:00
-- [Drug combination-wide association studies of cancer](https://www.nature.com/articles/s43856-025-00991-8) / 07月09日 08:00
-- [Deep learning-based automatic detection and grading of disk herniation in lumbar magnetic resonance images](https://www.nature.com/articles/s41598-025-10401-7) / 07月09日 08:00
 - [Enhancing automated detection and classification of dementia in individuals with cognitive impairment using artificial intelligence techniques](https://www.nature.com/articles/s41598-025-09124-6) / 07月09日 08:00
 - [Inferring chromosome segregation error stage and crossover in trisomic disorders with application to Down syndrome](https://www.nature.com/articles/s41467-025-61413-w) / 07月09日 08:00
 - [Ancient proteins rewrite the rhino family tree — are dinosaurs next?](https://www.nature.com/articles/d41586-025-02170-0) / 07月09日 08:00
@@ -76,4 +64,16 @@
 - [Reorganization of the theropod wrist preceded the origin of avian flight](https://www.nature.com/articles/s41586-025-09232-3) / 07月09日 08:00
 - [Phylogenetically informative proteins from an Early Miocene rhinocerotid](https://www.nature.com/articles/s41586-025-09231-4) / 07月09日 08:00
 - [The spatiotemporal distribution of human pathogens in ancient Eurasia](https://www.nature.com/articles/s41586-025-09192-8) / 07月09日 08:00
+- [Resolving out of Africa event for Papua New Guinean population using neural network](https://www.nature.com/articles/s41467-025-61661-w) / 07月09日 08:00
+- [A haplotype-resolved pangenome of the barley wild relative Hordeum bulbosum](https://www.nature.com/articles/s41586-025-09270-x) / 07月09日 08:00
+- [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 07月09日 08:00
+- [PPE50 variants as novel phylogeographic signatures of host-pathogen co-evolution in tuberculosis](https://www.nature.com/articles/s42003-025-08383-3) / 07月09日 08:00
+- [The subordinate role of pseudogenization to recombinative deletion following polyploidization in angiosperms](https://www.nature.com/articles/s41467-025-61676-3) / 07月09日 08:00
+- [Cross-kingdom comparative genomics reveal the metabolic potential of fungi for lignin turnover in deadwood](https://www.nature.com/articles/s41559-025-02785-6) / 07月09日 08:00
+- [The role of metabolism in shaping enzyme structures over 400 million years](https://www.nature.com/articles/s41586-025-09205-6) / 07月09日 08:00
+- [Diversity, distribution and conservation of crocodiles (Order: Crocodylia) in Guinea-Bissau, West Africa](https://www.nature.com/articles/s41598-025-08789-3) / 07月09日 08:00
+- [Eighteen million years of diverse enamel proteomes from the East African Rift](https://www.nature.com/articles/s41586-025-09040-9) / 07月09日 08:00
+- [The evolutionary foundations of transcriptional regulation in animals](https://www.nature.com/articles/s41576-025-00864-9) / 07月09日 08:00
+- [Cartilaginous fish and mammalian connectin evolved independently from an ancestral bony fish-like structure](https://www.nature.com/articles/s41598-025-10916-z) / 07月09日 08:00
+- [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
 <!--rss-papers:end-->
