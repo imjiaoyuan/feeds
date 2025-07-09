@@ -49,8 +49,10 @@
 - [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 08:00
 - [Inferring chromosome segregation error stage and crossover in trisomic disorders with application to Down syndrome](https://www.nature.com/articles/s41467-025-61413-w) / 08:00
 - [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 08:00
+- [Enhancer adoption by an LTR retrotransposon generates viral-like particles, causing developmental limb phenotypes](https://www.nature.com/articles/s41588-025-02248-5) / 08:00
 - [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 08:00
 - [A novel peptide 66CTG stabilizes Myc proto-oncogene protein to promote triple-negative breast cancer growth](https://www.nature.com/articles/s41392-025-02298-5) / 08:00
+- [Plasma proteomics links brain and immune system aging with healthspan and longevity](https://www.nature.com/articles/s41591-025-03798-1) / 08:00
 
 **历史记录**
 - [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
@@ -78,6 +80,4 @@
 - [Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge](https://www.nature.com/articles/s41467-025-60466-1) / 07月08日 08:00
 - [Interpretability-guided RNA N6-methyladenosine modification site prediction with invertible neural networks](https://www.nature.com/articles/s42003-025-08265-8) / 07月08日 08:00
 - [Lossy DICOM conversion may affect AI performance](https://www.nature.com/articles/s41598-025-02851-w) / 07月08日 08:00
-- [Data-driven nutritional assessment of urban food landscapes: insights from Boston, London, and Dubai](https://www.nature.com/articles/s41598-025-08098-9) / 07月08日 08:00
-- [In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2 variants of interest](https://www.nature.com/articles/s41467-025-60231-4) / 07月08日 08:00
 <!--rss-papers:end-->
