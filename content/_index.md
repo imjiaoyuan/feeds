@@ -63,6 +63,7 @@
 - [Reorganization of the theropod wrist preceded the origin of avian flight](https://www.nature.com/articles/s41586-025-09232-3) / 07月09日 08:00
 - [Phylogenetically informative proteins from an Early Miocene rhinocerotid](https://www.nature.com/articles/s41586-025-09231-4) / 07月09日 08:00
 - [The spatiotemporal distribution of human pathogens in ancient Eurasia](https://www.nature.com/articles/s41586-025-09192-8) / 07月09日 08:00
+- [Resolving out of Africa event for Papua New Guinean population using neural network](https://www.nature.com/articles/s41467-025-61661-w) / 07月09日 08:00
 - [A haplotype-resolved pangenome of the barley wild relative Hordeum bulbosum](https://www.nature.com/articles/s41586-025-09270-x) / 07月09日 08:00
 - [Combining population genomics, larval dispersal modelling and graph theory to reveal connectivity patterns of the black-lipped pearl oyster in French Polynesia](https://www.nature.com/articles/s41598-025-10113-y) / 07月09日 08:00
 - [PPE50 variants as novel phylogeographic signatures of host-pathogen co-evolution in tuberculosis](https://www.nature.com/articles/s42003-025-08383-3) / 07月09日 08:00
@@ -75,5 +76,4 @@
 - [Cartilaginous fish and mammalian connectin evolved independently from an ancestral bony fish-like structure](https://www.nature.com/articles/s41598-025-10916-z) / 07月09日 08:00
 - [The phylodynamic threshold of measurably evolving populations](https://www.biorxiv.org/content/10.1101/2025.07.07.663495v1?rss=1) / 07月08日 08:00
 - [Evaluating microbial network inference methods: Moving beyond synthetic data with reproducibility-driven benchmarks](https://www.biorxiv.org/content/10.1101/2025.07.05.663212v1?rss=1) / 07月08日 08:00
-- [CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1?rss=1) / 07月08日 08:00
 <!--rss-papers:end-->
