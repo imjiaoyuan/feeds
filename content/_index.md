@@ -47,16 +47,16 @@
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 08:00
 - [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 08:00
-- [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 08:00
-- [Self-iterative multiple-instance learning enables the prediction of CD4+ T cell immunogenic epitopes](https://www.nature.com/articles/s42256-025-01073-z) / 08:00
-- [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 08:00
-- [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 08:00
 - [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 08:00
-- [Deformable detection transformers for domain adaptable ultrasound localization microscopy with robustness to point spread function variations](https://www.nature.com/articles/s41598-025-09120-w) / 08:00
-- [Synthesis of thiosemicarbazone Schiff base derivatives as anti-leishmanial agents and molecular dynamics simulations insights](https://www.nature.com/articles/s41598-025-10545-6) / 08:00
 - [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 08:00
 - [Study on the spatial and temporal differentiation of intangible cultural heritage and its influencing factors in Shandong province](https://www.nature.com/articles/s41598-025-09368-2) / 08:00
 - [A new mamenchisaurid from the Upper Jurassic Suining Formation of the Sichuan Basin in China and its implication on sauropod gigantism](https://www.nature.com/articles/s41598-025-09796-0) / 08:00
+- [Mapping circulating hematopoietic stem cells for non-invasive, blood-based diagnostics](https://www.nature.com/articles/s41591-025-03803-7) / 08:00
+- [DR1 activates histone gene expression to maintain pancreatic cancer cell survival through the ATAC complex](https://www.nature.com/articles/s41417-025-00938-0) / 08:00
+- [Retrospective and multifactorial single-cell profiling reveals sequential chromatin reorganization during X inactivation](https://www.nature.com/articles/s41556-025-01687-w) / 08:00
+- [The subcellular topology of the RNAi machinery is multifaceted and reveals adherens junctions as an epithelial hub](https://www.nature.com/articles/s41598-025-09795-1) / 08:00
+- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 08:00
+- [Unveiling the therapeutic potential of phenolic compounds from Boletus edulis in osteoarthritis treatment](https://www.nature.com/articles/s41598-025-09822-1) / 08:00
 
 **历史记录**
 - [An Efficient Graph Algorithm for Diploid Local Ancestry Inference](https://www.biorxiv.org/content/10.1101/2025.07.05.662656v1?rss=1) / 07月09日 08:00
