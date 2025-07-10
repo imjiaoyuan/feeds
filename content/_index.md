@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [忌日四周年](https://onojyun.com/2025/07/10/%e5%bf%8c%e6%97%a5%e5%9b%9b%e5%91%a8%e5%b9%b4/) / 11:00
+
 **历史记录**
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 07月09日 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 07月09日 17:09
@@ -35,7 +38,6 @@
 - [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [未完不待续的故事](https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/) / 06月29日 22:54
-- [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -44,6 +46,8 @@
 - [Study on the spatial and temporal differentiation of intangible cultural heritage and its influencing factors in Shandong province](https://www.nature.com/articles/s41598-025-09368-2) / 08:00
 
 **历史记录**
+- [DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1?rss=1) / 07月09日 08:00
+- [GARN3: A coarse-grained helix centered technique for RNA 3D structures prediction](https://www.biorxiv.org/content/10.1101/2025.07.05.663322v1?rss=1) / 07月09日 08:00
 - [GREmLN: A Cellular Regulatory Network-Aware Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1?rss=1) / 07月09日 08:00
 - [Dissecting the effect of single- and co- infection of TB and COVID-19 pathogens on the sputum microbiome](https://www.biorxiv.org/content/10.1101/2025.07.08.661948v1?rss=1) / 07月09日 08:00
 - [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 07月09日 08:00
@@ -76,6 +80,4 @@
 - [Cartilaginous fish and mammalian connectin evolved independently from an ancestral bony fish-like structure](https://www.nature.com/articles/s41598-025-10916-z) / 07月09日 08:00
 - [Efficient secretion of a plastic degrading enzyme from the green algae Chlamydomonas reinhardtii](https://www.nature.com/articles/s41598-025-09100-0) / 07月09日 08:00
 - [Proteomic analysis reveals dynamic expression related to malondialdehyde in cassava in response to cassava bacterial blight](https://www.nature.com/articles/s41598-025-10051-9) / 07月09日 08:00
-- [Enhancer adoption by an LTR retrotransposon generates viral-like particles, causing developmental limb phenotypes](https://www.nature.com/articles/s41588-025-02248-5) / 07月09日 08:00
-- [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 07月09日 08:00
 <!--rss-papers:end-->
