@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [A Corporative Language Model for Protein-Protein Interaction, Binding Affinity, and Interface Contact Prediction](https://www.biorxiv.org/content/10.1101/2025.07.07.663595v1?rss=1) / 07月10日 08:00
 - [Population-level structural variant characterization from pangenome graph](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1?rss=1) / 07月10日 08:00
 - [Rehabilitating the benefits of gene tree correction in the presence of incomplete lineage sorting](https://www.biorxiv.org/content/10.1101/2025.07.09.663893v1?rss=1) / 07月10日 08:00
 - [BrainBeacon: A Cross-Species Foundation Model for Single-cell Resolved Brain Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.08.663729v1?rss=1) / 07月10日 08:00
@@ -59,6 +60,7 @@
 - [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 07月10日 08:00
 - [Deformable detection transformers for domain adaptable ultrasound localization microscopy with robustness to point spread function variations](https://www.nature.com/articles/s41598-025-09120-w) / 07月10日 08:00
 - [Synthesis of thiosemicarbazone Schiff base derivatives as anti-leishmanial agents and molecular dynamics simulations insights](https://www.nature.com/articles/s41598-025-10545-6) / 07月10日 08:00
+- [Integrative analysis identifies shared therapeutic pathways in thyroid eye disease and diabetes mellitus](https://www.nature.com/articles/s41598-025-08558-2) / 07月10日 08:00
 - [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 07月10日 08:00
 - [An unexpected Scalopini mole (Talpidae, Mammalia) from the Pliocene of Europe sheds light on the phylogeny of talpids](https://www.nature.com/articles/s41598-025-10396-1) / 07月10日 08:00
 - [Fossil ribcages of Homo sapiens provide new insights into modern human evolution](https://www.nature.com/articles/s42003-025-08472-3) / 07月10日 08:00
@@ -66,14 +68,12 @@
 - [Muscle AMP deaminase activity was lower in Neandertals than in modern humans](https://www.nature.com/articles/s41467-025-61605-4) / 07月10日 08:00
 - [Biochemical, antioxidant activity, and phenological diversity among Berberis progenies in the F1 population](https://www.nature.com/articles/s41598-025-11083-x) / 07月10日 08:00
 - [A new mamenchisaurid from the Upper Jurassic Suining Formation of the Sichuan Basin in China and its implication on sauropod gigantism](https://www.nature.com/articles/s41598-025-09796-0) / 07月10日 08:00
+- [Mapping circulating hematopoietic stem cells for non-invasive, blood-based diagnostics](https://www.nature.com/articles/s41591-025-03803-7) / 07月10日 08:00
+- [DR1 activates histone gene expression to maintain pancreatic cancer cell survival through the ATAC complex](https://www.nature.com/articles/s41417-025-00938-0) / 07月10日 08:00
+- [Retrospective and multifactorial single-cell profiling reveals sequential chromatin reorganization during X inactivation](https://www.nature.com/articles/s41556-025-01687-w) / 07月10日 08:00
+- [The subcellular topology of the RNAi machinery is multifaceted and reveals adherens junctions as an epithelial hub](https://www.nature.com/articles/s41598-025-09795-1) / 07月10日 08:00
+- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
+- [Unveiling the therapeutic potential of phenolic compounds from Boletus edulis in osteoarthritis treatment](https://www.nature.com/articles/s41598-025-09822-1) / 07月10日 08:00
 - [An Efficient Graph Algorithm for Diploid Local Ancestry Inference](https://www.biorxiv.org/content/10.1101/2025.07.05.662656v1?rss=1) / 07月09日 08:00
 - [PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis](https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1?rss=1) / 07月09日 08:00
-- [DGAT: A Dual-Graph Attention Network for Inferring Spatial Protein Landscapes from Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.05.662121v1?rss=1) / 07月09日 08:00
-- [GARN3: A coarse-grained helix centered technique for RNA 3D structures prediction](https://www.biorxiv.org/content/10.1101/2025.07.05.663322v1?rss=1) / 07月09日 08:00
-- [GREmLN: A Cellular Regulatory Network-Aware Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1?rss=1) / 07月09日 08:00
-- [Development of a Flex-Seq SNP panel for raspberry (Rubus idaeus L.) and validation through linkage map construction and identification of QTL for several traits of agronomic importance to raspberry breeding](https://www.biorxiv.org/content/10.1101/2025.07.05.663326v1?rss=1) / 07月09日 08:00
-- [Dissecting the effect of single- and co- infection of TB and COVID-19 pathogens on the sputum microbiome](https://www.biorxiv.org/content/10.1101/2025.07.08.661948v1?rss=1) / 07月09日 08:00
-- [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 07月09日 08:00
-- [The subordinate role of pseudogenization to recombinative deletion following polyploidization in angiosperms](https://www.nature.com/articles/s41467-025-61676-3) / 07月09日 08:00
-- [Weight loss alters adipose tissue beyond just reducing fat](https://www.nature.com/articles/d41586-025-02056-1) / 07月09日 08:00
 <!--rss-papers:end-->
