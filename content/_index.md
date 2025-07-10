@@ -43,6 +43,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 08:00
+- [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 08:00
 - [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 08:00
 - [Study on the spatial and temporal differentiation of intangible cultural heritage and its influencing factors in Shandong province](https://www.nature.com/articles/s41598-025-09368-2) / 08:00
 - [A new mamenchisaurid from the Upper Jurassic Suining Formation of the Sichuan Basin in China and its implication on sauropod gigantism](https://www.nature.com/articles/s41598-025-09796-0) / 08:00
@@ -78,6 +80,4 @@
 - [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 07月09日 08:00
 - [ABCE1 facilitates tumour progression via aerobic glycolysis and inhibits cell death in human colorectal cancer cells through the p53 signalling pathway](https://www.nature.com/articles/s41598-025-92436-4) / 07月09日 08:00
 - [MMDental - A multimodal dataset of tooth CBCT images with expert medical records](https://www.nature.com/articles/s41597-025-05398-7) / 07月09日 08:00
-- [InterPAD is a database of drug-drug interaction between phytochemicals and anticancer drugs](https://www.nature.com/articles/s41598-025-10240-6) / 07月09日 08:00
-- [Associative conditioning in gene regulatory network models increases integrative causal emergence](https://www.nature.com/articles/s42003-025-08411-2) / 07月09日 08:00
 <!--rss-papers:end-->
