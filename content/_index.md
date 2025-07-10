@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Accurate Site-specific Folding via Conditional Diffusion Based on Alphafold3](https://www.biorxiv.org/content/10.1101/2025.07.06.663385v1?rss=1) / 07月10日 08:00
+- [Wnt signaling promotes inflammation and EMT-associated gene expression in mesenchymal TNBC](https://www.biorxiv.org/content/10.1101/2025.07.04.663027v1?rss=1) / 07月10日 08:00
 - [A Corporative Language Model for Protein-Protein Interaction, Binding Affinity, and Interface Contact Prediction](https://www.biorxiv.org/content/10.1101/2025.07.07.663595v1?rss=1) / 07月10日 08:00
 - [Population-level structural variant characterization from pangenome graph](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1?rss=1) / 07月10日 08:00
 - [Rehabilitating the benefits of gene tree correction in the presence of incomplete lineage sorting](https://www.biorxiv.org/content/10.1101/2025.07.09.663893v1?rss=1) / 07月10日 08:00
@@ -52,28 +54,26 @@
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
 - [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
+- [Self-supervised learning of molecular representations](https://www.nature.com/articles/s41592-025-02757-5) / 07月10日 08:00
+- [AI based natural inhibitor targeting RPS20 for colorectal cancer treatment using integrated computational approaches](https://www.nature.com/articles/s41598-025-07574-6) / 07月10日 08:00
 - [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
+- [Deep learning on routine full-breast mammograms enhances lymph node metastasis prediction in early breast cancer](https://www.nature.com/articles/s41746-025-01831-8) / 07月10日 08:00
 - [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
 - [Self-iterative multiple-instance learning enables the prediction of CD4+ T cell immunogenic epitopes](https://www.nature.com/articles/s42256-025-01073-z) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
+- [Benchmarking vision-language models for diagnostics in emergency and critical care settings](https://www.nature.com/articles/s41746-025-01837-2) / 07月10日 08:00
 - [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 07月10日 08:00
+- [Calling all data](https://www.nature.com/articles/s41592-025-02759-3) / 07月10日 08:00
 - [Deformable detection transformers for domain adaptable ultrasound localization microscopy with robustness to point spread function variations](https://www.nature.com/articles/s41598-025-09120-w) / 07月10日 08:00
+- [Expression analysis of plasma extracellular vesicle associated candidate MiRNAs in endometriosis using integrative bioinformatics and experiential data](https://www.nature.com/articles/s41598-025-09660-1) / 07月10日 08:00
+- [High precision characterization of RCCX rearrangements in a 21-hydroxylase deficiency Latin American cohort using oxford nanopore long read sequencing](https://www.nature.com/articles/s41598-025-03799-7) / 07月10日 08:00
+- [Joint contribution of adaptation and neuronal population recruitment to response level in visual area MT: a computational model](https://www.nature.com/articles/s41598-025-07699-8) / 07月10日 08:00
 - [Synthesis of thiosemicarbazone Schiff base derivatives as anti-leishmanial agents and molecular dynamics simulations insights](https://www.nature.com/articles/s41598-025-10545-6) / 07月10日 08:00
 - [Integrative analysis identifies shared therapeutic pathways in thyroid eye disease and diabetes mellitus](https://www.nature.com/articles/s41598-025-08558-2) / 07月10日 08:00
+- [How EEG preprocessing shapes decoding performance](https://www.nature.com/articles/s42003-025-08464-3) / 07月10日 08:00
 - [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 07月10日 08:00
+- [Exploration and validation of the prognostic value of mitophagy and mitochondrial dynamics-related genes in cervical cancer](https://www.nature.com/articles/s41598-025-09310-6) / 07月10日 08:00
 - [An unexpected Scalopini mole (Talpidae, Mammalia) from the Pliocene of Europe sheds light on the phylogeny of talpids](https://www.nature.com/articles/s41598-025-10396-1) / 07月10日 08:00
 - [Fossil ribcages of Homo sapiens provide new insights into modern human evolution](https://www.nature.com/articles/s42003-025-08472-3) / 07月10日 08:00
-- [Study on the spatial and temporal differentiation of intangible cultural heritage and its influencing factors in Shandong province](https://www.nature.com/articles/s41598-025-09368-2) / 07月10日 08:00
-- [Muscle AMP deaminase activity was lower in Neandertals than in modern humans](https://www.nature.com/articles/s41467-025-61605-4) / 07月10日 08:00
-- [Biochemical, antioxidant activity, and phenological diversity among Berberis progenies in the F1 population](https://www.nature.com/articles/s41598-025-11083-x) / 07月10日 08:00
-- [A new mamenchisaurid from the Upper Jurassic Suining Formation of the Sichuan Basin in China and its implication on sauropod gigantism](https://www.nature.com/articles/s41598-025-09796-0) / 07月10日 08:00
-- [Mapping circulating hematopoietic stem cells for non-invasive, blood-based diagnostics](https://www.nature.com/articles/s41591-025-03803-7) / 07月10日 08:00
-- [DR1 activates histone gene expression to maintain pancreatic cancer cell survival through the ATAC complex](https://www.nature.com/articles/s41417-025-00938-0) / 07月10日 08:00
-- [Retrospective and multifactorial single-cell profiling reveals sequential chromatin reorganization during X inactivation](https://www.nature.com/articles/s41556-025-01687-w) / 07月10日 08:00
-- [The subcellular topology of the RNAi machinery is multifaceted and reveals adherens junctions as an epithelial hub](https://www.nature.com/articles/s41598-025-09795-1) / 07月10日 08:00
-- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
-- [Unveiling the therapeutic potential of phenolic compounds from Boletus edulis in osteoarthritis treatment](https://www.nature.com/articles/s41598-025-09822-1) / 07月10日 08:00
-- [An Efficient Graph Algorithm for Diploid Local Ancestry Inference](https://www.biorxiv.org/content/10.1101/2025.07.05.662656v1?rss=1) / 07月09日 08:00
-- [PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis](https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1?rss=1) / 07月09日 08:00
 <!--rss-papers:end-->
