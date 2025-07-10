@@ -44,7 +44,9 @@
 <!--rss-papers:start-->
 **今日更新**
 - [ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer](https://www.biorxiv.org/content/10.1101/2025.07.08.663664v1?rss=1) / 08:00
+- [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 08:00
+- [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 08:00
 - [Study on the spatial and temporal differentiation of intangible cultural heritage and its influencing factors in Shandong province](https://www.nature.com/articles/s41598-025-09368-2) / 08:00
 - [A new mamenchisaurid from the Upper Jurassic Suining Formation of the Sichuan Basin in China and its implication on sauropod gigantism](https://www.nature.com/articles/s41598-025-09796-0) / 08:00
 - [Mapping circulating hematopoietic stem cells for non-invasive, blood-based diagnostics](https://www.nature.com/articles/s41591-025-03803-7) / 08:00
@@ -68,6 +70,7 @@
 - [Two-way transcriptome approach for the identification of common gene targets across four insect orders and its validation in Oxycarenus laetus](https://www.nature.com/articles/s41598-025-08880-9) / 07月09日 08:00
 - [Lack of evidence for the transitional cerebellar progenitor](https://www.nature.com/articles/s41586-025-09247-w) / 07月09日 08:00
 - [Determining the origin of genome aberrations improves the positive predictive value of NIPT for 22q11.2 deletion syndrome](https://www.nature.com/articles/s41598-025-10446-8) / 07月09日 08:00
+- [Transformer optimization with meta learning on pathology images for breast cancer lymph node micrometastasis](https://www.nature.com/articles/s41746-025-01833-6) / 07月09日 08:00
 - [Selective remodelling of the adipose niche in obesity and weight loss](https://www.nature.com/articles/s41586-025-09233-2) / 07月09日 08:00
 - [Dual-level graph contrastive collaborative filtering](https://www.nature.com/articles/s41598-025-10621-x) / 07月09日 08:00
 - [Lack of evidence for the transitional cerebellar progenitor](https://www.nature.com/articles/s41586-025-09247-w) / 07月09日 08:00
@@ -77,7 +80,4 @@
 - [Integrated bioinformatics and experimental analysis of mitochondrial-associated membrane function and mechanism in acute respiratory distress syndrome​​](https://www.nature.com/articles/s41598-025-10405-3) / 07月09日 08:00
 - [Comparative analysis of Microsoft Kinect Azure and manual measurement methods in the sit and reach test among elite female weightlifters](https://www.nature.com/articles/s41598-025-09754-w) / 07月09日 08:00
 - [Real-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detection](https://www.nature.com/articles/s41591-025-03780-x) / 07月09日 08:00
-- [Unveiling the anticancer potential of Curcuma amada rhizome extract against prostate cancer through computational and experimental approaches](https://www.nature.com/articles/s41598-025-10761-0) / 07月09日 08:00
-- [Nucleosome spacing can fine-tune higher-order chromatin assembly](https://www.nature.com/articles/s41467-025-61482-x) / 07月09日 08:00
-- [ABCE1 facilitates tumour progression via aerobic glycolysis and inhibits cell death in human colorectal cancer cells through the p53 signalling pathway](https://www.nature.com/articles/s41598-025-92436-4) / 07月09日 08:00
 <!--rss-papers:end-->
