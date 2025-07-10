@@ -45,6 +45,7 @@
 
 **历史记录**
 - [GREmLN: A Cellular Regulatory Network-Aware Transcriptomics Foundation Model](https://www.biorxiv.org/content/10.1101/2025.07.03.663009v1?rss=1) / 07月09日 08:00
+- [Dissecting the effect of single- and co- infection of TB and COVID-19 pathogens on the sputum microbiome](https://www.biorxiv.org/content/10.1101/2025.07.08.661948v1?rss=1) / 07月09日 08:00
 - [Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context](https://www.biorxiv.org/content/10.1101/2025.07.07.663560v1?rss=1) / 07月09日 08:00
 - [The subordinate role of pseudogenization to recombinative deletion following polyploidization in angiosperms](https://www.nature.com/articles/s41467-025-61676-3) / 07月09日 08:00
 - [Weight loss alters adipose tissue beyond just reducing fat](https://www.nature.com/articles/d41586-025-02056-1) / 07月09日 08:00
@@ -77,5 +78,4 @@
 - [Proteomic analysis reveals dynamic expression related to malondialdehyde in cassava in response to cassava bacterial blight](https://www.nature.com/articles/s41598-025-10051-9) / 07月09日 08:00
 - [Enhancer adoption by an LTR retrotransposon generates viral-like particles, causing developmental limb phenotypes](https://www.nature.com/articles/s41588-025-02248-5) / 07月09日 08:00
 - [Valproate independently activates Snf1, inhibits TORC1, and induces repression of INO1 transcription by increasing nuclear localization of Opi1](https://www.nature.com/articles/s41598-025-07540-2) / 07月09日 08:00
-- [ABCE1 facilitates tumour progression via aerobic glycolysis and inhibits cell death in human colorectal cancer cells through the p53 signalling pathway](https://www.nature.com/articles/s41598-025-92436-4) / 07月09日 08:00
 <!--rss-papers:end-->
