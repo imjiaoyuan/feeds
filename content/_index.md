@@ -45,6 +45,7 @@
 **今日更新**
 - [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 08:00
 - [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 08:00
+- [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
 - [Author Correction: Leaf venation network evolution across clades and scales](https://www.nature.com/articles/s41477-025-02070-1) / 08:00
 - [Rising temperatures contribute to West Nile virus diversification and increased transmission potential](https://www.nature.com/articles/s41598-025-09284-5) / 08:00
 - [Opposing roles of pseudokinases NRBP1 and NRBP2 in regulating L1 retrotransposition](https://www.nature.com/articles/s41467-025-61626-z) / 08:00
@@ -79,5 +80,4 @@
 - [Chromosome-level assembly of the octoploid cloudberry(Rubus chamaemorus)](https://www.biorxiv.org/content/10.1101/2025.07.07.663483v1?rss=1) / 07月10日 08:00
 - [Genetic load proxies do not predict fitness better than inbreeding does in a wild population](https://www.biorxiv.org/content/10.1101/2025.07.07.663445v1?rss=1) / 07月10日 08:00
 - [Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.07.663390v1?rss=1) / 07月10日 08:00
-- [Sex chromosome identification and genome curation, at scale, from a single individual with SCINKD](https://www.biorxiv.org/content/10.1101/2025.07.07.660342v1?rss=1) / 07月10日 08:00
 <!--rss-papers:end-->
