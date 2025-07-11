@@ -43,12 +43,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 08:00
-- [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 08:00
-- [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 08:00
-- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 08:00
-- [Comprehensive analysis of Mendelian randomization and scRNA-seq identify key prognostic genes and relevant functional roles in colorectal cancer](https://www.nature.com/articles/s41598-025-10354-x) / 08:00
-- [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
+- [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 08:00
+- [Author Correction: Leaf venation network evolution across clades and scales](https://www.nature.com/articles/s41477-025-02070-1) / 08:00
 - [Rising temperatures contribute to West Nile virus diversification and increased transmission potential](https://www.nature.com/articles/s41598-025-09284-5) / 08:00
 - [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
 - [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 08:00
@@ -80,4 +76,8 @@
 - [A Mathematical Genomics Perspective on the Moonlighting Role of Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH)](https://www.biorxiv.org/content/10.1101/2025.07.06.663364v1?rss=1) / 07月10日 08:00
 - [Sequencing DNA in the air](https://www.nature.com/articles/s41592-025-02758-4) / 07月10日 08:00
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
+- [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
+- [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
+- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
+- [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
 <!--rss-papers:end-->
