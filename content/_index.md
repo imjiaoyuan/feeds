@@ -42,10 +42,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 08:00
-
 **历史记录**
+- [MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1?rss=1) / 07月10日 08:00
+- [Inferring physical cell-cell communication networks from scRNAseq data using univariate linear models.](https://www.biorxiv.org/content/10.1101/2025.07.07.663470v1?rss=1) / 07月10日 08:00
+- [DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning](https://www.biorxiv.org/content/10.1101/2025.07.07.663530v1?rss=1) / 07月10日 08:00
+- [AmyloGram Reveals Amyloidogenic Potential in Stroke Thrombus Proteomes](https://www.biorxiv.org/content/10.1101/2025.07.07.663482v1?rss=1) / 07月10日 08:00
 - [A LARGE-SCALE EVOLUTIONARY AND STRUCTURAL ANALYSIS OF CLC CHANNELS AND TRANSPORTERS](https://www.biorxiv.org/content/10.1101/2025.07.07.663545v1?rss=1) / 07月10日 08:00
 - [GeneInsight: Condensing Gene Set Knowledge via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.07.663611v1?rss=1) / 07月10日 08:00
 - [Tissue-Specific Co-Expression Patterns of BAF Complexes Provide Regulatory Insights Across Human Tissues with Implications for Endocrine and Non-Endocrine Functions](https://www.biorxiv.org/content/10.1101/2025.07.07.663564v1?rss=1) / 07月10日 08:00
@@ -57,27 +58,24 @@
 - [Rehabilitating the benefits of gene tree correction in the presence of incomplete lineage sorting](https://www.biorxiv.org/content/10.1101/2025.07.09.663893v1?rss=1) / 07月10日 08:00
 - [BrainBeacon: A Cross-Species Foundation Model for Single-cell Resolved Brain Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.08.663729v1?rss=1) / 07月10日 08:00
 - [ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer](https://www.biorxiv.org/content/10.1101/2025.07.08.663664v1?rss=1) / 07月10日 08:00
+- [Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.07.663390v1?rss=1) / 07月10日 08:00
+- [Sex chromosome identification and genome curation, at scale, from a single individual with SCINKD](https://www.biorxiv.org/content/10.1101/2025.07.07.660342v1?rss=1) / 07月10日 08:00
 - [Gene model for the ortholog of Glys in Drosophila ananassae](https://www.biorxiv.org/content/10.1101/2025.07.09.662856v1?rss=1) / 07月10日 08:00
 - [A Mathematical Genomics Perspective on the Moonlighting Role of Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH)](https://www.biorxiv.org/content/10.1101/2025.07.06.663364v1?rss=1) / 07月10日 08:00
 - [Sequencing DNA in the air](https://www.nature.com/articles/s41592-025-02758-4) / 07月10日 08:00
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
 - [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
-- [Self-supervised learning of molecular representations](https://www.nature.com/articles/s41592-025-02757-5) / 07月10日 08:00
-- [AI based natural inhibitor targeting RPS20 for colorectal cancer treatment using integrated computational approaches](https://www.nature.com/articles/s41598-025-07574-6) / 07月10日 08:00
 - [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
-- [Deep learning on routine full-breast mammograms enhances lymph node metastasis prediction in early breast cancer](https://www.nature.com/articles/s41746-025-01831-8) / 07月10日 08:00
 - [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
 - [Self-iterative multiple-instance learning enables the prediction of CD4+ T cell immunogenic epitopes](https://www.nature.com/articles/s42256-025-01073-z) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
-- [Benchmarking vision-language models for diagnostics in emergency and critical care settings](https://www.nature.com/articles/s41746-025-01837-2) / 07月10日 08:00
 - [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 07月10日 08:00
-- [Calling all data](https://www.nature.com/articles/s41592-025-02759-3) / 07月10日 08:00
 - [Deformable detection transformers for domain adaptable ultrasound localization microscopy with robustness to point spread function variations](https://www.nature.com/articles/s41598-025-09120-w) / 07月10日 08:00
-- [Expression analysis of plasma extracellular vesicle associated candidate MiRNAs in endometriosis using integrative bioinformatics and experiential data](https://www.nature.com/articles/s41598-025-09660-1) / 07月10日 08:00
-- [High precision characterization of RCCX rearrangements in a 21-hydroxylase deficiency Latin American cohort using oxford nanopore long read sequencing](https://www.nature.com/articles/s41598-025-03799-7) / 07月10日 08:00
-- [Joint contribution of adaptation and neuronal population recruitment to response level in visual area MT: a computational model](https://www.nature.com/articles/s41598-025-07699-8) / 07月10日 08:00
 - [Synthesis of thiosemicarbazone Schiff base derivatives as anti-leishmanial agents and molecular dynamics simulations insights](https://www.nature.com/articles/s41598-025-10545-6) / 07月10日 08:00
 - [Integrative analysis identifies shared therapeutic pathways in thyroid eye disease and diabetes mellitus](https://www.nature.com/articles/s41598-025-08558-2) / 07月10日 08:00
+- [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 07月10日 08:00
+- [An unexpected Scalopini mole (Talpidae, Mammalia) from the Pliocene of Europe sheds light on the phylogeny of talpids](https://www.nature.com/articles/s41598-025-10396-1) / 07月10日 08:00
+- [Fossil ribcages of Homo sapiens provide new insights into modern human evolution](https://www.nature.com/articles/s42003-025-08472-3) / 07月10日 08:00
 <!--rss-papers:end-->
