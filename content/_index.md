@@ -44,10 +44,18 @@
 <!--rss-papers:start-->
 **今日更新**
 - [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 08:00
+- [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 08:00
 - [Author Correction: Leaf venation network evolution across clades and scales](https://www.nature.com/articles/s41477-025-02070-1) / 08:00
 - [Rising temperatures contribute to West Nile virus diversification and increased transmission potential](https://www.nature.com/articles/s41598-025-09284-5) / 08:00
+- [Opposing roles of pseudokinases NRBP1 and NRBP2 in regulating L1 retrotransposition](https://www.nature.com/articles/s41467-025-61626-z) / 08:00
+- [V-ATPase assembly at leaky lysosomes](https://www.nature.com/articles/s41594-025-01612-7) / 08:00
+- [Developmental transcriptomics reveals stage-specific immune gene expression profiles in Spodoptera frugiperda](https://www.nature.com/articles/s41598-025-06939-1) / 08:00
+- [Impacts of coffee parchment on growth, immunity, and gut microbiota of Nile tilapia (Oreochromis niloticus) in biofloc system](https://www.nature.com/articles/s41598-025-03109-1) / 08:00
+- [A heterotrimeric protein complex assembles the metazoan V-ATPase upon dissipation of proton gradients](https://www.nature.com/articles/s41594-025-01610-9) / 08:00
 - [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
 - [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 08:00
+- [Comparative CRISPRi screens reveal a human stem cell dependence on mRNA translation-coupled quality control](https://www.nature.com/articles/s41594-025-01616-3) / 08:00
+- [Generation and characterization of novel transcriptome-derived SSR markers for genetic applications in blueberry](https://www.nature.com/articles/s41598-025-10317-2) / 08:00
 
 **历史记录**
 - [Automated Discovery of Patterns in T-Cell Receptor Physicochemical Signatures](https://www.biorxiv.org/content/10.1101/2025.07.07.663455v1?rss=1) / 07月10日 08:00
@@ -72,12 +80,4 @@
 - [Genetic load proxies do not predict fitness better than inbreeding does in a wild population](https://www.biorxiv.org/content/10.1101/2025.07.07.663445v1?rss=1) / 07月10日 08:00
 - [Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.07.663390v1?rss=1) / 07月10日 08:00
 - [Sex chromosome identification and genome curation, at scale, from a single individual with SCINKD](https://www.biorxiv.org/content/10.1101/2025.07.07.660342v1?rss=1) / 07月10日 08:00
-- [Gene model for the ortholog of Glys in Drosophila ananassae](https://www.biorxiv.org/content/10.1101/2025.07.09.662856v1?rss=1) / 07月10日 08:00
-- [A Mathematical Genomics Perspective on the Moonlighting Role of Glyceraldehyde-3-Phosphate Dehydrogenase (GAPDH)](https://www.biorxiv.org/content/10.1101/2025.07.06.663364v1?rss=1) / 07月10日 08:00
-- [Sequencing DNA in the air](https://www.nature.com/articles/s41592-025-02758-4) / 07月10日 08:00
-- [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
-- [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
-- [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
-- [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
-- [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
 <!--rss-papers:end-->
