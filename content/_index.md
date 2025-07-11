@@ -43,13 +43,31 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 08:00
+- [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 08:00
+- [Multi-omic mapping of Drosophila protein secretomes reveals tissue-specific origins and inter-organ trafficking](https://www.biorxiv.org/content/10.1101/2025.07.09.659702v1?rss=1) / 08:00
+- [Dissecting functional regulatory convergence over 160 million years of therian evolution](https://www.biorxiv.org/content/10.1101/2025.07.10.662670v1?rss=1) / 08:00
+- [MitoPerturb-Seq identifies common and gene-specific single-cell responses to mitochondrial DNA depletion and heteroplasmy](https://www.biorxiv.org/content/10.1101/2025.07.08.663208v1?rss=1) / 08:00
 - [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 08:00
-- [The chromosome-level genome assembly of Prunus cerasifera ‘Atropurpurea’](https://www.nature.com/articles/s41597-025-05568-7) / 08:00
-- [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 08:00
+- [Integrative analysis identifies IL-6/JUN/MMP-9 pathway destroyed blood-brain-barrier in autism mice via machine learning and bioinformatic analysis](https://www.nature.com/articles/s41398-025-03452-x) / 08:00
+- [Dietary inclusion of Hermetia illucens larvae meal modifies caecal microbiota diversity and composition in barbary partridges (Alectoris barbara)](https://www.nature.com/articles/s41598-025-09936-6) / 08:00
+- [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 08:00
+- [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 08:00
+- [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 08:00
+- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 08:00
+- [TRIM33 loss reduces androgen receptor transcriptional output and H2BK120 ubiquitination](https://www.nature.com/articles/s42003-025-08449-2) / 08:00
+- [Construction of a macrophage-related prognostic signature and assessment of immune checkpoint inhibitor efficacy of HCC](https://www.nature.com/articles/s41598-025-06937-3) / 08:00
+- [Dietary inclusion of Hermetia illucens larvae meal modifies caecal microbiota diversity and composition in barbary partridges (Alectoris barbara)](https://www.nature.com/articles/s41598-025-09936-6) / 08:00
+- [Congo red fluorescence enhances digital pathology workflow in cardiac amyloidosis](https://www.nature.com/articles/s41598-025-07157-5) / 08:00
+- [Comprehensive analysis of Mendelian randomization and scRNA-seq identify key prognostic genes and relevant functional roles in colorectal cancer](https://www.nature.com/articles/s41598-025-10354-x) / 08:00
+- [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
+- [Sericin-coated MnO2@CeO2 nanocatalysts enable pH-responsive and synergistic vincristine delivery for lung cancer therapy](https://www.nature.com/articles/s41598-025-10182-z) / 08:00
+- [MambaCAttnGCN+: a comprehensive framework integrating MambaTextCNN, cross-attention and graph convolution network for piRNA-disease association prediction](https://www.nature.com/articles/s41598-025-07641-y) / 08:00
 - [Author Correction: Leaf venation network evolution across clades and scales](https://www.nature.com/articles/s41477-025-02070-1) / 08:00
 - [Chromosome-level assembly and annotation of the yellow-shelled fish (Barbodes Wynaadensis)](https://www.nature.com/articles/s41597-025-05547-y) / 08:00
 - [Rising temperatures contribute to West Nile virus diversification and increased transmission potential](https://www.nature.com/articles/s41598-025-09284-5) / 08:00
 - [A taxonomically reliable DNA barcode reference library for North Sea macrobenthos](https://www.nature.com/articles/s41597-025-05500-z) / 08:00
+- [Forced expression of MSR repeat transcripts above a threshold limit breaks heterochromatin organisation](https://www.nature.com/articles/s41467-025-61586-4) / 08:00
 - [Opposing roles of pseudokinases NRBP1 and NRBP2 in regulating L1 retrotransposition](https://www.nature.com/articles/s41467-025-61626-z) / 08:00
 - [V-ATPase assembly at leaky lysosomes](https://www.nature.com/articles/s41594-025-01612-7) / 08:00
 - [Developmental transcriptomics reveals stage-specific immune gene expression profiles in Spodoptera frugiperda](https://www.nature.com/articles/s41598-025-06939-1) / 08:00
@@ -61,23 +79,4 @@
 - [Generation and characterization of novel transcriptome-derived SSR markers for genetic applications in blueberry](https://www.nature.com/articles/s41598-025-10317-2) / 08:00
 - [Establishment and rescue of fibroblast cell lines carrying a nonsense mutation of RB1 by CRISPR-based base editing](https://www.nature.com/articles/s41598-025-10600-2) / 08:00
 
-**历史记录**
-- [Automated Discovery of Patterns in T-Cell Receptor Physicochemical Signatures](https://www.biorxiv.org/content/10.1101/2025.07.07.663455v1?rss=1) / 07月10日 08:00
-- [MolUNet++: Adaptive-grained Explicit Substructure and Interaction Aware Molecular Representation Learning](https://www.biorxiv.org/content/10.1101/2025.07.07.663425v1?rss=1) / 07月10日 08:00
-- [Benchmarking Large Language Models for Predictive Modeling in Biomedical Research With a Focus on Reproductive Health](https://www.biorxiv.org/content/10.1101/2025.07.07.663529v1?rss=1) / 07月10日 08:00
-- [MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1?rss=1) / 07月10日 08:00
-- [Inferring physical cell-cell communication networks from scRNAseq data using univariate linear models.](https://www.biorxiv.org/content/10.1101/2025.07.07.663470v1?rss=1) / 07月10日 08:00
-- [DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning](https://www.biorxiv.org/content/10.1101/2025.07.07.663530v1?rss=1) / 07月10日 08:00
-- [AmyloGram Reveals Amyloidogenic Potential in Stroke Thrombus Proteomes](https://www.biorxiv.org/content/10.1101/2025.07.07.663482v1?rss=1) / 07月10日 08:00
-- [A LARGE-SCALE EVOLUTIONARY AND STRUCTURAL ANALYSIS OF CLC CHANNELS AND TRANSPORTERS](https://www.biorxiv.org/content/10.1101/2025.07.07.663545v1?rss=1) / 07月10日 08:00
-- [GeneInsight: Condensing Gene Set Knowledge via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.07.663611v1?rss=1) / 07月10日 08:00
-- [Tissue-Specific Co-Expression Patterns of BAF Complexes Provide Regulatory Insights Across Human Tissues with Implications for Endocrine and Non-Endocrine Functions](https://www.biorxiv.org/content/10.1101/2025.07.07.663564v1?rss=1) / 07月10日 08:00
-- [HaploThread: A Scalable Integrated Desktop Platform for Constructing and Visualizing Haplotype Networks for Large-sample Sequences](https://www.biorxiv.org/content/10.1101/2025.07.06.659816v1?rss=1) / 07月10日 08:00
-- [Accurate Site-specific Folding via Conditional Diffusion Based on Alphafold3](https://www.biorxiv.org/content/10.1101/2025.07.06.663385v1?rss=1) / 07月10日 08:00
-- [Wnt signaling promotes inflammation and EMT-associated gene expression in mesenchymal TNBC](https://www.biorxiv.org/content/10.1101/2025.07.04.663027v1?rss=1) / 07月10日 08:00
-- [A Corporative Language Model for Protein-Protein Interaction, Binding Affinity, and Interface Contact Prediction](https://www.biorxiv.org/content/10.1101/2025.07.07.663595v1?rss=1) / 07月10日 08:00
-- [Population-level structural variant characterization from pangenome graph](https://www.biorxiv.org/content/10.1101/2025.07.06.663386v1?rss=1) / 07月10日 08:00
-- [Rehabilitating the benefits of gene tree correction in the presence of incomplete lineage sorting](https://www.biorxiv.org/content/10.1101/2025.07.09.663893v1?rss=1) / 07月10日 08:00
-- [BrainBeacon: A Cross-Species Foundation Model for Single-cell Resolved Brain Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.08.663729v1?rss=1) / 07月10日 08:00
-- [ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer](https://www.biorxiv.org/content/10.1101/2025.07.08.663664v1?rss=1) / 07月10日 08:00
 <!--rss-papers:end-->
