@@ -42,7 +42,14 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
+- [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 08:00
+
 **历史记录**
+- [Automated Discovery of Patterns in T-Cell Receptor Physicochemical Signatures](https://www.biorxiv.org/content/10.1101/2025.07.07.663455v1?rss=1) / 07月10日 08:00
+- [MolUNet++: Adaptive-grained Explicit Substructure and Interaction Aware Molecular Representation Learning](https://www.biorxiv.org/content/10.1101/2025.07.07.663425v1?rss=1) / 07月10日 08:00
+- [Benchmarking Large Language Models for Predictive Modeling in Biomedical Research With a Focus on Reproductive Health](https://www.biorxiv.org/content/10.1101/2025.07.07.663529v1?rss=1) / 07月10日 08:00
 - [MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1?rss=1) / 07月10日 08:00
 - [Inferring physical cell-cell communication networks from scRNAseq data using univariate linear models.](https://www.biorxiv.org/content/10.1101/2025.07.07.663470v1?rss=1) / 07月10日 08:00
 - [DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning](https://www.biorxiv.org/content/10.1101/2025.07.07.663530v1?rss=1) / 07月10日 08:00
@@ -58,6 +65,8 @@
 - [Rehabilitating the benefits of gene tree correction in the presence of incomplete lineage sorting](https://www.biorxiv.org/content/10.1101/2025.07.09.663893v1?rss=1) / 07月10日 08:00
 - [BrainBeacon: A Cross-Species Foundation Model for Single-cell Resolved Brain Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.08.663729v1?rss=1) / 07月10日 08:00
 - [ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer](https://www.biorxiv.org/content/10.1101/2025.07.08.663664v1?rss=1) / 07月10日 08:00
+- [Chromosome-level assembly of the octoploid cloudberry(Rubus chamaemorus)](https://www.biorxiv.org/content/10.1101/2025.07.07.663483v1?rss=1) / 07月10日 08:00
+- [Genetic load proxies do not predict fitness better than inbreeding does in a wild population](https://www.biorxiv.org/content/10.1101/2025.07.07.663445v1?rss=1) / 07月10日 08:00
 - [Decoding Lymphangioleiomyomatosis (LAM) Niche Environment via Integrative Analysis of Single Cell Multiomics and Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2025.07.07.663390v1?rss=1) / 07月10日 08:00
 - [Sex chromosome identification and genome curation, at scale, from a single individual with SCINKD](https://www.biorxiv.org/content/10.1101/2025.07.07.660342v1?rss=1) / 07月10日 08:00
 - [Gene model for the ortholog of Glys in Drosophila ananassae](https://www.biorxiv.org/content/10.1101/2025.07.09.662856v1?rss=1) / 07月10日 08:00
@@ -66,16 +75,9 @@
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
 - [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
+- [Self-supervised learning of molecular representations](https://www.nature.com/articles/s41592-025-02757-5) / 07月10日 08:00
+- [AI based natural inhibitor targeting RPS20 for colorectal cancer treatment using integrated computational approaches](https://www.nature.com/articles/s41598-025-07574-6) / 07月10日 08:00
 - [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
+- [Deep learning on routine full-breast mammograms enhances lymph node metastasis prediction in early breast cancer](https://www.nature.com/articles/s41746-025-01831-8) / 07月10日 08:00
 - [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
-- [Self-iterative multiple-instance learning enables the prediction of CD4+ T cell immunogenic epitopes](https://www.nature.com/articles/s42256-025-01073-z) / 07月10日 08:00
-- [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
-- [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
-- [Retraining the veterans health administration’s REACH VET suicide risk prediction model for patients involved in the legal system](https://www.nature.com/articles/s44184-025-00143-9) / 07月10日 08:00
-- [Deformable detection transformers for domain adaptable ultrasound localization microscopy with robustness to point spread function variations](https://www.nature.com/articles/s41598-025-09120-w) / 07月10日 08:00
-- [Synthesis of thiosemicarbazone Schiff base derivatives as anti-leishmanial agents and molecular dynamics simulations insights](https://www.nature.com/articles/s41598-025-10545-6) / 07月10日 08:00
-- [Integrative analysis identifies shared therapeutic pathways in thyroid eye disease and diabetes mellitus](https://www.nature.com/articles/s41598-025-08558-2) / 07月10日 08:00
-- [TRIM29 alleviates intervertebral disc degeneration through the PI3K/AKT/mTOR pathway](https://www.nature.com/articles/s41598-025-10272-y) / 07月10日 08:00
-- [An unexpected Scalopini mole (Talpidae, Mammalia) from the Pliocene of Europe sheds light on the phylogeny of talpids](https://www.nature.com/articles/s41598-025-10396-1) / 07月10日 08:00
-- [Fossil ribcages of Homo sapiens provide new insights into modern human evolution](https://www.nature.com/articles/s42003-025-08472-3) / 07月10日 08:00
 <!--rss-papers:end-->
