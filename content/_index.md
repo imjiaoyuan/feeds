@@ -43,6 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 08:00
 - [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 08:00
 - [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 08:00
 
@@ -75,9 +76,8 @@
 - [A high-quality chromosome-level genome assembly and annotation of the giant freshwater prawn (Macrobrachium rosenbergii)](https://www.nature.com/articles/s41597-025-05494-8) / 07月10日 08:00
 - [A chromosomal level genome assembly of Nguni Sheep, Ovis aries](https://www.nature.com/articles/s41597-025-05514-7) / 07月10日 08:00
 - [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
-- [Self-supervised learning of molecular representations](https://www.nature.com/articles/s41592-025-02757-5) / 07月10日 08:00
-- [AI based natural inhibitor targeting RPS20 for colorectal cancer treatment using integrated computational approaches](https://www.nature.com/articles/s41598-025-07574-6) / 07月10日 08:00
 - [Exploring the anti-inflammatory mechanism of geniposide in rheumatoid arthritis via network pharmacology and experimental validation](https://www.nature.com/articles/s41598-025-10196-7) / 07月10日 08:00
-- [Deep learning on routine full-breast mammograms enhances lymph node metastasis prediction in early breast cancer](https://www.nature.com/articles/s41746-025-01831-8) / 07月10日 08:00
 - [Temperature and relative humidity prediction in South China greenhouse based on machine learning](https://www.nature.com/articles/s41598-025-08964-6) / 07月10日 08:00
+- [Self-iterative multiple-instance learning enables the prediction of CD4+ T cell immunogenic epitopes](https://www.nature.com/articles/s42256-025-01073-z) / 07月10日 08:00
+- [Benchmarking single-cell multi-modal data integrations](https://www.nature.com/articles/s41592-025-02737-9) / 07月10日 08:00
 <!--rss-papers:end-->
