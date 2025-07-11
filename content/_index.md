@@ -53,29 +53,29 @@
 - [Dietary inclusion of Hermetia illucens larvae meal modifies caecal microbiota diversity and composition in barbary partridges (Alectoris barbara)](https://www.nature.com/articles/s41598-025-09936-6) / 07月11日 08:00
 - [Utilisation of drugs with pharmacogenetic recommendations in children in Switzerland](https://www.nature.com/articles/s41397-025-00378-x) / 07月11日 08:00
 - [Chromosome-level genome assembly with telomeric repeats at scaffold ends for Rhabdosargus sarba](https://www.nature.com/articles/s41597-025-05324-x) / 07月11日 08:00
-- [The chromosome-level genome assembly of Prunus cerasifera ‘Atropurpurea’](https://www.nature.com/articles/s41597-025-05568-7) / 07月11日 08:00
-- [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 07月11日 08:00
+- [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 07月11日 08:00
+- [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 07月11日 08:00
+- [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 07月11日 08:00
+- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 07月11日 08:00
+- [TRIM33 loss reduces androgen receptor transcriptional output and H2BK120 ubiquitination](https://www.nature.com/articles/s42003-025-08449-2) / 07月11日 08:00
+- [Construction of a macrophage-related prognostic signature and assessment of immune checkpoint inhibitor efficacy of HCC](https://www.nature.com/articles/s41598-025-06937-3) / 07月11日 08:00
+- [Comprehensive analysis of Mendelian randomization and scRNA-seq identify key prognostic genes and relevant functional roles in colorectal cancer](https://www.nature.com/articles/s41598-025-10354-x) / 07月11日 08:00
 - [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 07月11日 08:00
+- [Sericin-coated MnO2@CeO2 nanocatalysts enable pH-responsive and synergistic vincristine delivery for lung cancer therapy](https://www.nature.com/articles/s41598-025-10182-z) / 07月11日 08:00
+- [MambaCAttnGCN+: a comprehensive framework integrating MambaTextCNN, cross-attention and graph convolution network for piRNA-disease association prediction](https://www.nature.com/articles/s41598-025-07641-y) / 07月11日 08:00
 - [Author Correction: Leaf venation network evolution across clades and scales](https://www.nature.com/articles/s41477-025-02070-1) / 07月11日 08:00
 - [Genomic diversity and structure of prehistoric alpine individuals from the Tyrolean Iceman’s territory](https://www.nature.com/articles/s41467-025-61601-8) / 07月11日 08:00
 - [Chromosome-level assembly and annotation of the yellow-shelled fish (Barbodes Wynaadensis)](https://www.nature.com/articles/s41597-025-05547-y) / 07月11日 08:00
 - [Rising temperatures contribute to West Nile virus diversification and increased transmission potential](https://www.nature.com/articles/s41598-025-09284-5) / 07月11日 08:00
 - [A taxonomically reliable DNA barcode reference library for North Sea macrobenthos](https://www.nature.com/articles/s41597-025-05500-z) / 07月11日 08:00
-- [Expanding in situ genome sequencing](https://www.nature.com/articles/s41588-025-02278-z) / 07月11日 08:00
-- [Forced expression of MSR repeat transcripts above a threshold limit breaks heterochromatin organisation](https://www.nature.com/articles/s41467-025-61586-4) / 07月11日 08:00
-- [Opposing roles of pseudokinases NRBP1 and NRBP2 in regulating L1 retrotransposition](https://www.nature.com/articles/s41467-025-61626-z) / 07月11日 08:00
-- [TRF1 relies on fork reversal to prevent fragility at human telomeres](https://www.nature.com/articles/s41467-025-61828-5) / 07月11日 08:00
-- [V-ATPase assembly at leaky lysosomes](https://www.nature.com/articles/s41594-025-01612-7) / 07月11日 08:00
-- [Developmental transcriptomics reveals stage-specific immune gene expression profiles in Spodoptera frugiperda](https://www.nature.com/articles/s41598-025-06939-1) / 07月11日 08:00
-- [Impacts of coffee parchment on growth, immunity, and gut microbiota of Nile tilapia (Oreochromis niloticus) in biofloc system](https://www.nature.com/articles/s41598-025-03109-1) / 07月11日 08:00
-- [A heterotrimeric protein complex assembles the metazoan V-ATPase upon dissipation of proton gradients](https://www.nature.com/articles/s41594-025-01610-9) / 07月11日 08:00
 - [Quantification of transcript isoforms at the single-cell level using SCALPEL](https://www.nature.com/articles/s41467-025-61118-0) / 07月11日 08:00
 - [Integrative proteomics and metabolomics reveal important pathways and potential biomarkers in high-altitude pulmonary hypertension](https://www.nature.com/articles/s41598-025-09477-y) / 07月11日 08:00
-- [Comparative CRISPRi screens reveal a human stem cell dependence on mRNA translation-coupled quality control](https://www.nature.com/articles/s41594-025-01616-3) / 07月11日 08:00
-- [Generation and characterization of novel transcriptome-derived SSR markers for genetic applications in blueberry](https://www.nature.com/articles/s41598-025-10317-2) / 07月11日 08:00
-- [Establishment and rescue of fibroblast cell lines carrying a nonsense mutation of RB1 by CRISPR-based base editing](https://www.nature.com/articles/s41598-025-10600-2) / 07月11日 08:00
 - [Automated Discovery of Patterns in T-Cell Receptor Physicochemical Signatures](https://www.biorxiv.org/content/10.1101/2025.07.07.663455v1?rss=1) / 07月10日 08:00
 - [MolUNet++: Adaptive-grained Explicit Substructure and Interaction Aware Molecular Representation Learning](https://www.biorxiv.org/content/10.1101/2025.07.07.663425v1?rss=1) / 07月10日 08:00
 - [Benchmarking Large Language Models for Predictive Modeling in Biomedical Research With a Focus on Reproductive Health](https://www.biorxiv.org/content/10.1101/2025.07.07.663529v1?rss=1) / 07月10日 08:00
 - [MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction](https://www.biorxiv.org/content/10.1101/2025.07.07.663526v1?rss=1) / 07月10日 08:00
+- [Inferring physical cell-cell communication networks from scRNAseq data using univariate linear models.](https://www.biorxiv.org/content/10.1101/2025.07.07.663470v1?rss=1) / 07月10日 08:00
+- [DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning](https://www.biorxiv.org/content/10.1101/2025.07.07.663530v1?rss=1) / 07月10日 08:00
+- [AmyloGram Reveals Amyloidogenic Potential in Stroke Thrombus Proteomes](https://www.biorxiv.org/content/10.1101/2025.07.07.663482v1?rss=1) / 07月10日 08:00
+- [A LARGE-SCALE EVOLUTIONARY AND STRUCTURAL ANALYSIS OF CLC CHANNELS AND TRANSPORTERS](https://www.biorxiv.org/content/10.1101/2025.07.07.663545v1?rss=1) / 07月10日 08:00
 <!--rss-papers:end-->
