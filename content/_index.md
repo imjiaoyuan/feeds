@@ -43,9 +43,14 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 08:00
+- [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 08:00
+- [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 08:00
 - [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
+- [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 08:00
 
 **历史记录**
+- [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
 - [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
 - [resLens: genomic language models to enhance antibiotic resistance gene detection](https://www.biorxiv.org/content/10.1101/2025.07.08.663767v1?rss=1) / 07月11日 08:00
 - [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
@@ -60,6 +65,8 @@
 - [f-BGM enables fungi-specific genome mining in high accuracy and interpretability](https://www.biorxiv.org/content/10.1101/2025.07.08.662937v1?rss=1) / 07月11日 08:00
 - [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 07月11日 08:00
 - [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 07月11日 08:00
+- [Synthesis errors in oligonucleotides are propagated into the genome by homology-directed repair](https://www.biorxiv.org/content/10.1101/2025.07.08.663753v1?rss=1) / 07月11日 08:00
+- [Genome sequence data and integrative RNA-Seq data of Black Soldier Fly (Hermetia illucens) (A Japanese strain)](https://www.biorxiv.org/content/10.1101/2025.07.08.663698v1?rss=1) / 07月11日 08:00
 - [Convergent DNA Methylation Abnormalities at Bivalent Chromatin in Human Growth Disorders](https://www.biorxiv.org/content/10.1101/2025.07.08.663614v1?rss=1) / 07月11日 08:00
 - [Weighted sliced inverse regression for scalable supervised dimensionality reduction of spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.07.08.663651v1?rss=1) / 07月11日 08:00
 - [A Cell Type Enrichment Analysis Tool for Brain DNA Methylation Data (CEAM)](https://www.biorxiv.org/content/10.1101/2025.07.08.663671v1?rss=1) / 07月11日 08:00
@@ -73,11 +80,4 @@
 - [Dissecting functional regulatory convergence over 160 million years of therian evolution](https://www.biorxiv.org/content/10.1101/2025.07.10.662670v1?rss=1) / 07月11日 08:00
 - [MitoPerturb-Seq identifies common and gene-specific single-cell responses to mitochondrial DNA depletion and heteroplasmy](https://www.biorxiv.org/content/10.1101/2025.07.08.663208v1?rss=1) / 07月11日 08:00
 - [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 07月11日 08:00
-- [Integrative analysis identifies IL-6/JUN/MMP-9 pathway destroyed blood-brain-barrier in autism mice via machine learning and bioinformatic analysis](https://www.nature.com/articles/s41398-025-03452-x) / 07月11日 08:00
-- [Dietary inclusion of Hermetia illucens larvae meal modifies caecal microbiota diversity and composition in barbary partridges (Alectoris barbara)](https://www.nature.com/articles/s41598-025-09936-6) / 07月11日 08:00
-- [Utilisation of drugs with pharmacogenetic recommendations in children in Switzerland](https://www.nature.com/articles/s41397-025-00378-x) / 07月11日 08:00
-- [Chromosome-level genome assembly with telomeric repeats at scaffold ends for Rhabdosargus sarba](https://www.nature.com/articles/s41597-025-05324-x) / 07月11日 08:00
-- [The chromosome-level genome assembly of Prunus cerasifera ‘Atropurpurea’](https://www.nature.com/articles/s41597-025-05568-7) / 07月11日 08:00
-- [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 07月11日 08:00
-- [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 07月11日 08:00
 <!--rss-papers:end-->
