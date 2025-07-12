@@ -43,11 +43,21 @@
 **历史记录**
 - [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 07月12日 08:00
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 07月12日 08:00
+- [Probing the microRNA landscape in cadmium chloride induced renal toxicity through an in silico approach](https://www.nature.com/articles/s41598-025-11473-1) / 07月12日 08:00
+- [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) / 07月12日 08:00
+- [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
+- [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
+- [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z) / 07月12日 08:00
 - [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
+- [Clinical and molecular characterizations of HNSCC patients with occult lymph node metastasis](https://www.nature.com/articles/s41598-025-10320-7) / 07月12日 08:00
 - [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
 - [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 07月12日 08:00
+- [Identification of diagnostic biomarkers and dissecting immune microenvironment with crosstalk genes in the POAG and COVID-19 nexus](https://www.nature.com/articles/s41598-025-10656-0) / 07月12日 08:00
+- [Efficient dispersion of aggregated extracellular vesicles: a comparative study of water-bath sonication and regular pipetting](https://www.nature.com/articles/s41598-025-10050-w) / 07月12日 08:00
 - [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
+- [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
+- [Numerical study on the effect of microgravity on biomechanics in human lumbar intervertebral discs](https://www.nature.com/articles/s41526-025-00483-y) / 07月12日 08:00
 - [Near-complete reference genome assembly of Hoya carnosa](https://www.nature.com/articles/s41597-025-05587-4) / 07月12日 08:00
 - [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 07月12日 08:00
 - [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
@@ -66,14 +76,4 @@
 - [resLens: genomic language models to enhance antibiotic resistance gene detection](https://www.biorxiv.org/content/10.1101/2025.07.08.663767v1?rss=1) / 07月11日 08:00
 - [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
 - [EPEPDI: prediction of binding free energy changes from missense mutations in double and single-stranded DNA-binding proteins](https://www.biorxiv.org/content/10.1101/2025.07.08.663633v1?rss=1) / 07月11日 08:00
-- [ALPAR: Automated Learning Pipeline for Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.07.08.663126v1?rss=1) / 07月11日 08:00
-- [Systematic benchmarking of basecalling models for RNA modification detection with highly multiplexed nanopore sequencing](https://www.biorxiv.org/content/10.1101/2025.07.11.663424v1?rss=1) / 07月11日 08:00
-- [MAYOCTransformer: Masked-Attention for Yielding Comprehensive Semantic Segmentation of Retinal Optical Coherence Tomography Images using Transformer-based Neural Networks](https://www.biorxiv.org/content/10.1101/2025.07.08.663601v1?rss=1) / 07月11日 08:00
-- [Evaluating Deep Learning Based Structure Prediction Methods on Antibody-Antigen Complexes](https://www.biorxiv.org/content/10.1101/2025.07.11.662141v1?rss=1) / 07月11日 08:00
-- [Advancing FAIR Data Management through AI-Assisted Curation of Morphological Data Matrices](https://www.biorxiv.org/content/10.1101/2025.07.08.663621v1?rss=1) / 07月11日 08:00
-- [Quantitative Economon Model of Transactions for Drugs and Other Commodities](https://www.biorxiv.org/content/10.1101/2025.07.08.663082v1?rss=1) / 07月11日 08:00
-- [Identification of Novel DNA Sequence Motifs that Modulate Transcription in T cells](https://www.biorxiv.org/content/10.1101/2025.07.08.660448v1?rss=1) / 07月11日 08:00
-- [f-BGM enables fungi-specific genome mining in high accuracy and interpretability](https://www.biorxiv.org/content/10.1101/2025.07.08.662937v1?rss=1) / 07月11日 08:00
-- [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 07月11日 08:00
-- [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
