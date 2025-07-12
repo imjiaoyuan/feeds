@@ -43,11 +43,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 08:00
-- [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 08:00
-- [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 08:00
-- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
-- [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 08:00
+- [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 08:00
 
 **历史记录**
 - [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
@@ -80,4 +76,8 @@
 - [Dissecting functional regulatory convergence over 160 million years of therian evolution](https://www.biorxiv.org/content/10.1101/2025.07.10.662670v1?rss=1) / 07月11日 08:00
 - [MitoPerturb-Seq identifies common and gene-specific single-cell responses to mitochondrial DNA depletion and heteroplasmy](https://www.biorxiv.org/content/10.1101/2025.07.08.663208v1?rss=1) / 07月11日 08:00
 - [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 07月11日 08:00
+- [Integrative analysis identifies IL-6/JUN/MMP-9 pathway destroyed blood-brain-barrier in autism mice via machine learning and bioinformatic analysis](https://www.nature.com/articles/s41398-025-03452-x) / 07月11日 08:00
+- [Dietary inclusion of Hermetia illucens larvae meal modifies caecal microbiota diversity and composition in barbary partridges (Alectoris barbara)](https://www.nature.com/articles/s41598-025-09936-6) / 07月11日 08:00
+- [Utilisation of drugs with pharmacogenetic recommendations in children in Switzerland](https://www.nature.com/articles/s41397-025-00378-x) / 07月11日 08:00
+- [Chromosome-level genome assembly with telomeric repeats at scaffold ends for Rhabdosargus sarba](https://www.nature.com/articles/s41597-025-05324-x) / 07月11日 08:00
 <!--rss-papers:end-->
