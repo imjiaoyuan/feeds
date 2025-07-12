@@ -47,9 +47,6 @@
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 08:00
 - [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 08:00
 - [Human-mediated introgression and Varroa destructor shaped the genetic structure of honey bee populations in the Azores](https://www.nature.com/articles/s41598-025-08950-y) / 08:00
-- [The functional of cathepsin L in the ontogenesis and reproductive regulation of the Asian corn borer, Ostrinia furnacalis](https://www.nature.com/articles/s41598-025-11318-x) / 08:00
-- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
-- [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 08:00
 
 **历史记录**
 - [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
@@ -80,4 +77,7 @@
 - [Context-dependent regulatory variants in Alzheimer's disease](https://www.biorxiv.org/content/10.1101/2025.07.11.659973v1?rss=1) / 07月11日 08:00
 - [Multi-omic mapping of Drosophila protein secretomes reveals tissue-specific origins and inter-organ trafficking](https://www.biorxiv.org/content/10.1101/2025.07.09.659702v1?rss=1) / 07月11日 08:00
 - [Dissecting functional regulatory convergence over 160 million years of therian evolution](https://www.biorxiv.org/content/10.1101/2025.07.10.662670v1?rss=1) / 07月11日 08:00
+- [MitoPerturb-Seq identifies common and gene-specific single-cell responses to mitochondrial DNA depletion and heteroplasmy](https://www.biorxiv.org/content/10.1101/2025.07.08.663208v1?rss=1) / 07月11日 08:00
+- [A telomere-to-telomere gap-free genome assembly of the endangered humphead wrasse (Cheilinus undulatus)](https://www.nature.com/articles/s41597-025-05475-x) / 07月11日 08:00
+- [Integrative analysis identifies IL-6/JUN/MMP-9 pathway destroyed blood-brain-barrier in autism mice via machine learning and bioinformatic analysis](https://www.nature.com/articles/s41398-025-03452-x) / 07月11日 08:00
 <!--rss-papers:end-->
