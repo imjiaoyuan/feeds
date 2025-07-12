@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [夏日南京游AI乐章](https://innei.in/notes/195) / 12:53
 - [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 11:00
 - [初探 Context Engineering](https://innei.in/posts/programming/exploring-context-engineering) / 01:34
 
@@ -37,7 +38,6 @@
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
-- [Relive the Golden Era: 5 Tools to Get Retro Feel on Linux](https://itsfoss.com/linux-retro-tools/) / 06月30日 15:16
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -55,6 +55,8 @@
 - [f-BGM enables fungi-specific genome mining in high accuracy and interpretability](https://www.biorxiv.org/content/10.1101/2025.07.08.662937v1?rss=1) / 07月11日 08:00
 - [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 07月11日 08:00
 - [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 07月11日 08:00
+- [Weighted sliced inverse regression for scalable supervised dimensionality reduction of spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.07.08.663651v1?rss=1) / 07月11日 08:00
+- [A Cell Type Enrichment Analysis Tool for Brain DNA Methylation Data (CEAM)](https://www.biorxiv.org/content/10.1101/2025.07.08.663671v1?rss=1) / 07月11日 08:00
 - [Early-life stress as a potential resilience factor in king penguins](https://www.biorxiv.org/content/10.1101/2025.07.10.663151v1?rss=1) / 07月11日 08:00
 - [Beyond the transcript: chromatin implications in trans-splicing in Trypanosomatids](https://www.biorxiv.org/content/10.1101/2025.07.08.663533v1?rss=1) / 07月11日 08:00
 - [Updating the RZooRoH package for the analysis of inbreeding, identity-by-descent and relatedness from genomic data](https://www.biorxiv.org/content/10.1101/2025.07.08.663647v1?rss=1) / 07月11日 08:00
@@ -76,6 +78,4 @@
 - [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 07月11日 08:00
 - [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 07月11日 08:00
 - [TRIM33 loss reduces androgen receptor transcriptional output and H2BK120 ubiquitination](https://www.nature.com/articles/s42003-025-08449-2) / 07月11日 08:00
-- [Construction of a macrophage-related prognostic signature and assessment of immune checkpoint inhibitor efficacy of HCC](https://www.nature.com/articles/s41598-025-06937-3) / 07月11日 08:00
-- [Comprehensive analysis of Mendelian randomization and scRNA-seq identify key prognostic genes and relevant functional roles in colorectal cancer](https://www.nature.com/articles/s41598-025-10354-x) / 07月11日 08:00
 <!--rss-papers:end-->
