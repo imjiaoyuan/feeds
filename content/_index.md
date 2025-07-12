@@ -42,9 +42,6 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
-
 **历史记录**
 - [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
 - [EPEPDI: prediction of binding free energy changes from missense mutations in double and single-stranded DNA-binding proteins](https://www.biorxiv.org/content/10.1101/2025.07.08.663633v1?rss=1) / 07月11日 08:00
@@ -75,9 +72,10 @@
 - [The chromosome-level genome assembly of Prunus cerasifera ‘Atropurpurea’](https://www.nature.com/articles/s41597-025-05568-7) / 07月11日 08:00
 - [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 07月11日 08:00
 - [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 07月11日 08:00
-- [Population-based spectral characteristics of normal interictal scalp EEG inform diagnosis and treatment planning in focal epilepsy](https://www.nature.com/articles/s41598-025-08871-w) / 07月11日 08:00
-- [ColdstartCPI: Induced-fit theory-guided DTI predictive model with improved generalization performance](https://www.nature.com/articles/s41467-025-61745-7) / 07月11日 08:00
 - [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 07月11日 08:00
-- [Translating microbial kinetics into quantitative responses and testable hypotheses using Kinbiont](https://www.nature.com/articles/s41467-025-61592-6) / 07月11日 08:00
 - [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 07月11日 08:00
+- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 07月11日 08:00
+- [TRIM33 loss reduces androgen receptor transcriptional output and H2BK120 ubiquitination](https://www.nature.com/articles/s42003-025-08449-2) / 07月11日 08:00
+- [Construction of a macrophage-related prognostic signature and assessment of immune checkpoint inhibitor efficacy of HCC](https://www.nature.com/articles/s41598-025-06937-3) / 07月11日 08:00
+- [Comprehensive analysis of Mendelian randomization and scRNA-seq identify key prognostic genes and relevant functional roles in colorectal cancer](https://www.nature.com/articles/s41598-025-10354-x) / 07月11日 08:00
 <!--rss-papers:end-->
