@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 11:00
 - [初探 Context Engineering](https://innei.in/posts/programming/exploring-context-engineering) / 01:34
 
 **历史记录**
@@ -37,12 +38,16 @@
 - [2025上半年研究速递](https://yufree.cn/cn/2025/07/01/2025/) / 07月01日 08:00
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
 - [Relive the Golden Era: 5 Tools to Get Retro Feel on Linux](https://itsfoss.com/linux-retro-tools/) / 06月30日 15:16
-- [笨与蠢](https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/) / 06月30日 11:02
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
+
 **历史记录**
+- [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
+- [EPEPDI: prediction of binding free energy changes from missense mutations in double and single-stranded DNA-binding proteins](https://www.biorxiv.org/content/10.1101/2025.07.08.663633v1?rss=1) / 07月11日 08:00
 - [ALPAR: Automated Learning Pipeline for Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.07.08.663126v1?rss=1) / 07月11日 08:00
 - [Systematic benchmarking of basecalling models for RNA modification detection with highly multiplexed nanopore sequencing](https://www.biorxiv.org/content/10.1101/2025.07.11.663424v1?rss=1) / 07月11日 08:00
 - [MAYOCTransformer: Masked-Attention for Yielding Comprehensive Semantic Segmentation of Retinal Optical Coherence Tomography Images using Transformer-based Neural Networks](https://www.biorxiv.org/content/10.1101/2025.07.08.663601v1?rss=1) / 07月11日 08:00
@@ -75,7 +80,4 @@
 - [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 07月11日 08:00
 - [Translating microbial kinetics into quantitative responses and testable hypotheses using Kinbiont](https://www.nature.com/articles/s41467-025-61592-6) / 07月11日 08:00
 - [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 07月11日 08:00
-- [Scientists hide messages in papers to game AI peer review](https://www.nature.com/articles/d41586-025-02172-y) / 07月11日 08:00
-- [Low-dose computed tomography image denoising using pixel level non-local self-similarity prior with non-local means for healthcare informatics](https://www.nature.com/articles/s41598-025-10139-2) / 07月11日 08:00
-- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 07月11日 08:00
 <!--rss-papers:end-->
