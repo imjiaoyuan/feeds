@@ -45,8 +45,6 @@
 **今日更新**
 - [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 08:00
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 08:00
-- [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 08:00
-- [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 08:00
 - [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 08:00
 - [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 08:00
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 08:00
@@ -80,4 +78,6 @@
 - [Beyond the transcript: chromatin implications in trans-splicing in Trypanosomatids](https://www.biorxiv.org/content/10.1101/2025.07.08.663533v1?rss=1) / 07月11日 08:00
 - [Updating the RZooRoH package for the analysis of inbreeding, identity-by-descent and relatedness from genomic data](https://www.biorxiv.org/content/10.1101/2025.07.08.663647v1?rss=1) / 07月11日 08:00
 - [UVA irradiation promotes ROS-mediated formation of the common deletion in mitochondrial DNA](https://www.biorxiv.org/content/10.1101/2025.07.09.663484v1?rss=1) / 07月11日 08:00
+- [Conserved accessory genes link phylogenetically distinct Bacillus subtilis from Japanese and Indian fermented soyfoods](https://www.biorxiv.org/content/10.1101/2025.07.08.663414v1?rss=1) / 07月11日 08:00
+- [Context-dependent regulatory variants in Alzheimer's disease](https://www.biorxiv.org/content/10.1101/2025.07.11.659973v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
