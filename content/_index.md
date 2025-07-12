@@ -67,6 +67,7 @@
 - [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 07月12日 08:00
 - [Effects of psychosocial stress on laryngeal microbiology and epithelial barrier integrity](https://www.nature.com/articles/s41598-025-10170-3) / 07月12日 08:00
 - [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
+- [SUMOylation of the lysine-less tumor suppressor p14ARF counters ubiquitylation-dependent degradation](https://www.nature.com/articles/s41419-025-07854-z) / 07月12日 08:00
 - [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
 - [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
 - [resLens: genomic language models to enhance antibiotic resistance gene detection](https://www.biorxiv.org/content/10.1101/2025.07.08.663767v1?rss=1) / 07月11日 08:00
@@ -75,5 +76,4 @@
 - [ALPAR: Automated Learning Pipeline for Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.07.08.663126v1?rss=1) / 07月11日 08:00
 - [Systematic benchmarking of basecalling models for RNA modification detection with highly multiplexed nanopore sequencing](https://www.biorxiv.org/content/10.1101/2025.07.11.663424v1?rss=1) / 07月11日 08:00
 - [MAYOCTransformer: Masked-Attention for Yielding Comprehensive Semantic Segmentation of Retinal Optical Coherence Tomography Images using Transformer-based Neural Networks](https://www.biorxiv.org/content/10.1101/2025.07.08.663601v1?rss=1) / 07月11日 08:00
-- [Evaluating Deep Learning Based Structure Prediction Methods on Antibody-Antigen Complexes](https://www.biorxiv.org/content/10.1101/2025.07.11.662141v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
