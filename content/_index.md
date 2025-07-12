@@ -42,7 +42,12 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 08:00
+
 **历史记录**
+- [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
+- [resLens: genomic language models to enhance antibiotic resistance gene detection](https://www.biorxiv.org/content/10.1101/2025.07.08.663767v1?rss=1) / 07月11日 08:00
 - [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
 - [EPEPDI: prediction of binding free energy changes from missense mutations in double and single-stranded DNA-binding proteins](https://www.biorxiv.org/content/10.1101/2025.07.08.663633v1?rss=1) / 07月11日 08:00
 - [ALPAR: Automated Learning Pipeline for Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.07.08.663126v1?rss=1) / 07月11日 08:00
@@ -55,6 +60,7 @@
 - [f-BGM enables fungi-specific genome mining in high accuracy and interpretability](https://www.biorxiv.org/content/10.1101/2025.07.08.662937v1?rss=1) / 07月11日 08:00
 - [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 07月11日 08:00
 - [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 07月11日 08:00
+- [Convergent DNA Methylation Abnormalities at Bivalent Chromatin in Human Growth Disorders](https://www.biorxiv.org/content/10.1101/2025.07.08.663614v1?rss=1) / 07月11日 08:00
 - [Weighted sliced inverse regression for scalable supervised dimensionality reduction of spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.07.08.663651v1?rss=1) / 07月11日 08:00
 - [A Cell Type Enrichment Analysis Tool for Brain DNA Methylation Data (CEAM)](https://www.biorxiv.org/content/10.1101/2025.07.08.663671v1?rss=1) / 07月11日 08:00
 - [Early-life stress as a potential resilience factor in king penguins](https://www.biorxiv.org/content/10.1101/2025.07.10.663151v1?rss=1) / 07月11日 08:00
@@ -74,8 +80,4 @@
 - [The chromosome-level genome assembly of Prunus cerasifera ‘Atropurpurea’](https://www.nature.com/articles/s41597-025-05568-7) / 07月11日 08:00
 - [A hybrid YOLO-UNet3D framework for automated protein particle annotation in Cryo-ET images](https://www.nature.com/articles/s41598-025-09522-w) / 07月11日 08:00
 - [Privacy-preserving multicenter differential protein abundance analysis with FedProt](https://www.nature.com/articles/s43588-025-00832-7) / 07月11日 08:00
-- [A foundational model for in vitro fertilization trained on 18 million time-lapse images](https://www.nature.com/articles/s41467-025-61116-2) / 07月11日 08:00
-- [Transitive prediction of small-molecule function through alignment of high-content screening resources](https://www.nature.com/articles/s41587-025-02729-2) / 07月11日 08:00
-- [A hybrid framework for heart disease prediction using classical and quantum-inspired machine learning techniques](https://www.nature.com/articles/s41598-025-09957-1) / 07月11日 08:00
-- [TRIM33 loss reduces androgen receptor transcriptional output and H2BK120 ubiquitination](https://www.nature.com/articles/s42003-025-08449-2) / 07月11日 08:00
 <!--rss-papers:end-->
