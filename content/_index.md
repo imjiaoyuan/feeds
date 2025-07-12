@@ -43,6 +43,18 @@
 **历史记录**
 - [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 07月12日 08:00
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 07月12日 08:00
+- [Probing the microRNA landscape in cadmium chloride induced renal toxicity through an in silico approach](https://www.nature.com/articles/s41598-025-11473-1) / 07月12日 08:00
+- [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
+- [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
+- [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
+- [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
+- [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 07月12日 08:00
+- [Identification of diagnostic biomarkers and dissecting immune microenvironment with crosstalk genes in the POAG and COVID-19 nexus](https://www.nature.com/articles/s41598-025-10656-0) / 07月12日 08:00
+- [Efficient dispersion of aggregated extracellular vesicles: a comparative study of water-bath sonication and regular pipetting](https://www.nature.com/articles/s41598-025-10050-w) / 07月12日 08:00
+- [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
+- [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
+- [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
+- [Numerical study on the effect of microgravity on biomechanics in human lumbar intervertebral discs](https://www.nature.com/articles/s41526-025-00483-y) / 07月12日 08:00
 - [Near-complete reference genome assembly of Hoya carnosa](https://www.nature.com/articles/s41597-025-05587-4) / 07月12日 08:00
 - [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 07月12日 08:00
 - [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
@@ -53,6 +65,7 @@
 - [The functional of cathepsin L in the ontogenesis and reproductive regulation of the Asian corn borer, Ostrinia furnacalis](https://www.nature.com/articles/s41598-025-11318-x) / 07月12日 08:00
 - [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 07月12日 08:00
 - [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 07月12日 08:00
+- [Effects of psychosocial stress on laryngeal microbiology and epithelial barrier integrity](https://www.nature.com/articles/s41598-025-10170-3) / 07月12日 08:00
 - [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
 - [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
 - [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
@@ -63,17 +76,4 @@
 - [Systematic benchmarking of basecalling models for RNA modification detection with highly multiplexed nanopore sequencing](https://www.biorxiv.org/content/10.1101/2025.07.11.663424v1?rss=1) / 07月11日 08:00
 - [MAYOCTransformer: Masked-Attention for Yielding Comprehensive Semantic Segmentation of Retinal Optical Coherence Tomography Images using Transformer-based Neural Networks](https://www.biorxiv.org/content/10.1101/2025.07.08.663601v1?rss=1) / 07月11日 08:00
 - [Evaluating Deep Learning Based Structure Prediction Methods on Antibody-Antigen Complexes](https://www.biorxiv.org/content/10.1101/2025.07.11.662141v1?rss=1) / 07月11日 08:00
-- [Advancing FAIR Data Management through AI-Assisted Curation of Morphological Data Matrices](https://www.biorxiv.org/content/10.1101/2025.07.08.663621v1?rss=1) / 07月11日 08:00
-- [Quantitative Economon Model of Transactions for Drugs and Other Commodities](https://www.biorxiv.org/content/10.1101/2025.07.08.663082v1?rss=1) / 07月11日 08:00
-- [Identification of Novel DNA Sequence Motifs that Modulate Transcription in T cells](https://www.biorxiv.org/content/10.1101/2025.07.08.660448v1?rss=1) / 07月11日 08:00
-- [f-BGM enables fungi-specific genome mining in high accuracy and interpretability](https://www.biorxiv.org/content/10.1101/2025.07.08.662937v1?rss=1) / 07月11日 08:00
-- [DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1?rss=1) / 07月11日 08:00
-- [Campolina: A Deep Neural Framework for Accurate Segmentation of Nanopore Signals](https://www.biorxiv.org/content/10.1101/2025.07.08.663658v1?rss=1) / 07月11日 08:00
-- [Synthesis errors in oligonucleotides are propagated into the genome by homology-directed repair](https://www.biorxiv.org/content/10.1101/2025.07.08.663753v1?rss=1) / 07月11日 08:00
-- [Genome sequence data and integrative RNA-Seq data of Black Soldier Fly (Hermetia illucens) (A Japanese strain)](https://www.biorxiv.org/content/10.1101/2025.07.08.663698v1?rss=1) / 07月11日 08:00
-- [Convergent DNA Methylation Abnormalities at Bivalent Chromatin in Human Growth Disorders](https://www.biorxiv.org/content/10.1101/2025.07.08.663614v1?rss=1) / 07月11日 08:00
-- [Weighted sliced inverse regression for scalable supervised dimensionality reduction of spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2025.07.08.663651v1?rss=1) / 07月11日 08:00
-- [A Cell Type Enrichment Analysis Tool for Brain DNA Methylation Data (CEAM)](https://www.biorxiv.org/content/10.1101/2025.07.08.663671v1?rss=1) / 07月11日 08:00
-- [Early-life stress as a potential resilience factor in king penguins](https://www.biorxiv.org/content/10.1101/2025.07.10.663151v1?rss=1) / 07月11日 08:00
-- [Beyond the transcript: chromatin implications in trans-splicing in Trypanosomatids](https://www.biorxiv.org/content/10.1101/2025.07.08.663533v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
