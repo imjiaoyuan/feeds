@@ -1,10 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 18:12
-- [深度未来（ Deep Furture ）给我的启发](https://blog.codingnow.com/2025/07/deep_furture.html) / 12:50
-
 **历史记录**
+- [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 07月13日 18:12
+- [深度未来（ Deep Furture ）给我的启发](https://blog.codingnow.com/2025/07/deep_furture.html) / 07月13日 12:50
 - [律师行业前路何在？不包赢肯定是不行](https://xingbianren.cn/post/310.html) / 07月12日 22:25
 - [夏日南京游AI乐章](https://innei.in/notes/195) / 07月12日 12:53
 - [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 07月12日 11:00
@@ -42,13 +40,10 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 08:00
-- [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 08:00
-- [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 08:00
-- [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 08:00
-
 **历史记录**
+- [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 07月13日 08:00
+- [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 07月13日 08:00
+- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
 - [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
 - [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
@@ -59,7 +54,6 @@
 - [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) / 07月12日 08:00
 - [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
 - [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
-- [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z) / 07月12日 08:00
 - [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
 - [Clinical and molecular characterizations of HNSCC patients with occult lymph node metastasis](https://www.nature.com/articles/s41598-025-10320-7) / 07月12日 08:00
 - [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
@@ -70,7 +64,6 @@
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
 - [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
 - [Numerical study on the effect of microgravity on biomechanics in human lumbar intervertebral discs](https://www.nature.com/articles/s41526-025-00483-y) / 07月12日 08:00
-- [Accurate and real-time brain tumour detection and classification using optimized YOLOv5 architecture](https://www.nature.com/articles/s41598-025-07773-1) / 07月12日 08:00
 - [Near-complete reference genome assembly of Hoya carnosa](https://www.nature.com/articles/s41597-025-05587-4) / 07月12日 08:00
 - [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 07月12日 08:00
 - [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
@@ -80,4 +73,7 @@
 - [Ketone drink enhances therapeutic efficacy in prostate cancer by targeting EZH2](https://www.nature.com/articles/s41389-025-00567-0) / 07月12日 08:00
 - [The functional of cathepsin L in the ontogenesis and reproductive regulation of the Asian corn borer, Ostrinia furnacalis](https://www.nature.com/articles/s41598-025-11318-x) / 07月12日 08:00
 - [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 07月12日 08:00
+- [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 07月12日 08:00
+- [Effects of psychosocial stress on laryngeal microbiology and epithelial barrier integrity](https://www.nature.com/articles/s41598-025-10170-3) / 07月12日 08:00
+- [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
 <!--rss-papers:end-->
