@@ -1,8 +1,11 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 00:19
+
 **历史记录**
 - [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 07月13日 18:12
-- [深度未来（ Deep Furture ）给我的启发](https://blog.codingnow.com/2025/07/deep_furture.html) / 07月13日 12:50
+- [深度未来（ Deep Future ）给我的启发](https://blog.codingnow.com/2025/07/deep_future.html) / 07月13日 12:50
 - [律师行业前路何在？不包赢肯定是不行](https://xingbianren.cn/post/310.html) / 07月12日 22:25
 - [夏日南京游AI乐章](https://innei.in/notes/195) / 07月12日 12:53
 - [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 07月12日 11:00
@@ -35,15 +38,12 @@
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
 - [活人感](https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/) / 07月02日 11:03
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
-- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
-- [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 07月13日 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 07月13日 08:00
-- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
 - [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
 - [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
@@ -76,4 +76,6 @@
 - [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 07月12日 08:00
 - [Effects of psychosocial stress on laryngeal microbiology and epithelial barrier integrity](https://www.nature.com/articles/s41598-025-10170-3) / 07月12日 08:00
 - [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
+- [SUMOylation of the lysine-less tumor suppressor p14ARF counters ubiquitylation-dependent degradation](https://www.nature.com/articles/s41419-025-07854-z) / 07月12日 08:00
+- [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
