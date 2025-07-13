@@ -43,7 +43,6 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 08:00
 
 **历史记录**
@@ -53,22 +52,15 @@
 - [High Throughput Information Extraction of Printed Specimen Labels from Large-Scale Digitization of Entomological Collections using a Semi-Automated Pipeline](https://www.biorxiv.org/content/10.1101/2025.07.09.663724v1?rss=1) / 07月12日 08:00
 - [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 07月12日 08:00
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 07月12日 08:00
-- [Probing the microRNA landscape in cadmium chloride induced renal toxicity through an in silico approach](https://www.nature.com/articles/s41598-025-11473-1) / 07月12日 08:00
-- [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) / 07月12日 08:00
 - [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
 - [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
-- [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z) / 07月12日 08:00
 - [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
-- [Clinical and molecular characterizations of HNSCC patients with occult lymph node metastasis](https://www.nature.com/articles/s41598-025-10320-7) / 07月12日 08:00
 - [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
 - [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 07月12日 08:00
-- [Identification of diagnostic biomarkers and dissecting immune microenvironment with crosstalk genes in the POAG and COVID-19 nexus](https://www.nature.com/articles/s41598-025-10656-0) / 07月12日 08:00
-- [Efficient dispersion of aggregated extracellular vesicles: a comparative study of water-bath sonication and regular pipetting](https://www.nature.com/articles/s41598-025-10050-w) / 07月12日 08:00
 - [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
 - [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
 - [Numerical study on the effect of microgravity on biomechanics in human lumbar intervertebral discs](https://www.nature.com/articles/s41526-025-00483-y) / 07月12日 08:00
-- [Accurate and real-time brain tumour detection and classification using optimized YOLOv5 architecture](https://www.nature.com/articles/s41598-025-07773-1) / 07月12日 08:00
 - [Near-complete reference genome assembly of Hoya carnosa](https://www.nature.com/articles/s41597-025-05587-4) / 07月12日 08:00
 - [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 07月12日 08:00
 - [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
@@ -80,4 +72,12 @@
 - [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 07月12日 08:00
 - [Replacing protruding domains of MrNV virus-like particles with sialic acid binding domains enhances binding to SARS-CoV-2 susceptible cells and reduces pseudovirus infection](https://www.nature.com/articles/s41598-025-10792-7) / 07月12日 08:00
 - [Effects of psychosocial stress on laryngeal microbiology and epithelial barrier integrity](https://www.nature.com/articles/s41598-025-10170-3) / 07月12日 08:00
+- [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
+- [SUMOylation of the lysine-less tumor suppressor p14ARF counters ubiquitylation-dependent degradation](https://www.nature.com/articles/s41419-025-07854-z) / 07月12日 08:00
+- [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
+- [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
+- [resLens: genomic language models to enhance antibiotic resistance gene detection](https://www.biorxiv.org/content/10.1101/2025.07.08.663767v1?rss=1) / 07月11日 08:00
+- [MicrobiomePrime: A primer pair selection tool for microbial source tracking validated on a comprehensive collection of animal gut and fecal waste microbiomes](https://www.biorxiv.org/content/10.1101/2025.07.08.663663v1?rss=1) / 07月11日 08:00
+- [EPEPDI: prediction of binding free energy changes from missense mutations in double and single-stranded DNA-binding proteins](https://www.biorxiv.org/content/10.1101/2025.07.08.663633v1?rss=1) / 07月11日 08:00
+- [ALPAR: Automated Learning Pipeline for Antimicrobial Resistance](https://www.biorxiv.org/content/10.1101/2025.07.08.663126v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
