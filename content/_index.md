@@ -43,7 +43,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 08:00
+- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 08:00
 
 **历史记录**
 - [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
@@ -53,15 +55,12 @@
 - [CNA detection from spatial transcriptomics using SpaCNA](https://www.biorxiv.org/content/10.1101/2025.07.08.663688v1?rss=1) / 07月12日 08:00
 - [Identification of novel protective loci for executive function using the trail making test part B in the Long Life Family Study](https://www.biorxiv.org/content/10.1101/2025.07.08.663708v1?rss=1) / 07月12日 08:00
 - [Probing the microRNA landscape in cadmium chloride induced renal toxicity through an in silico approach](https://www.nature.com/articles/s41598-025-11473-1) / 07月12日 08:00
-- [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) / 07月12日 08:00
 - [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
 - [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
 - [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
-- [Clinical and molecular characterizations of HNSCC patients with occult lymph node metastasis](https://www.nature.com/articles/s41598-025-10320-7) / 07月12日 08:00
 - [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
 - [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 07月12日 08:00
 - [Identification of diagnostic biomarkers and dissecting immune microenvironment with crosstalk genes in the POAG and COVID-19 nexus](https://www.nature.com/articles/s41598-025-10656-0) / 07月12日 08:00
-- [Efficient dispersion of aggregated extracellular vesicles: a comparative study of water-bath sonication and regular pipetting](https://www.nature.com/articles/s41598-025-10050-w) / 07月12日 08:00
 - [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
 - [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
@@ -80,4 +79,5 @@
 - [Treadmill training protects valproic acid-induced autistic features via cerebellar AMPK/PPAR-γ dependent pathway and improves mitochondrial activity in mice](https://www.nature.com/articles/s41598-025-09089-6) / 07月12日 08:00
 - [SUMOylation of the lysine-less tumor suppressor p14ARF counters ubiquitylation-dependent degradation](https://www.nature.com/articles/s41419-025-07854-z) / 07月12日 08:00
 - [CAT-APP: Contamination Analysis and Tempering--An Automated Online Platform for Plasma Proteomics with Data Rescuing Capabilities](https://www.biorxiv.org/content/10.1101/2025.07.08.663798v1?rss=1) / 07月11日 08:00
+- [MIMIC: a flexible pipeline to register and summarize IMC-MSI experiments](https://www.biorxiv.org/content/10.1101/2025.07.08.663623v1?rss=1) / 07月11日 08:00
 <!--rss-papers:end-->
