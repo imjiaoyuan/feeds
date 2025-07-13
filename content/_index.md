@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 18:12
 - [深度未来（ Deep Furture ）给我的启发](https://blog.codingnow.com/2025/07/deep_furture.html) / 12:50
 
 **历史记录**
@@ -37,7 +38,6 @@
 - [活人感](https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/) / 07月02日 11:03
 - [奇闻：刑案“狸猫换太子”](https://xingbianren.cn/post/309.html) / 07月02日 10:55
 - [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
-- [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -45,6 +45,7 @@
 **今日更新**
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 08:00
 - [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 08:00
+- [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 08:00
 - [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 08:00
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 08:00
@@ -79,5 +80,4 @@
 - [C. elegans sperm and oocytes differentially transmit diet-induced adaptations to their progeny](https://www.nature.com/articles/s41467-025-61750-w) / 07月12日 08:00
 - [Global changes in synthesis rates and mRNA stabilities during adaptive responses to cell wall stress in yeast](https://www.nature.com/articles/s41598-025-08815-4) / 07月12日 08:00
 - [Ketone drink enhances therapeutic efficacy in prostate cancer by targeting EZH2](https://www.nature.com/articles/s41389-025-00567-0) / 07月12日 08:00
-- [The functional of cathepsin L in the ontogenesis and reproductive regulation of the Asian corn borer, Ostrinia furnacalis](https://www.nature.com/articles/s41598-025-11318-x) / 07月12日 08:00
 <!--rss-papers:end-->
