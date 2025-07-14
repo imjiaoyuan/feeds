@@ -1,11 +1,10 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [讨薪未果，他绑架了包工头](https://xingbianren.cn/post/312.html) / 17:56
-- [从迷因到政治符号](https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/) / 11:00
-- [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 00:19
-
 **历史记录**
+- [梦](https://anotherdayu.com/2025/7077/) / 07月14日 23:44
+- [讨薪未果，他绑架了包工头](https://xingbianren.cn/post/312.html) / 07月14日 17:56
+- [从迷因到政治符号](https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/) / 07月14日 11:00
+- [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 07月14日 00:19
 - [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 07月13日 18:12
 - [深度未来（ Deep Future ）给我的启发](https://blog.codingnow.com/2025/07/deep_future.html) / 07月13日 12:50
 - [律师行业前路何在？不包赢肯定是不行](https://xingbianren.cn/post/310.html) / 07月12日 22:25
@@ -37,32 +36,30 @@
 - [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) / 07月03日 13:13
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
-- [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Efficiency of Learned Indexes on Genome Spectra](https://www.biorxiv.org/content/10.1101/2025.07.10.664199v1?rss=1) / 08:00
-- [MetaSage: Machine Learning-Based Prioritization of Metabolic Regulators from Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.07.09.663994v1?rss=1) / 08:00
-- [Systematic cross-study assessment of RNA-Seq experimental workflows for plasma cell-free transcriptome profiling](https://www.biorxiv.org/content/10.1101/2025.07.10.664092v1?rss=1) / 08:00
-- [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 08:00
-- [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 08:00
-- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 08:00
-- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 08:00
-- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 08:00
-- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 08:00
-- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 08:00
-- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 08:00
-- [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 08:00
-- [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 08:00
-- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 08:00
-- [Publisher Correction: Targeting GRPR for sex hormone-dependent cancer after loss of E-cadherin](https://www.nature.com/articles/s41586-025-09353-9) / 08:00
-- [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 08:00
-- [Metagenomic and Transcriptomic Datasets of Plateau Brown Frogs (Rana kukunoris) from the Helan Mountains](https://www.nature.com/articles/s41597-025-05585-6) / 08:00
-- [Molecular characterization of multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli isolated from Sonali chicken meat in Bangladesh](https://www.nature.com/articles/s41598-025-96073-9) / 08:00
-
 **历史记录**
+- [EZpred: improving deep learning-based enzyme function prediction using unlabeled sequence homologs](https://www.biorxiv.org/content/10.1101/2025.07.09.663945v1?rss=1) / 07月14日 08:00
+- [Bridging Molecular Simulations and Experimental Observables: Predicting FRET Signals and Conformational Transitions Using MD and Deep Learning in Cas9](https://www.biorxiv.org/content/10.1101/2025.07.10.664034v1?rss=1) / 07月14日 08:00
+- [A Hierarchical Robust Linear Model for Cryo-EM Map Analysis](https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1?rss=1) / 07月14日 08:00
+- [Protein Abundance Inference via Expectation Maximization in Fluorosequencing](https://www.biorxiv.org/content/10.1101/2025.07.10.664057v1?rss=1) / 07月14日 08:00
+- [Assessing large-scale genomic language models in predicting personal gene expression: promises and limitations](https://www.biorxiv.org/content/10.1101/2025.07.09.664024v1?rss=1) / 07月14日 08:00
+- [Efficiency of Learned Indexes on Genome Spectra](https://www.biorxiv.org/content/10.1101/2025.07.10.664199v1?rss=1) / 07月14日 08:00
+- [MetaSage: Machine Learning-Based Prioritization of Metabolic Regulators from Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.07.09.663994v1?rss=1) / 07月14日 08:00
+- [Systematic cross-study assessment of RNA-Seq experimental workflows for plasma cell-free transcriptome profiling](https://www.biorxiv.org/content/10.1101/2025.07.10.664092v1?rss=1) / 07月14日 08:00
+- [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
+- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
+- [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
+- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
+- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
+- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
+- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
+- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
+- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
+- [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 07月14日 08:00
+- [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 07月14日 08:00
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 07月13日 08:00
 - [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 07月13日 08:00
@@ -79,5 +76,4 @@
 - [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) / 07月12日 08:00
 - [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
 - [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
-- [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z) / 07月12日 08:00
 <!--rss-papers:end-->
