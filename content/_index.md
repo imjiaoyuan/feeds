@@ -43,6 +43,9 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Efficiency of Learned Indexes on Genome Spectra](https://www.biorxiv.org/content/10.1101/2025.07.10.664199v1?rss=1) / 08:00
+- [MetaSage: Machine Learning-Based Prioritization of Metabolic Regulators from Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.07.09.663994v1?rss=1) / 08:00
+- [Systematic cross-study assessment of RNA-Seq experimental workflows for plasma cell-free transcriptome profiling](https://www.biorxiv.org/content/10.1101/2025.07.10.664092v1?rss=1) / 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 08:00
 - [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 08:00
 - [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 08:00
@@ -53,6 +56,11 @@
 - [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 08:00
 - [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 08:00
 - [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 08:00
+- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 08:00
+- [Publisher Correction: Targeting GRPR for sex hormone-dependent cancer after loss of E-cadherin](https://www.nature.com/articles/s41586-025-09353-9) / 08:00
+- [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 08:00
+- [Metagenomic and Transcriptomic Datasets of Plateau Brown Frogs (Rana kukunoris) from the Helan Mountains](https://www.nature.com/articles/s41597-025-05585-6) / 08:00
+- [Molecular characterization of multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli isolated from Sonali chicken meat in Bangladesh](https://www.nature.com/articles/s41598-025-96073-9) / 08:00
 
 **历史记录**
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
@@ -72,12 +80,4 @@
 - [Highly adaptable deep-learning platform for automated detection and analysis of vesicle exocytosis](https://www.nature.com/articles/s41467-025-61579-3) / 07月12日 08:00
 - [Stepwise self-knowledge distillation for skin lesion image classification](https://www.nature.com/articles/s41598-025-10717-4) / 07月12日 08:00
 - [Optimizing AI solutions for population health in primary care](https://www.nature.com/articles/s41746-025-01864-z) / 07月12日 08:00
-- [Non-invasive urinary proteomic biomarkers for prognostic assessment in sepsis](https://www.nature.com/articles/s41598-025-11022-w) / 07月12日 08:00
-- [Clinical and molecular characterizations of HNSCC patients with occult lymph node metastasis](https://www.nature.com/articles/s41598-025-10320-7) / 07月12日 08:00
-- [Identification of hub six interferon alpha response genes and immune cell infiltration characteristics in low-grade glioma](https://www.nature.com/articles/s41598-025-09646-z) / 07月12日 08:00
-- [Integrated bioinformatics identifies ferroptosis biomarkers and therapeutic targets in idiopathic pulmonary arterial hypertension](https://www.nature.com/articles/s41598-025-11066-y) / 07月12日 08:00
-- [Identification of diagnostic biomarkers and dissecting immune microenvironment with crosstalk genes in the POAG and COVID-19 nexus](https://www.nature.com/articles/s41598-025-10656-0) / 07月12日 08:00
-- [Efficient dispersion of aggregated extracellular vesicles: a comparative study of water-bath sonication and regular pipetting](https://www.nature.com/articles/s41598-025-10050-w) / 07月12日 08:00
-- [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
-- [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
 <!--rss-papers:end-->
