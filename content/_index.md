@@ -46,7 +46,9 @@
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 07月13日 08:00
 - [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 07月13日 08:00
+- [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 07月13日 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 07月13日 08:00
+- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
 - [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
 - [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
@@ -76,6 +78,4 @@
 - [C. elegans sperm and oocytes differentially transmit diet-induced adaptations to their progeny](https://www.nature.com/articles/s41467-025-61750-w) / 07月12日 08:00
 - [Global changes in synthesis rates and mRNA stabilities during adaptive responses to cell wall stress in yeast](https://www.nature.com/articles/s41598-025-08815-4) / 07月12日 08:00
 - [Ketone drink enhances therapeutic efficacy in prostate cancer by targeting EZH2](https://www.nature.com/articles/s41389-025-00567-0) / 07月12日 08:00
-- [The functional of cathepsin L in the ontogenesis and reproductive regulation of the Asian corn borer, Ostrinia furnacalis](https://www.nature.com/articles/s41598-025-11318-x) / 07月12日 08:00
-- [Morphology and phylogeny reveal two new species and a new geographical record of Agaricus sect. Rubricosi (Agaricales) from West Bengal, India](https://www.nature.com/articles/s41598-025-08102-2) / 07月12日 08:00
 <!--rss-papers:end-->
