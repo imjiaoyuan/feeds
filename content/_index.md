@@ -43,9 +43,15 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 08:00
 - [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 08:00
 - [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 08:00
 - [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 08:00
+- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 08:00
+- [Publisher Correction: Targeting GRPR for sex hormone-dependent cancer after loss of E-cadherin](https://www.nature.com/articles/s41586-025-09353-9) / 08:00
+- [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 08:00
+- [Metagenomic and Transcriptomic Datasets of Plateau Brown Frogs (Rana kukunoris) from the Helan Mountains](https://www.nature.com/articles/s41597-025-05585-6) / 08:00
+- [Molecular characterization of multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli isolated from Sonali chicken meat in Bangladesh](https://www.nature.com/articles/s41598-025-96073-9) / 08:00
 
 **历史记录**
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
@@ -74,10 +80,4 @@
 - [Multidimensional reference regions is a new tool to optimize the personalized care of patients](https://www.nature.com/articles/s41598-025-10173-0) / 07月12日 08:00
 - [Neural network based AI model for lung health assessment](https://www.nature.com/articles/s41598-025-09524-8) / 07月12日 08:00
 - [Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment in AFP-negative hepatocellular carcinoma](https://www.nature.com/articles/s41467-025-61448-z) / 07月12日 08:00
-- [Numerical study on the effect of microgravity on biomechanics in human lumbar intervertebral discs](https://www.nature.com/articles/s41526-025-00483-y) / 07月12日 08:00
-- [Accurate and real-time brain tumour detection and classification using optimized YOLOv5 architecture](https://www.nature.com/articles/s41598-025-07773-1) / 07月12日 08:00
-- [Near-complete reference genome assembly of Hoya carnosa](https://www.nature.com/articles/s41597-025-05587-4) / 07月12日 08:00
-- [A Cross-Species Brain Magnetic Resonance Imaging and Histology Database of Vertebrates](https://www.nature.com/articles/s41597-025-05540-5) / 07月12日 08:00
-- [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
-- [Human-mediated introgression and Varroa destructor shaped the genetic structure of honey bee populations in the Azores](https://www.nature.com/articles/s41598-025-08950-y) / 07月12日 08:00
 <!--rss-papers:end-->
