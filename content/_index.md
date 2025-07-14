@@ -57,6 +57,7 @@
 - [Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis](https://www.biorxiv.org/content/10.1101/2025.07.09.663894v1?rss=1) / 07月14日 08:00
 - [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
+- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
 - [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
 - [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
 - [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
@@ -75,5 +76,4 @@
 - [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
 - [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
 - [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
-- [High Throughput Information Extraction of Printed Specimen Labels from Large-Scale Digitization of Entomological Collections using a Semi-Automated Pipeline](https://www.biorxiv.org/content/10.1101/2025.07.09.663724v1?rss=1) / 07月12日 08:00
 <!--rss-papers:end-->
