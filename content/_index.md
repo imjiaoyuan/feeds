@@ -72,8 +72,8 @@
 - [Circadian clock dysfunction in Parkinson’s disease: mechanisms, consequences, and therapeutic strategy](https://www.nature.com/articles/s41531-025-01009-9) / 07月14日 08:00
 - [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 07月14日 08:00
 - [Insights into TtCIPK gene family and its roles in durum wheat in response to PEG and ABA treatments](https://www.nature.com/articles/s41598-025-11099-3) / 07月14日 08:00
+- [Integrating AI and CRISPR Cas13a for rapid detection of tomato brown rugose fruit virus](https://www.nature.com/articles/s41598-025-11405-z) / 07月14日 08:00
 - [Hippo pathway and NLRP3-driven NETosis in macrophages: Mechanisms of viral pneumoniaaggravation](https://www.nature.com/articles/s41420-025-02556-z) / 07月14日 08:00
 - [Phase separated condensates of ATRX regulate neural progenitor identity](https://www.nature.com/articles/s41467-025-61881-0) / 07月14日 08:00
 - [Degrons: defining the rules of protein degradation](https://www.nature.com/articles/s41580-025-00870-z) / 07月14日 08:00
-- [Metagenomic and Transcriptomic Datasets of Plateau Brown Frogs (Rana kukunoris) from the Helan Mountains](https://www.nature.com/articles/s41597-025-05585-6) / 07月14日 08:00
 <!--rss-papers:end-->
