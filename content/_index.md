@@ -58,22 +58,22 @@
 - [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
 - [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
-- [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
-- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
-- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
-- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
-- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
-- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
 - [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
 - [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 07月14日 08:00
 - [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 07月14日 08:00
+- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 07月14日 08:00
+- [Publisher Correction: Targeting GRPR for sex hormone-dependent cancer after loss of E-cadherin](https://www.nature.com/articles/s41586-025-09353-9) / 07月14日 08:00
+- [Circadian clock dysfunction in Parkinson’s disease: mechanisms, consequences, and therapeutic strategy](https://www.nature.com/articles/s41531-025-01009-9) / 07月14日 08:00
+- [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 07月14日 08:00
+- [Insights into TtCIPK gene family and its roles in durum wheat in response to PEG and ABA treatments](https://www.nature.com/articles/s41598-025-11099-3) / 07月14日 08:00
+- [Hippo pathway and NLRP3-driven NETosis in macrophages: Mechanisms of viral pneumoniaaggravation](https://www.nature.com/articles/s41420-025-02556-z) / 07月14日 08:00
+- [Phase separated condensates of ATRX regulate neural progenitor identity](https://www.nature.com/articles/s41467-025-61881-0) / 07月14日 08:00
+- [Degrons: defining the rules of protein degradation](https://www.nature.com/articles/s41580-025-00870-z) / 07月14日 08:00
+- [Metagenomic and Transcriptomic Datasets of Plateau Brown Frogs (Rana kukunoris) from the Helan Mountains](https://www.nature.com/articles/s41597-025-05585-6) / 07月14日 08:00
+- [Molecular characterization of multidrug-resistant and extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli isolated from Sonali chicken meat in Bangladesh](https://www.nature.com/articles/s41598-025-96073-9) / 07月14日 08:00
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 07月13日 08:00
 - [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 07月13日 08:00
 - [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 07月13日 08:00
 - [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 07月13日 08:00
-- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
-- [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
-- [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
-- [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
 <!--rss-papers:end-->
