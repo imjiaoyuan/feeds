@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [讨薪未果，他绑架了包工头](https://xingbianren.cn/post/312.html) / 17:56
 - [从迷因到政治符号](https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/) / 11:00
 - [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 00:19
 
@@ -37,11 +38,14 @@
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
-- [活人感](https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/) / 07月02日 11:03
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 08:00
+- [Single-cell and spatial transcriptomics map senescent vascular cells in arterial remodeling during atherosclerosis in mice](https://www.nature.com/articles/s43587-025-00889-z) / 08:00
+
 **历史记录**
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 - [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 07月13日 08:00
@@ -76,6 +80,4 @@
 - [Interplay between large low-recombining regions and pseudo-overdominance in a plant genome](https://www.nature.com/articles/s41467-025-61529-z) / 07月12日 08:00
 - [Human-mediated introgression and Varroa destructor shaped the genetic structure of honey bee populations in the Azores](https://www.nature.com/articles/s41598-025-08950-y) / 07月12日 08:00
 - [C. elegans sperm and oocytes differentially transmit diet-induced adaptations to their progeny](https://www.nature.com/articles/s41467-025-61750-w) / 07月12日 08:00
-- [Global changes in synthesis rates and mRNA stabilities during adaptive responses to cell wall stress in yeast](https://www.nature.com/articles/s41598-025-08815-4) / 07月12日 08:00
-- [Ketone drink enhances therapeutic efficacy in prostate cancer by targeting EZH2](https://www.nature.com/articles/s41389-025-00567-0) / 07月12日 08:00
 <!--rss-papers:end-->
