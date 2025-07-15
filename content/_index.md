@@ -67,17 +67,17 @@
 - [Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis](https://www.biorxiv.org/content/10.1101/2025.07.09.663894v1?rss=1) / 07月14日 08:00
 - [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
-- [AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming](https://www.nature.com/articles/s41598-025-10537-6) / 07月14日 08:00
+- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
 - [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
-- [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) / 07月14日 08:00
-- [Solving nonlinear and complex optimal control problems via multi-task artificial neural networks](https://www.nature.com/articles/s41598-025-10339-w) / 07月14日 08:00
-- [Will AI become our Co-PI?](https://www.nature.com/articles/s41746-025-01859-w) / 07月14日 08:00
-- [In vitro and in silico evaluation of phytocompounds from Leucaena leucocephala and Entada phaseoloides targeting DNA gyrase, topoisomerase II, AKT1](https://www.nature.com/articles/s41598-025-07792-y) / 07月14日 08:00
 - [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
 - [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
 - [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
-- [Library-based virtual match-between-runs quantification in GlyPep-Quant improves site-specific glycan identification](https://www.nature.com/articles/s41467-025-61673-6) / 07月14日 08:00
 - [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
-- [Phenotypic screening and genetic insights for predicting major vascular-related diseases using retinal imaging](https://www.nature.com/articles/s41746-025-01850-5) / 07月14日 08:00
-- [An iterative strategy to design 4-1BB agonist nanobodies de novo with generative AI models](https://www.nature.com/articles/s41598-025-10241-5) / 07月14日 08:00
+- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
+- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
+- [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 07月14日 08:00
+- [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 07月14日 08:00
+- [Author Correction: Tetrahydrobiopterin metabolism attenuates ROS generation and radiosensitivity through LDHA S-nitrosylation: novel insight into radiogenic lung injury](https://www.nature.com/articles/s12276-025-01484-3) / 07月14日 08:00
+- [Publisher Correction: Targeting GRPR for sex hormone-dependent cancer after loss of E-cadherin](https://www.nature.com/articles/s41586-025-09353-9) / 07月14日 08:00
+- [Circadian clock dysfunction in Parkinson’s disease: mechanisms, consequences, and therapeutic strategy](https://www.nature.com/articles/s41531-025-01009-9) / 07月14日 08:00
 <!--rss-papers:end-->
