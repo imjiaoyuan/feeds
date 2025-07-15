@@ -45,21 +45,30 @@
 - [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 07月15日 08:00
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 07月15日 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 07月15日 08:00
+- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 07月15日 08:00
 - [Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning](https://www.nature.com/articles/s41598-025-08945-9) / 07月15日 08:00
 - [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 07月15日 08:00
+- [Analysis of baseball behavior recognition model based on Dual-GCN improved by motion weights](https://www.nature.com/articles/s41598-025-10681-z) / 07月15日 08:00
 - [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 07月15日 08:00
 - [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 07月15日 08:00
 - [Prediction of pathogenic mutations in human transmembrane proteins and their associated diseases via utilizing pre-trained Bio-LLMs](https://www.nature.com/articles/s42003-025-08452-7) / 07月15日 08:00
 - [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 07月15日 08:00
+- [OR-FCOS: an enhanced fully convolutional one-stage approach for growth stage identification of Oudemansiella raphanipes](https://www.nature.com/articles/s41598-025-09303-5) / 07月15日 08:00
 - [A wavelet-guided transformer approach for autofocus in brightfield biological microscopy](https://www.nature.com/articles/s41598-025-11037-3) / 07月15日 08:00
+- [Low-quality papers based on public health data are flooding the scientific literature](https://www.nature.com/articles/d41586-025-02241-2) / 07月15日 08:00
+- [Mapping trait-associated cells with spatial transcriptomics](https://www.nature.com/articles/s41576-025-00877-4) / 07月15日 08:00
 - [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 07月15日 08:00
 - [Feasibility of large language models for assessing and coaching surgeons’ non-technical skills](https://www.nature.com/articles/s44401-025-00027-2) / 07月15日 08:00
 - [A diffusion model for universal medical image enhancement](https://www.nature.com/articles/s43856-025-00998-1) / 07月15日 08:00
 - [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 07月15日 08:00
 - [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 07月15日 08:00
+- [TNFAIP2 deficiency drives formation of an immunosuppressive tumor microenvironment and confers resistance to anti-PD-1 therapy in skin cutaneous melanoma](https://www.nature.com/articles/s41598-025-10952-9) / 07月15日 08:00
+- [Exploring the mechanism of metabolic cell death-related genes AKR1C2 and MAP1LC3A as biomarkers in Parkinson’s disease](https://www.nature.com/articles/s41598-025-11481-1) / 07月15日 08:00
 - [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 07月15日 08:00
 - [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 07月15日 08:00
 - [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 07月15日 08:00
+- [Disruption of the cerebrospinal fluid–plasma protein balance in cognitive impairment and aging](https://www.nature.com/articles/s41591-025-03831-3) / 07月15日 08:00
+- [Publication of data sharing statements in clinical trials by cardiovascular journals: a quantitative and qualitative analysis](https://www.nature.com/articles/s41597-025-05510-x) / 07月15日 08:00
 - [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 07月15日 08:00
 - [Overlooked sources of inspiration in biomimetic research](https://www.nature.com/articles/s41598-025-11703-6) / 07月15日 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 07月15日 08:00
@@ -67,13 +76,4 @@
 - [Savanna ecosystems and mammalian adaptations in Mid-Miocene Northern China](https://www.nature.com/articles/s41598-025-10718-3) / 07月15日 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 07月15日 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 07月15日 08:00
-- [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 07月15日 08:00
-- [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 07月15日 08:00
-- [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 07月15日 08:00
-- [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 07月15日 08:00
-- [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
-- [TATAT: a containerized software for generating annotated coding transcriptomes from raw RNA-seq data](https://www.biorxiv.org/content/10.1101/2025.07.09.663867v1?rss=1) / 07月14日 08:00
-- [SCOPE: Revealing Hidden Mechanisms in Phenotypic Screens Through Target and Pathway Enrichment](https://www.biorxiv.org/content/10.1101/2025.07.11.664427v1?rss=1) / 07月14日 08:00
-- [Learned Geometry, Predicted Binding: Structurally-BasedPrediction of Peptide:MHC Binding Using AlphaFold 3 EnablesCD4 T Cell Epitope Prediction](https://www.biorxiv.org/content/10.1101/2025.07.10.664203v1?rss=1) / 07月14日 08:00
-- [Souporcell3: Robust Demultiplexing for High-Donor Single-Cell RNA-seq Datasets](https://www.biorxiv.org/content/10.1101/2025.07.10.664218v1?rss=1) / 07月14日 08:00
 <!--rss-papers:end-->
