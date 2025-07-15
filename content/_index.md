@@ -41,6 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Dynamic of the transcriptomic landscape of OsHV-1 replication in haemocytes of Pacific oyster](https://www.biorxiv.org/content/10.1101/2025.07.11.664376v1?rss=1) / 07月15日 08:00
 - [Exploring Hypoxia-Related Genes as Prognostic Indicators in Lung Adenocarcinoma](https://www.biorxiv.org/content/10.1101/2025.07.10.664061v1?rss=1) / 07月15日 08:00
 - [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 07月15日 08:00
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 07月15日 08:00
@@ -75,5 +76,4 @@
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 07月15日 08:00
 - [Biochemical and molecular evaluation of resveratrol and selenium nanoparticles in managing type 2 diabetes and its complications](https://www.nature.com/articles/s41598-025-11156-x) / 07月15日 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 07月15日 08:00
-- [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 07月15日 08:00
 <!--rss-papers:end-->
