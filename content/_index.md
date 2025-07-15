@@ -43,22 +43,33 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 08:00
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 08:00
-- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 08:00
+- [Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning](https://www.nature.com/articles/s41598-025-08945-9) / 08:00
+- [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 08:00
+- [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 08:00
+- [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 08:00
+- [Prediction of pathogenic mutations in human transmembrane proteins and their associated diseases via utilizing pre-trained Bio-LLMs](https://www.nature.com/articles/s42003-025-08452-7) / 08:00
+- [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 08:00
+- [A wavelet-guided transformer approach for autofocus in brightfield biological microscopy](https://www.nature.com/articles/s41598-025-11037-3) / 08:00
+- [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 08:00
+- [Feasibility of large language models for assessing and coaching surgeons’ non-technical skills](https://www.nature.com/articles/s44401-025-00027-2) / 08:00
+- [A diffusion model for universal medical image enhancement](https://www.nature.com/articles/s43856-025-00998-1) / 08:00
+- [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 08:00
+- [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 08:00
+- [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 08:00
+- [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 08:00
+- [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 08:00
+- [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
-- [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
-- [Expression regulation network in papillae of sea cucumbers: Whole-transcriptome and DNA methylation datasets](https://www.nature.com/articles/s41597-025-05407-9) / 08:00
-- [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 08:00
-- [CircRNA ZFR promotes cell progression by regulating miR-96a-5p/SLC1A1 axis in hepatocellular carcinoma](https://www.nature.com/articles/s41598-025-07974-8) / 08:00
 - [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
 - [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 08:00
-- [Retained introns in phototransduction genes of 5xFAD mouse retina suggest vision impairment as an early diagnostic marker for Alzheimer’s disease](https://www.nature.com/articles/s41598-025-11065-z) / 08:00
 
 **历史记录**
 - [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
@@ -69,15 +80,4 @@
 - [AlphaFlex: Accuracy modeling of protein multiple conformations via predicted flexible residues](https://www.biorxiv.org/content/10.1101/2025.07.11.664327v1?rss=1) / 07月14日 08:00
 - [EZpred: improving deep learning-based enzyme function prediction using unlabeled sequence homologs](https://www.biorxiv.org/content/10.1101/2025.07.09.663945v1?rss=1) / 07月14日 08:00
 - [Bridging Molecular Simulations and Experimental Observables: Predicting FRET Signals and Conformational Transitions Using MD and Deep Learning in Cas9](https://www.biorxiv.org/content/10.1101/2025.07.10.664034v1?rss=1) / 07月14日 08:00
-- [A Hierarchical Robust Linear Model for Cryo-EM Map Analysis](https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1?rss=1) / 07月14日 08:00
-- [Protein Abundance Inference via Expectation Maximization in Fluorosequencing](https://www.biorxiv.org/content/10.1101/2025.07.10.664057v1?rss=1) / 07月14日 08:00
-- [Assessing large-scale genomic language models in predicting personal gene expression: promises and limitations](https://www.biorxiv.org/content/10.1101/2025.07.09.664024v1?rss=1) / 07月14日 08:00
-- [Efficiency of Learned Indexes on Genome Spectra](https://www.biorxiv.org/content/10.1101/2025.07.10.664199v1?rss=1) / 07月14日 08:00
-- [MetaSage: Machine Learning-Based Prioritization of Metabolic Regulators from Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.07.09.663994v1?rss=1) / 07月14日 08:00
-- [Systematic cross-study assessment of RNA-Seq experimental workflows for plasma cell-free transcriptome profiling](https://www.biorxiv.org/content/10.1101/2025.07.10.664092v1?rss=1) / 07月14日 08:00
-- [Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis](https://www.biorxiv.org/content/10.1101/2025.07.09.663894v1?rss=1) / 07月14日 08:00
-- [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
-- [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
-- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
-- [AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming](https://www.nature.com/articles/s41598-025-10537-6) / 07月14日 08:00
 <!--rss-papers:end-->
