@@ -43,6 +43,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
+- [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 08:00
+- [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 08:00
+- [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 08:00
+- [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 08:00
+- [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 08:00
+- [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
 - [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
@@ -74,10 +80,4 @@
 - [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
 - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) / 07月14日 08:00
 - [Solving nonlinear and complex optimal control problems via multi-task artificial neural networks](https://www.nature.com/articles/s41598-025-10339-w) / 07月14日 08:00
-- [Will AI become our Co-PI?](https://www.nature.com/articles/s41746-025-01859-w) / 07月14日 08:00
-- [In vitro and in silico evaluation of phytocompounds from Leucaena leucocephala and Entada phaseoloides targeting DNA gyrase, topoisomerase II, AKT1](https://www.nature.com/articles/s41598-025-07792-y) / 07月14日 08:00
-- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
-- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
-- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
-- [Library-based virtual match-between-runs quantification in GlyPep-Quant improves site-specific glycan identification](https://www.nature.com/articles/s41467-025-61673-6) / 07月14日 08:00
 <!--rss-papers:end-->
