@@ -1,5 +1,9 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/) / 11:44
+- [算和不算](https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/) / 11:00
+
 **历史记录**
 - [梦](https://anotherdayu.com/2025/7077/) / 07月14日 23:44
 - [讨薪未果，他绑架了包工头](https://xingbianren.cn/post/312.html) / 07月14日 17:56
@@ -34,13 +38,12 @@
 - [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
 - [车祸 IV](https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/) / 07月03日 22:26
 - [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) / 07月03日 13:13
-- [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
-- [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
 - [TATAT: a containerized software for generating annotated coding transcriptomes from raw RNA-seq data](https://www.biorxiv.org/content/10.1101/2025.07.09.663867v1?rss=1) / 07月14日 08:00
 - [SCOPE: Revealing Hidden Mechanisms in Phenotypic Screens Through Target and Pathway Enrichment](https://www.biorxiv.org/content/10.1101/2025.07.11.664427v1?rss=1) / 07月14日 08:00
 - [Learned Geometry, Predicted Binding: Structurally-BasedPrediction of Peptide:MHC Binding Using AlphaFold 3 EnablesCD4 T Cell Epitope Prediction](https://www.biorxiv.org/content/10.1101/2025.07.10.664203v1?rss=1) / 07月14日 08:00
@@ -57,23 +60,22 @@
 - [Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis](https://www.biorxiv.org/content/10.1101/2025.07.09.663894v1?rss=1) / 07月14日 08:00
 - [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
-- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
+- [AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming](https://www.nature.com/articles/s41598-025-10537-6) / 07月14日 08:00
 - [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
+- [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) / 07月14日 08:00
+- [Solving nonlinear and complex optimal control problems via multi-task artificial neural networks](https://www.nature.com/articles/s41598-025-10339-w) / 07月14日 08:00
+- [Will AI become our Co-PI?](https://www.nature.com/articles/s41746-025-01859-w) / 07月14日 08:00
+- [In vitro and in silico evaluation of phytocompounds from Leucaena leucocephala and Entada phaseoloides targeting DNA gyrase, topoisomerase II, AKT1](https://www.nature.com/articles/s41598-025-07792-y) / 07月14日 08:00
 - [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
 - [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
 - [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
+- [Library-based virtual match-between-runs quantification in GlyPep-Quant improves site-specific glycan identification](https://www.nature.com/articles/s41467-025-61673-6) / 07月14日 08:00
 - [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
+- [Phenotypic screening and genetic insights for predicting major vascular-related diseases using retinal imaging](https://www.nature.com/articles/s41746-025-01850-5) / 07月14日 08:00
+- [An iterative strategy to design 4-1BB agonist nanobodies de novo with generative AI models](https://www.nature.com/articles/s41598-025-10241-5) / 07月14日 08:00
 - [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
 - [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
 - [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 07月14日 08:00
 - [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 07月14日 08:00
 - [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
-- [Early breast cancer detection via infrared thermography using a CNN enhanced with particle swarm optimization](https://www.nature.com/articles/s41598-025-11218-0) / 07月13日 08:00
-- [Diagnosing pathologic myopia by identifying morphologic patterns using ultra widefield images with deep learning](https://www.nature.com/articles/s41746-025-01849-y) / 07月13日 08:00
-- [Effects of naphthalene, an aromatic hydrocarbon on the molecular and anatomical characteristics of the Portulaca oleracea plant](https://www.nature.com/articles/s41598-025-09879-y) / 07月13日 08:00
-- [hMTR4 promotes p53 protein degradation and tumor growth by accelerating rRNA processing and regulating the RPL5-MDM2 axis](https://www.nature.com/articles/s41418-025-01541-4) / 07月13日 08:00
-- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
-- [Closing the loop: Teaching single-cell foundation models to learn from perturbations](https://www.biorxiv.org/content/10.1101/2025.07.08.663754v1?rss=1) / 07月12日 08:00
-- [easyClock: A User-Friendly Desktop Application for Circadian Rhythm Analysis and Visualization](https://www.biorxiv.org/content/10.1101/2025.07.08.663749v1?rss=1) / 07月12日 08:00
-- [Microenvironmental information significantly improves the recognition of cell types in human lung cancer patients](https://www.biorxiv.org/content/10.1101/2025.07.09.663829v1?rss=1) / 07月12日 08:00
 <!--rss-papers:end-->
