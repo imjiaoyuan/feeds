@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [＃4 - 和 RSS3 道别的这一周 👋](https://polebug.github.io/2025/07/15/plog_4_say_goodbye_to_rss3/) / 21:11
 - [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/) / 11:44
 - [算和不算](https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/) / 11:00
 
@@ -37,7 +38,6 @@
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
 - [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
 - [车祸 IV](https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/) / 07月03日 22:26
-- [FOSS Weekly #25.27: System Info, Retro Tools, Fedora 32-bit Update, Torvalds vs Bcachefs and More Linux Stuff](https://itsfoss.com/newsletter/foss-weekly-25-27/) / 07月03日 13:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
