@@ -42,6 +42,13 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
+- [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
+- [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
+- [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
+- [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 08:00
+
 **历史记录**
 - [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
 - [TATAT: a containerized software for generating annotated coding transcriptomes from raw RNA-seq data](https://www.biorxiv.org/content/10.1101/2025.07.09.663867v1?rss=1) / 07月14日 08:00
@@ -73,9 +80,4 @@
 - [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
 - [Phenotypic screening and genetic insights for predicting major vascular-related diseases using retinal imaging](https://www.nature.com/articles/s41746-025-01850-5) / 07月14日 08:00
 - [An iterative strategy to design 4-1BB agonist nanobodies de novo with generative AI models](https://www.nature.com/articles/s41598-025-10241-5) / 07月14日 08:00
-- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
-- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
-- [Author Correction: In situ structure of a bacterial flagellar motor at subnanometre resolution reveals adaptations for increased torque](https://www.nature.com/articles/s41564-025-02082-9) / 07月14日 08:00
-- [The role of plasmid copy number and mutation rate in evolutionary outcomes](https://www.nature.com/articles/s41559-025-02792-7) / 07月14日 08:00
-- [A comprehensive analysis of transcription factors identified TCF3 as a prognostic target for glioma](https://www.nature.com/articles/s41598-025-09924-w) / 07月13日 08:00
 <!--rss-papers:end-->
