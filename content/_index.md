@@ -45,7 +45,6 @@
 **今日更新**
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 08:00
-- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 08:00
 - [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 08:00
 - [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 08:00
 - [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 08:00
@@ -58,6 +57,7 @@
 - [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 08:00
+- [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
 - [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
 - [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 08:00
