@@ -45,6 +45,7 @@
 **今日更新**
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
+- [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
 - [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
@@ -79,5 +80,4 @@
 - [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
 - [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
 - [Library-based virtual match-between-runs quantification in GlyPep-Quant improves site-specific glycan identification](https://www.nature.com/articles/s41467-025-61673-6) / 07月14日 08:00
-- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
 <!--rss-papers:end-->
