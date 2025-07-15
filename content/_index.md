@@ -10,7 +10,7 @@
 - [从迷因到政治符号](https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/) / 07月14日 11:00
 - [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 07月14日 00:19
 - [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 07月13日 18:12
-- [深度未来（ Deep Future ）给我的启发](https://blog.codingnow.com/2025/07/deep_future.html) / 07月13日 12:50
+- [极度未来（ Deep Future ）给我的启发](https://blog.codingnow.com/2025/07/deep_future.html) / 07月13日 12:50
 - [律师行业前路何在？不包赢肯定是不行](https://xingbianren.cn/post/310.html) / 07月12日 22:25
 - [夏日南京游AI乐章](https://innei.in/notes/195) / 07月12日 12:53
 - [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 07月12日 11:00
@@ -45,22 +45,10 @@
 **今日更新**
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 08:00
-- [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 08:00
-- [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 08:00
-- [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 08:00
-- [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 08:00
-- [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 08:00
-- [Feasibility of large language models for assessing and coaching surgeons’ non-technical skills](https://www.nature.com/articles/s44401-025-00027-2) / 08:00
-- [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 08:00
-- [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 08:00
-- [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 08:00
-- [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
-- [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
-- [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 08:00
 - [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
@@ -80,4 +68,16 @@
 - [Assessing large-scale genomic language models in predicting personal gene expression: promises and limitations](https://www.biorxiv.org/content/10.1101/2025.07.09.664024v1?rss=1) / 07月14日 08:00
 - [Efficiency of Learned Indexes on Genome Spectra](https://www.biorxiv.org/content/10.1101/2025.07.10.664199v1?rss=1) / 07月14日 08:00
 - [MetaSage: Machine Learning-Based Prioritization of Metabolic Regulators from Multi-Omics Data](https://www.biorxiv.org/content/10.1101/2025.07.09.663994v1?rss=1) / 07月14日 08:00
+- [Systematic cross-study assessment of RNA-Seq experimental workflows for plasma cell-free transcriptome profiling](https://www.biorxiv.org/content/10.1101/2025.07.10.664092v1?rss=1) / 07月14日 08:00
+- [Orthogonal chemical genomics approaches reveal genomic targets for increasing anaerobic chemical tolerance in Zymomonas mobilis](https://www.biorxiv.org/content/10.1101/2025.07.09.663894v1?rss=1) / 07月14日 08:00
+- [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
+- [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
+- [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
+- [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
+- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
+- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
+- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
+- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
+- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
+- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
 <!--rss-papers:end-->
