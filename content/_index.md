@@ -45,14 +45,20 @@
 **今日更新**
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 08:00
+- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 08:00
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 08:00
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
+- [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
+- [Expression regulation network in papillae of sea cucumbers: Whole-transcriptome and DNA methylation datasets](https://www.nature.com/articles/s41597-025-05407-9) / 08:00
+- [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 08:00
+- [CircRNA ZFR promotes cell progression by regulating miR-96a-5p/SLC1A1 axis in hepatocellular carcinoma](https://www.nature.com/articles/s41598-025-07974-8) / 08:00
 - [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
 - [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 08:00
+- [Retained introns in phototransduction genes of 5xFAD mouse retina suggest vision impairment as an early diagnostic marker for Alzheimer’s disease](https://www.nature.com/articles/s41598-025-11065-z) / 08:00
 
 **历史记录**
 - [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
@@ -73,11 +79,5 @@
 - [Telomere-to-telomere assemblies reveal complex adaptive variation of 3-ketoacyl-CoA-synthases in Populus trichocarpa likely driven by helitrons](https://www.biorxiv.org/content/10.1101/2025.07.10.664019v1?rss=1) / 07月14日 08:00
 - [Chromosome-level genome assembly of starry flounder (Platichthys stellatus)](https://www.nature.com/articles/s41597-025-05525-4) / 07月14日 08:00
 - [Tracking Plasmodium falciparum antimalarial resistance markers during a malaria pre-elimination period in the Pacific coast of South America](https://www.nature.com/articles/s41598-025-10500-5) / 07月14日 08:00
-- [A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization](https://www.nature.com/articles/s41551-025-01456-y) / 07月14日 08:00
-- [Atlas of amnion development during the first trimester of human pregnancy](https://www.nature.com/articles/s41556-025-01696-9) / 07月14日 08:00
-- [Reshaping transplantation with AI, emerging technologies and xenotransplantation](https://www.nature.com/articles/s41591-025-03801-9) / 07月14日 08:00
-- [Scaffold-hopping for molecular glues targeting the 14-3-3/ERα complex](https://www.nature.com/articles/s41467-025-61176-4) / 07月14日 08:00
-- [Pulsed electric field ablation process-the effect of bifurcation stents on electric field and heat distribution](https://www.nature.com/articles/s41598-025-10606-w) / 07月14日 08:00
-- [MethAgingDB: a comprehensive DNA methylation database for aging biology](https://www.nature.com/articles/s41597-025-05538-z) / 07月14日 08:00
-- [Gene regulatory networks and essential transcription factors for de novo-originated genes](https://www.nature.com/articles/s41559-025-02747-y) / 07月14日 08:00
+- [AI-driven smart agriculture using hybrid transformer-CNN for real time disease detection in sustainable farming](https://www.nature.com/articles/s41598-025-10537-6) / 07月14日 08:00
 <!--rss-papers:end-->
