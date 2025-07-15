@@ -64,6 +64,8 @@
 - [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 07月15日 08:00
 - [TNFAIP2 deficiency drives formation of an immunosuppressive tumor microenvironment and confers resistance to anti-PD-1 therapy in skin cutaneous melanoma](https://www.nature.com/articles/s41598-025-10952-9) / 07月15日 08:00
 - [Exploring the mechanism of metabolic cell death-related genes AKR1C2 and MAP1LC3A as biomarkers in Parkinson’s disease](https://www.nature.com/articles/s41598-025-11481-1) / 07月15日 08:00
+- [Exploring the health benefits of gut microbiota metabolites on combating ulcerative colitis via network pharmacology, bioinformatics and molecular docking](https://www.nature.com/articles/s41598-025-10851-z) / 07月15日 08:00
+- [Linear and non-linear proteome-wide association studies provide novel insight into venous thromboembolism](https://www.nature.com/articles/s41467-025-61874-z) / 07月15日 08:00
 - [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 07月15日 08:00
 - [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 07月15日 08:00
 - [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 07月15日 08:00
@@ -74,6 +76,4 @@
 - [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 07月15日 08:00
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 07月15日 08:00
 - [Savanna ecosystems and mammalian adaptations in Mid-Miocene Northern China](https://www.nature.com/articles/s41598-025-10718-3) / 07月15日 08:00
-- [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 07月15日 08:00
-- [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 07月15日 08:00
 <!--rss-papers:end-->
