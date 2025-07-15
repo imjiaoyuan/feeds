@@ -46,6 +46,7 @@
 - [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 08:00
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 08:00
+- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 08:00
 - [Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning](https://www.nature.com/articles/s41598-025-08945-9) / 08:00
 - [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 08:00
 - [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 08:00
@@ -66,18 +67,17 @@
 - [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 08:00
+- [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 08:00
+- [Expression regulation network in papillae of sea cucumbers: Whole-transcriptome and DNA methylation datasets](https://www.nature.com/articles/s41597-025-05407-9) / 08:00
+- [Ovarian epigenetics modifications following lifestyle interventions by exercise and alternate-day feeding in letrozole-induced PCOS rats](https://www.nature.com/articles/s41598-025-09264-9) / 08:00
+- [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 08:00
+- [CircRNA ZFR promotes cell progression by regulating miR-96a-5p/SLC1A1 axis in hepatocellular carcinoma](https://www.nature.com/articles/s41598-025-07974-8) / 08:00
 - [Astragaloside IV increases PDHA1 in mesenchymal stem cell exosomes to treat myocardial infarction](https://www.nature.com/articles/s41598-025-08628-5) / 08:00
 - [Acrylamide coadministration modulates hepatic ROS-mediated apoptotic DNA damage and inflammation induced by TiO2 nanoparticles in mice](https://www.nature.com/articles/s41598-025-10915-0) / 08:00
 - [The induced-fit and catalytic mechanisms of human G6PC1](https://www.nature.com/articles/s41421-025-00814-z) / 08:00
 - [Upregulation of long non-coding RNA SNHG11 promotes apoptosis and its molecular mechanisms in human osteosarcoma U2OS cells](https://www.nature.com/articles/s41598-025-10470-8) / 08:00
+- [Retained introns in phototransduction genes of 5xFAD mouse retina suggest vision impairment as an early diagnostic marker for Alzheimer’s disease](https://www.nature.com/articles/s41598-025-11065-z) / 08:00
 
 **历史记录**
 - [Influential landmarks](https://www.biorxiv.org/content/10.1101/2025.07.14.664645v1?rss=1) / 07月14日 08:00
-- [TATAT: a containerized software for generating annotated coding transcriptomes from raw RNA-seq data](https://www.biorxiv.org/content/10.1101/2025.07.09.663867v1?rss=1) / 07月14日 08:00
-- [SCOPE: Revealing Hidden Mechanisms in Phenotypic Screens Through Target and Pathway Enrichment](https://www.biorxiv.org/content/10.1101/2025.07.11.664427v1?rss=1) / 07月14日 08:00
-- [Learned Geometry, Predicted Binding: Structurally-BasedPrediction of Peptide:MHC Binding Using AlphaFold 3 EnablesCD4 T Cell Epitope Prediction](https://www.biorxiv.org/content/10.1101/2025.07.10.664203v1?rss=1) / 07月14日 08:00
-- [Souporcell3: Robust Demultiplexing for High-Donor Single-Cell RNA-seq Datasets](https://www.biorxiv.org/content/10.1101/2025.07.10.664218v1?rss=1) / 07月14日 08:00
-- [AlphaFlex: Accuracy modeling of protein multiple conformations via predicted flexible residues](https://www.biorxiv.org/content/10.1101/2025.07.11.664327v1?rss=1) / 07月14日 08:00
-- [EZpred: improving deep learning-based enzyme function prediction using unlabeled sequence homologs](https://www.biorxiv.org/content/10.1101/2025.07.09.663945v1?rss=1) / 07月14日 08:00
-- [Bridging Molecular Simulations and Experimental Observables: Predicting FRET Signals and Conformational Transitions Using MD and Deep Learning in Cas9](https://www.biorxiv.org/content/10.1101/2025.07.10.664034v1?rss=1) / 07月14日 08:00
 <!--rss-papers:end-->
