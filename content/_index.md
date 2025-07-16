@@ -41,19 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 08:00
-- [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 08:00
-- [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 08:00
-- [Highly stable bacteriophages PIN1 and PIN2 have hallmarks of flagellotropic phages but infect immotile bacteria](https://www.nature.com/articles/s44298-025-00139-4) / 08:00
-- [Characterization of natural therapeutic compounds producing novel bacterial strains isolated from Hyderabad, India](https://www.nature.com/articles/s41598-025-11615-5) / 08:00
-- [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
-- [Design, synthesis and evaluation of benzodioxole and bromofuran tethered 1,2,4-triazole hybrids as potential anti breast cancer agents with computational insights](https://www.nature.com/articles/s41598-025-09420-1) / 08:00
-- [Breaking barriers in ICD classification with a robust graph neural network for hierarchical coding](https://www.nature.com/articles/s41598-025-10590-1) / 08:00
-- [System biology-based assessment of the molecular mechanism of epigallocatechin gallate in Parkinson’s disease: via network pharmacology, in-silico evaluation & in-vitro studies](https://www.nature.com/articles/s41598-025-11592-9) / 08:00
-- [An enhanced seasons optimization algorithm for numerical optimization and engineering design](https://www.nature.com/articles/s41598-025-11626-2) / 08:00
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
 - [An enhanced seasons optimization algorithm for numerical optimization and engineering design](https://www.nature.com/articles/s41598-025-11626-2) / 08:00
 - [Subversion of mRNA degradation pathways by EWSR1::FLI1 represents a therapeutic vulnerability in Ewing sarcoma](https://www.nature.com/articles/s41467-025-61725-x) / 08:00
+- [Bisphenol-A disrupts mitochondrial functionality leading to senescence and apoptosis in human amniotic mesenchymal stromal cells](https://www.nature.com/articles/s41420-025-02620-8) / 08:00
 
 **历史记录**
 - [Benchmarking methods for genome annotation using Nanopore direct RNA in a non-model crop plant](https://www.biorxiv.org/content/10.1101/2025.07.14.664836v1?rss=1) / 07月15日 08:00
@@ -71,11 +62,20 @@
 - [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 07月15日 08:00
 - [Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning](https://www.nature.com/articles/s41598-025-08945-9) / 07月15日 08:00
 - [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 07月15日 08:00
-- [Analysis of baseball behavior recognition model based on Dual-GCN improved by motion weights](https://www.nature.com/articles/s41598-025-10681-z) / 07月15日 08:00
 - [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 07月15日 08:00
 - [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 07月15日 08:00
 - [Prediction of pathogenic mutations in human transmembrane proteins and their associated diseases via utilizing pre-trained Bio-LLMs](https://www.nature.com/articles/s42003-025-08452-7) / 07月15日 08:00
-- [Lightweight detection and segmentation of crayfish parts using an improved YOLOv11n segmentation model](https://www.nature.com/articles/s41598-025-11201-9) / 07月15日 08:00
 - [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 07月15日 08:00
-- [High-resolution mapping of single cells in spatial context](https://www.nature.com/articles/s41467-025-61667-4) / 07月15日 08:00
+- [A wavelet-guided transformer approach for autofocus in brightfield biological microscopy](https://www.nature.com/articles/s41598-025-11037-3) / 07月15日 08:00
+- [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 07月15日 08:00
+- [Feasibility of large language models for assessing and coaching surgeons’ non-technical skills](https://www.nature.com/articles/s44401-025-00027-2) / 07月15日 08:00
+- [A diffusion model for universal medical image enhancement](https://www.nature.com/articles/s43856-025-00998-1) / 07月15日 08:00
+- [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 07月15日 08:00
+- [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 07月15日 08:00
+- [TNFAIP2 deficiency drives formation of an immunosuppressive tumor microenvironment and confers resistance to anti-PD-1 therapy in skin cutaneous melanoma](https://www.nature.com/articles/s41598-025-10952-9) / 07月15日 08:00
+- [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 07月15日 08:00
+- [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 07月15日 08:00
+- [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 07月15日 08:00
+- [Disruption of the cerebrospinal fluid–plasma protein balance in cognitive impairment and aging](https://www.nature.com/articles/s41591-025-03831-3) / 07月15日 08:00
+- [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 07月15日 08:00
 <!--rss-papers:end-->
