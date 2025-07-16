@@ -1,43 +1,41 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [文艺片共犯](https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/) / 11:00
-
 **历史记录**
 - [＃4 - 和 RSS3 道别的这一周 👋](https://polebug.github.io/2025/07/15/plog_4_say_goodbye_to_rss3/) / 07月15日 21:11
-- [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/) / 07月15日 11:44
-- [算和不算](https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/) / 07月15日 11:00
 - [How to create a GenomicRanges object in Bioconductor using canonical transcripts](https://divingintogeneticsandgenomics.com/post/canonical-tx/) / 07月15日 08:00
 - [梦](https://anotherdayu.com/2025/7077/) / 07月14日 23:44
-- [讨薪未果，他绑架了包工头](https://xingbianren.cn/post/312.html) / 07月14日 17:56
-- [从迷因到政治符号](https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/) / 07月14日 11:00
-- [大连工业开除陪睡老外女学生：人总是你学校的吧，能说跟你没关系？](https://xingbianren.cn/post/311.html) / 07月14日 00:19
 - [读《毛泽东传》对个人的启发](https://hutusi.com/articles/maozedong) / 07月13日 18:12
-- [极度未来（ Deep Future ）给我的启发](https://blog.codingnow.com/2025/07/deep_future.html) / 07月13日 12:50
-- [律师行业前路何在？不包赢肯定是不行](https://xingbianren.cn/post/310.html) / 07月12日 22:25
 - [夏日南京游AI乐章](https://innei.in/notes/195) / 07月12日 12:53
-- [外围上门要不要在酒店前台登记？](https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/) / 07月12日 11:00
 - [初探 Context Engineering](https://innei.in/posts/programming/exploring-context-engineering) / 07月12日 01:34
 - [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html) / 07月11日 08:00
-- [FOSS Weekly #25.28: Xfce Customization, CoMaps, Disk Space Clean-up, Deprecated Commands and More](https://itsfoss.com/newsletter/foss-weekly-25-28/) / 07月10日 12:58
-- [忌日四周年](https://onojyun.com/2025/07/10/%e5%bf%8c%e6%97%a5%e5%9b%9b%e5%91%a8%e5%b9%b4/) / 07月10日 11:00
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 07月09日 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 07月09日 17:09
-- [与其检讨自己，不如责备他人](https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/) / 07月09日 11:00
 - [迎风而立](https://www.wordpace.com/standing-tall-against-the-wind/) / 07月08日 21:53
-- [失业率](https://onojyun.com/2025/07/08/%e5%a4%b1%e4%b8%9a%e7%8e%87/) / 07月08日 11:00
 - [AI 需要有自己的人生](https://1q43.blog/post/11687/) / 07月08日 10:48
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 07月08日 08:30
-- [Packet is the Linux App You Didn’t Know You Needed for Fast Android File Transfers](https://itsfoss.com/linux-android-file-transfer/) / 07月07日 21:13
-- [老天爷点到为止](https://onojyun.com/2025/07/07/%e8%80%81%e5%a4%a9%e7%88%b7%e7%82%b9%e5%88%b0%e4%b8%ba%e6%ad%a2/) / 07月07日 11:00
-- [芝加哥](https://yufree.cn/cn/2025/07/07/chicago/) / 07月07日 08:00
-- [Fixing 'failed to synchronize all databases' Pacman Error in Arch Linux](https://itsfoss.com/failed-to-synchronize-all-databases/) / 07月06日 12:43
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 07月06日 09:22
 - [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 07月06日 09:11
 - [月刊（第31期）：基于 Claude 的阅读流](https://blog.ursb.me/posts/weekly-31/) / 07月05日 21:29
 - [分享 web3 入门计划｜2025 版](https://polebug.github.io/2025/07/05/web3_2025/) / 07月05日 20:51
-- [写在世界末日之前](https://onojyun.com/2025/07/04/%e5%86%99%e5%9c%a8%e4%b8%96%e7%95%8c%e6%9c%ab%e6%97%a5%e4%b9%8b%e5%89%8d/) / 07月04日 11:03
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
+- [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
+- [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
+- [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
+- [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
+- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
+- [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
+- [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
+- [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
+- [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
+- [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
+- [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
+- [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
+- [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
+- [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
+- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
+- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
+- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
+- [科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) / 06月27日 08:13
 <!--rss-blogs:end-->
 ---
 # Research Papers
@@ -48,6 +46,7 @@
 - [Subversion of mRNA degradation pathways by EWSR1::FLI1 represents a therapeutic vulnerability in Ewing sarcoma](https://www.nature.com/articles/s41467-025-61725-x) / 08:00
 
 **历史记录**
+- [Benchmarking methods for genome annotation using Nanopore direct RNA in a non-model crop plant](https://www.biorxiv.org/content/10.1101/2025.07.14.664836v1?rss=1) / 07月15日 08:00
 - [Design of a Multi-Epitope Vaccine using β-barrel Outer Membrane Proteins Identified in Chlamydia trachomatis](https://www.biorxiv.org/content/10.1101/2025.07.10.664186v1?rss=1) / 07月15日 08:00
 - [Predicting Future SARS-CoV-2 Mutations using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.07.12.664533v1?rss=1) / 07月15日 08:00
 - [Inferring Progressive Disconnection in Alzheimer's Disease with Probabilistic Boolean Networks](https://www.biorxiv.org/content/10.1101/2025.07.10.664143v1?rss=1) / 07月15日 08:00
@@ -72,12 +71,11 @@
 - [A diffusion model for universal medical image enhancement](https://www.nature.com/articles/s43856-025-00998-1) / 07月15日 08:00
 - [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 07月15日 08:00
 - [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 07月15日 08:00
+- [TNFAIP2 deficiency drives formation of an immunosuppressive tumor microenvironment and confers resistance to anti-PD-1 therapy in skin cutaneous melanoma](https://www.nature.com/articles/s41598-025-10952-9) / 07月15日 08:00
 - [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 07月15日 08:00
 - [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 07月15日 08:00
 - [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 07月15日 08:00
+- [Disruption of the cerebrospinal fluid–plasma protein balance in cognitive impairment and aging](https://www.nature.com/articles/s41591-025-03831-3) / 07月15日 08:00
 - [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 07月15日 08:00
 - [Overlooked sources of inspiration in biomimetic research](https://www.nature.com/articles/s41598-025-11703-6) / 07月15日 08:00
-- [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 07月15日 08:00
-- [Variable lymphocyte receptor F is generated via somatic diversification and expressed by lamprey T-like cells](https://www.nature.com/articles/s41467-025-61187-1) / 07月15日 08:00
-- [Savanna ecosystems and mammalian adaptations in Mid-Miocene Northern China](https://www.nature.com/articles/s41598-025-10718-3) / 07月15日 08:00
 <!--rss-papers:end-->
