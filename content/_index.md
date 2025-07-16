@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [文艺片共犯](https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/) / 11:00
+
 **历史记录**
 - [＃4 - 和 RSS3 道别的这一周 👋](https://polebug.github.io/2025/07/15/plog_4_say_goodbye_to_rss3/) / 07月15日 21:11
 - [The Curious Case of AUR Updates Fetching 30 GB of Data for Electron](https://itsfoss.com/aur-electron-update-issue/) / 07月15日 11:44
@@ -35,23 +38,17 @@
 - [写在世界末日之前](https://onojyun.com/2025/07/04/%e5%86%99%e5%9c%a8%e4%b8%96%e7%95%8c%e6%9c%ab%e6%97%a5%e4%b9%8b%e5%89%8d/) / 07月04日 11:03
 - [科技爱好者周刊（第 355 期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) / 07月04日 08:02
 - [Mastering Bioinformatics in the Age of AI: Foundational Skills for the Modern Scientist](https://divingintogeneticsandgenomics.com/post/ai-bioinformatics/) / 07月04日 08:00
-- [车祸 IV](https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/) / 07月03日 22:26
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Highly stable bacteriophages PIN1 and PIN2 have hallmarks of flagellotropic phages but infect immotile bacteria](https://www.nature.com/articles/s44298-025-00139-4) / 08:00
-- [Characterization of natural therapeutic compounds producing novel bacterial strains isolated from Hyderabad, India](https://www.nature.com/articles/s41598-025-11615-5) / 08:00
-- [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
-- [Design, synthesis and evaluation of benzodioxole and bromofuran tethered 1,2,4-triazole hybrids as potential anti breast cancer agents with computational insights](https://www.nature.com/articles/s41598-025-09420-1) / 08:00
-- [Breaking barriers in ICD classification with a robust graph neural network for hierarchical coding](https://www.nature.com/articles/s41598-025-10590-1) / 08:00
-- [System biology-based assessment of the molecular mechanism of epigallocatechin gallate in Parkinson’s disease: via network pharmacology, in-silico evaluation & in-vitro studies](https://www.nature.com/articles/s41598-025-11592-9) / 08:00
-- [An enhanced seasons optimization algorithm for numerical optimization and engineering design](https://www.nature.com/articles/s41598-025-11626-2) / 08:00
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
 - [An enhanced seasons optimization algorithm for numerical optimization and engineering design](https://www.nature.com/articles/s41598-025-11626-2) / 08:00
+- [Subversion of mRNA degradation pathways by EWSR1::FLI1 represents a therapeutic vulnerability in Ewing sarcoma](https://www.nature.com/articles/s41467-025-61725-x) / 08:00
 
 **历史记录**
+- [Design of a Multi-Epitope Vaccine using β-barrel Outer Membrane Proteins Identified in Chlamydia trachomatis](https://www.biorxiv.org/content/10.1101/2025.07.10.664186v1?rss=1) / 07月15日 08:00
 - [Predicting Future SARS-CoV-2 Mutations using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.07.12.664533v1?rss=1) / 07月15日 08:00
 - [Inferring Progressive Disconnection in Alzheimer's Disease with Probabilistic Boolean Networks](https://www.biorxiv.org/content/10.1101/2025.07.10.664143v1?rss=1) / 07月15日 08:00
 - [Comparing the ability of embedding methods on metabolic hypergraphs for capturing taxonomy-based features](https://www.biorxiv.org/content/10.1101/2025.07.10.663860v1?rss=1) / 07月15日 08:00
@@ -65,17 +62,22 @@
 - [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 07月15日 08:00
 - [Developing angiogenesis-related prognostic biomarkers and therapeutic strategies in bladder cancer using deep learning and machine learning](https://www.nature.com/articles/s41598-025-08945-9) / 07月15日 08:00
 - [scGPT: end-to-end protocol for fine-tuned retinal cell type annotation](https://www.nature.com/articles/s41596-025-01220-1) / 07月15日 08:00
-- [Analysis of baseball behavior recognition model based on Dual-GCN improved by motion weights](https://www.nature.com/articles/s41598-025-10681-z) / 07月15日 08:00
 - [Machine learning modelling for multi-order human visual motion processing](https://www.nature.com/articles/s42256-025-01068-w) / 07月15日 08:00
 - [Deciphering cancer therapy resistance via patient-level single-cell transcriptomics with CellResDB](https://www.nature.com/articles/s42003-025-08457-2) / 07月15日 08:00
 - [Prediction of pathogenic mutations in human transmembrane proteins and their associated diseases via utilizing pre-trained Bio-LLMs](https://www.nature.com/articles/s42003-025-08452-7) / 07月15日 08:00
-- [Lightweight detection and segmentation of crayfish parts using an improved YOLOv11n segmentation model](https://www.nature.com/articles/s41598-025-11201-9) / 07月15日 08:00
 - [Domain-incremental white blood cell classification with privacy-aware continual learning](https://www.nature.com/articles/s41598-025-08024-z) / 07月15日 08:00
-- [High-resolution mapping of single cells in spatial context](https://www.nature.com/articles/s41467-025-61667-4) / 07月15日 08:00
-- [Preoperative prediction value of 2.5D deep learning model based on contrast-enhanced CT for lymphovascular invasion of gastric cancer](https://www.nature.com/articles/s41598-025-11427-7) / 07月15日 08:00
-- [Deep adaptive learning predicts and diagnoses CSVD-related cognitive decline using radiomics from T2-FLAIR: a multi-centre study](https://www.nature.com/articles/s41746-025-01813-w) / 07月15日 08:00
-- [OR-FCOS: an enhanced fully convolutional one-stage approach for growth stage identification of Oudemansiella raphanipes](https://www.nature.com/articles/s41598-025-09303-5) / 07月15日 08:00
-- [Fetal-Net: enhancing Maternal-Fetal ultrasound interpretation through Multi-Scale convolutional neural networks and Transformers](https://www.nature.com/articles/s41598-025-06526-4) / 07月15日 08:00
 - [A wavelet-guided transformer approach for autofocus in brightfield biological microscopy](https://www.nature.com/articles/s41598-025-11037-3) / 07月15日 08:00
-- [Low-quality papers based on public health data are flooding the scientific literature](https://www.nature.com/articles/d41586-025-02241-2) / 07月15日 08:00
+- [Bioinformatics analysis of COMMD family in pan-cancer reveals potential biomarkers and therapeutic targets](https://www.nature.com/articles/s41598-025-11118-3) / 07月15日 08:00
+- [Feasibility of large language models for assessing and coaching surgeons’ non-technical skills](https://www.nature.com/articles/s44401-025-00027-2) / 07月15日 08:00
+- [A diffusion model for universal medical image enhancement](https://www.nature.com/articles/s43856-025-00998-1) / 07月15日 08:00
+- [Identification of potential shared core biomarkers in type 2 diabetes and sarcopenia](https://www.nature.com/articles/s41598-025-10200-0) / 07月15日 08:00
+- [Integrated genomic analysis of NF1-associated peripheral nerve sheath tumors: an updated biorepository dataset](https://www.nature.com/articles/s41597-025-05433-7) / 07月15日 08:00
+- [TNFAIP2 deficiency drives formation of an immunosuppressive tumor microenvironment and confers resistance to anti-PD-1 therapy in skin cutaneous melanoma](https://www.nature.com/articles/s41598-025-10952-9) / 07月15日 08:00
+- [A hybrid framework of generative deep learning for antiviral peptide discovery](https://www.nature.com/articles/s41598-025-11328-9) / 07月15日 08:00
+- [The effect of stochastic noise on antibiotic resistance in intestinal flora](https://www.nature.com/articles/s41540-025-00548-4) / 07月15日 08:00
+- [Decision level scheme for fusing multiomics and histology slide images using deep neural network for tumor prognosis prediction](https://www.nature.com/articles/s41598-025-09869-0) / 07月15日 08:00
+- [Disruption of the cerebrospinal fluid–plasma protein balance in cognitive impairment and aging](https://www.nature.com/articles/s41591-025-03831-3) / 07月15日 08:00
+- [Molecular and genomic insights into multidrug-resistant (MDR) and extensively drug-resistant (XDR) Pseudomonas aeruginosa causing burn wound infections in Bangladesh](https://www.nature.com/articles/s41598-025-11614-6) / 07月15日 08:00
+- [Overlooked sources of inspiration in biomimetic research](https://www.nature.com/articles/s41598-025-11703-6) / 07月15日 08:00
+- [Chromosomal level genome assembly of medicinal plant Chrysosplenium macrophyllum](https://www.nature.com/articles/s41597-025-05546-z) / 07月15日 08:00
 <!--rss-papers:end-->
