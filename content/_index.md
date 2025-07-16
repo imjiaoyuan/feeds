@@ -62,18 +62,18 @@
 - [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
 - [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 07月16日 08:00
 - [Fusion of microscopic and diffraction images with VGG net for budding yeast recognition in imaging flow cytometry](https://www.nature.com/articles/s41598-025-09320-4) / 07月16日 08:00
+- [‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement](https://www.nature.com/articles/d41586-025-02275-6) / 07月16日 08:00
 - [When cellular reprogramming meets AI: towards de novo cell design](https://www.nature.com/articles/s41576-025-00878-3) / 07月16日 08:00
 - [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 - [Development and extensive sequencing of a broadly-consented Genome in a Bottle matched tumor-normal pair](https://www.nature.com/articles/s41597-025-05438-2) / 07月16日 08:00
 - [Personalized risk stratification in colorectal cancer via PIANOS system](https://www.nature.com/articles/s41467-025-61713-1) / 07月16日 08:00
 - [Long-read RNA sequencing unveils a novel cryptic exon in MNAT1 along with its full-length transcript structure in TDP-43 proteinopathy](https://www.nature.com/articles/s42003-025-08463-4) / 07月16日 08:00
 - [Highly stable bacteriophages PIN1 and PIN2 have hallmarks of flagellotropic phages but infect immotile bacteria](https://www.nature.com/articles/s44298-025-00139-4) / 07月16日 08:00
+- [Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations](https://www.nature.com/articles/s43856-025-00996-3) / 07月16日 08:00
 - [Characterization of natural therapeutic compounds producing novel bacterial strains isolated from Hyderabad, India](https://www.nature.com/articles/s41598-025-11615-5) / 07月16日 08:00
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 07月16日 08:00
 - [Design, synthesis and evaluation of benzodioxole and bromofuran tethered 1,2,4-triazole hybrids as potential anti breast cancer agents with computational insights](https://www.nature.com/articles/s41598-025-09420-1) / 07月16日 08:00
 - [Ongoing genome doubling shapes evolvability and immunity in ovarian cancer](https://www.nature.com/articles/s41586-025-09240-3) / 07月16日 08:00
 - [Exploring a circulating circRNA and miRNA biomarker panel for early detection of ovarian cancer through multiple omics analysis](https://www.nature.com/articles/s41598-025-11641-3) / 07月16日 08:00
 - [Automatic segmentation of liver structures in multi-phase MRI using variants of nnU-Net and Swin UNETR](https://www.nature.com/articles/s41598-025-07084-5) / 07月16日 08:00
-- [Access to digital health technologies: personalized framework and global perspectives](https://www.nature.com/articles/s41569-025-01184-5) / 07月16日 08:00
-- [Breaking barriers in ICD classification with a robust graph neural network for hierarchical coding](https://www.nature.com/articles/s41598-025-10590-1) / 07月16日 08:00
 <!--rss-papers:end-->
