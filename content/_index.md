@@ -42,6 +42,10 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 14:28
+- [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 08:00
+- [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 08:00
+- [Toward improving multiomic research in understudied cereals](https://www.nature.com/articles/s41588-025-02245-8) / 08:00
+- [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 08:00
 - [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 08:00
 - [Integrative genomic reconstruction reveals heterogeneity in carbohydrate utilization across human gut bifidobacteria](https://www.nature.com/articles/s41564-025-02056-x) / 08:00
 - [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 08:00
@@ -63,19 +67,15 @@
 - [The next generation of colour pattern genomics](https://www.nature.com/articles/s41559-025-02816-2) / 08:00
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
 - [An enhanced seasons optimization algorithm for numerical optimization and engineering design](https://www.nature.com/articles/s41598-025-11626-2) / 08:00
+- [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 08:00
+- [Comparison of necrotizing enterocolitis (NEC)-related apoptosis factors between preterm and full-term rats](https://www.nature.com/articles/s41598-025-86506-w) / 08:00
+- [Subversion of mRNA degradation pathways by EWSR1::FLI1 represents a therapeutic vulnerability in Ewing sarcoma](https://www.nature.com/articles/s41467-025-61725-x) / 08:00
+- [Comprehensive RAD51C ovarian cancer variant analysis uncouples homologous recombination and replicative functions](https://www.nature.com/articles/s41467-025-61283-2) / 08:00
+- [Bisphenol-A disrupts mitochondrial functionality leading to senescence and apoptosis in human amniotic mesenchymal stromal cells](https://www.nature.com/articles/s41420-025-02620-8) / 08:00
 
 **历史记录**
 - [Benchmarking methods for genome annotation using Nanopore direct RNA in a non-model crop plant](https://www.biorxiv.org/content/10.1101/2025.07.14.664836v1?rss=1) / 07月15日 08:00
 - [Design of a Multi-Epitope Vaccine using β-barrel Outer Membrane Proteins Identified in Chlamydia trachomatis](https://www.biorxiv.org/content/10.1101/2025.07.10.664186v1?rss=1) / 07月15日 08:00
 - [Predicting Future SARS-CoV-2 Mutations using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.07.12.664533v1?rss=1) / 07月15日 08:00
 - [Inferring Progressive Disconnection in Alzheimer's Disease with Probabilistic Boolean Networks](https://www.biorxiv.org/content/10.1101/2025.07.10.664143v1?rss=1) / 07月15日 08:00
-- [Comparing the ability of embedding methods on metabolic hypergraphs for capturing taxonomy-based features](https://www.biorxiv.org/content/10.1101/2025.07.10.663860v1?rss=1) / 07月15日 08:00
-- [Dynamic of the transcriptomic landscape of OsHV-1 replication in haemocytes of Pacific oyster](https://www.biorxiv.org/content/10.1101/2025.07.11.664376v1?rss=1) / 07月15日 08:00
-- [Exploring Hypoxia-Related Genes as Prognostic Indicators in Lung Adenocarcinoma](https://www.biorxiv.org/content/10.1101/2025.07.10.664061v1?rss=1) / 07月15日 08:00
-- [IS1216 drives the evolution of pRUM-like multidrug resistance plasmids in Enterococcus faecium](https://www.biorxiv.org/content/10.1101/2025.07.10.664085v1?rss=1) / 07月15日 08:00
-- [Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria](https://www.biorxiv.org/content/10.1101/2025.07.10.664071v1?rss=1) / 07月15日 08:00
-- [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 07月15日 08:00
-- [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 07月15日 08:00
-- [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 07月15日 08:00
-- [Genomes of 211 Actinomycete Strains from Diverse Environments](https://www.nature.com/articles/s41597-025-05567-8) / 07月15日 08:00
 <!--rss-papers:end-->
