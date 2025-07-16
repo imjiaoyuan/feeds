@@ -42,6 +42,7 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 14:28
+- [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 08:00
 - [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 08:00
 - [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 08:00
 - [Toward improving multiomic research in understudied cereals](https://www.nature.com/articles/s41588-025-02245-8) / 08:00
@@ -59,6 +60,7 @@
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
 - [Design, synthesis and evaluation of benzodioxole and bromofuran tethered 1,2,4-triazole hybrids as potential anti breast cancer agents with computational insights](https://www.nature.com/articles/s41598-025-09420-1) / 08:00
 - [Automatic segmentation of liver structures in multi-phase MRI using variants of nnU-Net and Swin UNETR](https://www.nature.com/articles/s41598-025-07084-5) / 08:00
+- [Access to digital health technologies: personalized framework and global perspectives](https://www.nature.com/articles/s41569-025-01184-5) / 08:00
 - [Breaking barriers in ICD classification with a robust graph neural network for hierarchical coding](https://www.nature.com/articles/s41598-025-10590-1) / 08:00
 - [Topological velocity inference from spatial transcriptomic data](https://www.nature.com/articles/s41587-025-02688-8) / 08:00
 - [System biology-based assessment of the molecular mechanism of epigallocatechin gallate in Parkinson’s disease: via network pharmacology, in-silico evaluation & in-vitro studies](https://www.nature.com/articles/s41598-025-11592-9) / 08:00
@@ -76,6 +78,4 @@
 **历史记录**
 - [Benchmarking methods for genome annotation using Nanopore direct RNA in a non-model crop plant](https://www.biorxiv.org/content/10.1101/2025.07.14.664836v1?rss=1) / 07月15日 08:00
 - [Design of a Multi-Epitope Vaccine using β-barrel Outer Membrane Proteins Identified in Chlamydia trachomatis](https://www.biorxiv.org/content/10.1101/2025.07.10.664186v1?rss=1) / 07月15日 08:00
-- [Predicting Future SARS-CoV-2 Mutations using Deep Learning](https://www.biorxiv.org/content/10.1101/2025.07.12.664533v1?rss=1) / 07月15日 08:00
-- [Inferring Progressive Disconnection in Alzheimer's Disease with Probabilistic Boolean Networks](https://www.biorxiv.org/content/10.1101/2025.07.10.664143v1?rss=1) / 07月15日 08:00
 <!--rss-papers:end-->
