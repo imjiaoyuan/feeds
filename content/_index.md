@@ -42,6 +42,8 @@
 <!--rss-papers:start-->
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
+- [Comprehensive Error Profiling of NovaSeq6000, NovaSeqX, and Salus Pro Using Overlapping Paired-End Reads](https://www.biorxiv.org/content/10.1101/2025.07.15.665004v1?rss=1) / 07月16日 08:00
+- [Robust inference of cancer progression pathways using Conjunctive Bayesian Networks](https://www.biorxiv.org/content/10.1101/2025.07.15.663924v1?rss=1) / 07月16日 08:00
 - [Auto-MedCalc: Automated Biomarkers Discovery and Risk Score Generation with AI Agents](https://www.biorxiv.org/content/10.1101/2025.07.10.664265v1?rss=1) / 07月16日 08:00
 - [Comparison of state-of-the-art error-correction coding for sequence-based DNA data storage](https://www.biorxiv.org/content/10.1101/2025.07.11.664297v1?rss=1) / 07月16日 08:00
 - [Interactive data analysis and reporting with SCIFR: A Single-File SPA Approach](https://www.biorxiv.org/content/10.1101/2025.07.10.664259v1?rss=1) / 07月16日 08:00
@@ -74,6 +76,4 @@
 - [Long-read RNA sequencing unveils a novel cryptic exon in MNAT1 along with its full-length transcript structure in TDP-43 proteinopathy](https://www.nature.com/articles/s42003-025-08463-4) / 07月16日 08:00
 - [Highly stable bacteriophages PIN1 and PIN2 have hallmarks of flagellotropic phages but infect immotile bacteria](https://www.nature.com/articles/s44298-025-00139-4) / 07月16日 08:00
 - [Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations](https://www.nature.com/articles/s43856-025-00996-3) / 07月16日 08:00
-- [Characterization of natural therapeutic compounds producing novel bacterial strains isolated from Hyderabad, India](https://www.nature.com/articles/s41598-025-11615-5) / 07月16日 08:00
-- [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 07月16日 08:00
 <!--rss-papers:end-->
