@@ -40,9 +40,15 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 08:00
+
 **历史记录**
+- [Inferring Progressive Disconnection in Alzheimer's Disease with Probabilistic Boolean Networks](https://www.biorxiv.org/content/10.1101/2025.07.10.664143v1?rss=1) / 07月15日 08:00
+- [Comparing the ability of embedding methods on metabolic hypergraphs for capturing taxonomy-based features](https://www.biorxiv.org/content/10.1101/2025.07.10.663860v1?rss=1) / 07月15日 08:00
 - [Dynamic of the transcriptomic landscape of OsHV-1 replication in haemocytes of Pacific oyster](https://www.biorxiv.org/content/10.1101/2025.07.11.664376v1?rss=1) / 07月15日 08:00
 - [Exploring Hypoxia-Related Genes as Prognostic Indicators in Lung Adenocarcinoma](https://www.biorxiv.org/content/10.1101/2025.07.10.664061v1?rss=1) / 07月15日 08:00
+- [Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria](https://www.biorxiv.org/content/10.1101/2025.07.10.664071v1?rss=1) / 07月15日 08:00
 - [Topsicle: a method for estimating telomere length from whole genome long-read sequencing data](https://www.biorxiv.org/content/10.1101/2025.07.10.664126v1?rss=1) / 07月15日 08:00
 - [Expanding the DNA Motif Lexicon of the Transcriptional Regulatory Code](https://www.biorxiv.org/content/10.1101/2025.07.09.662874v1?rss=1) / 07月15日 08:00
 - [Secondary metabolite biosynthetic gene clusters and microbial diversity as predicted by shotgun metagenomic sequencing approach in hospitals and pharmaceutical industry wastes](https://www.nature.com/articles/s41598-025-03467-w) / 07月15日 08:00
@@ -69,11 +75,7 @@
 - [Savanna ecosystems and mammalian adaptations in Mid-Miocene Northern China](https://www.nature.com/articles/s41598-025-10718-3) / 07月15日 08:00
 - [Effects of resource packaging on the adaptative and pleiotropic consequences of evolution](https://www.nature.com/articles/s41540-025-00558-2) / 07月15日 08:00
 - [Genetic population structure of Japanese freshwater crab, Geothelphusa dehaani species complex using genome wide SNPs](https://www.nature.com/articles/s41598-025-08085-0) / 07月15日 08:00
+- [Whole chromosome painting in two populations of the weakly electric fish Gymnotus mamiraua (Teleostei, Gymnotiformes)](https://www.nature.com/articles/s41598-025-09770-w) / 07月15日 08:00
 - [Exploring novel molecular mechanisms underlying recurrent pregnancy loss in decidual tissues](https://www.nature.com/articles/s41598-025-10604-y) / 07月15日 08:00
 - [Refined DNA repair manipulation enables a universal knock-in strategy in mouse embryos](https://www.nature.com/articles/s41467-025-61696-z) / 07月15日 08:00
-- [Expression regulation network in papillae of sea cucumbers: Whole-transcriptome and DNA methylation datasets](https://www.nature.com/articles/s41597-025-05407-9) / 07月15日 08:00
-- [Detection of tomato brown rugose fruit virus through CRISPR-Cas12a and CRISPR-Cas9 systems](https://www.nature.com/articles/s41598-025-11825-x) / 07月15日 08:00
-- [Mechanisms and reversibility of nicotine-induced spermatogenesis impairment and DNA methylation changes](https://www.nature.com/articles/s42003-025-08493-y) / 07月15日 08:00
-- [Ovarian epigenetics modifications following lifestyle interventions by exercise and alternate-day feeding in letrozole-induced PCOS rats](https://www.nature.com/articles/s41598-025-09264-9) / 07月15日 08:00
-- [A conserved coupling of transcriptional ON and OFF periods underlies bursting dynamics](https://www.nature.com/articles/s41594-025-01615-4) / 07月15日 08:00
 <!--rss-papers:end-->
