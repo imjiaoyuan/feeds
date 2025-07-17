@@ -41,9 +41,6 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 08:00
-- [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 08:00
-- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 08:00
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
 
@@ -78,4 +75,7 @@
 - [Toward improving multiomic research in understudied cereals](https://www.nature.com/articles/s41588-025-02245-8) / 07月16日 08:00
 - [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 - [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 07月16日 08:00
+- [Integrative genomic reconstruction reveals heterogeneity in carbohydrate utilization across human gut bifidobacteria](https://www.nature.com/articles/s41564-025-02056-x) / 07月16日 08:00
+- [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 07月16日 08:00
+- [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
 <!--rss-papers:end-->
