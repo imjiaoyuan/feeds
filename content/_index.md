@@ -41,7 +41,15 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [mm2-ivh: simple and precise overlap detection in alpha satellite HORs with interval hashing](https://www.biorxiv.org/content/10.1101/2025.07.11.664273v1?rss=1) / 07月17日 08:00
+- [MiroSCOPE: An AI-driven digital pathology platform for annotating functional tissue units](https://www.biorxiv.org/content/10.1101/2025.07.11.664228v1?rss=1) / 07月17日 08:00
+- [Identifying associations between maize leaf transcriptome and bacteriome during different diurnal periods](https://www.biorxiv.org/content/10.1101/2025.07.11.664371v1?rss=1) / 07月17日 08:00
+- [SVPG: A pangenome-based structural variant detection approach and rapid augmentation of pangenome graphs with new samples](https://www.biorxiv.org/content/10.1101/2025.07.11.664486v1?rss=1) / 07月17日 08:00
+- [A periodic table of bacteria?: Mapping bacterial diversity in trait space](https://www.biorxiv.org/content/10.1101/2025.07.11.664459v1?rss=1) / 07月17日 08:00
 - [Improving causal effect estimation in multi-ancestry multivariable Mendelian randomization with transfer learning](https://www.biorxiv.org/content/10.1101/2025.07.11.664423v1?rss=1) / 07月17日 08:00
+- [Telomere replication stress-induced DNA damage response triggers inflammatory signaling via canonical and non-canonical STING pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664434v1?rss=1) / 07月17日 08:00
+- [A multi-omics analysis of human fibroblasts overexpressing an Alu transposon reveals widespread disruptions in aging-associated pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664466v1?rss=1) / 07月17日 08:00
+- [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
 - [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
 - [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
@@ -68,12 +76,4 @@
 - [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 07月16日 08:00
 - [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 07月16日 08:00
 - [Uncovering the Genetic Blueprint of the UAE's National Tree: Genomic Evidence to Guide Prosopis cineraria (L.) Druce Conservation](https://www.biorxiv.org/content/10.1101/2025.07.15.663052v1?rss=1) / 07月16日 08:00
-- [Regionalization of gene expression and cell types in the silk gland of the pantry moth Plodia interpunctella](https://www.biorxiv.org/content/10.1101/2025.07.11.664249v1?rss=1) / 07月16日 08:00
-- [Isoform-specific single-cell perturb-seq reveals distinct functions of alternative promoters in drug response](https://www.biorxiv.org/content/10.1101/2025.07.14.664827v1?rss=1) / 07月16日 08:00
-- [Distribution Patterns of rRNA Copy Number Repeats in Prokaryotic Genomes](https://www.biorxiv.org/content/10.1101/2025.07.15.664977v1?rss=1) / 07月16日 08:00
-- [Alpha satellite RNA marks the perinucleolar compartment and represses ribosomal RNA expression in naïve human embryonic stem cells](https://www.biorxiv.org/content/10.1101/2025.07.11.664446v1?rss=1) / 07月16日 08:00
-- [Helitrons are enriched in lichenized fungi with long generation lengths and small distribution sizes](https://www.biorxiv.org/content/10.1101/2025.07.11.664412v1?rss=1) / 07月16日 08:00
-- [Programmable translational inhibition by a molecular glue-oligonucleotide conjugate](https://www.biorxiv.org/content/10.1101/2025.07.15.664547v1?rss=1) / 07月16日 08:00
-- [Genomic and epidemiologic characteristics of SARS-CoV-2 persistent infections in California, January 2021 - July 2023](https://www.biorxiv.org/content/10.1101/2025.07.14.664650v1?rss=1) / 07月16日 08:00
-- [Gene model for the ortholog of tgo in Drosophila pseudoobscura](https://www.biorxiv.org/content/10.1101/2025.07.13.664599v1?rss=1) / 07月16日 08:00
 <!--rss-papers:end-->
