@@ -41,9 +41,7 @@
 # Research Papers
 <!--rss-papers:start-->
 **今日更新**
-- [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 08:00
-- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 08:00
-- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
+- [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
 
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
@@ -58,6 +56,9 @@
 - [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 07月16日 08:00
 - [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 07月16日 08:00
 - [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 07月16日 08:00
+- [Distribution Patterns of rRNA Copy Number Repeats in Prokaryotic Genomes](https://www.biorxiv.org/content/10.1101/2025.07.15.664977v1?rss=1) / 07月16日 08:00
+- [Alpha satellite RNA marks the perinucleolar compartment and represses ribosomal RNA expression in naïve human embryonic stem cells](https://www.biorxiv.org/content/10.1101/2025.07.11.664446v1?rss=1) / 07月16日 08:00
+- [Helitrons are enriched in lichenized fungi with long generation lengths and small distribution sizes](https://www.biorxiv.org/content/10.1101/2025.07.11.664412v1?rss=1) / 07月16日 08:00
 - [Programmable translational inhibition by a molecular glue-oligonucleotide conjugate](https://www.biorxiv.org/content/10.1101/2025.07.15.664547v1?rss=1) / 07月16日 08:00
 - [Genomic and epidemiologic characteristics of SARS-CoV-2 persistent infections in California, January 2021 - July 2023](https://www.biorxiv.org/content/10.1101/2025.07.14.664650v1?rss=1) / 07月16日 08:00
 - [Gene model for the ortholog of tgo in Drosophila pseudoobscura](https://www.biorxiv.org/content/10.1101/2025.07.13.664599v1?rss=1) / 07月16日 08:00
@@ -73,9 +74,8 @@
 - [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 07月16日 08:00
 - [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
 - [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
-- [Cluster-independent multiscale marker identification in single-cell RNA-seq data using localized marker detector (LMD)](https://www.nature.com/articles/s42003-025-08485-y) / 07月16日 08:00
 - [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 07月16日 08:00
-- [Fusion of microscopic and diffraction images with VGG net for budding yeast recognition in imaging flow cytometry](https://www.nature.com/articles/s41598-025-09320-4) / 07月16日 08:00
-- [‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement](https://www.nature.com/articles/d41586-025-02275-6) / 07月16日 08:00
-- [When cellular reprogramming meets AI: towards de novo cell design](https://www.nature.com/articles/s41576-025-00878-3) / 07月16日 08:00
+- [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
+- [Development and extensive sequencing of a broadly-consented Genome in a Bottle matched tumor-normal pair](https://www.nature.com/articles/s41597-025-05438-2) / 07月16日 08:00
+- [Long-read RNA sequencing unveils a novel cryptic exon in MNAT1 along with its full-length transcript structure in TDP-43 proteinopathy](https://www.nature.com/articles/s42003-025-08463-4) / 07月16日 08:00
 <!--rss-papers:end-->
