@@ -42,6 +42,7 @@
 <!--rss-papers:start-->
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
+- [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
 - [Comprehensive Error Profiling of NovaSeq6000, NovaSeqX, and Salus Pro Using Overlapping Paired-End Reads](https://www.biorxiv.org/content/10.1101/2025.07.15.665004v1?rss=1) / 07月16日 08:00
 - [Robust inference of cancer progression pathways using Conjunctive Bayesian Networks](https://www.biorxiv.org/content/10.1101/2025.07.15.663924v1?rss=1) / 07月16日 08:00
 - [Auto-MedCalc: Automated Biomarkers Discovery and Risk Score Generation with AI Agents](https://www.biorxiv.org/content/10.1101/2025.07.10.664265v1?rss=1) / 07月16日 08:00
@@ -66,14 +67,13 @@
 - [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
 - [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
 - [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 07月16日 08:00
-- [Fusion of microscopic and diffraction images with VGG net for budding yeast recognition in imaging flow cytometry](https://www.nature.com/articles/s41598-025-09320-4) / 07月16日 08:00
-- [When cellular reprogramming meets AI: towards de novo cell design](https://www.nature.com/articles/s41576-025-00878-3) / 07月16日 08:00
 - [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 - [Development and extensive sequencing of a broadly-consented Genome in a Bottle matched tumor-normal pair](https://www.nature.com/articles/s41597-025-05438-2) / 07月16日 08:00
-- [Personalized risk stratification in colorectal cancer via PIANOS system](https://www.nature.com/articles/s41467-025-61713-1) / 07月16日 08:00
 - [Long-read RNA sequencing unveils a novel cryptic exon in MNAT1 along with its full-length transcript structure in TDP-43 proteinopathy](https://www.nature.com/articles/s42003-025-08463-4) / 07月16日 08:00
 - [Highly stable bacteriophages PIN1 and PIN2 have hallmarks of flagellotropic phages but infect immotile bacteria](https://www.nature.com/articles/s44298-025-00139-4) / 07月16日 08:00
 - [Characterization of natural therapeutic compounds producing novel bacterial strains isolated from Hyderabad, India](https://www.nature.com/articles/s41598-025-11615-5) / 07月16日 08:00
 - [Genome-level selection in tumors as a universal marker of resistance to therapy](https://www.nature.com/articles/s41467-025-61709-x) / 07月16日 08:00
 - [Design, synthesis and evaluation of benzodioxole and bromofuran tethered 1,2,4-triazole hybrids as potential anti breast cancer agents with computational insights](https://www.nature.com/articles/s41598-025-09420-1) / 07月16日 08:00
+- [Automatic segmentation of liver structures in multi-phase MRI using variants of nnU-Net and Swin UNETR](https://www.nature.com/articles/s41598-025-07084-5) / 07月16日 08:00
+- [Access to digital health technologies: personalized framework and global perspectives](https://www.nature.com/articles/s41569-025-01184-5) / 07月16日 08:00
 <!--rss-papers:end-->
