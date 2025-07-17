@@ -60,11 +60,12 @@
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
 - [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 07月17日 08:00
 - [How the world’s biggest bats got their enormous wingspans](https://www.nature.com/articles/d41586-025-02228-z) / 07月17日 08:00
+- [Phylogenetic comparative analysis of functional morphology sheds light on the evolution of seasonal migration in nightingale-thrushes (Turdidae: Catharus)](https://www.nature.com/articles/s41598-025-11396-x) / 07月17日 08:00
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 07月17日 08:00
+- [Multiple forms of balancing selection maintain inversion polymorphism](https://www.nature.com/articles/s41437-025-00780-y) / 07月17日 08:00
 - [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
-- [Urolithin A suppressed osteosarcoma cell migration and invasion via targeting MMPs and AKT1](https://www.nature.com/articles/s41598-025-11804-2) / 07月17日 08:00
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
 - [PromoterAtlas: decoding regulatory sequences across Gammaproteobacteria using a transformer model](https://www.biorxiv.org/content/10.1101/2025.07.11.664312v1?rss=1) / 07月16日 08:00
 - [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
@@ -75,5 +76,4 @@
 - [Interactive data analysis and reporting with SCIFR: A Single-File SPA Approach](https://www.biorxiv.org/content/10.1101/2025.07.10.664259v1?rss=1) / 07月16日 08:00
 - [OrthoFinder: scalable phylogenetic orthology inference for comparative genomics](https://www.biorxiv.org/content/10.1101/2025.07.15.664860v1?rss=1) / 07月16日 08:00
 - [Multi-omics integration reveals sex-based differences in the circulating extracellular vesicle lipidome and miRNome of alcohol use disorder patients](https://www.biorxiv.org/content/10.1101/2025.07.15.664861v1?rss=1) / 07月16日 08:00
-- [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 07月16日 08:00
 <!--rss-papers:end-->
