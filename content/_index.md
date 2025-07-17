@@ -41,6 +41,8 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Mapping the Metalloproteome of Deinococcus indicus DR1 through Integrative Structure and Function Annotation](https://www.biorxiv.org/content/10.1101/2025.07.11.664487v1?rss=1) / 07月17日 08:00
+- [MGMG: Cell Morphology-Guided Molecule Generation for Drug Discovery](https://www.biorxiv.org/content/10.1101/2025.07.11.664424v1?rss=1) / 07月17日 08:00
 - [mm2-ivh: simple and precise overlap detection in alpha satellite HORs with interval hashing](https://www.biorxiv.org/content/10.1101/2025.07.11.664273v1?rss=1) / 07月17日 08:00
 - [MiroSCOPE: An AI-driven digital pathology platform for annotating functional tissue units](https://www.biorxiv.org/content/10.1101/2025.07.11.664228v1?rss=1) / 07月17日 08:00
 - [Identifying associations between maize leaf transcriptome and bacteriome during different diurnal periods](https://www.biorxiv.org/content/10.1101/2025.07.11.664371v1?rss=1) / 07月17日 08:00
@@ -62,6 +64,7 @@
 - [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
+- [Urolithin A suppressed osteosarcoma cell migration and invasion via targeting MMPs and AKT1](https://www.nature.com/articles/s41598-025-11804-2) / 07月17日 08:00
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
 - [PromoterAtlas: decoding regulatory sequences across Gammaproteobacteria using a transformer model](https://www.biorxiv.org/content/10.1101/2025.07.11.664312v1?rss=1) / 07月16日 08:00
 - [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
@@ -73,7 +76,4 @@
 - [OrthoFinder: scalable phylogenetic orthology inference for comparative genomics](https://www.biorxiv.org/content/10.1101/2025.07.15.664860v1?rss=1) / 07月16日 08:00
 - [Multi-omics integration reveals sex-based differences in the circulating extracellular vesicle lipidome and miRNome of alcohol use disorder patients](https://www.biorxiv.org/content/10.1101/2025.07.15.664861v1?rss=1) / 07月16日 08:00
 - [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 07月16日 08:00
-- [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 07月16日 08:00
-- [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 07月16日 08:00
-- [Uncovering the Genetic Blueprint of the UAE's National Tree: Genomic Evidence to Guide Prosopis cineraria (L.) Druce Conservation](https://www.biorxiv.org/content/10.1101/2025.07.15.663052v1?rss=1) / 07月16日 08:00
 <!--rss-papers:end-->
