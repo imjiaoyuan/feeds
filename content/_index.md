@@ -42,6 +42,7 @@
 <!--rss-papers:start-->
 **今日更新**
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
+- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
 
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
@@ -74,8 +75,7 @@
 - [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 07月16日 08:00
 - [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
 - [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
+- [Cluster-independent multiscale marker identification in single-cell RNA-seq data using localized marker detector (LMD)](https://www.nature.com/articles/s42003-025-08485-y) / 07月16日 08:00
 - [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 07月16日 08:00
-- [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
-- [Development and extensive sequencing of a broadly-consented Genome in a Bottle matched tumor-normal pair](https://www.nature.com/articles/s41597-025-05438-2) / 07月16日 08:00
-- [Long-read RNA sequencing unveils a novel cryptic exon in MNAT1 along with its full-length transcript structure in TDP-43 proteinopathy](https://www.nature.com/articles/s42003-025-08463-4) / 07月16日 08:00
+- [Fusion of microscopic and diffraction images with VGG net for budding yeast recognition in imaging flow cytometry](https://www.nature.com/articles/s41598-025-09320-4) / 07月16日 08:00
 <!--rss-papers:end-->
