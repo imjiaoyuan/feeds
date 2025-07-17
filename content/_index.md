@@ -1,10 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
-**今日更新**
-- [AI 编码方法论：从探索到精进的系统化实践](https://innei.in/posts/tech/ai-coding-methodology-systematic-practice) / 23:07
-- [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) / 08:00
-
 **历史记录**
+- [AI 编码方法论：从探索到精进的系统化实践](https://innei.in/posts/tech/ai-coding-methodology-systematic-practice) / 07月17日 23:07
+- [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) / 07月17日 08:00
 - [＃4 - 和 RSS3 道别的这一周 👋](https://polebug.github.io/2025/07/15/plog_4_say_goodbye_to_rss3/) / 07月15日 21:11
 - [How to create a GenomicRanges object in Bioconductor using canonical transcripts](https://divingintogeneticsandgenomics.com/post/canonical-tx/) / 07月15日 08:00
 - [梦](https://anotherdayu.com/2025/7077/) / 07月14日 23:44
@@ -42,20 +40,20 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 08:00
-- [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 08:00
-- [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 08:00
-- [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 08:00
-- [Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria](https://www.nature.com/articles/s41467-025-61152-y) / 08:00
-- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 08:00
-- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 08:00
-- [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
-- [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 08:00
-- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
-- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 08:00
-
 **历史记录**
+- [Improving causal effect estimation in multi-ancestry multivariable Mendelian randomization with transfer learning](https://www.biorxiv.org/content/10.1101/2025.07.11.664423v1?rss=1) / 07月17日 08:00
+- [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
+- [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
+- [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
+- [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 07月17日 08:00
+- [Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria](https://www.nature.com/articles/s41467-025-61152-y) / 07月17日 08:00
+- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
+- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 07月17日 08:00
+- [How the world’s biggest bats got their enormous wingspans](https://www.nature.com/articles/d41586-025-02228-z) / 07月17日 08:00
+- [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 07月17日 08:00
+- [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
+- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
+- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
 - [PromoterAtlas: decoding regulatory sequences across Gammaproteobacteria using a transformer model](https://www.biorxiv.org/content/10.1101/2025.07.11.664312v1?rss=1) / 07月16日 08:00
 - [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
@@ -78,6 +76,4 @@
 - [Programmable translational inhibition by a molecular glue-oligonucleotide conjugate](https://www.biorxiv.org/content/10.1101/2025.07.15.664547v1?rss=1) / 07月16日 08:00
 - [Genomic and epidemiologic characteristics of SARS-CoV-2 persistent infections in California, January 2021 - July 2023](https://www.biorxiv.org/content/10.1101/2025.07.14.664650v1?rss=1) / 07月16日 08:00
 - [Gene model for the ortholog of tgo in Drosophila pseudoobscura](https://www.biorxiv.org/content/10.1101/2025.07.13.664599v1?rss=1) / 07月16日 08:00
-- [Genome doubling fuels ovarian cancer evolution and immune dysregulation](https://www.nature.com/articles/d41586-025-02059-y) / 07月16日 08:00
-- [Birds use a tiny RNA fragment to balance sex chromosomes](https://www.nature.com/articles/d41586-025-02208-3) / 07月16日 08:00
 <!--rss-papers:end-->
