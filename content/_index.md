@@ -44,6 +44,12 @@
 <!--rss-papers:start-->
 **今日更新**
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 08:00
+- [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 08:00
+- [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 08:00
+- [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 08:00
+- [Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria](https://www.nature.com/articles/s41467-025-61152-y) / 08:00
+- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 08:00
+- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 08:00
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
 - [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
@@ -74,10 +80,4 @@
 - [Gene model for the ortholog of tgo in Drosophila pseudoobscura](https://www.biorxiv.org/content/10.1101/2025.07.13.664599v1?rss=1) / 07月16日 08:00
 - [Genome doubling fuels ovarian cancer evolution and immune dysregulation](https://www.nature.com/articles/d41586-025-02059-y) / 07月16日 08:00
 - [Birds use a tiny RNA fragment to balance sex chromosomes](https://www.nature.com/articles/d41586-025-02208-3) / 07月16日 08:00
-- [A telomere-to-telomere reference genome assembly of the red silk cotton tree (Bombax ceiba)](https://www.nature.com/articles/s41597-025-05606-4) / 07月16日 08:00
-- [Uncovering genetic diversity and admixture of British Africans with HLA alleles inferred from whole genome sequencing](https://www.nature.com/articles/s41431-025-01888-9) / 07月16日 08:00
-- [Transcriptional changes across tissue and time provide molecular insights into a therapeutic window of opportunity following traumatic stress exposure](https://www.nature.com/articles/s41398-025-03451-y) / 07月16日 08:00
-- [Toward improving multiomic research in understudied cereals](https://www.nature.com/articles/s41588-025-02245-8) / 07月16日 08:00
-- [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
-- [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 07月16日 08:00
 <!--rss-papers:end-->
