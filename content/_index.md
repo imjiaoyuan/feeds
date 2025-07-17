@@ -1,6 +1,7 @@
 # Blog Posts
 <!--rss-blogs:start-->
 **今日更新**
+- [AI 编码方法论：从探索到精进的系统化实践](https://innei.in/posts/tech/ai-coding-methodology-systematic-practice) / 23:07
 - [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) / 08:00
 
 **历史记录**
@@ -37,7 +38,6 @@
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 - [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
-- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
