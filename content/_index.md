@@ -40,6 +40,9 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 08:00
+
 **历史记录**
 - [Mapping the Metalloproteome of Deinococcus indicus DR1 through Integrative Structure and Function Annotation](https://www.biorxiv.org/content/10.1101/2025.07.11.664487v1?rss=1) / 07月17日 08:00
 - [MGMG: Cell Morphology-Guided Molecule Generation for Drug Discovery](https://www.biorxiv.org/content/10.1101/2025.07.11.664424v1?rss=1) / 07月17日 08:00
@@ -75,5 +78,4 @@
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
 - [Abnormal development of gastrointestinal system of homozygous Foxp2(R552H)-mutated mice](https://www.nature.com/articles/s42003-025-08468-z) / 07月17日 08:00
 - [Urolithin A suppressed osteosarcoma cell migration and invasion via targeting MMPs and AKT1](https://www.nature.com/articles/s41598-025-11804-2) / 07月17日 08:00
-- [Modulating depressive-like behaviors, memory impairment, and oxidative stress in chronic stress rat model using visible light therapy](https://www.nature.com/articles/s41598-025-10854-w) / 07月17日 08:00
 <!--rss-papers:end-->
