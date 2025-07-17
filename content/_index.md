@@ -61,6 +61,7 @@
 - [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 07月16日 08:00
 - [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 07月16日 08:00
 - [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 07月16日 08:00
+- [Uncovering the Genetic Blueprint of the UAE's National Tree: Genomic Evidence to Guide Prosopis cineraria (L.) Druce Conservation](https://www.biorxiv.org/content/10.1101/2025.07.15.663052v1?rss=1) / 07月16日 08:00
 - [Regionalization of gene expression and cell types in the silk gland of the pantry moth Plodia interpunctella](https://www.biorxiv.org/content/10.1101/2025.07.11.664249v1?rss=1) / 07月16日 08:00
 - [Isoform-specific single-cell perturb-seq reveals distinct functions of alternative promoters in drug response](https://www.biorxiv.org/content/10.1101/2025.07.14.664827v1?rss=1) / 07月16日 08:00
 - [Distribution Patterns of rRNA Copy Number Repeats in Prokaryotic Genomes](https://www.biorxiv.org/content/10.1101/2025.07.15.664977v1?rss=1) / 07月16日 08:00
@@ -77,5 +78,4 @@
 - [Toward improving multiomic research in understudied cereals](https://www.nature.com/articles/s41588-025-02245-8) / 07月16日 08:00
 - [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 - [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 07月16日 08:00
-- [Integrative genomic reconstruction reveals heterogeneity in carbohydrate utilization across human gut bifidobacteria](https://www.nature.com/articles/s41564-025-02056-x) / 07月16日 08:00
 <!--rss-papers:end-->
