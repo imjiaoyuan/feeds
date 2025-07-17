@@ -42,7 +42,6 @@
 <!--rss-papers:start-->
 **今日更新**
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
-- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
 
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
@@ -57,6 +56,8 @@
 - [Kandinsky: enabling neighbourhood analysis of spatial omics data for functional insights on cell ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.10.664141v1?rss=1) / 07月16日 08:00
 - [piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE](https://www.biorxiv.org/content/10.1101/2025.07.13.664626v1?rss=1) / 07月16日 08:00
 - [A pathway-informed mutual exclusivity framework to detect genetic interactions in pediatric cancer](https://www.biorxiv.org/content/10.1101/2025.07.14.664743v1?rss=1) / 07月16日 08:00
+- [Regionalization of gene expression and cell types in the silk gland of the pantry moth Plodia interpunctella](https://www.biorxiv.org/content/10.1101/2025.07.11.664249v1?rss=1) / 07月16日 08:00
+- [Isoform-specific single-cell perturb-seq reveals distinct functions of alternative promoters in drug response](https://www.biorxiv.org/content/10.1101/2025.07.14.664827v1?rss=1) / 07月16日 08:00
 - [Distribution Patterns of rRNA Copy Number Repeats in Prokaryotic Genomes](https://www.biorxiv.org/content/10.1101/2025.07.15.664977v1?rss=1) / 07月16日 08:00
 - [Alpha satellite RNA marks the perinucleolar compartment and represses ribosomal RNA expression in naïve human embryonic stem cells](https://www.biorxiv.org/content/10.1101/2025.07.11.664446v1?rss=1) / 07月16日 08:00
 - [Helitrons are enriched in lichenized fungi with long generation lengths and small distribution sizes](https://www.biorxiv.org/content/10.1101/2025.07.11.664412v1?rss=1) / 07月16日 08:00
@@ -75,7 +76,6 @@
 - [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 07月16日 08:00
 - [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
 - [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
-- [Cluster-independent multiscale marker identification in single-cell RNA-seq data using localized marker detector (LMD)](https://www.nature.com/articles/s42003-025-08485-y) / 07月16日 08:00
 - [A reliable score-based routing protocol using a fog-assisted intrusion detection system in vehicular ad-hoc networks](https://www.nature.com/articles/s41598-025-08228-3) / 07月16日 08:00
-- [Fusion of microscopic and diffraction images with VGG net for budding yeast recognition in imaging flow cytometry](https://www.nature.com/articles/s41598-025-09320-4) / 07月16日 08:00
+- [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 <!--rss-papers:end-->
