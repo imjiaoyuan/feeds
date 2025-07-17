@@ -42,9 +42,6 @@
 <!--rss-papers:start-->
 **今日更新**
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 08:00
-- [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 08:00
-- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 08:00
-- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 08:00
 
 **历史记录**
 - [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
@@ -78,4 +75,7 @@
 - [Mapping cell fate transition in space and time](https://www.nature.com/articles/s41587-025-02704-x) / 07月16日 08:00
 - [In Silico tool for predicting, designing and scanning IL-2 inducing peptides](https://www.nature.com/articles/s41598-025-08388-2) / 07月16日 08:00
 - [Integrative genomic reconstruction reveals heterogeneity in carbohydrate utilization across human gut bifidobacteria](https://www.nature.com/articles/s41564-025-02056-x) / 07月16日 08:00
+- [Author Correction: Neutrophil extracellular traps mediate the crosstalk between plaque microenvironment and unstable carotid plaque formation](https://www.nature.com/articles/s12276-025-01479-0) / 07月16日 08:00
+- [Enhancing pathological feature discrimination in diabetic retinopathy multi-classification with self-paced progressive multi-scale training](https://www.nature.com/articles/s41598-025-07050-1) / 07月16日 08:00
+- [A fine tuned EfficientNet-B0 convolutional neural network for accurate and efficient classification of apple leaf diseases](https://www.nature.com/articles/s41598-025-04479-2) / 07月16日 08:00
 <!--rss-papers:end-->
