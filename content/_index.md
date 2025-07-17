@@ -53,6 +53,7 @@
 - [A multi-omics analysis of human fibroblasts overexpressing an Alu transposon reveals widespread disruptions in aging-associated pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664466v1?rss=1) / 07月17日 08:00
 - [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
+- [A chromosomal-level genome assembly of Odontolabis cuvera Hope, 1842 (Coleoptera: Lucanidae)](https://www.nature.com/articles/s41597-025-05613-5) / 07月17日 08:00
 - [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
 - [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
 - [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 07月17日 08:00
@@ -75,5 +76,4 @@
 - [Comparison of state-of-the-art error-correction coding for sequence-based DNA data storage](https://www.biorxiv.org/content/10.1101/2025.07.11.664297v1?rss=1) / 07月16日 08:00
 - [Interactive data analysis and reporting with SCIFR: A Single-File SPA Approach](https://www.biorxiv.org/content/10.1101/2025.07.10.664259v1?rss=1) / 07月16日 08:00
 - [OrthoFinder: scalable phylogenetic orthology inference for comparative genomics](https://www.biorxiv.org/content/10.1101/2025.07.15.664860v1?rss=1) / 07月16日 08:00
-- [Multi-omics integration reveals sex-based differences in the circulating extracellular vesicle lipidome and miRNome of alcohol use disorder patients](https://www.biorxiv.org/content/10.1101/2025.07.15.664861v1?rss=1) / 07月16日 08:00
 <!--rss-papers:end-->
