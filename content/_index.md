@@ -49,31 +49,31 @@
 - [SVPG: A pangenome-based structural variant detection approach and rapid augmentation of pangenome graphs with new samples](https://www.biorxiv.org/content/10.1101/2025.07.11.664486v1?rss=1) / 07月17日 08:00
 - [A periodic table of bacteria?: Mapping bacterial diversity in trait space](https://www.biorxiv.org/content/10.1101/2025.07.11.664459v1?rss=1) / 07月17日 08:00
 - [Improving causal effect estimation in multi-ancestry multivariable Mendelian randomization with transfer learning](https://www.biorxiv.org/content/10.1101/2025.07.11.664423v1?rss=1) / 07月17日 08:00
+- [Characterisation of β-tubulin isotypes in Uncinaria stenocephala and implications for benzimidazole resistance in hookworms](https://www.biorxiv.org/content/10.1101/2025.07.12.664546v1?rss=1) / 07月17日 08:00
 - [Telomere replication stress-induced DNA damage response triggers inflammatory signaling via canonical and non-canonical STING pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664434v1?rss=1) / 07月17日 08:00
 - [A multi-omics analysis of human fibroblasts overexpressing an Alu transposon reveals widespread disruptions in aging-associated pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664466v1?rss=1) / 07月17日 08:00
 - [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
 - [A chromosomal-level genome assembly of Odontolabis cuvera Hope, 1842 (Coleoptera: Lucanidae)](https://www.nature.com/articles/s41597-025-05613-5) / 07月17日 08:00
+- [The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CÓDIGO): building local capacity in genomics and bioinformatics](https://www.nature.com/articles/s42003-025-08496-9) / 07月17日 08:00
 - [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
 - [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
 - [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 07月17日 08:00
+- [Evolving infectious disease dynamics shape school-based intervention effectiveness](https://www.nature.com/articles/s41467-025-61925-5) / 07月17日 08:00
 - [Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria](https://www.nature.com/articles/s41467-025-61152-y) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
+- [Intelligent screening of narrow anterior chamber angle based on portable slit lamp](https://www.nature.com/articles/s41746-025-01853-2) / 07月17日 08:00
 - [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 07月17日 08:00
 - [How the world’s biggest bats got their enormous wingspans](https://www.nature.com/articles/d41586-025-02228-z) / 07月17日 08:00
 - [Phylogenetic comparative analysis of functional morphology sheds light on the evolution of seasonal migration in nightingale-thrushes (Turdidae: Catharus)](https://www.nature.com/articles/s41598-025-11396-x) / 07月17日 08:00
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 07月17日 08:00
 - [Multiple forms of balancing selection maintain inversion polymorphism](https://www.nature.com/articles/s41437-025-00780-y) / 07月17日 08:00
+- [A high-quality chromosome-scale genome assembly of Xingan mandarin (Citrus reticulata ‘Xingan’), a primitive Mandarin type](https://www.nature.com/articles/s41597-025-05577-6) / 07月17日 08:00
 - [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
+- [De novo designed protein guiding targeted protein degradation](https://www.nature.com/articles/s41467-025-62050-z) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
-- [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
-- [PromoterAtlas: decoding regulatory sequences across Gammaproteobacteria using a transformer model](https://www.biorxiv.org/content/10.1101/2025.07.11.664312v1?rss=1) / 07月16日 08:00
-- [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
-- [Comprehensive Error Profiling of NovaSeq6000, NovaSeqX, and Salus Pro Using Overlapping Paired-End Reads](https://www.biorxiv.org/content/10.1101/2025.07.15.665004v1?rss=1) / 07月16日 08:00
-- [Robust inference of cancer progression pathways using Conjunctive Bayesian Networks](https://www.biorxiv.org/content/10.1101/2025.07.15.663924v1?rss=1) / 07月16日 08:00
-- [Auto-MedCalc: Automated Biomarkers Discovery and Risk Score Generation with AI Agents](https://www.biorxiv.org/content/10.1101/2025.07.10.664265v1?rss=1) / 07月16日 08:00
-- [Comparison of state-of-the-art error-correction coding for sequence-based DNA data storage](https://www.biorxiv.org/content/10.1101/2025.07.11.664297v1?rss=1) / 07月16日 08:00
-- [Interactive data analysis and reporting with SCIFR: A Single-File SPA Approach](https://www.biorxiv.org/content/10.1101/2025.07.10.664259v1?rss=1) / 07月16日 08:00
-- [OrthoFinder: scalable phylogenetic orthology inference for comparative genomics](https://www.biorxiv.org/content/10.1101/2025.07.15.664860v1?rss=1) / 07月16日 08:00
+- [Abnormal development of gastrointestinal system of homozygous Foxp2(R552H)-mutated mice](https://www.nature.com/articles/s42003-025-08468-z) / 07月17日 08:00
+- [Urolithin A suppressed osteosarcoma cell migration and invasion via targeting MMPs and AKT1](https://www.nature.com/articles/s41598-025-11804-2) / 07月17日 08:00
+- [Modulating depressive-like behaviors, memory impairment, and oxidative stress in chronic stress rat model using visible light therapy](https://www.nature.com/articles/s41598-025-10854-w) / 07月17日 08:00
 <!--rss-papers:end-->
