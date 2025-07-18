@@ -13,6 +13,7 @@
 - [夏日南京游AI乐章](https://innei.in/notes/195) / 07月12日 12:53
 - [初探 Context Engineering](https://innei.in/posts/programming/exploring-context-engineering) / 07月12日 01:34
 - [科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html) / 07月11日 08:00
+- [我从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) / 07月10日 08:00
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 07月09日 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 07月09日 17:09
 - [迎风而立](https://www.wordpace.com/standing-tall-against-the-wind/) / 07月08日 21:53
@@ -37,19 +38,10 @@
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
-- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 08:00
-- [Automated seafood freshness detection and preservation analysis using machine learning and paper-based pH sensors](https://www.nature.com/articles/s41598-025-08177-x) / 08:00
-- [Generating brain-wide connectome using synthetic axonal morphologies](https://www.nature.com/articles/s41467-025-62030-3) / 08:00
-- [Integrative multi-omics and machine learning reveal critical functions of proliferating cells in prognosis and personalized treatment of lung adenocarcinoma](https://www.nature.com/articles/s41698-025-01027-z) / 08:00
-- [Shift in the urinary metabolome associated with 2,3,7,8-tetrachlorodibenzo-p-dioxin activation of the hepatic aryl hydrocarbon receptor](https://www.nature.com/articles/s41598-025-11772-7) / 08:00
-- [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 08:00
-
 **历史记录**
 - [SAME: Topology-flexible transforms enable robust integration of multimodal spatial omics](https://www.biorxiv.org/content/10.1101/2025.07.12.664419v1?rss=1) / 07月17日 08:00
 - [Peer victimization and subsequent cognitive-affective biases in threat attention, reactivity, and interpretation](https://www.biorxiv.org/content/10.1101/2025.07.12.664449v1?rss=1) / 07月17日 08:00
@@ -73,11 +65,17 @@
 - [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
 - [A chromosomal-level genome assembly of Odontolabis cuvera Hope, 1842 (Coleoptera: Lucanidae)](https://www.nature.com/articles/s41597-025-05613-5) / 07月17日 08:00
-- [The Consortium for Genomic Diversity, Ancestry, and Health in Colombia (CÓDIGO): building local capacity in genomics and bioinformatics](https://www.nature.com/articles/s42003-025-08496-9) / 07月17日 08:00
 - [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
 - [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
 - [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 07月17日 08:00
-- [Evolving infectious disease dynamics shape school-based intervention effectiveness](https://www.nature.com/articles/s41467-025-61925-5) / 07月17日 08:00
 - [Global dissemination of npmA mediated pan-aminoglycoside resistance via a mobile genetic element in Gram-positive bacteria](https://www.nature.com/articles/s41467-025-61152-y) / 07月17日 08:00
+- [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
+- [Shared pathogenic mechanisms linking obesity and idiopathic pulmonary fibrosis revealed by bioinformatics and in vivo validation](https://www.nature.com/articles/s41598-025-12046-y) / 07月17日 08:00
+- [How the world’s biggest bats got their enormous wingspans](https://www.nature.com/articles/d41586-025-02228-z) / 07月17日 08:00
+- [Phylogenetic comparative analysis of functional morphology sheds light on the evolution of seasonal migration in nightingale-thrushes (Turdidae: Catharus)](https://www.nature.com/articles/s41598-025-11396-x) / 07月17日 08:00
+- [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 07月17日 08:00
+- [Multiple forms of balancing selection maintain inversion polymorphism](https://www.nature.com/articles/s41437-025-00780-y) / 07月17日 08:00
+- [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
+- [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
 <!--rss-papers:end-->
