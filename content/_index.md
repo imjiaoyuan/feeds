@@ -61,6 +61,7 @@
 - [Fast parameterization of Martini3 models for fragments and small molecules](https://www.biorxiv.org/content/10.1101/2025.07.13.664596v1?rss=1) / 07月18日 08:00
 - [RNA-xLSTM: Evaluating xLSTM as an Alternative Foundation to Transformers in RNA Modeling](https://www.biorxiv.org/content/10.1101/2025.07.14.664653v1?rss=1) / 07月18日 08:00
 - [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 07月18日 08:00
+- [Ancient retrotransposon-derived promoters for mammalian genomic imprinting](https://www.biorxiv.org/content/10.1101/2025.07.14.664778v1?rss=1) / 07月18日 08:00
 - [Single-molecule sequencing maps replication dynamics across the fission yeast genome, including centromeres](https://www.biorxiv.org/content/10.1101/2025.07.16.665067v1?rss=1) / 07月18日 08:00
 - [The Polycistronic Transcription Landscape of the Populus Genome](https://www.biorxiv.org/content/10.1101/2025.07.17.665350v1?rss=1) / 07月18日 08:00
 - [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
@@ -72,8 +73,7 @@
 - [Modelling complex traits with ancestral recombination graphs](https://www.biorxiv.org/content/10.1101/2025.07.14.664631v1?rss=1) / 07月18日 08:00
 - [Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques](https://www.biorxiv.org/content/10.1101/2025.07.13.664445v1?rss=1) / 07月18日 08:00
 - [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 07月18日 08:00
+- [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 07月18日 08:00
 - [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 07月18日 08:00
 - [Scalable topic modelling decodes spatial tissue architecture for large-scale multiplexed imaging analysis](https://www.nature.com/articles/s41467-025-61821-y) / 07月18日 08:00
-- [Artificial intelligence advances skull stripping across lifespan](https://www.nature.com/articles/s41551-025-01458-w) / 07月18日 08:00
-- [Automated seafood freshness detection and preservation analysis using machine learning and paper-based pH sensors](https://www.nature.com/articles/s41598-025-08177-x) / 07月18日 08:00
 <!--rss-papers:end-->
