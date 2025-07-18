@@ -41,6 +41,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.18.665519v1?rss=1) / 07月18日 08:00
+- [Improving ADMET prediction with descriptor augmentation of Mol2Vec embeddings](https://www.biorxiv.org/content/10.1101/2025.07.14.664363v1?rss=1) / 07月18日 08:00
+- [MACGA: Multi-scale Adaptive Convolution with Graph Attention for LncRNA-Disease Association Prediction](https://www.biorxiv.org/content/10.1101/2025.07.14.664702v1?rss=1) / 07月18日 08:00
+- [WitChi: Efficient Detection and Pruning of Compositional Bias in Phylogenomic Alignments Using Empirical Chi-Squared Testing](https://www.biorxiv.org/content/10.1101/2025.07.14.663642v1?rss=1) / 07月18日 08:00
+- [Molecularly informed analysis of histopathology images using natural language](https://www.biorxiv.org/content/10.1101/2025.07.14.664402v1?rss=1) / 07月18日 08:00
+- [pyRootHair: Machine Learning Accelerated Software for High-Throughput Phenotyping of Plant Root Hair Traits](https://www.biorxiv.org/content/10.1101/2025.07.14.664697v1?rss=1) / 07月18日 08:00
 - [rhinotypeR: An R package for Rhinovirus Genotyping](https://www.biorxiv.org/content/10.1101/2025.07.14.664540v1?rss=1) / 07月18日 08:00
 - [Mapping and Harmonization of CVX vaccine terms tothe Vaccine Ontology](https://www.biorxiv.org/content/10.1101/2025.07.15.664501v1?rss=1) / 07月18日 08:00
 - [AIPID: MAD-ML-Powered AIP Discovery Platform](https://www.biorxiv.org/content/10.1101/2025.07.14.664584v1?rss=1) / 07月18日 08:00
@@ -54,6 +60,8 @@
 - [Fast parameterization of Martini3 models for fragments and small molecules](https://www.biorxiv.org/content/10.1101/2025.07.13.664596v1?rss=1) / 07月18日 08:00
 - [RNA-xLSTM: Evaluating xLSTM as an Alternative Foundation to Transformers in RNA Modeling](https://www.biorxiv.org/content/10.1101/2025.07.14.664653v1?rss=1) / 07月18日 08:00
 - [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 07月18日 08:00
+- [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
+- [Direct detection of meiotic recombination events in the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664623v1?rss=1) / 07月18日 08:00
 - [A chromosome-level genome assembly and resequencing data reveal low DNA methylation and reduced diversity in the solitary bee pollinator Osmia cornuta](https://www.biorxiv.org/content/10.1101/2025.07.14.664667v1?rss=1) / 07月18日 08:00
 - [Impaired Sertoli-Spermatogonia Interactions Contribute to Oligospermia and Infertility in F1 Captive-bred Male Solea senegalensis](https://www.biorxiv.org/content/10.1101/2025.07.17.664418v1?rss=1) / 07月18日 08:00
 - [Programmed DNA elimination drives rapid genomic innovation in two thirds of all bird species](https://www.biorxiv.org/content/10.1101/2025.07.16.664580v1?rss=1) / 07月18日 08:00
@@ -68,12 +76,4 @@
 - [Automated seafood freshness detection and preservation analysis using machine learning and paper-based pH sensors](https://www.nature.com/articles/s41598-025-08177-x) / 07月18日 08:00
 - [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 07月18日 08:00
 - [Bering: joint cell segmentation and annotation for spatial transcriptomics with transferred graph embeddings](https://www.nature.com/articles/s41467-025-60898-9) / 07月18日 08:00
-- [Generating brain-wide connectome using synthetic axonal morphologies](https://www.nature.com/articles/s41467-025-62030-3) / 07月18日 08:00
-- [Comprehensive interaction modeling with machine learning improves prediction of disease risk in the UK Biobank](https://www.nature.com/articles/s41467-025-61891-y) / 07月18日 08:00
-- [Integrative multi-omics and machine learning reveal critical functions of proliferating cells in prognosis and personalized treatment of lung adenocarcinoma](https://www.nature.com/articles/s41698-025-01027-z) / 07月18日 08:00
-- [Using machine learning to discover DNA metabolism biomarkers that direct prostate cancer treatment](https://www.nature.com/articles/s41598-025-11457-1) / 07月18日 08:00
-- [New method for neuromodulation against pain using minimally invasive electrodes outside the epidural space](https://www.nature.com/articles/s41598-025-07750-8) / 07月18日 08:00
-- [Development of a clinical decision support system for breast cancer detection using ensemble deep learning](https://www.nature.com/articles/s41598-025-06784-2) / 07月18日 08:00
-- [Constructing a tumor immune microenvironment-driven prognostic model in acute myeloid leukemia using bioinformatics and validation data](https://www.nature.com/articles/s41598-025-03557-9) / 07月18日 08:00
-- [An in silico to in vivo approach identifies retinoid-X receptor activating tert-butylphenols used in food contact materials](https://www.nature.com/articles/s41598-025-09244-z) / 07月18日 08:00
 <!--rss-papers:end-->
