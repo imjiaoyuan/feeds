@@ -45,11 +45,27 @@
 **今日更新**
 - [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 08:00
 - [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 08:00
+- [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 08:00
+- [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 08:00
+- [Scalable topic modelling decodes spatial tissue architecture for large-scale multiplexed imaging analysis](https://www.nature.com/articles/s41467-025-61821-y) / 08:00
+- [Artificial intelligence advances skull stripping across lifespan](https://www.nature.com/articles/s41551-025-01458-w) / 08:00
+- [Automated seafood freshness detection and preservation analysis using machine learning and paper-based pH sensors](https://www.nature.com/articles/s41598-025-08177-x) / 08:00
+- [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 08:00
+- [Bering: joint cell segmentation and annotation for spatial transcriptomics with transferred graph embeddings](https://www.nature.com/articles/s41467-025-60898-9) / 08:00
+- [Generating brain-wide connectome using synthetic axonal morphologies](https://www.nature.com/articles/s41467-025-62030-3) / 08:00
+- [Comprehensive interaction modeling with machine learning improves prediction of disease risk in the UK Biobank](https://www.nature.com/articles/s41467-025-61891-y) / 08:00
+- [Integrative multi-omics and machine learning reveal critical functions of proliferating cells in prognosis and personalized treatment of lung adenocarcinoma](https://www.nature.com/articles/s41698-025-01027-z) / 08:00
+- [Development of a clinical decision support system for breast cancer detection using ensemble deep learning](https://www.nature.com/articles/s41598-025-06784-2) / 08:00
+- [An in silico to in vivo approach identifies retinoid-X receptor activating tert-butylphenols used in food contact materials](https://www.nature.com/articles/s41598-025-09244-z) / 08:00
+- [Author Correction: Evolutionary roots of the risk of hip fracture in humans](https://www.nature.com/articles/s42003-025-08498-7) / 08:00
+- [This ancient mega-predator was built for stealth](https://www.nature.com/articles/d41586-025-02304-4) / 08:00
 - [Single-cell expression profiling of bat wing development](https://www.nature.com/articles/s41467-025-61944-2) / 08:00
+- [Skeletal muscle lncRNA profile associated with fatty acids in Nellore beef cattle](https://www.nature.com/articles/s41598-025-11179-4) / 08:00
 - [Fluorescence-activated particle sorting for condensate purification](https://www.nature.com/articles/s41596-025-01216-x) / 08:00
 - [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 08:00
 - [Mutational spectrum of BRCA genes in Egyptian patients with breast cancer](https://www.nature.com/articles/s41598-025-09810-5) / 08:00
 - [Shift in the urinary metabolome associated with 2,3,7,8-tetrachlorodibenzo-p-dioxin activation of the hepatic aryl hydrocarbon receptor](https://www.nature.com/articles/s41598-025-11772-7) / 08:00
+- [Role of S-palmitoylation in digestive system diseases](https://www.nature.com/articles/s41420-025-02629-z) / 08:00
 - [Interplay of plasma Oxytocin and oxytocin receptor gene methylation levels on empathy in older adults](https://www.nature.com/articles/s41598-025-07353-3) / 08:00
 - [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 08:00
 - [Conservation of Verbascum sinaiticum Benth using innovative tissue culture technique and DNA barcoding](https://www.nature.com/articles/s41598-025-10968-1) / 08:00
@@ -64,20 +80,4 @@
 - [High-Accuracy, Ultrafast DNA Barcode Identification via Statistical Sketching and Approximate Nearest Neighbor Search](https://www.biorxiv.org/content/10.1101/2025.07.13.664560v1?rss=1) / 07月17日 08:00
 - [Bacteriocin Prediction Through Cross-Validation-Based and Hypergraph-Based Feature Evaluation Approaches](https://www.biorxiv.org/content/10.1101/2025.07.12.664537v1?rss=1) / 07月17日 08:00
 - [Evaluating large language models in biomedical data science challenges through a classroom experiment](https://www.biorxiv.org/content/10.1101/2025.07.12.664517v1?rss=1) / 07月17日 08:00
-- [Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC](https://www.biorxiv.org/content/10.1101/2025.07.12.663845v1?rss=1) / 07月17日 08:00
-- [Mapping the Metalloproteome of Deinococcus indicus DR1 through Integrative Structure and Function Annotation](https://www.biorxiv.org/content/10.1101/2025.07.11.664487v1?rss=1) / 07月17日 08:00
-- [MGMG: Cell Morphology-Guided Molecule Generation for Drug Discovery](https://www.biorxiv.org/content/10.1101/2025.07.11.664424v1?rss=1) / 07月17日 08:00
-- [mm2-ivh: simple and precise overlap detection in alpha satellite HORs with interval hashing](https://www.biorxiv.org/content/10.1101/2025.07.11.664273v1?rss=1) / 07月17日 08:00
-- [MiroSCOPE: An AI-driven digital pathology platform for annotating functional tissue units](https://www.biorxiv.org/content/10.1101/2025.07.11.664228v1?rss=1) / 07月17日 08:00
-- [Identifying associations between maize leaf transcriptome and bacteriome during different diurnal periods](https://www.biorxiv.org/content/10.1101/2025.07.11.664371v1?rss=1) / 07月17日 08:00
-- [SVPG: A pangenome-based structural variant detection approach and rapid augmentation of pangenome graphs with new samples](https://www.biorxiv.org/content/10.1101/2025.07.11.664486v1?rss=1) / 07月17日 08:00
-- [A periodic table of bacteria?: Mapping bacterial diversity in trait space](https://www.biorxiv.org/content/10.1101/2025.07.11.664459v1?rss=1) / 07月17日 08:00
-- [Improving causal effect estimation in multi-ancestry multivariable Mendelian randomization with transfer learning](https://www.biorxiv.org/content/10.1101/2025.07.11.664423v1?rss=1) / 07月17日 08:00
-- [Conservation of chromatin states and their association with transcription factors in land plants](https://www.biorxiv.org/content/10.1101/2025.07.12.664529v1?rss=1) / 07月17日 08:00
-- [A Complete Telomere-to-Telomere Diploid Reference Genome for Indian Population](https://www.biorxiv.org/content/10.1101/2025.07.12.664550v1?rss=1) / 07月17日 08:00
-- [Characterisation of β-tubulin isotypes in Uncinaria stenocephala and implications for benzimidazole resistance in hookworms](https://www.biorxiv.org/content/10.1101/2025.07.12.664546v1?rss=1) / 07月17日 08:00
-- [Telomere replication stress-induced DNA damage response triggers inflammatory signaling via canonical and non-canonical STING pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664434v1?rss=1) / 07月17日 08:00
-- [A multi-omics analysis of human fibroblasts overexpressing an Alu transposon reveals widespread disruptions in aging-associated pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664466v1?rss=1) / 07月17日 08:00
-- [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
-- [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
 <!--rss-papers:end-->
