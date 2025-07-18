@@ -46,6 +46,7 @@
 - [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 08:00
 - [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 08:00
 - [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 08:00
+- [Scalable topic modelling decodes spatial tissue architecture for large-scale multiplexed imaging analysis](https://www.nature.com/articles/s41467-025-61821-y) / 08:00
 - [Artificial intelligence advances skull stripping across lifespan](https://www.nature.com/articles/s41551-025-01458-w) / 08:00
 - [Automated seafood freshness detection and preservation analysis using machine learning and paper-based pH sensors](https://www.nature.com/articles/s41598-025-08177-x) / 08:00
 - [Generating brain-wide connectome using synthetic axonal morphologies](https://www.nature.com/articles/s41467-025-62030-3) / 08:00
@@ -79,5 +80,4 @@
 - [A periodic table of bacteria?: Mapping bacterial diversity in trait space](https://www.biorxiv.org/content/10.1101/2025.07.11.664459v1?rss=1) / 07月17日 08:00
 - [Improving causal effect estimation in multi-ancestry multivariable Mendelian randomization with transfer learning](https://www.biorxiv.org/content/10.1101/2025.07.11.664423v1?rss=1) / 07月17日 08:00
 - [Conservation of chromatin states and their association with transcription factors in land plants](https://www.biorxiv.org/content/10.1101/2025.07.12.664529v1?rss=1) / 07月17日 08:00
-- [A Complete Telomere-to-Telomere Diploid Reference Genome for Indian Population](https://www.biorxiv.org/content/10.1101/2025.07.12.664550v1?rss=1) / 07月17日 08:00
 <!--rss-papers:end-->
