@@ -1,5 +1,8 @@
 # Blog Posts
 <!--rss-blogs:start-->
+**今日更新**
+- [科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html) / 07:59
+
 **历史记录**
 - [AI 编码方法论：从探索到精进的系统化实践](https://innei.in/posts/tech/ai-coding-methodology-systematic-practice) / 07月17日 23:07
 - [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) / 07月17日 08:00
@@ -35,11 +38,14 @@
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
 - [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
-- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Shift in the urinary metabolome associated with 2,3,7,8-tetrachlorodibenzo-p-dioxin activation of the hepatic aryl hydrocarbon receptor](https://www.nature.com/articles/s41598-025-11772-7) / 08:00
+- [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 08:00
+
 **历史记录**
 - [Evaluating large language models in biomedical data science challenges through a classroom experiment](https://www.biorxiv.org/content/10.1101/2025.07.12.664517v1?rss=1) / 07月17日 08:00
 - [Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC](https://www.biorxiv.org/content/10.1101/2025.07.12.663845v1?rss=1) / 07月17日 08:00
@@ -67,13 +73,11 @@
 - [Phylogenetic comparative analysis of functional morphology sheds light on the evolution of seasonal migration in nightingale-thrushes (Turdidae: Catharus)](https://www.nature.com/articles/s41598-025-11396-x) / 07月17日 08:00
 - [New insights from the application of ZooMS to Late Pleistocene fauna from Grotta di Castelcivita, southern Italy](https://www.nature.com/articles/s41598-025-11355-6) / 07月17日 08:00
 - [Multiple forms of balancing selection maintain inversion polymorphism](https://www.nature.com/articles/s41437-025-00780-y) / 07月17日 08:00
+- [A high-quality chromosome-scale genome assembly of Xingan mandarin (Citrus reticulata ‘Xingan’), a primitive Mandarin type](https://www.nature.com/articles/s41597-025-05577-6) / 07月17日 08:00
 - [Q&A with Yael David and Charles Rice on using chromatin biology to understand hepatitis](https://www.nature.com/articles/s41594-025-01613-6) / 07月17日 08:00
 - [Small RNA in sperm–Paternal contributions to human embryo development](https://www.nature.com/articles/s41467-025-62015-2) / 07月17日 08:00
+- [De novo designed protein guiding targeted protein degradation](https://www.nature.com/articles/s41467-025-62050-z) / 07月17日 08:00
 - [Structure of an archaeal ribosome reveals a divergent active site and hibernation factor](https://www.nature.com/articles/s41564-025-02065-w) / 07月17日 08:00
-- [Gut microbial‐derived 3,4‐dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065?af=R) / 07月16日 14:28
-- [PromoterAtlas: decoding regulatory sequences across Gammaproteobacteria using a transformer model](https://www.biorxiv.org/content/10.1101/2025.07.11.664312v1?rss=1) / 07月16日 08:00
-- [Occupancy estimation of wild species in a palm oil plantation using unstructured data](https://www.biorxiv.org/content/10.1101/2025.07.11.664290v1?rss=1) / 07月16日 08:00
-- [Comprehensive Error Profiling of NovaSeq6000, NovaSeqX, and Salus Pro Using Overlapping Paired-End Reads](https://www.biorxiv.org/content/10.1101/2025.07.15.665004v1?rss=1) / 07月16日 08:00
-- [Robust inference of cancer progression pathways using Conjunctive Bayesian Networks](https://www.biorxiv.org/content/10.1101/2025.07.15.663924v1?rss=1) / 07月16日 08:00
-- [Auto-MedCalc: Automated Biomarkers Discovery and Risk Score Generation with AI Agents](https://www.biorxiv.org/content/10.1101/2025.07.10.664265v1?rss=1) / 07月16日 08:00
+- [Abnormal development of gastrointestinal system of homozygous Foxp2(R552H)-mutated mice](https://www.nature.com/articles/s42003-025-08468-z) / 07月17日 08:00
+- [Urolithin A suppressed osteosarcoma cell migration and invasion via targeting MMPs and AKT1](https://www.nature.com/articles/s41598-025-11804-2) / 07月17日 08:00
 <!--rss-papers:end-->
