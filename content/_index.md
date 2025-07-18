@@ -41,6 +41,12 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [TabSyM: A Generative Pipeline for Small Multi-Cohort Omics Tabular Data](https://www.biorxiv.org/content/10.1101/2025.07.14.664738v1?rss=1) / 07月18日 08:00
+- [Harnessing DNA Foundation Models for Cross-Species Transcription Factor Binding Site Prediction in Plant Genomes](https://www.biorxiv.org/content/10.1101/2025.07.14.664780v1?rss=1) / 07月18日 08:00
+- [Beyond protein functions: evaluating completeness, coherence, and consistency of genome-scale function annotations](https://www.biorxiv.org/content/10.1101/2025.07.14.664848v1?rss=1) / 07月18日 08:00
+- [Leviathan: A fast, memory-efficient, and scalable taxonomic and pathway profiler for next generation sequencing (pan)genome-resolved metagenomics and metatranscriptomics](https://www.biorxiv.org/content/10.1101/2025.07.14.664802v1?rss=1) / 07月18日 08:00
+- [Comparative analysis of eccDNA and circRNA tools shows increased accuracy of tool combination](https://www.biorxiv.org/content/10.1101/2025.07.14.664708v1?rss=1) / 07月18日 08:00
+- [CRESSENT: a Bioinformatic Toolkit to Explore and Improve ssDNA Virus Annotation](https://www.biorxiv.org/content/10.1101/2025.07.14.664782v1?rss=1) / 07月18日 08:00
 - [VaxKG: Integrating The Vaccine Ontology And VIOLIN For Advanced Vaccine Queries And LLM-Powered Chat Systems](https://www.biorxiv.org/content/10.1101/2025.07.15.664450v1?rss=1) / 07月18日 08:00
 - [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.18.665519v1?rss=1) / 07月18日 08:00
 - [Improving ADMET prediction with descriptor augmentation of Mol2Vec embeddings](https://www.biorxiv.org/content/10.1101/2025.07.14.664363v1?rss=1) / 07月18日 08:00
@@ -70,10 +76,4 @@
 - [Impaired Sertoli-Spermatogonia Interactions Contribute to Oligospermia and Infertility in F1 Captive-bred Male Solea senegalensis](https://www.biorxiv.org/content/10.1101/2025.07.17.664418v1?rss=1) / 07月18日 08:00
 - [Programmed DNA elimination drives rapid genomic innovation in two thirds of all bird species](https://www.biorxiv.org/content/10.1101/2025.07.16.664580v1?rss=1) / 07月18日 08:00
 - [Nuclear and mitochondrial genome assemblies of Indrella ampulla, a terrestrial gastropod endemic to the Western Ghats](https://www.biorxiv.org/content/10.1101/2025.07.14.664635v1?rss=1) / 07月18日 08:00
-- [Modelling complex traits with ancestral recombination graphs](https://www.biorxiv.org/content/10.1101/2025.07.14.664631v1?rss=1) / 07月18日 08:00
-- [Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques](https://www.biorxiv.org/content/10.1101/2025.07.13.664445v1?rss=1) / 07月18日 08:00
-- [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 07月18日 08:00
-- [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 07月18日 08:00
-- [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 07月18日 08:00
-- [Scalable topic modelling decodes spatial tissue architecture for large-scale multiplexed imaging analysis](https://www.nature.com/articles/s41467-025-61821-y) / 07月18日 08:00
 <!--rss-papers:end-->
