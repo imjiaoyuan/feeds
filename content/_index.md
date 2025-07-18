@@ -47,6 +47,7 @@
 - [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 08:00
 
 **历史记录**
+- [High-Accuracy, Ultrafast DNA Barcode Identification via Statistical Sketching and Approximate Nearest Neighbor Search](https://www.biorxiv.org/content/10.1101/2025.07.13.664560v1?rss=1) / 07月17日 08:00
 - [Bacteriocin Prediction Through Cross-Validation-Based and Hypergraph-Based Feature Evaluation Approaches](https://www.biorxiv.org/content/10.1101/2025.07.12.664537v1?rss=1) / 07月17日 08:00
 - [Evaluating large language models in biomedical data science challenges through a classroom experiment](https://www.biorxiv.org/content/10.1101/2025.07.12.664517v1?rss=1) / 07月17日 08:00
 - [Single-cell profiling of EZH2-mediated immune signaling perturbations in NSCLC](https://www.biorxiv.org/content/10.1101/2025.07.12.663845v1?rss=1) / 07月17日 08:00
@@ -63,7 +64,6 @@
 - [A multi-omics analysis of human fibroblasts overexpressing an Alu transposon reveals widespread disruptions in aging-associated pathways](https://www.biorxiv.org/content/10.1101/2025.07.11.664466v1?rss=1) / 07月17日 08:00
 - [Mitochondrial clone tracing within spatially intact human tissues](https://www.biorxiv.org/content/10.1101/2025.07.11.664452v1?rss=1) / 07月17日 08:00
 - [Transcriptomic responses to endurance exercise training in rats](https://www.biorxiv.org/content/10.1101/2025.07.11.664421v1?rss=1) / 07月17日 08:00
-- [A chromosomal-level genome assembly of Odontolabis cuvera Hope, 1842 (Coleoptera: Lucanidae)](https://www.nature.com/articles/s41597-025-05613-5) / 07月17日 08:00
 - [Mapping T helper cell targets with deep learning](https://www.nature.com/articles/s42256-025-01081-z) / 07月17日 08:00
 - [Adrenocortical carcinoma survival gene HMMR was identified as being targeted by fluorouracil and epirubicin using a gene coexpression network-based drug repositioning strategy](https://www.nature.com/articles/s41598-025-10452-w) / 07月17日 08:00
 - [Identifying the crucial oncogenic mechanisms of DDX56 based on a machine learning-based integration model of RNA-binding proteins](https://www.nature.com/articles/s41698-025-01039-9) / 07月17日 08:00
