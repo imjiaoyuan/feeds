@@ -41,16 +41,27 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [rhinotypeR: An R package for Rhinovirus Genotyping](https://www.biorxiv.org/content/10.1101/2025.07.14.664540v1?rss=1) / 07月18日 08:00
+- [Mapping and Harmonization of CVX vaccine terms tothe Vaccine Ontology](https://www.biorxiv.org/content/10.1101/2025.07.15.664501v1?rss=1) / 07月18日 08:00
+- [AIPID: MAD-ML-Powered AIP Discovery Platform](https://www.biorxiv.org/content/10.1101/2025.07.14.664584v1?rss=1) / 07月18日 08:00
+- [Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum](https://www.biorxiv.org/content/10.1101/2025.07.14.664425v1?rss=1) / 07月18日 08:00
+- [Enhancing STED Microscopy via Fluorescence Lifetime Unmixing and Filtering in Two-Species SPLIT-STED](https://www.biorxiv.org/content/10.1101/2025.07.17.661952v1?rss=1) / 07月18日 08:00
+- [AtlasAgent: Vision language model and Agent-guided Framework for Evaluation of Atlas-scale Single-cell Integration](https://www.biorxiv.org/content/10.1101/2025.07.15.663271v1?rss=1) / 07月18日 08:00
+- [Plastic-hydrolytic enzyme classification using explainable deep learning](https://www.biorxiv.org/content/10.1101/2025.07.14.664602v1?rss=1) / 07月18日 08:00
 - [Improved Mutation Detection in Duplex Sequencing Data with Sample-Specific Error Profiles](https://www.biorxiv.org/content/10.1101/2025.07.13.664565v1?rss=1) / 07月18日 08:00
 - [traceax: a JAX-based framework for stochastic trace estimation](https://www.biorxiv.org/content/10.1101/2025.07.14.662216v1?rss=1) / 07月18日 08:00
 - [From 2D to 4D: a Containerized Workflow and Browser to Explore Dynamic Chromatin Architecture](https://www.biorxiv.org/content/10.1101/2025.07.13.664622v1?rss=1) / 07月18日 08:00
 - [Fast parameterization of Martini3 models for fragments and small molecules](https://www.biorxiv.org/content/10.1101/2025.07.13.664596v1?rss=1) / 07月18日 08:00
 - [RNA-xLSTM: Evaluating xLSTM as an Alternative Foundation to Transformers in RNA Modeling](https://www.biorxiv.org/content/10.1101/2025.07.14.664653v1?rss=1) / 07月18日 08:00
 - [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 07月18日 08:00
+- [A chromosome-level genome assembly and resequencing data reveal low DNA methylation and reduced diversity in the solitary bee pollinator Osmia cornuta](https://www.biorxiv.org/content/10.1101/2025.07.14.664667v1?rss=1) / 07月18日 08:00
+- [Impaired Sertoli-Spermatogonia Interactions Contribute to Oligospermia and Infertility in F1 Captive-bred Male Solea senegalensis](https://www.biorxiv.org/content/10.1101/2025.07.17.664418v1?rss=1) / 07月18日 08:00
+- [Programmed DNA elimination drives rapid genomic innovation in two thirds of all bird species](https://www.biorxiv.org/content/10.1101/2025.07.16.664580v1?rss=1) / 07月18日 08:00
 - [Nuclear and mitochondrial genome assemblies of Indrella ampulla, a terrestrial gastropod endemic to the Western Ghats](https://www.biorxiv.org/content/10.1101/2025.07.14.664635v1?rss=1) / 07月18日 08:00
 - [Modelling complex traits with ancestral recombination graphs](https://www.biorxiv.org/content/10.1101/2025.07.14.664631v1?rss=1) / 07月18日 08:00
 - [Age and early life adversity shape heterogeneity of the epigenome across tissues in macaques](https://www.biorxiv.org/content/10.1101/2025.07.13.664445v1?rss=1) / 07月18日 08:00
 - [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 07月18日 08:00
+- [Assisting and accelerating NMR assignment with restrained structure prediction](https://www.nature.com/articles/s42003-025-08466-1) / 07月18日 08:00
 - [A comprehensive explainable AI approach for enhancing transparency and interpretability in stroke prediction](https://www.nature.com/articles/s41598-025-11263-9) / 07月18日 08:00
 - [Scalable topic modelling decodes spatial tissue architecture for large-scale multiplexed imaging analysis](https://www.nature.com/articles/s41467-025-61821-y) / 07月18日 08:00
 - [Artificial intelligence advances skull stripping across lifespan](https://www.nature.com/articles/s41551-025-01458-w) / 07月18日 08:00
@@ -60,20 +71,9 @@
 - [Generating brain-wide connectome using synthetic axonal morphologies](https://www.nature.com/articles/s41467-025-62030-3) / 07月18日 08:00
 - [Comprehensive interaction modeling with machine learning improves prediction of disease risk in the UK Biobank](https://www.nature.com/articles/s41467-025-61891-y) / 07月18日 08:00
 - [Integrative multi-omics and machine learning reveal critical functions of proliferating cells in prognosis and personalized treatment of lung adenocarcinoma](https://www.nature.com/articles/s41698-025-01027-z) / 07月18日 08:00
+- [Using machine learning to discover DNA metabolism biomarkers that direct prostate cancer treatment](https://www.nature.com/articles/s41598-025-11457-1) / 07月18日 08:00
+- [New method for neuromodulation against pain using minimally invasive electrodes outside the epidural space](https://www.nature.com/articles/s41598-025-07750-8) / 07月18日 08:00
 - [Development of a clinical decision support system for breast cancer detection using ensemble deep learning](https://www.nature.com/articles/s41598-025-06784-2) / 07月18日 08:00
+- [Constructing a tumor immune microenvironment-driven prognostic model in acute myeloid leukemia using bioinformatics and validation data](https://www.nature.com/articles/s41598-025-03557-9) / 07月18日 08:00
 - [An in silico to in vivo approach identifies retinoid-X receptor activating tert-butylphenols used in food contact materials](https://www.nature.com/articles/s41598-025-09244-z) / 07月18日 08:00
-- [Author Correction: Evolutionary roots of the risk of hip fracture in humans](https://www.nature.com/articles/s42003-025-08498-7) / 07月18日 08:00
-- [This ancient mega-predator was built for stealth](https://www.nature.com/articles/d41586-025-02304-4) / 07月18日 08:00
-- [Single-cell expression profiling of bat wing development](https://www.nature.com/articles/s41467-025-61944-2) / 07月18日 08:00
-- [Skeletal muscle lncRNA profile associated with fatty acids in Nellore beef cattle](https://www.nature.com/articles/s41598-025-11179-4) / 07月18日 08:00
-- [Fluorescence-activated particle sorting for condensate purification](https://www.nature.com/articles/s41596-025-01216-x) / 07月18日 08:00
-- [Chromosome-level genome assembly and annotation of Petunia hybrida](https://www.nature.com/articles/s41597-025-05553-0) / 07月18日 08:00
-- [Mutational spectrum of BRCA genes in Egyptian patients with breast cancer](https://www.nature.com/articles/s41598-025-09810-5) / 07月18日 08:00
-- [Shift in the urinary metabolome associated with 2,3,7,8-tetrachlorodibenzo-p-dioxin activation of the hepatic aryl hydrocarbon receptor](https://www.nature.com/articles/s41598-025-11772-7) / 07月18日 08:00
-- [Role of S-palmitoylation in digestive system diseases](https://www.nature.com/articles/s41420-025-02629-z) / 07月18日 08:00
-- [Interplay of plasma Oxytocin and oxytocin receptor gene methylation levels on empathy in older adults](https://www.nature.com/articles/s41598-025-07353-3) / 07月18日 08:00
-- [Targeting epigenetic regulators as a promising avenue to overcome cancer therapy resistance](https://www.nature.com/articles/s41392-025-02266-z) / 07月18日 08:00
-- [Conservation of Verbascum sinaiticum Benth using innovative tissue culture technique and DNA barcoding](https://www.nature.com/articles/s41598-025-10968-1) / 07月18日 08:00
-- [Plant microRNA maturation and function](https://www.nature.com/articles/s41580-025-00871-y) / 07月18日 08:00
-- [Distribution patterns of N6-methyladenine in the rye genome](https://www.nature.com/articles/s41598-025-11699-z) / 07月18日 08:00
 <!--rss-papers:end-->
