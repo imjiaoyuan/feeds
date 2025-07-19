@@ -15,6 +15,7 @@
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 07月09日 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 07月09日 17:09
 - [迎风而立](https://www.wordpace.com/standing-tall-against-the-wind/) / 07月08日 21:53
+- [AI 需要有自己的人生](https://1q43.blog/post/11687/) / 07月08日 10:48
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 07月08日 08:30
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 07月06日 09:22
 - [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 07月06日 09:11
@@ -25,17 +26,16 @@
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
+- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
+- [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
-- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
-- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
-- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
