@@ -40,7 +40,11 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 08:00
+
 **历史记录**
+- [Quality control of single-cell ATAC-seq data without peak calling using Chromap](https://www.biorxiv.org/content/10.1101/2025.07.15.664951v1?rss=1) / 07月18日 08:00
 - [Ensemble-based genomic prediction for maize flowering time reveals novel insights into trait genetic architecture and improves prediction for breeding applications](https://www.biorxiv.org/content/10.1101/2025.07.15.664852v1?rss=1) / 07月18日 08:00
 - [Identifying intervention strategies from machine learning models with COALA: a counterfactual optimization framework](https://www.biorxiv.org/content/10.1101/2025.07.18.664723v1?rss=1) / 07月18日 08:00
 - [Identifying the Minimal Number of Protein Markers for Cell Type Annotation Using MiniMarS](https://www.biorxiv.org/content/10.1101/2025.07.14.664825v1?rss=1) / 07月18日 08:00
@@ -70,10 +74,8 @@
 - [From 2D to 4D: a Containerized Workflow and Browser to Explore Dynamic Chromatin Architecture](https://www.biorxiv.org/content/10.1101/2025.07.13.664622v1?rss=1) / 07月18日 08:00
 - [Fast parameterization of Martini3 models for fragments and small molecules](https://www.biorxiv.org/content/10.1101/2025.07.13.664596v1?rss=1) / 07月18日 08:00
 - [RNA-xLSTM: Evaluating xLSTM as an Alternative Foundation to Transformers in RNA Modeling](https://www.biorxiv.org/content/10.1101/2025.07.14.664653v1?rss=1) / 07月18日 08:00
-- [A Deep Learning-based Method for Drug Molecule Representation and Property Prediction](https://www.biorxiv.org/content/10.1101/2025.07.15.665023v1?rss=1) / 07月18日 08:00
+- [An atlas of positive selection in the genomes of major malaria vectors](https://www.biorxiv.org/content/10.1101/2025.07.16.664900v1?rss=1) / 07月18日 08:00
 - [Ancient retrotransposon-derived promoters for mammalian genomic imprinting](https://www.biorxiv.org/content/10.1101/2025.07.14.664778v1?rss=1) / 07月18日 08:00
 - [Single-molecule sequencing maps replication dynamics across the fission yeast genome, including centromeres](https://www.biorxiv.org/content/10.1101/2025.07.16.665067v1?rss=1) / 07月18日 08:00
 - [The Polycistronic Transcription Landscape of the Populus Genome](https://www.biorxiv.org/content/10.1101/2025.07.17.665350v1?rss=1) / 07月18日 08:00
-- [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
-- [Direct detection of meiotic recombination events in the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664623v1?rss=1) / 07月18日 08:00
 <!--rss-papers:end-->
