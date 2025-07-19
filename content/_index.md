@@ -15,7 +15,6 @@
 - [PIVOT Vol.18 这期有 21 个链接](https://anotherdayu.com/2025/7071/) / 07月09日 20:52
 - [柳州见闻](https://imzm.im/travel-in-liu-zhou/) / 07月09日 17:09
 - [迎风而立](https://www.wordpace.com/standing-tall-against-the-wind/) / 07月08日 21:53
-- [AI 需要有自己的人生](https://1q43.blog/post/11687/) / 07月08日 10:48
 - [周报 #98 - 生活之书与 Agentic Coding](https://www.pseudoyu.com/posts/weekly_review_98) / 07月08日 08:30
 - [周刊第15期：Nat Friedman 和 Derek Sivers 的自我介绍](https://hutusi.com/weeklies/15) / 07月06日 09:22
 - [＃3 - 加速的时代、迷失的个体与向外寻找的治愈方式](https://polebug.github.io/2025/07/06/plog_3/) / 07月06日 09:11
@@ -26,31 +25,21 @@
 - [小暑 | 2025 年 6 月小结](https://thirdshire.com/june-recap-2025/) / 07月03日 12:00
 - [读《学习型组织笔记》](https://manateelazycat.github.io/2025/07/03/notes-on-learning-drganiz-actions/) / 07月03日 00:00
 - [产品经理怎么指导设计师工作？](https://manateelazycat.github.io/2025/07/03/work-with-designer/) / 07月03日 00:00
-- [我退订了 ChatGPT Plus，因为我发现了文科生的 Cursor](https://1q43.blog/post/11647/) / 07月02日 10:50
 - [原来夏天真的可以不用空调](https://anotherdayu.com/2025/7066/) / 07月01日 20:59
 - [读《第五项修炼》](https://manateelazycat.github.io/2025/07/01/the-fifth-dig/) / 07月01日 00:00
-- [Minimal Phone 众筹记录：一次美国制造业衰落的个体体验](https://1q43.blog/post/11478/) / 06月30日 09:51
 - [月刊（第30期）：写在 30 岁这天](https://blog.ursb.me/posts/weekly-30/) / 06月30日 00:00
 - [无法沉下心安静学习](https://manateelazycat.github.io/2025/06/29/can-not-stop/) / 06月29日 00:00
 - [怎么能够像别人那样轻松实现功能?](https://manateelazycat.github.io/2025/06/29/how-to-start/) / 06月29日 00:00
 - [AI 时代我们还需要认真学习编程语法吗?](https://manateelazycat.github.io/2025/06/29/why-study-learn-when-we-have-ai/) / 06月29日 00:00
 - [＃2 - 2025 上半年的内在对照](https://polebug.github.io/2025/06/28/plog_2/) / 06月28日 21:51
 - [AI 时代和架构设计能力](https://manateelazycat.github.io/2025/06/28/ai-and-designer/) / 06月28日 00:00
+- [个人业余时间做的产品如何低成本找到用户?](https://manateelazycat.github.io/2025/06/28/find-user/) / 06月28日 00:00
+- [技术大头兵，如何转管理](https://manateelazycat.github.io/2025/06/28/how-to-manage-team/) / 06月28日 00:00
+- [在職涯以外，編程和其他相關知識為你的人生帶來了哪些影響？](https://manateelazycat.github.io/2025/06/28/know-how-help-live/) / 06月28日 00:00
 <!--rss-blogs:end-->
 ---
 # Research Papers
 <!--rss-papers:start-->
-**今日更新**
-- [Single cell and spatial alternative splicing analysis with Nanopore long read sequencing](https://www.nature.com/articles/s41467-025-60902-2) / 08:00
-- [Unlocking efficiency in real-world collaborative studies: a multi-site international study with one-shot lossless GLMM algorithm](https://www.nature.com/articles/s41746-025-01846-1) / 08:00
-- [Developing serum proteomics based prediction models of disease progression in ADPKD](https://www.nature.com/articles/s41467-025-61887-8) / 08:00
-- [Analyzing social psychological impact on emotional expression through peer communication using crayfish optimization algorithm with deep learning model](https://www.nature.com/articles/s41598-025-11775-4) / 08:00
-- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 08:00
-- [Machine learning-guided evolution of pyrrolysyl-tRNA synthetase for improved incorporation efficiency of diverse noncanonical amino acids](https://www.nature.com/articles/s41467-025-61952-2) / 08:00
-- [Prediction of hub genes in pulpal inflammation and regeneration using autoencoders and a generative AI approach](https://www.nature.com/articles/s41598-025-12074-8) / 08:00
-- [Macrophage induces angiogenesis via HIF signaling in denervated muscle following nerve injury](https://www.nature.com/articles/s41598-025-07536-y) / 08:00
-- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 08:00
-
 **历史记录**
 - [FAMSA2 enables accurate multiple sequence alignment at protein-universe scale](https://www.biorxiv.org/content/10.1101/2025.07.15.664876v1?rss=1) / 07月18日 08:00
 - [Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1?rss=1) / 07月18日 08:00
@@ -78,4 +67,13 @@
 - [rhinotypeR: An R package for Rhinovirus Genotyping](https://www.biorxiv.org/content/10.1101/2025.07.14.664540v1?rss=1) / 07月18日 08:00
 - [Mapping and Harmonization of CVX vaccine terms tothe Vaccine Ontology](https://www.biorxiv.org/content/10.1101/2025.07.15.664501v1?rss=1) / 07月18日 08:00
 - [AIPID: MAD-ML-Powered AIP Discovery Platform](https://www.biorxiv.org/content/10.1101/2025.07.14.664584v1?rss=1) / 07月18日 08:00
+- [Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum](https://www.biorxiv.org/content/10.1101/2025.07.14.664425v1?rss=1) / 07月18日 08:00
+- [Enhancing STED Microscopy via Fluorescence Lifetime Unmixing and Filtering in Two-Species SPLIT-STED](https://www.biorxiv.org/content/10.1101/2025.07.17.661952v1?rss=1) / 07月18日 08:00
+- [AtlasAgent: Vision language model and Agent-guided Framework for Evaluation of Atlas-scale Single-cell Integration](https://www.biorxiv.org/content/10.1101/2025.07.15.663271v1?rss=1) / 07月18日 08:00
+- [Plastic-hydrolytic enzyme classification using explainable deep learning](https://www.biorxiv.org/content/10.1101/2025.07.14.664602v1?rss=1) / 07月18日 08:00
+- [An atlas of positive selection in the genomes of major malaria vectors](https://www.biorxiv.org/content/10.1101/2025.07.16.664900v1?rss=1) / 07月18日 08:00
+- [Ancient retrotransposon-derived promoters for mammalian genomic imprinting](https://www.biorxiv.org/content/10.1101/2025.07.14.664778v1?rss=1) / 07月18日 08:00
+- [Single-molecule sequencing maps replication dynamics across the fission yeast genome, including centromeres](https://www.biorxiv.org/content/10.1101/2025.07.16.665067v1?rss=1) / 07月18日 08:00
+- [The Polycistronic Transcription Landscape of the Populus Genome](https://www.biorxiv.org/content/10.1101/2025.07.17.665350v1?rss=1) / 07月18日 08:00
+- [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
 <!--rss-papers:end-->
