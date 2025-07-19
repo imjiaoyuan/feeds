@@ -40,6 +40,21 @@
 ---
 # Research Papers
 <!--rss-papers:start-->
+**今日更新**
+- [Single cell and spatial alternative splicing analysis with Nanopore long read sequencing](https://www.nature.com/articles/s41467-025-60902-2) / 08:00
+- [Unlocking efficiency in real-world collaborative studies: a multi-site international study with one-shot lossless GLMM algorithm](https://www.nature.com/articles/s41746-025-01846-1) / 08:00
+- [Developing serum proteomics based prediction models of disease progression in ADPKD](https://www.nature.com/articles/s41467-025-61887-8) / 08:00
+- [Analyzing social psychological impact on emotional expression through peer communication using crayfish optimization algorithm with deep learning model](https://www.nature.com/articles/s41598-025-11775-4) / 08:00
+- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 08:00
+- [Machine learning-guided evolution of pyrrolysyl-tRNA synthetase for improved incorporation efficiency of diverse noncanonical amino acids](https://www.nature.com/articles/s41467-025-61952-2) / 08:00
+- [Advancing EEG based stress detection using spiking neural networks and convolutional spiking neural networks](https://www.nature.com/articles/s41598-025-10270-0) / 08:00
+- [Prediction of hub genes in pulpal inflammation and regeneration using autoencoders and a generative AI approach](https://www.nature.com/articles/s41598-025-12074-8) / 08:00
+- [Macrophage induces angiogenesis via HIF signaling in denervated muscle following nerve injury](https://www.nature.com/articles/s41598-025-07536-y) / 08:00
+- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 08:00
+- [Effects of antipsychotics on human cognitive function: causal evidence from healthy volunteers following sustained D2/D3 antagonism, D2/D3 partial agonism and placebo](https://www.nature.com/articles/s41380-025-03116-8) / 08:00
+- [A new multisystem ERCC1-hepatorenal syndrome: insights from a clinical cohort, molecular pathogenesis, and management guidelines](https://www.nature.com/articles/s41431-025-01910-0) / 08:00
+- [Genome-wide CRISPR/Cas9 screening identifies PTGR2 as a potential therapeutic target for sunitinib resistance in clear cell renal cell carcinoma](https://www.nature.com/articles/s41598-025-12192-3) / 08:00
+
 **历史记录**
 - [FAMSA2 enables accurate multiple sequence alignment at protein-universe scale](https://www.biorxiv.org/content/10.1101/2025.07.15.664876v1?rss=1) / 07月18日 08:00
 - [Oral microbial signatures of head and neck cancer patients highlight diverse longitudinal patterns of oral mucositis severity](https://www.biorxiv.org/content/10.1101/2025.07.15.665024v1?rss=1) / 07月18日 08:00
@@ -63,17 +78,4 @@
 - [MACGA: Multi-scale Adaptive Convolution with Graph Attention for LncRNA-Disease Association Prediction](https://www.biorxiv.org/content/10.1101/2025.07.14.664702v1?rss=1) / 07月18日 08:00
 - [WitChi: Efficient Detection and Pruning of Compositional Bias in Phylogenomic Alignments Using Empirical Chi-Squared Testing](https://www.biorxiv.org/content/10.1101/2025.07.14.663642v1?rss=1) / 07月18日 08:00
 - [Molecularly informed analysis of histopathology images using natural language](https://www.biorxiv.org/content/10.1101/2025.07.14.664402v1?rss=1) / 07月18日 08:00
-- [pyRootHair: Machine Learning Accelerated Software for High-Throughput Phenotyping of Plant Root Hair Traits](https://www.biorxiv.org/content/10.1101/2025.07.14.664697v1?rss=1) / 07月18日 08:00
-- [rhinotypeR: An R package for Rhinovirus Genotyping](https://www.biorxiv.org/content/10.1101/2025.07.14.664540v1?rss=1) / 07月18日 08:00
-- [Mapping and Harmonization of CVX vaccine terms tothe Vaccine Ontology](https://www.biorxiv.org/content/10.1101/2025.07.15.664501v1?rss=1) / 07月18日 08:00
-- [AIPID: MAD-ML-Powered AIP Discovery Platform](https://www.biorxiv.org/content/10.1101/2025.07.14.664584v1?rss=1) / 07月18日 08:00
-- [Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum](https://www.biorxiv.org/content/10.1101/2025.07.14.664425v1?rss=1) / 07月18日 08:00
-- [Enhancing STED Microscopy via Fluorescence Lifetime Unmixing and Filtering in Two-Species SPLIT-STED](https://www.biorxiv.org/content/10.1101/2025.07.17.661952v1?rss=1) / 07月18日 08:00
-- [AtlasAgent: Vision language model and Agent-guided Framework for Evaluation of Atlas-scale Single-cell Integration](https://www.biorxiv.org/content/10.1101/2025.07.15.663271v1?rss=1) / 07月18日 08:00
-- [Plastic-hydrolytic enzyme classification using explainable deep learning](https://www.biorxiv.org/content/10.1101/2025.07.14.664602v1?rss=1) / 07月18日 08:00
-- [An atlas of positive selection in the genomes of major malaria vectors](https://www.biorxiv.org/content/10.1101/2025.07.16.664900v1?rss=1) / 07月18日 08:00
-- [Ancient retrotransposon-derived promoters for mammalian genomic imprinting](https://www.biorxiv.org/content/10.1101/2025.07.14.664778v1?rss=1) / 07月18日 08:00
-- [Single-molecule sequencing maps replication dynamics across the fission yeast genome, including centromeres](https://www.biorxiv.org/content/10.1101/2025.07.16.665067v1?rss=1) / 07月18日 08:00
-- [The Polycistronic Transcription Landscape of the Populus Genome](https://www.biorxiv.org/content/10.1101/2025.07.17.665350v1?rss=1) / 07月18日 08:00
-- [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
 <!--rss-papers:end-->
