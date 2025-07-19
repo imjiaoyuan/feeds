@@ -41,6 +41,18 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Variation of and associations with the depth and evenness of sequencing coverage in archived plastid genomes](https://www.nature.com/articles/s41598-025-11568-9) / 07月19日 08:00
+- [Single cell and spatial alternative splicing analysis with Nanopore long read sequencing](https://www.nature.com/articles/s41467-025-60902-2) / 07月19日 08:00
+- [Unlocking efficiency in real-world collaborative studies: a multi-site international study with one-shot lossless GLMM algorithm](https://www.nature.com/articles/s41746-025-01846-1) / 07月19日 08:00
+- [Developing serum proteomics based prediction models of disease progression in ADPKD](https://www.nature.com/articles/s41467-025-61887-8) / 07月19日 08:00
+- [Analyzing social psychological impact on emotional expression through peer communication using crayfish optimization algorithm with deep learning model](https://www.nature.com/articles/s41598-025-11775-4) / 07月19日 08:00
+- [A systems biology approach to understand temporal evolution of silver nanoparticle toxicity](https://www.nature.com/articles/s41540-025-00561-7) / 07月19日 08:00
+- [Variation of and associations with the depth and evenness of sequencing coverage in archived plastid genomes](https://www.nature.com/articles/s41598-025-11568-9) / 07月19日 08:00
+- [Machine learning-guided evolution of pyrrolysyl-tRNA synthetase for improved incorporation efficiency of diverse noncanonical amino acids](https://www.nature.com/articles/s41467-025-61952-2) / 07月19日 08:00
+- [Advancing EEG based stress detection using spiking neural networks and convolutional spiking neural networks](https://www.nature.com/articles/s41598-025-10270-0) / 07月19日 08:00
+- [Circulating T-cell receptor repertoire for cancer early detection](https://www.nature.com/articles/s41698-025-01036-y) / 07月19日 08:00
+- [Multi-cohort analysis identifies a blood-based immune transcriptomic signature for early lung cancer detection](https://www.nature.com/articles/s41698-025-01043-z) / 07月19日 08:00
+- [Prediction of hub genes in pulpal inflammation and regeneration using autoencoders and a generative AI approach](https://www.nature.com/articles/s41598-025-12074-8) / 07月19日 08:00
 - [The balance between care and conflict may be key to understanding maternal aggression in canaries](https://www.nature.com/articles/s41598-025-10698-4) / 07月19日 08:00
 - [OICR-41103 as a chemical probe for the DCAF1 WD40 domain](https://www.nature.com/articles/s42003-025-08491-0) / 07月19日 08:00
 - [Macrophage induces angiogenesis via HIF signaling in denervated muscle following nerve injury](https://www.nature.com/articles/s41598-025-07536-y) / 07月19日 08:00
@@ -64,16 +76,4 @@
 - [Leviathan: A fast, memory-efficient, and scalable taxonomic and pathway profiler for next generation sequencing (pan)genome-resolved metagenomics and metatranscriptomics](https://www.biorxiv.org/content/10.1101/2025.07.14.664802v1?rss=1) / 07月18日 08:00
 - [Comparative analysis of eccDNA and circRNA tools shows increased accuracy of tool combination](https://www.biorxiv.org/content/10.1101/2025.07.14.664708v1?rss=1) / 07月18日 08:00
 - [CRESSENT: a Bioinformatic Toolkit to Explore and Improve ssDNA Virus Annotation](https://www.biorxiv.org/content/10.1101/2025.07.14.664782v1?rss=1) / 07月18日 08:00
-- [VaxKG: Integrating The Vaccine Ontology And VIOLIN For Advanced Vaccine Queries And LLM-Powered Chat Systems](https://www.biorxiv.org/content/10.1101/2025.07.15.664450v1?rss=1) / 07月18日 08:00
-- [The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems](https://www.biorxiv.org/content/10.1101/2025.07.18.665519v1?rss=1) / 07月18日 08:00
-- [Improving ADMET prediction with descriptor augmentation of Mol2Vec embeddings](https://www.biorxiv.org/content/10.1101/2025.07.14.664363v1?rss=1) / 07月18日 08:00
-- [MACGA: Multi-scale Adaptive Convolution with Graph Attention for LncRNA-Disease Association Prediction](https://www.biorxiv.org/content/10.1101/2025.07.14.664702v1?rss=1) / 07月18日 08:00
-- [WitChi: Efficient Detection and Pruning of Compositional Bias in Phylogenomic Alignments Using Empirical Chi-Squared Testing](https://www.biorxiv.org/content/10.1101/2025.07.14.663642v1?rss=1) / 07月18日 08:00
-- [Molecularly informed analysis of histopathology images using natural language](https://www.biorxiv.org/content/10.1101/2025.07.14.664402v1?rss=1) / 07月18日 08:00
-- [pyRootHair: Machine Learning Accelerated Software for High-Throughput Phenotyping of Plant Root Hair Traits](https://www.biorxiv.org/content/10.1101/2025.07.14.664697v1?rss=1) / 07月18日 08:00
-- [rhinotypeR: An R package for Rhinovirus Genotyping](https://www.biorxiv.org/content/10.1101/2025.07.14.664540v1?rss=1) / 07月18日 08:00
-- [Mapping and Harmonization of CVX vaccine terms tothe Vaccine Ontology](https://www.biorxiv.org/content/10.1101/2025.07.15.664501v1?rss=1) / 07月18日 08:00
-- [AIPID: MAD-ML-Powered AIP Discovery Platform](https://www.biorxiv.org/content/10.1101/2025.07.14.664584v1?rss=1) / 07月18日 08:00
-- [Computational Prioritization of T Cell Epitopes to Overcome HLA Restriction and Antigenic Diversity in Plasmodium falciparum](https://www.biorxiv.org/content/10.1101/2025.07.14.664425v1?rss=1) / 07月18日 08:00
-- [Enhancing STED Microscopy via Fluorescence Lifetime Unmixing and Filtering in Two-Species SPLIT-STED](https://www.biorxiv.org/content/10.1101/2025.07.17.661952v1?rss=1) / 07月18日 08:00
 <!--rss-papers:end-->
