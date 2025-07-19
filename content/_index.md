@@ -41,6 +41,10 @@
 # Research Papers
 <!--rss-papers:start-->
 **历史记录**
+- [Ensemble-based genomic prediction for maize flowering time reveals novel insights into trait genetic architecture and improves prediction for breeding applications](https://www.biorxiv.org/content/10.1101/2025.07.15.664852v1?rss=1) / 07月18日 08:00
+- [Identifying intervention strategies from machine learning models with COALA: a counterfactual optimization framework](https://www.biorxiv.org/content/10.1101/2025.07.18.664723v1?rss=1) / 07月18日 08:00
+- [Identifying the Minimal Number of Protein Markers for Cell Type Annotation Using MiniMarS](https://www.biorxiv.org/content/10.1101/2025.07.14.664825v1?rss=1) / 07月18日 08:00
+- [AbAgym: a well-curated dataset for the mutational analysis of antibody-antigen complexes](https://www.biorxiv.org/content/10.1101/2025.07.15.664862v1?rss=1) / 07月18日 08:00
 - [TabSyM: A Generative Pipeline for Small Multi-Cohort Omics Tabular Data](https://www.biorxiv.org/content/10.1101/2025.07.14.664738v1?rss=1) / 07月18日 08:00
 - [Harnessing DNA Foundation Models for Cross-Species Transcription Factor Binding Site Prediction in Plant Genomes](https://www.biorxiv.org/content/10.1101/2025.07.14.664780v1?rss=1) / 07月18日 08:00
 - [Beyond protein functions: evaluating completeness, coherence, and consistency of genome-scale function annotations](https://www.biorxiv.org/content/10.1101/2025.07.14.664848v1?rss=1) / 07月18日 08:00
@@ -72,8 +76,4 @@
 - [The Polycistronic Transcription Landscape of the Populus Genome](https://www.biorxiv.org/content/10.1101/2025.07.17.665350v1?rss=1) / 07月18日 08:00
 - [Germline de novo mutation rate of the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664012v1?rss=1) / 07月18日 08:00
 - [Direct detection of meiotic recombination events in the highly heterozygous amphioxus genome](https://www.biorxiv.org/content/10.1101/2025.07.14.664623v1?rss=1) / 07月18日 08:00
-- [A chromosome-level genome assembly and resequencing data reveal low DNA methylation and reduced diversity in the solitary bee pollinator Osmia cornuta](https://www.biorxiv.org/content/10.1101/2025.07.14.664667v1?rss=1) / 07月18日 08:00
-- [Impaired Sertoli-Spermatogonia Interactions Contribute to Oligospermia and Infertility in F1 Captive-bred Male Solea senegalensis](https://www.biorxiv.org/content/10.1101/2025.07.17.664418v1?rss=1) / 07月18日 08:00
-- [Programmed DNA elimination drives rapid genomic innovation in two thirds of all bird species](https://www.biorxiv.org/content/10.1101/2025.07.16.664580v1?rss=1) / 07月18日 08:00
-- [Nuclear and mitochondrial genome assemblies of Indrella ampulla, a terrestrial gastropod endemic to the Western Ghats](https://www.biorxiv.org/content/10.1101/2025.07.14.664635v1?rss=1) / 07月18日 08:00
 <!--rss-papers:end-->
